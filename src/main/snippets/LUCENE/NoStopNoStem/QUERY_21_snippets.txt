@@ -1,0 +1,408 @@
+LUCENE_NoStopNoStem
+
+Query
+computational complexity, intractability, class-complete reductions,
+algorithms and efficiency
+
+Top 100 Results (17 millisecs)
+
+
+DocID: CACM-2337
+
+
+
+DocID: CACM-2325
+
+
+
+DocID: CACM-3086
+
+
+
+DocID: CACM-3018
+
+
+
+DocID: CACM-2110
+
+
+
+DocID: CACM-2837
+
+
+
+DocID: CACM-2997
+
+
+
+DocID: CACM-2932
+
+
+
+DocID: CACM-2702
+
+
+
+DocID: CACM-2927
+
+
+
+DocID: CACM-2216
+
+
+
+DocID: CACM-2950
+
+
+
+DocID: CACM-2784
+
+
+
+DocID: CACM-2986
+
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-3165
+
+
+
+DocID: CACM-2454
+
+
+
+DocID: CACM-1658
+
+
+
+DocID: CACM-3110
+
+
+
+DocID: CACM-2679
+
+
+
+DocID: CACM-2743
+
+
+
+DocID: CACM-3131
+
+
+
+DocID: CACM-2251
+
+
+
+DocID: CACM-2936
+
+
+
+DocID: CACM-1619
+
+
+
+DocID: CACM-1309
+
+
+
+DocID: CACM-3055
+
+
+
+DocID: CACM-2645
+
+
+
+DocID: CACM-3166
+
+
+
+DocID: CACM-2828
+
+
+
+DocID: CACM-2365
+
+
+
+DocID: CACM-2903
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-2953
+
+
+
+DocID: CACM-1659
+
+
+
+DocID: CACM-3037
+
+
+
+DocID: CACM-3070
+
+
+
+DocID: CACM-2189
+
+
+
+DocID: CACM-2855
+
+
+
+DocID: CACM-2766
+
+
+
+DocID: CACM-3163
+
+
+
+DocID: CACM-2746
+
+
+
+DocID: CACM-1957
+
+
+
+DocID: CACM-1462
+
+
+
+DocID: CACM-2706
+
+
+
+DocID: CACM-2169
+
+
+
+DocID: CACM-2033
+
+
+
+DocID: CACM-2749
+
+
+
+DocID: CACM-2499
+
+
+
+DocID: CACM-2313
+
+
+
+DocID: CACM-1496
+
+
+
+DocID: CACM-2226
+
+
+
+DocID: CACM-2627
+
+
+
+DocID: CACM-3150
+
+
+
+DocID: CACM-2389
+
+
+
+DocID: CACM-3162
+
+
+
+DocID: CACM-1650
+
+
+
+DocID: CACM-2289
+
+
+
+DocID: CACM-3032
+
+
+
+DocID: CACM-2035
+
+
+
+DocID: CACM-2916
+
+
+
+DocID: CACM-2524
+
+
+
+DocID: CACM-0371
+
+
+
+DocID: CACM-2695
+
+
+
+DocID: CACM-1886
+
+
+
+DocID: CACM-2703
+
+
+
+DocID: CACM-1706
+
+
+
+DocID: CACM-2030
+
+
+
+DocID: CACM-2111
+
+
+
+DocID: CACM-1491
+
+
+
+DocID: CACM-2081
+
+
+
+DocID: CACM-1350
+
+
+
+DocID: CACM-2092
+
+
+
+DocID: CACM-2135
+
+
+
+DocID: CACM-2955
+
+
+
+DocID: CACM-1572
+
+
+
+DocID: CACM-3132
+
+
+
+DocID: CACM-2504
+
+
+
+DocID: CACM-2628
+
+
+
+DocID: CACM-3153
+
+
+
+DocID: CACM-1265
+
+
+
+DocID: CACM-3118
+
+
+
+DocID: CACM-0719
+
+
+
+DocID: CACM-3151
+
+
+
+DocID: CACM-3057
+
+
+
+DocID: CACM-1465
+
+
+
+DocID: CACM-2892
+
+
+
+DocID: CACM-1947
+
+
+
+DocID: CACM-3065
+
+
+
+DocID: CACM-2457
+
+
+
+DocID: CACM-3040
+
+
+
+DocID: CACM-3134
+
+
+
+DocID: CACM-1811
+
+
+
+DocID: CACM-2126
+
+
+
+DocID: CACM-2938
+
+
+
+DocID: CACM-0598
+
+
+
+DocID: CACM-2701
+
+
+
+DocID: CACM-2723
+
+
+
+DocID: CACM-2884
+
+
+
+DocID: CACM-3007
+
+

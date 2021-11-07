@@ -1,0 +1,408 @@
+LUCENE_NoStopNoStem
+
+Query
+Find all discussions of horizontal microcode optimization with special
+emphasis on optimization of loops and global optimization.
+
+Top 100 Results (50 millisecs)
+
+
+DocID: CACM-3125
+
+
+
+DocID: CACM-3069
+
+
+
+DocID: CACM-2877
+
+
+
+DocID: CACM-3054
+
+
+
+DocID: CACM-2944
+
+
+
+DocID: CACM-2929
+
+
+
+DocID: CACM-1807
+
+
+
+DocID: CACM-2701
+
+
+
+DocID: CACM-2835
+
+
+
+DocID: CACM-2344
+
+
+
+DocID: CACM-1947
+
+
+
+DocID: CACM-2897
+
+
+
+DocID: CACM-2616
+
+
+
+DocID: CACM-2195
+
+
+
+DocID: CACM-2923
+
+
+
+DocID: CACM-2388
+
+
+
+DocID: CACM-1231
+
+
+
+DocID: CACM-1223
+
+
+
+DocID: CACM-2188
+
+
+
+DocID: CACM-2537
+
+
+
+DocID: CACM-1886
+
+
+
+DocID: CACM-2953
+
+
+
+DocID: CACM-1795
+
+
+
+DocID: CACM-3080
+
+
+
+DocID: CACM-2716
+
+
+
+DocID: CACM-2680
+
+
+
+DocID: CACM-2142
+
+
+
+DocID: CACM-2253
+
+
+
+DocID: CACM-1658
+
+
+
+DocID: CACM-2836
+
+
+
+DocID: CACM-1676
+
+
+
+DocID: CACM-1564
+
+
+
+DocID: CACM-2904
+
+
+
+DocID: CACM-2964
+
+
+
+DocID: CACM-2969
+
+
+
+DocID: CACM-2134
+
+
+
+DocID: CACM-2464
+
+
+
+DocID: CACM-2812
+
+
+
+DocID: CACM-3018
+
+
+
+DocID: CACM-2579
+
+
+
+DocID: CACM-2321
+
+
+
+DocID: CACM-3020
+
+
+
+DocID: CACM-1195
+
+
+
+DocID: CACM-2433
+
+
+
+DocID: CACM-2827
+
+
+
+DocID: CACM-0104
+
+
+
+DocID: CACM-1548
+
+
+
+DocID: CACM-2903
+
+
+
+DocID: CACM-1750
+
+
+
+DocID: CACM-2000
+
+
+
+DocID: CACM-1410
+
+
+
+DocID: CACM-2411
+
+
+
+DocID: CACM-2423
+
+
+
+DocID: CACM-2495
+
+
+
+DocID: CACM-2940
+
+
+
+DocID: CACM-3053
+
+
+
+DocID: CACM-1961
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-1808
+
+
+
+DocID: CACM-2883
+
+
+
+DocID: CACM-2699
+
+
+
+DocID: CACM-1197
+
+
+
+DocID: CACM-2851
+
+
+
+DocID: CACM-0693
+
+
+
+DocID: CACM-3002
+
+
+
+DocID: CACM-2451
+
+
+
+DocID: CACM-2722
+
+
+
+DocID: CACM-1719
+
+
+
+DocID: CACM-1974
+
+
+
+DocID: CACM-1951
+
+
+
+DocID: CACM-2858
+
+
+
+DocID: CACM-2570
+
+
+
+DocID: CACM-2611
+
+
+
+DocID: CACM-2174
+
+
+
+DocID: CACM-2181
+
+
+
+DocID: CACM-3166
+
+
+
+DocID: CACM-0695
+
+
+
+DocID: CACM-3157
+
+
+
+DocID: CACM-2715
+
+
+
+DocID: CACM-2943
+
+
+
+DocID: CACM-2304
+
+
+
+DocID: CACM-2146
+
+
+
+DocID: CACM-2396
+
+
+
+DocID: CACM-2003
+
+
+
+DocID: CACM-2065
+
+
+
+DocID: CACM-2081
+
+
+
+DocID: CACM-3005
+
+
+
+DocID: CACM-1710
+
+
+
+DocID: CACM-0972
+
+
+
+DocID: CACM-2133
+
+
+
+DocID: CACM-2210
+
+
+
+DocID: CACM-2541
+
+
+
+DocID: CACM-2800
+
+
+
+DocID: CACM-2457
+
+
+
+DocID: CACM-2685
+
+
+
+DocID: CACM-1626
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-0243
+
+
+
+DocID: CACM-2187
+
+
+
+DocID: CACM-3087
+
+

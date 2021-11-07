@@ -1,0 +1,650 @@
+BM25_NoStopNoStem
+
+Query
+sturdy considerations in local nktwreos, network operating synthesized digitized systems.
+
+Top 100 Results (173 millisecs)
+
+
+DocID: CACM-2581
+
+augmented transition [network] [local] parsing  
+recognized anywhere in an input utterance.  these local  
+is locally-organized in the sense that it builds local  
+
+
+DocID: CACM-1750
+
+operating [systems] control data corporation 6600, [operating] system with ecs  
+multiprogrammed [operating] [systems] multiprocessor  
+multiple computer [systems] extended core storage,  
+
+
+DocID: CACM-3011
+
+systems currently in use by top management in most us local  
+american [local] government, city government  
+management utilization of computers in american [local] governments  
+
+
+DocID: CACM-2125
+
+digitized image, connection tree, minimal polygon,  
+contour from a [digitized] image is illustrated.  
+a note on minimal length polygonal approximation to a [digitized] contour  
+
+
+DocID: CACM-2948
+
+local echoing, communication system, network  
+solve three specific problems: [local] echoing, error  
+
+
+DocID: CACM-2754
+
+peak detection, [digitized] waveform, piecewise linear  
+peaks in a [digitized] waveform are detected by an  
+
+
+DocID: CACM-3068
+
+operating [systems] security, protection, program verification  
+here in terms of a general model for [operating] [systems]  
+a model for verification of data security in [operating] systems  
+
+
+DocID: CACM-2951
+
+network time-sharing [systems] as it depends on some  
+the five diverse arpa [network] [systems] studied in detail,  
+systems, comparative response time, arpa  
+
+
+DocID: CACM-2949
+
+network  
+distributed computer [network] correctness proofs,  
+computer networks, distributed control, network  
+
+
+DocID: CACM-2358
+
+operating system, multics, virtual memory, segmentation,  
+considerations of segmentation and sharing in multics  
+many contemporary [systems] permit some degree of  
+
+
+DocID: CACM-2849
+
+used to build [systems] which can be viewed as either local  
+ethernet: distributed packet switching for [local] computer networks  
+with an [operating] ethernet of 100 nodes along a  
+
+
+DocID: CACM-2776
+
+network, the michigan educational research information triad,  
+center [network] in north carolina. in-depth studies were  
+experiences of these [operating] networks, a number of factors  
+
+
+DocID: CACM-1461
+
+discussion summary on [operating] systems  
+
+
+DocID: CACM-1685
+
+network analysis, [network] calculation, [network] program  
+activity [network] management project, standard [network]  
+network generator, [network] assembler, activity  
+
+
+DocID: CACM-2111
+
+operating [systems] diagnostics, error detection,  
+to compilers and [operating] [systems]  these include the use of syntax  
+misspelling, lexical analysis [systems] programming  
+
+
+DocID: CACM-2988
+
+network models, in teractive computer systems  
+in queueing [network] models of computer [systems]  
+of in teractive computer [systems] which use nonpaged memories.  
+
+
+DocID: CACM-1462
+
+multilevel [operating] systems  
+operating [systems] this implies that all applications-no  
+the [operating] [systems] but at a different level.  
+
+
+DocID: CACM-2893
+
+computer adoption, american [local] government,  
+the findings identify certain [local] government  
+computers as an innovation in american [local] governments  
+
+
+DocID: CACM-1728
+
+operating [systems] supervisor simulation, machine  
+behavior, virtual memory [systems] single-level  
+storage, one-level storage, [operating] system simulation,  
+
+
+DocID: CACM-1266
+
+considerations relating to purpose of fortran standardization  
+
+
+DocID: CACM-2867
+
+modularization and hierarchy in a family of [operating] systems  
+used in the construction of a family of operating  
+systems. it is shown that the concepts of module and  
+
+
+DocID: CACM-2317
+
+languages, [operating] [systems] programming  
+systems, multiprogramming, history  
+programming [systems] and languages 1965-1975  
+
+
+DocID: CACM-2515
+
+minimal event-node [network] is an event-node network  
+network, minimal event-node [network] dummy  
+network, project, event-node [network] activity-node  
+
+
+DocID: CACM-2137
+
+concept, and that of global and [local] variables,  
+used: [local] sequential" for lists created during compilation,  
+in addition to the methods applied in most lisp [systems]  
+
+
+DocID: CACM-1247
+
+computer programming systems  
+an [operating] environment for dynamic-recursive  
+systems.  the available services include dynamic allocation  
+
+
+DocID: CACM-2840
+
+protection in [operating] systems  
+protection, protection system, operating  
+systems is presented and its appropriateness  
+
+
+DocID: CACM-1695
+
+simulation, library [systems] modeling, network  
+a neural [network] to analyze the output data produced  
+by the [network] and to store and retrieve networks  
+
+
+DocID: CACM-2319
+
+operating system performance  
+and computer [systems]  
+computer system, [operating] system, performance  
+
+
+DocID: CACM-2597
+
+monitors, [operating] [systems] scheduling, mutual  
+monitors: an [operating] system structuring concept  
+a monitor as a method of structuring an operating  
+
+
+DocID: CACM-2372
+
+operating [systems] access management, data banks,  
+system implementation within today's languages and [operating] [systems]  
+management information systems  
+
+
+DocID: CACM-2890
+
+distributed [network] computer [network] message switching  
+alternate routing, store-and-forward [network]  
+network are constructed, one to find  
+
+
+DocID: CACM-2482
+
+deadlocks, resource allocation, [operating] [systems]  
+multiprogramming, hierarchical systems  
+based on the concept of the hierarchical operating  
+
+
+DocID: CACM-1688
+
+flow, [network] flow, out-of-kilter  
+capacitated [network] linear programming, minimum-cost  
+
+
+DocID: CACM-1680
+
+retrieval [operating] [systems] graphics, displays, man-machine  
+computer-assisted instruction, tutorial [systems]  
+display unit under [operating] system/360.  adept  
+
+
+DocID: CACM-2270
+
+on [local] procedures [e2]  algorithm a433   
+
+
+DocID: CACM-2740
+
+of [operating] [systems]  the project management  
+operating system structure, asynchronous  
+cooperating processes, [operating] system, semaphores,  
+
+
+DocID: CACM-1687
+
+flow, [network] flow, out-of-kilter  
+capacitated [network] linear programming, minimum-cost  
+
+
+DocID: CACM-1690
+
+flow, [network] flow, out-of-kilter  
+capacitated [network] linear programming, minimum-cost  
+
+
+DocID: CACM-2088
+
+flow, [network] flow, out-of-kilter  
+capacitated [network] linear programming, minimum-cost  
+
+
+DocID: CACM-2080
+
+multiprogramming, [operating] [systems] parallel processes, process concept,  
+that can be extended with a hierarchy of [operating] [systems] to suit diverse  
+
+
+DocID: CACM-2069
+
+operating [systems] memory management  
+
+
+DocID: CACM-2379
+
+operating [systems] system design, levels of abstraction,  
+the design of the venus [operating] system  
+the venus [operating] system is an experimental  
+
+
+DocID: CACM-3025
+
+minicomputer/microcomputer [systems]  
+sharing computing [systems] transferring hardware  
+computer structures, architecture, [operating] system, timesharing  
+
+
+DocID: CACM-2424
+
+operating [systems] data security, fault tolerance,  
+verification, modular computer systems  
+dynamic verification of [operating] system decisions  
+
+
+DocID: CACM-0046
+
+multiprogramming stretch: feasibility considerations  
+and in programming [systems]  minimum requirements  
+
+
+DocID: CACM-2693
+
+based on [local] procedures [e2]  algorithm  
+
+
+DocID: CACM-2696
+
+surface fitting based on [local] procedures  
+author and is likewise based on [local] procedures.  
+
+
+DocID: CACM-1928
+
+large [systems] simulation, [network] structures,  
+networks of large and active digital systems  
+of [network] structures other than digital networks.  
+
+
+DocID: CACM-2371
+
+distributed throughout a computer [network]  
+in a resource sharing computer network  
+the hypothetical application of the system to an existing [network] is discussed.  
+
+
+DocID: CACM-2629
+
+operating [systems] including:  1  a hierarchical file system  
+operating system for the digital equipment  
+time-sharing, [operating] system, file system, command language, pdp-11  
+
+
+DocID: CACM-3070
+
+network models, central server model  
+hybrid simulation models of computer systems  
+central-server queueing [network] models the use of  
+
+
+DocID: CACM-3127
+
+portability, real time, [operating] [systems] minicomputer  
+thoth, a portable real-time [operating] system  
+thoth isa real-time [operating] system which is designed to be portable  
+
+
+DocID: CACM-1989
+
+transition [network] grammars, transformational grammars  
+transition [network] grammars for natural language analysis  
+experimental parsing system for transition [network] grammars is briefly  
+
+
+DocID: CACM-1747
+
+systems, computer [systems] design, input equipment,  
+input equipment design, [operating] [systems] operating  
+systems design, multiprogramming, multiprogrammed  
+
+
+DocID: CACM-2197
+
+of the [network]  a regional [network] brings many benefits  
+network computing, regional computing networks,  
+computing networks.  one such [network] has  
+
+
+DocID: CACM-2320
+
+operating [systems] concurrent processes, shared  
+operating [systems] but also within user programs.  
+
+
+DocID: CACM-2151
+
+operating [systems] multiprogramming [systems] time-sharing  
+systems, software measurement, user program  
+software [systems] is followed by a description of  
+
+
+DocID: CACM-3059
+
+network models, multiprocessing of computation  
+is developed by [network] decomposition.  the  
+overlap is found to be greatest for [systems] which  
+
+
+DocID: CACM-2621
+
+operating [systems] time sharing [systems] security, cryptography  
+the protection of time sharing [systems] from  
+
+
+DocID: CACM-3158
+
+secure personal computing in an insecure network  
+data to other users on the [network]  
+a method for implementing secure personal computing in a network  
+
+
+DocID: CACM-1978
+
+systems and design [considerations] for interactive routines.  furthermore,  
+on-line [systems] for general purpose mathematical problem solving  
+with the advent of on-line  time-sharing  computer systems  
+
+
+DocID: CACM-3020
+
+on something more complex than knuth's [sturdy] toddler"  
+
+
+DocID: CACM-1751
+
+multiprogramming, [operating] [systems] program  
+general [operating] system concepts, multiprocessing,  
+in modern computer [systems] is an adequate model for  
+
+
+DocID: CACM-3023
+
+computer [systems] architecture, instruction  
+this paper discusses the design considerations  
+
+
+DocID: CACM-2980
+
+which performs eliminations on the basis of [local] properties  
+the editing  of picture segmentations using [local] analysis of graphs  
+
+
+DocID: CACM-2771
+
+of solid objects to be [synthesized] and stored  
+
+
+DocID: CACM-0383
+
+on finding minimum routes in a [network] with turn penalties  
+
+
+DocID: CACM-1226
+
+be critical to the system's [operating] efficiency.  
+system.  in many [systems] the selection  
+this paper provides the [systems] designer with an information  
+
+
+DocID: CACM-1811
+
+systems are multiprocessor [systems] in which several of  
+storage interference, electrical [network] simulation,  
+parallel-processor computing [systems] to efficiently decrease  
+
+
+DocID: CACM-2632
+
+of highly secure [systems]  
+operating system, kernel, nucleus, protection, security  
+hydra: the kernel of a multiprocessor [operating] system  
+
+
+DocID: CACM-2138
+
+systems programming, data structures  
+bliss: a language for [systems] programming  
+specific machine  the pdp-10 : compilers, operating  
+
+
+DocID: CACM-2019
+
+digitized hand printed numerals obtained from sales clerks. the  
+
+
+DocID: CACM-1890
+
+traffic simulation, traffic flow, traffic network  
+simulation of traffic flows in a network  
+signal setting, vehicle, road [network] list structure, computer simulation  
+
+
+DocID: CACM-0757
+
+simulation of a traffic network  
+
+
+DocID: CACM-2378
+
+operating [systems] supervisors, multiprogramming,  
+an [operating] system which is organized as a  
+an [operating] system based on the concept of a supervisory computer  
+
+
+DocID: CACM-3141
+
+decentralized algorithms, distributed [systems] [operating] systems  
+
+
+DocID: CACM-0517
+
+evaluation of pert [network]  algorithm 119   
+
+
+DocID: CACM-1261
+
+digital [network] is modeled as a set of time-dependent  
+system as a digital [network] simulator is discussed an  
+of a model element comprising the [network] mode.  the  
+
+
+DocID: CACM-0367
+
+randomly-numbered elements of a network  
+a [network] of directed line segments free of circular  
+
+
+DocID: CACM-2624
+
+operating system, third generation architecture,  
+virtual machine [systems] have been implemented  
+generation computer [systems] e.g. the dec pdp-10, cannot  
+
+
+DocID: CACM-2541
+
+new concept for [operating] [systems] separation  
+design of the language, [operating] system,  
+and the system's addressing structure, and centralized the  
+
+
+DocID: CACM-1324
+
+systems which are programmed and operating  
+into logical calculi.  [systems] are classified  
+about pictures and [systems] which translate from english  
+
+
+DocID: CACM-1923
+
+operating [systems] interfaces input-output,  
+
+
+DocID: CACM-2934
+
+graph, [network] shortest path, algorithm, ranking  
+
+
+DocID: CACM-1032
+
+theoretical [considerations] in information retrieval systems  
+information storage and retrieval [systems] are composed  
+
+
+DocID: CACM-2522
+
+operating [systems] supervisory systems  
+systems, resource allocation, software evaluation,  
+recent research in time-sharing paging systems  
+
+
+DocID: CACM-2188
+
+design guidelines, graphic display [systems] mathematical  
+on [considerations] such as system response time, system  
+an approach to the optimum design of computer graphics systems  
+
+
+DocID: CACM-3174
+
+operating [systems] passwords, computer security  
+
+
+DocID: CACM-1951
+
+operating [systems] optimization models  
+by the exponential distribution are discussed for the [systems] studied.  
+from four operational multiaccess [systems] and the model is shown to  
+
+
+DocID: CACM-2950
+
+in real [operating] [systems]  the policy-driven scheduler  
+operating [systems]processor sharing, implementation  
+
+
+DocID: CACM-2198
+
+codasyl [systems] committee  
+generalized data base management [systems]  
+and update functions acting on network  
+
+
+DocID: CACM-2614
+
+arrow to precedence [network] transformation [h]  algorithm a481   
+
+
+DocID: CACM-1822
+
+shortest path, tree, [network] directed graph  
+
+
+DocID: CACM-1752
+
+time-sharing, [operating] [systems] resource management,  
+resource management for a medium scale time-sharing [operating] system  
+
+
+DocID: CACM-1664
+
+systems, fortran, symbolic manipulation  
+and spherical polar coordinate [systems]  
+paper the emphasis is on theoretical [considerations] and  
+
+
+DocID: CACM-0036
+
+a queue [network] simulator for the ibm 650 and burroughs 220  
+
+
+DocID: CACM-1704
+
+critical path scheduling, pert, cost/time tradeoffs, [network] flows  
+
+
+DocID: CACM-1621
+
+spending valuable time and power on typographic [considerations] and proofreading.  
+
+
+DocID: CACM-1236
+
+systems operations and evaluation procedures.  
+operating on the ibm 7094 is described.  the system  
+the system is used not only to simulate an actual operating  
+
+
+DocID: CACM-3026
+
+languages, data management [systems]  
+large-scale main frame computer [systems]  beginning  
+the 1100 series [systems] are sperry univac's  
+

@@ -1,0 +1,410 @@
+LUCENE_NoStopNoStem
+
+Query
+I am interested in distributed algorithms - concurrent programs in
+which processes communicate and synchronize by using message passing.
+Areas of particular interest include fault-tolerance and techniques
+for understanding the correctness of these algorithms.
+
+Top 100 Results (159 millisecs)
+
+
+DocID: CACM-3043
+
+
+
+DocID: CACM-2912
+
+
+
+DocID: CACM-2342
+
+
+
+DocID: CACM-2111
+
+
+
+DocID: CACM-2865
+
+
+
+DocID: CACM-3128
+
+
+
+DocID: CACM-1623
+
+
+
+DocID: CACM-3141
+
+
+
+DocID: CACM-2903
+
+
+
+DocID: CACM-3148
+
+
+
+DocID: CACM-2317
+
+
+
+DocID: CACM-2949
+
+
+
+DocID: CACM-2376
+
+
+
+DocID: CACM-2890
+
+
+
+DocID: CACM-2871
+
+
+
+DocID: CACM-0046
+
+
+
+DocID: CACM-1397
+
+
+
+DocID: CACM-2657
+
+
+
+DocID: CACM-2208
+
+
+
+DocID: CACM-2905
+
+
+
+DocID: CACM-1381
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-2424
+
+
+
+DocID: CACM-2033
+
+
+
+DocID: CACM-1854
+
+
+
+DocID: CACM-3014
+
+
+
+DocID: CACM-3006
+
+
+
+DocID: CACM-1601
+
+
+
+DocID: CACM-2344
+
+
+
+DocID: CACM-2320
+
+
+
+DocID: CACM-1924
+
+
+
+DocID: CACM-1135
+
+
+
+DocID: CACM-3021
+
+
+
+DocID: CACM-1886
+
+
+
+DocID: CACM-1749
+
+
+
+DocID: CACM-2902
+
+
+
+DocID: CACM-1698
+
+
+
+DocID: CACM-2519
+
+
+
+DocID: CACM-1771
+
+
+
+DocID: CACM-1553
+
+
+
+DocID: CACM-1665
+
+
+
+DocID: CACM-2541
+
+
+
+DocID: CACM-3059
+
+
+
+DocID: CACM-1145
+
+
+
+DocID: CACM-1728
+
+
+
+DocID: CACM-2016
+
+
+
+DocID: CACM-2581
+
+
+
+DocID: CACM-1458
+
+
+
+DocID: CACM-2289
+
+
+
+DocID: CACM-2439
+
+
+
+DocID: CACM-2913
+
+
+
+DocID: CACM-3078
+
+
+
+DocID: CACM-1609
+
+
+
+DocID: CACM-2896
+
+
+
+DocID: CACM-2379
+
+
+
+DocID: CACM-3104
+
+
+
+DocID: CACM-2895
+
+
+
+DocID: CACM-1440
+
+
+
+DocID: CACM-2950
+
+
+
+DocID: CACM-2716
+
+
+
+DocID: CACM-2972
+
+
+
+DocID: CACM-2216
+
+
+
+DocID: CACM-2979
+
+
+
+DocID: CACM-2646
+
+
+
+DocID: CACM-1948
+
+
+
+DocID: CACM-2094
+
+
+
+DocID: CACM-2795
+
+
+
+DocID: CACM-1626
+
+
+
+DocID: CACM-2732
+
+
+
+DocID: CACM-2674
+
+
+
+DocID: CACM-2438
+
+
+
+DocID: CACM-2378
+
+
+
+DocID: CACM-1551
+
+
+
+DocID: CACM-2981
+
+
+
+DocID: CACM-2535
+
+
+
+DocID: CACM-2828
+
+
+
+DocID: CACM-2276
+
+
+
+DocID: CACM-1427
+
+
+
+DocID: CACM-2860
+
+
+
+DocID: CACM-1160
+
+
+
+DocID: CACM-1099
+
+
+
+DocID: CACM-3143
+
+
+
+DocID: CACM-2962
+
+
+
+DocID: CACM-2829
+
+
+
+DocID: CACM-3137
+
+
+
+DocID: CACM-2692
+
+
+
+DocID: CACM-2110
+
+
+
+DocID: CACM-2802
+
+
+
+DocID: CACM-2843
+
+
+
+DocID: CACM-3075
+
+
+
+DocID: CACM-1706
+
+
+
+DocID: CACM-2454
+
+
+
+DocID: CACM-1870
+
+
+
+DocID: CACM-2579
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-2866
+
+
+
+DocID: CACM-2862
+
+
+
+DocID: CACM-0409
+
+

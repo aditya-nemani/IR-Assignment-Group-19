@@ -1,0 +1,570 @@
+BM25_NoStopNoStem
+
+Query
+dictionary construction and accessing methods for fast re
+itovalref words or lexical items or mathematically raised information-processing or inducing methods are usually applied to english spelling original language problems.
+
+Top 100 Results (437 millisecs)
+
+
+DocID: CACM-0028
+
+request for [methods] or programs  
+
+
+DocID: CACM-0144
+
+simple terminal equipments.  since [english] [words] form only  
+character-transmission of non[dictionary] [words] such  
+present [methods] are inefficient when computer systems  
+
+
+DocID: CACM-1112
+
+each time to see if the [words] match-assuming  
+input word is compared to the [dictionary] again, testing  
+a technique for computer detection and correction of [spelling] errors*  
+
+
+DocID: CACM-1888
+
+spline function [methods] for nonlinear boundary-value problems  
+boundary value [problems] differential equations,  
+iterative [methods] nonlinear equations, spline functions  
+
+
+DocID: CACM-1235
+
+to code additional [words]  finally, the remaining words  
+words and frequently occurring [lexical] [words]  some suffix  
+a stochastic approach to the grammatical coding of english  
+
+
+DocID: CACM-1456
+
+a conceptual [dictionary] is described.  the dictionary  
+examples of [methods] of inputting information  
+associates with each [english] word the syntactic information,  
+
+
+DocID: CACM-0944
+
+properties applicable to [problems] involving  
+is the application where a symbol table, dictionary  
+large quantities of data or to [problems] where the quantity,  
+
+
+DocID: CACM-1700
+
+peekaboo, superimposed coding, natural language  
+card peekaboo, for natural [language] searching  
+retrieval [methods] has been mated with the  
+
+
+DocID: CACM-2989
+
+problems are briefly discussed.  experimental  
+this paper presents [methods] for empirical evaluation  
+the [methods] are based on analysis of traces of program  
+
+
+DocID: CACM-2267
+
+languages, philosophy of [language] design  
+by the machine on which it is run.  the [methods] are  
+
+
+DocID: CACM-3046
+
+gamma variables, rejection method, computer methods  
+methods.  the computational times for the proposed  
+than these [methods] for a> 2.  the core storage requirements  
+
+
+DocID: CACM-1264
+
+or of executing programs may be in either english  
+
+
+DocID: CACM-3138
+
+givens transformations and [applied] to lp problems  
+
+
+DocID: CACM-1650
+
+each previously requiring different [methods]  the programming  
+
+
+DocID: CACM-1402
+
+of additional information as in interpolation [methods]  
+
+
+DocID: CACM-1462
+
+monitors which handle [problems] similar to those of  
+
+
+DocID: CACM-0719
+
+advantages over machines with fixed-length [words]  
+push variable field [items] down into such stacks  
+
+
+DocID: CACM-2091
+
+language to solve and study partial differential equation problems  
+continuous system [problems] characterized by partial  
+problem oriented or digital simulation [language]  
+
+
+DocID: CACM-2517
+
+work on decision table translation using methods  
+of these [methods] under various possible conventions  
+
+
+DocID: CACM-2194
+
+this type can be formulated as covering problems  
+paper demonstrates that a wide class of [problems] of  
+
+
+DocID: CACM-1051
+
+multiword list items  
+more general [problems]  
+problems.  finally, several examples  
+
+
+DocID: CACM-0617
+
+perform its calculations or data processing fast  
+
+
+DocID: CACM-1408
+
+accessing for drums so defined.  this is shown to  
+specific use, the [methods] underlying it have more general applicability.  
+of the efficacy of the drum scheme is then [raised]  to  
+
+
+DocID: CACM-2953
+
+various [methods] of recursion elimination are  
+applied to the schematic recursive procedure:  
+
+
+DocID: CACM-1488
+
+
+
+DocID: CACM-1818
+
+
+
+DocID: CACM-2229
+
+methods.  both [methods] are described here, and the relationship  
+some [methods] are described for the generation  
+construction of rational and negative powers of a formal series  
+
+
+DocID: CACM-1519
+
+a common command [language]  the system includes  
+
+
+DocID: CACM-2153
+
+methods, cai, instructional systems  
+course in numerical [methods]  each instructional unit  
+experiments with an automated instructional system for numerical methods  
+
+
+DocID: CACM-0096
+
+spherical bessel functions are investigated.  these methods  
+
+
+DocID: CACM-0095
+
+methods are [applied] can sometimes be expanded  
+
+
+DocID: CACM-1152
+
+
+
+DocID: CACM-1216
+
+operator into an "algebraic" programming [language]  
+the chain rule is [applied] and the result is edited to  
+
+
+DocID: CACM-1886
+
+compiled, [methods] are presented for increasing the  
+ascertained, a sequencing procedure is [applied] which  
+applied, and hence global optimal results are not  
+
+
+DocID: CACM-1665
+
+items or of [words] allowable in a [language] given in terms  
+machine, [lexical] processor, nondeterministic  
+automatic generation of efficient lexical  
+
+
+DocID: CACM-1930
+
+ 1967 sing their [methods] fourier analysis is applied  
+
+
+DocID: CACM-3100
+
+abstraction, generalization, [language] learning,  
+a method for [inducing] knowledge by abstraction  
+an interference matching technique for [inducing] abstractions  
+
+
+DocID: CACM-3101
+
+well suited to goal-oriented [problems] and to other problems  
+methods of argument transmission in the source  
+language itself.  the resulting procedure mechanism,which  
+
+
+DocID: CACM-2753
+
+be easily updated.  dps has been [applied] to 50 [problems]  
+solutions for [problems] involving topological  
+methods used to achieve it: task-specific information,  
+
+
+DocID: CACM-0078
+
+problems.  
+value [problems] and some mathematical process  
+a number of other papers have [applied] particular  
+
+
+DocID: CACM-2646
+
+matrix and partial differential equation [methods] are  
+memory.  the [methods] discussed are independent of  
+of programs with predictable behavior.  while the methods  
+
+
+DocID: CACM-1975
+
+two ciphers of the divisor, one or at most two adjustments to the original  
+
+
+DocID: CACM-2078
+
+are called space planning [problems]  the representational  
+problems involving the arrangement of objects in two-  
+
+
+DocID: CACM-1486
+
+language and has a library for storing the user's [items]  
+items could help a user to solve his [problems] and about  
+in the [language] and for rearranging the [items] in the  
+
+
+DocID: CACM-1554
+
+and [applied] to any n-dimensional hyperobject  
+
+
+DocID: CACM-1309
+
+which makes possible [fast] preparation of management  
+a computer [language] system has been developed  
+
+
+DocID: CACM-2127
+
+question-answering, natural [language] artificial intelligence,language  
+language question-answering systems are reviewed  
+natural [language] question-answering systems: 1969  
+
+
+DocID: CACM-1592
+
+the [methods] were clearly unsatisfactory, some gave  
+
+
+DocID: CACM-1602
+
+pose: a [language] for posing [problems] to a computer  
+solve difficult computational [problems]  like the  
+a knowledge of numerical [methods] or the intricacies  
+
+
+DocID: CACM-2931
+
+is whether [methods] of logic have significance  
+can be made [mathematically] exact if we can find  
+in the efficiency of decision [methods] have become available  
+
+
+DocID: CACM-3158
+
+
+
+DocID: CACM-2906
+
+very high level [language] nonprocedural [language]  
+data flow [language] business application, business  
+manual [methods]  this results in three different  
+
+
+DocID: CACM-1517
+
+of the plans; multiple comparison methods  
+quantify their differences; and multiple ranking methods  
+methods for analyzing data from computer simulation experiments  
+
+
+DocID: CACM-1483
+
+a comparison of the fortran language  
+in each implementation.  only those [items] which are  
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2486
+
+photocomposition, special [problems] arise in highly  
+solutions to several of these [problems] have been  
+i.e. [words] or formulas placed partly at the end of  
+
+
+DocID: CACM-2494
+
+by four [methods] of factor analysis and two [methods] of cluster analysis.  
+the plots, [applied] to a data matrix before clustering  
+
+
+DocID: CACM-2273
+
+those of tree [methods]  
+certain degree the advantages of mask [methods] with  
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-2900
+
+three theorems which can be [applied] a priori to indicate  
+
+
+DocID: CACM-1999
+
+
+
+DocID: CACM-3056
+
+
+
+DocID: CACM-0544
+
+
+
+DocID: CACM-0344
+
+
+
+DocID: CACM-0510
+
+
+
+DocID: CACM-1287
+
+
+
+DocID: CACM-3087
+
+an [english] [language] question answering system  
+question answering, relational database, natural [language]  
+methods are discussed for handling vague or  
+
+
+DocID: CACM-1725
+
+words from an associative memory, as described  
+of his method, unlike those of other [methods] is independent  
+words from the memory.  lewin proves that, for the readout  
+
+
+DocID: CACM-1272
+
+of text in [language] processing operations,  
+expanding the editing function in [language] data processing  
+
+
+DocID: CACM-3196
+
+
+
+DocID: CACM-1259
+
+
+
+DocID: CACM-3034
+
+
+
+DocID: CACM-2998
+
+
+
+DocID: CACM-1438
+
+number, is developed and [applied] to the problem  
+
+
+DocID: CACM-1292
+
+computers.  unlike the earlier [methods] of stein and  
+
+
+DocID: CACM-1084
+
+
+
+DocID: CACM-0778
+
+
+
+DocID: CACM-1988
+
+language processor, compiler-compiler  
+
+
+DocID: CACM-1197
+
+
+
+DocID: CACM-1035
+
+characteristics of the fortran cep language  
+
+
+DocID: CACM-0354
+
+
+
+DocID: CACM-1087
+
+problems in automatic abstracting  
+a variety of [problems] concerning the design  
+
+
+DocID: CACM-2846
+
+structure, and then several [methods] of its use  
+
+
+DocID: CACM-2484
+
+in this general [construction] method; namely, a set of  
+
+
+DocID: CACM-2994
+
+
+
+DocID: CACM-2439
+
+in any [language] available on the system.  this  
+
+
+DocID: CACM-1162
+
+is, from assembly [language] to machine [language]  
+an assembly [language] for reprogramming  
+complete reprogramming of compiler [language] programs  
+
+
+DocID: CACM-1184
+
+a [fast] storage allocator  
+low-level list [language] , makes available  
+a [fast] storage bookkeeping method is described  
+
+
+DocID: CACM-2523
+
+been [applied] to the [construction] of cloud cover maps  
+
+
+DocID: CACM-1504
+
+and storage requirements for both [methods] are presented.  
+
+
+DocID: CACM-1629
+
+or 8k [words]  for which a fortran ii compiler exists  
+
+
+DocID: CACM-3113
+
+
+
+DocID: CACM-2047
+
+methods have drawbacks: the direct method can unnecessarily degrade small  
+
+
+DocID: CACM-0695
+
+techniques are discussed for transmitting [words] between  
+approximately 260,000 [words] of disk storage are reserved  
+two-disk system  4,194,304 72-bit [words] 8 usec-per-word  
+
+
+DocID: CACM-2836
+
+is established.  the method may be [applied] to problems  
+
+
+DocID: CACM-0626
+
+
+
+DocID: CACM-1625
+
+methods of simplification that can be applied  
+faster than the [original]  sure is described,  
+some of the [problems] encountered in automatic improvement  
+
+
+DocID: CACM-2913
+
+to more effective [methods]  this paper explains  
+
+
+DocID: CACM-1455
+
+procedures, the capabilities of the [language] can  
+and compiling  [language] and processing algorithm  
+trac, a procedure-describing [language] for the reactive typewriter  
+
+
+DocID: CACM-1470
+
+a basic instruction of the programming [language]  
+of every programming [language]  1  the elementary  
+for a [language]   he concludes by suggesting the evolution  
+

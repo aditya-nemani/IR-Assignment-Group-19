@@ -1,0 +1,582 @@
+TFIDF_NoStopNoStem
+
+Query
+i am interested in distributed algorithms - checkout programs ichbiah processes communicate and synchronize by using message possibilities of particular interest include foreknowledge and techniquefor understanding the correctness of the algorithms.
+
+Top 100 Results (688 millisecs)
+
+
+DocID: CACM-2289
+
+that exploit the [possibilities] for parallelism,  
+algorithms for distance and spanning tree problems  
+algorithms are presented for the solution of certain  
+
+
+DocID: CACM-2233
+
+to match the letters of the clear text or [message]  
+
+
+DocID: CACM-2342
+
+processes as well as to software [processes] and  
+operating systems, parallel processes  
+interference between communicating parallel processes  
+
+
+DocID: CACM-3077
+
+of programs  
+program [correctness] program termination,  
+properties for reasoning about [programs] an  
+
+
+DocID: CACM-1665
+
+compared favorably in speed to carefully hand-coded programs  
+
+
+DocID: CACM-2931
+
+enter in giving descriptions of [processes]  
+since the outcome puts bounds on the [possibilities] of  
+aspects.  it would seem that the [understanding] of higher-level  
+
+
+DocID: CACM-1727
+
+
+
+DocID: CACM-3043
+
+processes [communicate] and [synchronize] by means of procedure  
+concurrent programming, [distributed] [processes]  
+distributed [processes] a concurrent programming concept  
+
+
+DocID: CACM-2344
+
+measure of performance, scheduling algorithms  
+
+
+DocID: CACM-2692
+
+these [algorithms] are able to clip polygons  
+clipping window.  the [algorithms] described achieve  
+a new family of clipping [algorithms] is described.  
+
+
+DocID: CACM-3014
+
+correctness and termination of [programs] simultaneously.  
+and the [correctness] of continuously operating [programs]  
+intermittent assertions, [correctness] of [programs]  
+
+
+DocID: CACM-1856
+
+program's strategy is presented as a general theory of language comprehension.  
+
+
+DocID: CACM-1135
+
+source [programs] into efficient machine codes.  
+programs, even for comparatively complex applications,  
+into a compiler the aspects common to all processes  
+
+
+DocID: CACM-2949
+
+distributed computer network, [correctness] proofs,  
+computer networks, [distributed] control, network  
+topology, routing problem in networks, [distributed] operating  
+
+
+DocID: CACM-0616
+
+processing;  b  with [interest] and understanding  
+interested in developing a theoretical approach to data  
+will be read  a  with avid [interest] by programming language  
+
+
+DocID: CACM-2033
+
+ space , the time required to identify a [message] as a nonmember of the  
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-2216
+
+uniformly [distributed] branching ratios, and  
+using more advanced [algorithms] in the family makes  
+therefore is applicable to a family of sorting algorithms  
+
+
+DocID: CACM-2470
+
+languages, data types, modes, axioms, [correctness]  
+
+
+DocID: CACM-2916
+
+
+
+DocID: CACM-3128
+
+correctness arguments and also simplifies implementation in distributed  
+process synchronization, interprocess communication, distributed  
+ordering of events in the [processes]  
+
+
+DocID: CACM-3021
+
+only he can decipher the [message] since  
+funds transfer" systems.  a [message] is  
+keys, since a [message] can be enciphered using  
+
+
+DocID: CACM-1381
+
+utilized should yield a much better understanding  
+mathematicians be modified to [include] the extensions  
+the [understanding] of our current society.  student  
+
+
+DocID: CACM-2851
+
+parallel program, [correctness] verification,  
+formal verification of parallel programs  
+correctness conditions can be expressed without  
+
+
+DocID: CACM-2828
+
+visible surface [algorithms] hidden surface [algorithms]  
+hierarchical geometric models for visible surface algorithms  
+
+
+DocID: CACM-2740
+
+sequential [processes]  the [processes] [synchronize] by  
+structuring, buffering, parallel [processes] synchronizing  
+cooperating [processes] operating system, semaphores,  
+
+
+DocID: CACM-2950
+
+of time-invariant [algorithms] which [include] most  
+scheduling [algorithms] scheduling models, priority,  
+algorithms, the dependence of processing rates  
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-2903
+
+recursion elimination, pattern matching [algorithms]  
+program transformation, optimization of [programs]  
+by using recursion in troduction, algorithms  
+
+
+DocID: CACM-2884
+
+permutations, loop-free algorithms  
+classical permutation enumeration [algorithms] encounter  
+permutation enumeration: four new permutation algorithms  
+
+
+DocID: CACM-2181
+
+university [programs] management education, curriculum  
+
+
+DocID: CACM-2263
+
+algorithms  
+two new [algorithms] for deriving optimal and  
+decision table, flowcharting, preprocessor, optimal [programs] search  
+
+
+DocID: CACM-3080
+
+compilers, [correctness] code optimization,  
+level language [programs]  the examples demonstrate  
+proving the [correctness] of heuristically optimized code  
+
+
+DocID: CACM-2911
+
+non-markovian release [processes] the extent of the  
+
+
+DocID: CACM-1003
+
+the construction of computer [programs] based on the direct  
+
+
+DocID: CACM-2890
+
+distributed network, computer network, [message] switching  
+on quadratic adaptive routing algorithms  
+routing [algorithms] adaptive routing, quadratic routing,  
+
+
+DocID: CACM-1470
+
+programs, organizing systems, and referencing  
+
+
+DocID: CACM-2645
+
+analysis of algorithms  
+the efficiency of computer [programs] are presented.  
+on the analysis of [algorithms] and some of the directions  
+
+
+DocID: CACM-3153
+
+the context of a paged computer system.  two parameterized algorithms  
+alocation parameters on the expected response times under the two [algorithms]  
+
+
+DocID: CACM-0670
+
+
+
+DocID: CACM-2864
+
+algol 60 [programs] is used to display distributions  
+subset of a program's segments which are referenced  
+programs.  empirical data from a sample of production  
+
+
+DocID: CACM-2283
+
+thinning [algorithms] rectangular, hexagonal,  
+and the relative performances of the algorithms  
+in this report three thinning [algorithms] are  
+
+
+DocID: CACM-1877
+
+the [algorithms] are both necessary and sufficient  
+which could have been safely granted.  algorithms  
+to prevent deadlock.  the [algorithms] have been successfully used in the the system.  
+
+
+DocID: CACM-2317
+
+include the increased [interest] in the development of  
+have contributed greatly to a better understanding  
+of the world's production [programs] are written and will  
+
+
+DocID: CACM-2734
+
+first-fit and best-fit and a better understanding  
+
+
+DocID: CACM-1543
+
+
+
+DocID: CACM-1924
+
+matrix [algorithms] array processing, paging [algorithms]  
+multiplication, and inversion [algorithms] shows  
+carefully designed matrix [algorithms] can lead to  
+
+
+DocID: CACM-2113
+
+
+
+DocID: CACM-3094
+
+analyses of deterministic parsing algorithms  
+
+
+DocID: CACM-2053
+
+two [algorithms] for programming decision tables whose merits  
+on the conversion of decision tables to computer programs  
+tables to [programs] are inadequate in regard to ambiguity detection.  
+
+
+DocID: CACM-2979
+
+machine learning, game playing [programs] decision  
+and learning [processes] on the one hand, and machine  
+
+
+DocID: CACM-2198
+
+
+
+DocID: CACM-1771
+
+academic [programs] computer science graduate [programs]  
+given for undergraduate [programs]  graduate [programs] in computer  
+programs.  
+
+
+DocID: CACM-2219
+
+
+
+DocID: CACM-1623
+
+of [interest] in areas other than circuit analysis.  
+may be [interested] in the problem because it is stated  
+
+
+DocID: CACM-1194
+
+
+
+DocID: CACM-3160
+
+
+
+DocID: CACM-1307
+
+
+
+DocID: CACM-1350
+
+requirements, complexities of the programs  
+with two other parsing [algorithms] a selective  
+
+
+DocID: CACM-3166
+
+four [algorithms] for the numerical computation  
+and computational literature; the other two are new algorithms  
+algorithms will provide accurate answers for many problems, but two  
+
+
+DocID: CACM-1939
+
+which are frequently too long to be of practical [interest]  
+
+
+DocID: CACM-1705
+
+algorithms policy [comm. acm 10  nov. 67 , 729] a basic  
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-2146
+
+sorting, polyphase sorting, dispersion [algorithms]  
+new dispersion [algorithms] with more straightforward  
+various dispersion [algorithms] for the polyphase  
+
+
+DocID: CACM-2402
+
+digital computers encourages the development of algorithms  
+pattern recognition [algorithms] is hindered by the fact  
+and will continue to be a field of intense [interest]  
+
+
+DocID: CACM-2035
+
+display editing, display oriented system, filing [algorithms] lap6,  
+tape [algorithms] to minimize the limitations of the small memory.  techniques  
+
+
+DocID: CACM-2883
+
+can be solved using well-known graph search [algorithms]  
+
+
+DocID: CACM-1847
+
+
+
+DocID: CACM-2535
+
+scheduling [algorithms] operating systems  
+analytical results [include] a general description of the  
+
+
+DocID: CACM-2188
+
+and helps give a better [understanding] of now  
+
+
+DocID: CACM-2889
+
+
+
+DocID: CACM-2924
+
+of spline theory and [algorithms] an in teractive  
+this method are [algorithms] which enable in teractive  
+
+
+DocID: CACM-3148
+
+distributed computing, modules, messages, assertions  
+high level programming for [distributed] computing  
+programming for [distributed] and other loosely coupled systems  
+
+
+DocID: CACM-2273
+
+two [algorithms] for generating computer programs  
+from decision tables are described.  the algorithms  
+entry tables.  the [algorithms] are based on the  
+
+
+DocID: CACM-2598
+
+programs  
+a computer program.  the [algorithms] considered  
+explore the limitations of [algorithms] used to solve  
+
+
+DocID: CACM-2893
+
+factors [include] the measured need for computer  
+
+
+DocID: CACM-2264
+
+correctness, programming languages, semantics  
+to make the proof rigorous.  [correctness] of the  
+
+
+DocID: CACM-3048
+
+
+
+DocID: CACM-1423
+
+algorithms are fairly complicated and require  
+
+
+DocID: CACM-2940
+
+assertions, control specialization, [correctness]  
+languages, programming methodology, proofs of [correctness] types, verification  
+
+
+DocID: CACM-2871
+
+correctness, incorrectness, termination, automatic  
+logical analysis of programs  
+programs are incomplete in that intermediate  
+
+
+DocID: CACM-2922
+
+the nondeterministic formulation of search processes  
+
+
+DocID: CACM-1827
+
+the construction of future monitoring [programs]  
+events in user [programs] which are unrelated  
+
+
+DocID: CACM-1886
+
+factorization [algorithms] code optimization, sequencing  
+necessarily generated.  the factorization algorithms  
+
+
+DocID: CACM-1664
+
+equations relating the curvilinear coordinates of interest  
+
+
+DocID: CACM-1844
+
+programs developed by remote terminal users can  
+
+
+DocID: CACM-2197
+
+
+
+DocID: CACM-1805
+
+nonquantitative or topological features of the [programs] structures.  
+programs.  the effective progress rate of each  
+programs are concurrently in processor memory and proceeding,  
+
+
+DocID: CACM-1936
+
+
+
+DocID: CACM-2849
+
+distributed control, [distributed] computing,  
+locally [distributed] computing stations. the packet  
+broadcasts is [distributed] among the contending  
+
+
+DocID: CACM-2060
+
+quasi-parallel [processes] and other unorthodox control mechanisms.  
+
+
+DocID: CACM-2905
+
+distributed sets, this method can give rather sparse tables.  
+
+
+DocID: CACM-2568
+
+to [include] the weighting of nodes, to present an  
+
+
+DocID: CACM-2092
+
+structures and the [algorithms] used for question answering.  
+
+
+DocID: CACM-1099
+
+planning. also of immediate [interest] is the  
+
+
+DocID: CACM-2314
+
+of procedure invocation required [include] invocation  
+features, since [algorithms] must be not only  
+facilitate production of large [programs] to manipulate  
+
+
+DocID: CACM-2208
+
+hashing [algorithms] memory allocation, memory hierarchy,  
+
+
+DocID: CACM-1591
+
+compilers, library and user's [programs]   
+a course could therefore [include] text material  
+
+
+DocID: CACM-1411
+
+comparison of several [algorithms] for computation  
+several [algorithms] for computation of basic  
+
+
+DocID: CACM-2354
+
+

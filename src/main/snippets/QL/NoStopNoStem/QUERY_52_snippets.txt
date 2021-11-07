@@ -1,0 +1,586 @@
+QL_NoStopNoStem
+
+Query
+modeling and simulation in analytical ecosystems.
+
+Top 100 Results (208 millisecs)
+
+
+DocID: CACM-2721
+
+river [ecosystems] ecological mechanisms, environmental [simulation]  
+digital [simulation] mathematical [modeling] plankton  
+of the accuracy of the [simulation] methods, a simulation  
+
+
+DocID: CACM-2951
+
+network, anlytic [modeling] [simulation] benchmark jobs, system measurement  
+on a network. [analytical] [simulation] and statistical performance  
+
+
+DocID: CACM-2798
+
+conflict buffer, [simulation] monte carolo simulation  
+carlo [simulation] is discussed.  the simulations investigate  
+cycle.  results of the simulations and an analytical  
+
+
+DocID: CACM-1695
+
+simulation, library systems, [modeling] network  
+models, on-line [simulation] simulation  
+simulation, neural networks, neurophysiological  
+
+
+DocID: CACM-1541
+
+to facilitate both the [modeling] and experimental  
+a language for [modeling] and simulating dynamic systems  
+aspects of [simulation] studies.  the ability to represent  
+
+
+DocID: CACM-2720
+
+modeling, queueing theory, balancing,  
+analytical techniques.  using standard queueing  
+
+
+DocID: CACM-2535
+
+performance.  [analytical] and [simulation] results are  
+analytical results include a general description of the  
+
+
+DocID: CACM-1261
+
+modeling and [simulation] of digital networks  
+common [modeling] technique applicable to combinational  
+the [simulation] of digital networks on a digital  
+
+
+DocID: CACM-2375
+
+both [analytical] and [simulation] results are obtained.  
+access time, [analytical] models, auxiliary storage,  
+scheduling policies, seek time, [simulation] storage  
+
+
+DocID: CACM-1680
+
+programming, [simulation] [modeling] information  
+and compilers, [simulation] models, mathematical  
+computer operations such as [simulation] programming, and  
+
+
+DocID: CACM-2344
+
+time-sharing, [simulation] studies, optimization,  
+model and two [analytical] equations for quantum-oriented  
+a [simulation] model of a time-sharing system  
+
+
+DocID: CACM-2542
+
+modeling, system integration, simulation  
+analysis and [simulation] routines.  using the performance  
+
+
+DocID: CACM-2862
+
+model, [simulation] of replacement algorithm  
+an [analytical] model is presented to estimate  
+
+
+DocID: CACM-1278
+
+given in [analytical] form.  in solving non-linear  
+
+
+DocID: CACM-2233
+
+magna carta, pseudotext, signature, simulation  
+signature [simulation] and certain cryptographic codes  
+of our univac 1108 includes numerous [analytical] studies  
+
+
+DocID: CACM-2751
+
+various methods of object [modeling] shading, and hidden  
+methods of object [modeling] and the related hidden  
+in part on the method for [modeling] the object, which  
+
+
+DocID: CACM-1928
+
+simulation, logical [simulation] digital [simulation]  
+large systems [simulation] network structures,  
+exclusive [simulation] of activity, an event-scheduling  
+
+
+DocID: CACM-2469
+
+modeling speed independent asynchronous circuits.  
+to a demonstration of their usefulness in modeling  
+
+
+DocID: CACM-2888
+
+analysis, information [modeling] database  
+
+
+DocID: CACM-2245
+
+trace-driven [modeling] and analysis of  
+called trace-driven [modeling] provides an accurate  
+
+
+DocID: CACM-1028
+
+investigation of a new [analytical] method  
+a recently proposed [analytical] approach to  
+
+
+DocID: CACM-2216
+
+empirical tests, as well as the [analytical] results,  
+
+
+DocID: CACM-2318
+
+modeling, evaluation, performance, analytic-models,  
+
+
+DocID: CACM-1366
+
+part is devoted to computer [simulation] and simulation  
+of some computer [simulation] languages  
+available for computer [simulation] offer features  
+
+
+DocID: CACM-2924
+
+successfully in terfaced to a variety of analytical  
+
+
+DocID: CACM-1806
+
+be [analytical]  an introduction to this method is  
+
+
+DocID: CACM-2864
+
+modeling of program behavior and memory management in virtual memory systems.  
+
+
+DocID: CACM-3070
+
+performance evaluation, [simulation] queueing  
+hybrid [simulation] models of computer systems  
+discrete-event [simulation] and analytic techniques are  
+
+
+DocID: CACM-1784
+
+error coefficients, integration [analytical] functions, roundoff error  
+
+
+DocID: CACM-2434
+
+working set model, paging, program behavior,program modeling  
+
+
+DocID: CACM-1029
+
+derivation of [analytical] derivatives is laborious and  
+analytical expressions for the derivatives.  the key  
+
+
+DocID: CACM-1870
+
+in [simulation] programming are described.  
+random numbers,  [simulation] boolean algebra, bit manipulation  
+some techniques for using pseudorandom numbers in computer simulation  
+
+
+DocID: CACM-2374
+
+storage, working-sets, program behavior models, mathematical modeling  
+
+
+DocID: CACM-2802
+
+of its environment, thus [modeling] what  
+
+
+DocID: CACM-3078
+
+analytical results, related to the availability  
+of obtaining [analytical] solutions to markov processes  
+
+
+DocID: CACM-2571
+
+hasp, os/360, dispatching, scheduling, [modeling] performance evaluation  
+
+
+DocID: CACM-3016
+
+a comparison of numerical techniques in markov modeling  
+
+
+DocID: CACM-1552
+
+for flexible problem [modeling]  the free storage  
+
+
+DocID: CACM-0497
+
+analytical derivation, suggesting briefly, however,  
+
+
+DocID: CACM-0605
+
+computer [simulation] of city traffic  
+
+
+DocID: CACM-1890
+
+a computer [simulation] program which deals  
+traffic [simulation] traffic flow, traffic network  
+simulation of traffic flows in a network  
+
+
+DocID: CACM-1329
+
+simulation of boolean functions in a decimal computer  
+
+
+DocID: CACM-2749
+
+pulse [simulation] significant event [simulation]  
+simulation organization, event [simulation] clock  
+significant event simulation  
+
+
+DocID: CACM-1710
+
+list structure, set languages, [modeling] graphics  
+
+
+DocID: CACM-0058
+
+modeling vinityi an sssr, under the supervision  
+
+
+DocID: CACM-1653
+
+when using them.  analysis, [simulation] and synthesis are  
+
+
+DocID: CACM-2767
+
+simulation, time flow mechanisms, event  
+routine, discrete system [simulation] sorting  
+list algorithm, [simulation] executive, event scheduling  
+
+
+DocID: CACM-3048
+
+performance evaluation, deterministic [simulation]  
+computers by deterministic simulation  
+simulation is presented as a practical technique  
+
+
+DocID: CACM-3137
+
+database, interactive computing, economic [modeling] transaction processing  
+
+
+DocID: CACM-1572
+
+the [simulation] of time sharing systems  
+development of a comprehensive [simulation] model  
+the [simulation] is demonstrated by a study of the  
+
+
+DocID: CACM-1805
+
+productivity, prediction, multiprogramming, [simulation]  
+an alternative to [simulation] a [simulation]tested iterative  
+of itself and its co-residents and [simulation] has  
+
+
+DocID: CACM-2771
+
+synthesis, three-dimensional modeling  
+
+
+DocID: CACM-0633
+
+simulation and analysis of biochemical systems  
+
+
+DocID: CACM-2068
+
+multiprogramming, paging, modeling  
+
+
+DocID: CACM-1637
+
+of [simulation] experiments containing autocorrelated  
+analysis as applied to [simulation] experiments.  
+problems in the statistical analysis of simulation  
+
+
+DocID: CACM-2918
+
+trace-driven [simulation] queueing theory, shared  
+
+
+DocID: CACM-2373
+
+program behavior, program modeling  
+
+
+DocID: CACM-1752
+
+task scheduling, paging, system [simulation]  
+and the results of comparative simulation  
+of all the system resources.  [simulation] results relative  
+
+
+DocID: CACM-0238
+
+simulation and analysis of biochemical systems  
+
+
+DocID: CACM-2889
+
+allowable imbalance  k  increases.  both analytical  
+
+
+DocID: CACM-1288
+
+of introducing [simulation] and other list-processing  
+
+
+DocID: CACM-2218
+
+rotational delay minimization, [simulation]  
+swap volume minimization, system [simulation] time-sharing  
+was a simula based [simulation] model reflecting  
+
+
+DocID: CACM-3064
+
+simulation, discrete systems [simulation] discrete  
+event [simulation] time-flow mechanisms  
+
+
+DocID: CACM-2742
+
+discrete event [simulation] [simulation] event scanning mechanisms  
+simulation models of large, complex "real-world"  
+improved event-scanning mechanisms for discrete event simulation  
+
+
+DocID: CACM-2882
+
+simulation  
+discusses a [simulation] model of a data retrieval  
+
+
+DocID: CACM-1711
+
+regulations, [simulation] income tax, copyrights, patents,  
+
+
+DocID: CACM-0643
+
+simulation and analysis of biochemcial systems  
+
+
+DocID: CACM-1199
+
+a computer center [simulation] project  
+
+
+DocID: CACM-2970
+
+property, sequential estimator, [simulation]  
+achieving specific accuracy in [simulation] output analysis  
+of [simulation] output.  in particular, it describes a  
+
+
+DocID: CACM-2743
+
+modeling, computing models, binary comparisons  
+
+
+DocID: CACM-1427
+
+simulation of radioisotope scans by computer  
+the [simulation] of the output of any quantum-limited system.  
+
+
+DocID: CACM-2518
+
+customizing, [modeling] applications development,  
+
+
+DocID: CACM-0104
+
+digital [simulation] of discrete flow systems*  
+a discussion of two [simulation] studies that illustrate  
+
+
+DocID: CACM-1912
+
+simulation of outpatient appointment systems  
+simulation, scheduling, appointment system, outpatient  
+
+
+DocID: CACM-3107
+
+beta variates, random numbers, simulation  
+
+
+DocID: CACM-2902
+
+simulation memory management, [simulation] techniques,  
+memory management, programming techniques, [simulation]  
+dynamic memory allocation in computer simulation  
+
+
+DocID: CACM-2829
+
+permitting the [simulation] of the mirror reflections.  
+the areas of texture [simulation] and lighting models.  
+
+
+DocID: CACM-2911
+
+fifty-percent rule, first-fit, simulation  
+this paper reports [simulation] data showing  
+that may be violated frequently.  on the basis of the simulation  
+
+
+DocID: CACM-2057
+
+distribution, frequency distribution, [simulation] monte carlo  
+
+
+DocID: CACM-2276
+
+simulation, numerical analysis  
+
+
+DocID: CACM-2262
+
+methods by discussion and by [simulation]  
+
+
+DocID: CACM-2261
+
+simulation, monte carlo, probability, statistics,  
+be useful to [simulation] practitioners.  
+
+
+DocID: CACM-1234
+
+macro-language.  a technique of  [simulation] at  
+
+
+DocID: CACM-2936
+
+simulation, time flow mechanisms, event  
+for general purpose discrete event [simulation] systems.  
+an efficient data structure for the [simulation] event set  
+
+
+DocID: CACM-1728
+
+operating systems, supervisor [simulation] machine  
+storage, one-level storage, operating system [simulation]  
+
+
+DocID: CACM-2734
+
+large requests.  results of [simulation] experiments  
+allocation have not been consistent.  through [simulation]  
+
+
+DocID: CACM-3051
+
+a comparison of heaps and the tl structure for the [simulation] event set  
+
+
+DocID: CACM-2955
+
+comparative [simulation] results are also presented  
+
+
+DocID: CACM-2967
+
+with the software [simulation] illustrates the advantages  
+
+
+DocID: CACM-1253
+
+quikscript is a [simulation] language based on  
+
+
+DocID: CACM-1674
+
+random number generation, monte carlo, simulation  
+
+
+DocID: CACM-2272
+
+simulation results are presented, and various  
+
+
+DocID: CACM-0678
+
+optimizing bit-time computer simulation  
+a major component of a bit-time computer simulation  
+simulation.  the techniques are applicable to any general-purpose computer.  
+
+
+DocID: CACM-1165
+
+better than traditional [simulation]  the emulator  
+
+
+DocID: CACM-1591
+
+in [simulation] and gaming could also be provided.  the  
+
+
+DocID: CACM-1484
+
+these descriptions can be used for simulation  
+
+
+DocID: CACM-1380
+
+simula-an algol-based [simulation] language  
+system description also serves as a source language simulation  
+
+
+DocID: CACM-0557
+
+simulation of computer timing device  
+
+
+DocID: CACM-1518
+
+technique which can ease this problem is macroscopic [simulation]  
+
+
+DocID: CACM-1856
+
+simulation, human memory [simulation] computer  
+a [simulation] program and theory of language  
+

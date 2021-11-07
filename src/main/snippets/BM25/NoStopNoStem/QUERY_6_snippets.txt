@@ -1,0 +1,484 @@
+BM25_NoStopNoStem
+
+Query
+interested in armies on robotics, moon planning particularly task-specific and combinational aspects.  we are not interested in trinomials of arm moon.
+
+Top 100 Results (516 millisecs)
+
+
+DocID: CACM-1108
+
+digital data processor for tracking the partially illuminated [moon]  
+to the center of a partially illuminated [moon]  the  
+
+
+DocID: CACM-0435
+
+interested.  a method employing a decision matrix  
+
+
+DocID: CACM-1014
+
+though the experimenter may not be [interested] in  
+
+
+DocID: CACM-0492
+
+basis of a markov chain model.  for the reader not interested  
+
+
+DocID: CACM-1867
+
+one is [interested] in the ratio l j  of the  
+
+
+DocID: CACM-1397
+
+people [interested] in programming languages designed  
+
+
+DocID: CACM-0531
+
+name upon marriage, and other problems.  we are interested  
+
+
+DocID: CACM-1623
+
+may be [interested] in the problem because it is stated  
+
+
+DocID: CACM-0616
+
+interested in developing a theoretical approach to data  
+
+
+DocID: CACM-2753
+
+space [planning] spatial representations  
+planning, diagnostic procedures, remedial actions,  
+planning, problem solving, representations, search strategies,  
+
+
+DocID: CACM-1341
+
+
+
+DocID: CACM-2176
+
+of merge sorting on movable [arm] disks when the  
+when sorting on movable [arm] disks, the number of  
+
+
+DocID: CACM-1634
+
+
+
+DocID: CACM-0670
+
+complications and expense.  the legal aspects  
+to identify and provide for many legal [aspects] right  
+
+
+DocID: CACM-0417
+
+during the [planning] stage.  techniques  
+opportunities to interpret to lawyers the technical aspects  
+
+
+DocID: CACM-0281
+
+
+
+DocID: CACM-2389
+
+automated design, architecture, heuristic programs, space planning  
+formulating and solving of a class of space planning  
+preliminary report on a system for general space planning  
+
+
+DocID: CACM-3035
+
+university computing, computer planning  
+a strategic [planning] methodology for the computing  
+of the research indicate the [planning] methodology significantly  
+
+
+DocID: CACM-3198
+
+
+
+DocID: CACM-1698
+
+are needed in certain [aspects] of operating system  
+
+
+DocID: CACM-3188
+
+at this point that language has many [aspects] and that pragmatics, semantics and  
+aspects into the three semiotic dimension and there seems to be a strong  
+
+
+DocID: CACM-2078
+
+representations for space planning  
+are called space [planning] problems.  the representational  
+that allow automated space [planning] are described and compared.  
+
+
+DocID: CACM-2931
+
+aspects.  it would seem that the understanding of higher-level  
+
+
+DocID: CACM-2187
+
+computer science, curriculum [planning] education  
+to curriculum [planning] in computer science is presented  
+computer science: a conceptual framework for curriculum planning  
+
+
+DocID: CACM-3156
+
+
+
+DocID: CACM-0695
+
+limitations due to [arm] motion and disk rotation are discussed.  
+
+
+DocID: CACM-2230
+
+architecture design, urban planning  
+architecture design, urban [planning] logical and block  
+
+
+DocID: CACM-3172
+
+an algorithm for [planning] collision-free  
+for [planning] a safe path for a polyhedral object moving among  
+
+
+DocID: CACM-0530
+
+a computer method for radiation treatment planning  
+
+
+DocID: CACM-2721
+
+impact, environmental planning  
+planning involving such examinations.  
+
+
+DocID: CACM-0697
+
+field isodose curves for treatment planning  
+
+
+DocID: CACM-1385
+
+planning, organization and educational [aspects] of computer  
+
+
+DocID: CACM-2582
+
+
+
+DocID: CACM-2485
+
+stage hypothesis, [planning] organizing,  
+it is suggested that the [planning] organizing, and controlling  
+
+
+DocID: CACM-2900
+
+
+
+DocID: CACM-2095
+
+
+
+DocID: CACM-3150
+
+
+
+DocID: CACM-1885
+
+chomsky's [aspects] of the theory of syntax. the major  
+
+
+DocID: CACM-2496
+
+
+
+DocID: CACM-2319
+
+and design the performance [aspects] of an operating system  
+
+
+DocID: CACM-2810
+
+professional [aspects] educational programs, industry  
+
+
+DocID: CACM-1621
+
+planning of typographical lay-out and computerized control  
+
+
+DocID: CACM-2943
+
+
+
+DocID: CACM-3185
+
+
+
+DocID: CACM-2406
+
+and physical [aspects] of data is increasingly  
+and physical [aspects] of data.  applications of these  
+
+
+DocID: CACM-2167
+
+
+
+DocID: CACM-0731
+
+
+
+DocID: CACM-1348
+
+
+
+DocID: CACM-2622
+
+in the computer.    all [aspects] of the system, including  
+
+
+DocID: CACM-1846
+
+
+
+DocID: CACM-2486
+
+and certain [aspects] of error correction.  
+
+
+DocID: CACM-3154
+
+their logic and control [aspects] were identified and separated in  
+
+
+DocID: CACM-2231
+
+
+
+DocID: CACM-0755
+
+
+
+DocID: CACM-0321
+
+
+
+DocID: CACM-1184
+
+
+
+DocID: CACM-1001
+
+copyright [aspects] of computer usage  
+law.  some [aspects] of the proposed new copyright  
+
+
+DocID: CACM-2502
+
+a comment on the practical [aspects] of computer science education  
+
+
+DocID: CACM-2887
+
+
+
+DocID: CACM-1261
+
+common modeling technique applicable to combinational  
+
+
+DocID: CACM-2572
+
+
+
+DocID: CACM-1691
+
+two, irreducible polynomials, primitive trinomials  
+
+
+DocID: CACM-1978
+
+
+
+DocID: CACM-3125
+
+
+
+DocID: CACM-3033
+
+in this paper combines the positive [aspects] of the above  
+
+
+DocID: CACM-2383
+
+of the [aspects] of human composition.  five samples of  
+
+
+DocID: CACM-2233
+
+far without success, attempting tode code them; vast armies  
+
+
+DocID: CACM-1379
+
+
+
+DocID: CACM-2705
+
+through analogies with similar [aspects] of  
+some social [aspects] of programming are illuminated  
+
+
+DocID: CACM-1262
+
+
+
+DocID: CACM-3132
+
+
+
+DocID: CACM-2046
+
+of data is changed and even when some [aspects] of the external representation  
+
+
+DocID: CACM-2289
+
+memory and a small amount of [combinational] logic,  
+
+
+DocID: CACM-1930
+
+
+
+DocID: CACM-3030
+
+
+
+DocID: CACM-3105
+
+
+
+DocID: CACM-2769
+
+
+
+DocID: CACM-3093
+
+
+
+DocID: CACM-2918
+
+
+
+DocID: CACM-1928
+
+and asynchronous logic.  certain aspects  
+
+
+DocID: CACM-2610
+
+
+
+DocID: CACM-1458
+
+
+
+DocID: CACM-1404
+
+computational [aspects] of multiple covariance  
+
+
+DocID: CACM-3166
+
+
+
+DocID: CACM-0971
+
+aspects of the time-sharing program are outlined.  
+
+
+DocID: CACM-1517
+
+
+
+DocID: CACM-1781
+
+ semantic  [aspects] of translator writing  
+
+
+DocID: CACM-1456
+
+storage and retrieval of [aspects] of meaning in directed graph structures  
+
+
+DocID: CACM-1783
+
+
+
+DocID: CACM-2519
+
+
+
+DocID: CACM-2144
+
+
+
+DocID: CACM-1413
+
+aspects of technology, changes possible in the next generation  
+
+
+DocID: CACM-2314
+
+a wide range of applications.  three [aspects] of programming  
+
+
+DocID: CACM-2150
+
+
+
+DocID: CACM-3099
+
+
+
+DocID: CACM-1083
+
+a whole has much broader [aspects] as a tool for the  
+
+
+DocID: CACM-2166
+
+
+
+DocID: CACM-1938
+
+
+
+DocID: CACM-0320
+
+both the sequential and parallel [aspects] of logic.  they  
+
+
+DocID: CACM-2263
+
+

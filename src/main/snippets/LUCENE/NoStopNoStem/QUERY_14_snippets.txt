@@ -1,0 +1,408 @@
+LUCENE_NoStopNoStem
+
+Query
+find all discussions of optimal implementations of sort algorithms for
+database management applications
+
+Top 100 Results (33 millisecs)
+
+
+DocID: CACM-2679
+
+
+
+DocID: CACM-3112
+
+
+
+DocID: CACM-3164
+
+
+
+DocID: CACM-3131
+
+
+
+DocID: CACM-3087
+
+
+
+DocID: CACM-2674
+
+
+
+DocID: CACM-3067
+
+
+
+DocID: CACM-2819
+
+
+
+DocID: CACM-2289
+
+
+
+DocID: CACM-2716
+
+
+
+DocID: CACM-3037
+
+
+
+DocID: CACM-2181
+
+
+
+DocID: CACM-3075
+
+
+
+DocID: CACM-3057
+
+
+
+DocID: CACM-3011
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-2816
+
+
+
+DocID: CACM-3058
+
+
+
+DocID: CACM-2964
+
+
+
+DocID: CACM-2890
+
+
+
+DocID: CACM-1724
+
+
+
+DocID: CACM-2691
+
+
+
+DocID: CACM-3085
+
+
+
+DocID: CACM-2812
+
+
+
+DocID: CACM-1886
+
+
+
+DocID: CACM-2017
+
+
+
+DocID: CACM-2902
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-2863
+
+
+
+DocID: CACM-2959
+
+
+
+DocID: CACM-2750
+
+
+
+DocID: CACM-2174
+
+
+
+DocID: CACM-2856
+
+
+
+DocID: CACM-1412
+
+
+
+DocID: CACM-2263
+
+
+
+DocID: CACM-2146
+
+
+
+DocID: CACM-2337
+
+
+
+DocID: CACM-1873
+
+
+
+DocID: CACM-0717
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-2876
+
+
+
+DocID: CACM-3032
+
+
+
+DocID: CACM-1961
+
+
+
+DocID: CACM-2900
+
+
+
+DocID: CACM-2997
+
+
+
+DocID: CACM-2522
+
+
+
+DocID: CACM-2924
+
+
+
+DocID: CACM-2481
+
+
+
+DocID: CACM-3156
+
+
+
+DocID: CACM-1197
+
+
+
+DocID: CACM-3171
+
+
+
+DocID: CACM-2450
+
+
+
+DocID: CACM-3151
+
+
+
+DocID: CACM-3177
+
+
+
+DocID: CACM-3166
+
+
+
+DocID: CACM-3006
+
+
+
+DocID: CACM-0677
+
+
+
+DocID: CACM-2650
+
+
+
+DocID: CACM-2406
+
+
+
+DocID: CACM-2308
+
+
+
+DocID: CACM-2081
+
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1566
+
+
+
+DocID: CACM-2882
+
+
+
+DocID: CACM-1423
+
+
+
+DocID: CACM-0860
+
+
+
+DocID: CACM-2324
+
+
+
+DocID: CACM-1462
+
+
+
+DocID: CACM-1999
+
+
+
+DocID: CACM-2627
+
+
+
+DocID: CACM-3038
+
+
+
+DocID: CACM-2106
+
+
+
+DocID: CACM-3157
+
+
+
+DocID: CACM-2142
+
+
+
+DocID: CACM-3049
+
+
+
+DocID: CACM-1098
+
+
+
+DocID: CACM-2973
+
+
+
+DocID: CACM-1483
+
+
+
+DocID: CACM-0630
+
+
+
+DocID: CACM-1594
+
+
+
+DocID: CACM-2715
+
+
+
+DocID: CACM-2833
+
+
+
+DocID: CACM-3103
+
+
+
+DocID: CACM-3033
+
+
+
+DocID: CACM-1905
+
+
+
+DocID: CACM-3163
+
+
+
+DocID: CACM-2963
+
+
+
+DocID: CACM-2227
+
+
+
+DocID: CACM-1878
+
+
+
+DocID: CACM-2860
+
+
+
+DocID: CACM-0867
+
+
+
+DocID: CACM-3132
+
+
+
+DocID: CACM-2051
+
+
+
+DocID: CACM-0865
+
+
+
+DocID: CACM-2834
+
+
+
+DocID: CACM-2266
+
+
+
+DocID: CACM-2188
+
+
+
+DocID: CACM-1932
+
+
+
+DocID: CACM-2957
+
+
+
+DocID: CACM-3040
+
+

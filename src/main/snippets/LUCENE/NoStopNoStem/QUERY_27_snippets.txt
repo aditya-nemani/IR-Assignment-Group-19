@@ -1,0 +1,407 @@
+LUCENE_NoStopNoStem
+
+Query
+Memory management aspects of operating systems
+
+Top 100 Results (15 millisecs)
+
+
+DocID: CACM-2297
+
+
+
+DocID: CACM-2069
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-2902
+
+
+
+DocID: CACM-2358
+
+
+
+DocID: CACM-3006
+
+
+
+DocID: CACM-2374
+
+
+
+DocID: CACM-2319
+
+
+
+DocID: CACM-1751
+
+
+
+DocID: CACM-3000
+
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-2988
+
+
+
+DocID: CACM-2406
+
+
+
+DocID: CACM-1892
+
+
+
+DocID: CACM-1753
+
+
+
+DocID: CACM-2372
+
+
+
+DocID: CACM-1728
+
+
+
+DocID: CACM-1750
+
+
+
+DocID: CACM-3067
+
+
+
+DocID: CACM-2669
+
+
+
+DocID: CACM-2867
+
+
+
+DocID: CACM-2379
+
+
+
+DocID: CACM-1901
+
+
+
+DocID: CACM-3011
+
+
+
+DocID: CACM-3050
+
+
+
+DocID: CACM-2582
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-2017
+
+
+
+DocID: CACM-1747
+
+
+
+DocID: CACM-2864
+
+
+
+DocID: CACM-3068
+
+
+
+DocID: CACM-3026
+
+
+
+DocID: CACM-2798
+
+
+
+DocID: CACM-2311
+
+
+
+DocID: CACM-2502
+
+
+
+DocID: CACM-3028
+
+
+
+DocID: CACM-2481
+
+
+
+DocID: CACM-2479
+
+
+
+DocID: CACM-2624
+
+
+
+DocID: CACM-2622
+
+
+
+DocID: CACM-0084
+
+
+
+DocID: CACM-0059
+
+
+
+DocID: CACM-2625
+
+
+
+DocID: CACM-2859
+
+
+
+DocID: CACM-2378
+
+
+
+DocID: CACM-2262
+
+
+
+DocID: CACM-1725
+
+
+
+DocID: CACM-2095
+
+
+
+DocID: CACM-2852
+
+
+
+DocID: CACM-1810
+
+
+
+DocID: CACM-2681
+
+
+
+DocID: CACM-1959
+
+
+
+DocID: CACM-1541
+
+
+
+DocID: CACM-2111
+
+
+
+DocID: CACM-1657
+
+
+
+DocID: CACM-1912
+
+
+
+DocID: CACM-2407
+
+
+
+DocID: CACM-3112
+
+
+
+DocID: CACM-2357
+
+
+
+DocID: CACM-1924
+
+
+
+DocID: CACM-2967
+
+
+
+DocID: CACM-2365
+
+
+
+DocID: CACM-1461
+
+
+
+DocID: CACM-2868
+
+
+
+DocID: CACM-1708
+
+
+
+DocID: CACM-0086
+
+
+
+DocID: CACM-2668
+
+
+
+DocID: CACM-2597
+
+
+
+DocID: CACM-2198
+
+
+
+DocID: CACM-1462
+
+
+
+DocID: CACM-2080
+
+
+
+DocID: CACM-1456
+
+
+
+DocID: CACM-1781
+
+
+
+DocID: CACM-0417
+
+
+
+DocID: CACM-2482
+
+
+
+DocID: CACM-1748
+
+
+
+DocID: CACM-2577
+
+
+
+DocID: CACM-1247
+
+
+
+DocID: CACM-3177
+
+
+
+DocID: CACM-2163
+
+
+
+DocID: CACM-1754
+
+
+
+DocID: CACM-1845
+
+
+
+DocID: CACM-3148
+
+
+
+DocID: CACM-3092
+
+
+
+DocID: CACM-2435
+
+
+
+DocID: CACM-2632
+
+
+
+DocID: CACM-2689
+
+
+
+DocID: CACM-1083
+
+
+
+DocID: CACM-1826
+
+
+
+DocID: CACM-2985
+
+
+
+DocID: CACM-2181
+
+
+
+DocID: CACM-3090
+
+
+
+DocID: CACM-2541
+
+
+
+DocID: CACM-3142
+
+
+
+DocID: CACM-3025
+
+
+
+DocID: CACM-2106
+
+
+
+DocID: CACM-1960
+
+
+
+DocID: CACM-1267
+
+
+
+DocID: CACM-2863
+
+
+
+DocID: CACM-1680
+
+

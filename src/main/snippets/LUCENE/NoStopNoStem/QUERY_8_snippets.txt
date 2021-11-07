@@ -1,0 +1,408 @@
+LUCENE_NoStopNoStem
+
+Query
+Addressing schemes for resources in networks; resource addressing in
+network operating systems
+
+Top 100 Results (105 millisecs)
+
+
+DocID: CACM-2625
+
+
+
+DocID: CACM-2541
+
+
+
+DocID: CACM-2951
+
+
+
+DocID: CACM-2371
+
+
+
+DocID: CACM-2776
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-1685
+
+
+
+DocID: CACM-3032
+
+
+
+DocID: CACM-0912
+
+
+
+DocID: CACM-2522
+
+
+
+DocID: CACM-1611
+
+
+
+DocID: CACM-1869
+
+
+
+DocID: CACM-1877
+
+
+
+DocID: CACM-1754
+
+
+
+DocID: CACM-2892
+
+
+
+DocID: CACM-2500
+
+
+
+DocID: CACM-2949
+
+
+
+DocID: CACM-2499
+
+
+
+DocID: CACM-1751
+
+
+
+DocID: CACM-2858
+
+
+
+DocID: CACM-2991
+
+
+
+DocID: CACM-0828
+
+
+
+DocID: CACM-2095
+
+
+
+DocID: CACM-1928
+
+
+
+DocID: CACM-2543
+
+
+
+DocID: CACM-0492
+
+
+
+DocID: CACM-2358
+
+
+
+DocID: CACM-1677
+
+
+
+DocID: CACM-1723
+
+
+
+DocID: CACM-1680
+
+
+
+DocID: CACM-2194
+
+
+
+DocID: CACM-2020
+
+
+
+DocID: CACM-2920
+
+
+
+DocID: CACM-3040
+
+
+
+DocID: CACM-2515
+
+
+
+DocID: CACM-2969
+
+
+
+DocID: CACM-2320
+
+
+
+DocID: CACM-2197
+
+
+
+DocID: CACM-3158
+
+
+
+DocID: CACM-0332
+
+
+
+DocID: CACM-2632
+
+
+
+DocID: CACM-2501
+
+
+
+DocID: CACM-3083
+
+
+
+DocID: CACM-1938
+
+
+
+DocID: CACM-2482
+
+
+
+DocID: CACM-2597
+
+
+
+DocID: CACM-1735
+
+
+
+DocID: CACM-3076
+
+
+
+DocID: CACM-3068
+
+
+
+DocID: CACM-2297
+
+
+
+DocID: CACM-2080
+
+
+
+DocID: CACM-0441
+
+
+
+DocID: CACM-0820
+
+
+
+DocID: CACM-2379
+
+
+
+DocID: CACM-2712
+
+
+
+DocID: CACM-1695
+
+
+
+DocID: CACM-1846
+
+
+
+DocID: CACM-1879
+
+
+
+DocID: CACM-2219
+
+
+
+DocID: CACM-2046
+
+
+
+DocID: CACM-2203
+
+
+
+DocID: CACM-0040
+
+
+
+DocID: CACM-1591
+
+
+
+DocID: CACM-3072
+
+
+
+DocID: CACM-3127
+
+
+
+DocID: CACM-1785
+
+
+
+DocID: CACM-2111
+
+
+
+DocID: CACM-3110
+
+
+
+DocID: CACM-1728
+
+
+
+DocID: CACM-2578
+
+
+
+DocID: CACM-1505
+
+
+
+DocID: CACM-2798
+
+
+
+DocID: CACM-2681
+
+
+
+DocID: CACM-3177
+
+
+
+DocID: CACM-2905
+
+
+
+DocID: CACM-2988
+
+
+
+DocID: CACM-2860
+
+
+
+DocID: CACM-0144
+
+
+
+DocID: CACM-3059
+
+
+
+DocID: CACM-3092
+
+
+
+DocID: CACM-1247
+
+
+
+DocID: CACM-2274
+
+
+
+DocID: CACM-3117
+
+
+
+DocID: CACM-0796
+
+
+
+DocID: CACM-3088
+
+
+
+DocID: CACM-3133
+
+
+
+DocID: CACM-2377
+
+
+
+DocID: CACM-2840
+
+
+
+DocID: CACM-2900
+
+
+
+DocID: CACM-2060
+
+
+
+DocID: CACM-3126
+
+
+
+DocID: CACM-3038
+
+
+
+DocID: CACM-2181
+
+
+
+DocID: CACM-0071
+
+
+
+DocID: CACM-2614
+
+
+
+DocID: CACM-3141
+
+
+
+DocID: CACM-2454
+
+
+
+DocID: CACM-0615
+
+
+
+DocID: CACM-2372
+
+
+
+DocID: CACM-2830
+
+

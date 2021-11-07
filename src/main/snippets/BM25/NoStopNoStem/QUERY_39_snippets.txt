@@ -1,0 +1,563 @@
+BM25_NoStopNoStem
+
+Query
+what dps type computability mean in languages that allow programmer-defined teams?  (you might want to recent this to "extensible" load-dependent allow deviation of abbott duda teams or programmer-supplied
+deviations of operates like *, +.)
+
+Top 100 Results (453 millisecs)
+
+
+DocID: CACM-3146
+
+projects, student [teams] software engineering skills  
+the clinic is to provide students, working as small [teams] under  
+campus to be studied and solved by student [teams]  the objective of  
+
+
+DocID: CACM-0961
+
+using only fortran ii.  these techniques allow  
+
+
+DocID: CACM-1783
+
+byan in-and-out conversion we [mean] that a floating-point  
+base to [allow] such in-and-out conversions to return  
+
+
+DocID: CACM-2078
+
+computer graphic [languages]  four alternative data structures  
+that [allow] automated space planning are described and compared.  
+
+
+DocID: CACM-1989
+
+deep-structure representations of the [type] normally obtained from a  
+transformational analysis, and conditions on the arcs [allow] for a  
+actions associated with the arcs of the grammar network [allow] for the reordering,  
+
+
+DocID: CACM-3159
+
+mean, standard deviation  
+further remark on stably updating [mean] and standard [deviation] estimates  
+
+
+DocID: CACM-2843
+
+graders, compilers, and monitor.  these [allow] the instructor  
+
+
+DocID: CACM-1678
+
+science program, automata, formal [languages]  
+automata, formal [languages] abstract switching,  
+switching theory, theory of computability  
+
+
+DocID: CACM-1210
+
+to facilitate handling of tape files.  they allow  
+
+
+DocID: CACM-2651
+
+coercion, generic functions, [extensible] [languages]  
+routines, programmer control over [type] conversion,  
+data [type] definition, data description language, compilation  
+
+
+DocID: CACM-1530
+
+tool to [allow] users to extend any existing programming  
+
+
+DocID: CACM-1214
+
+a set of subroutines to [allow] algebraic manipulations  
+
+
+DocID: CACM-2193
+
+have recently become available; these allow  
+
+
+DocID: CACM-1626
+
+of virtual memory to [allow] address arithmetic for type  
+
+
+DocID: CACM-1552
+
+high level functions automatically, but also allow  
+any size, and special provisions [allow] efficient  
+
+
+DocID: CACM-1416
+
+typical report generators [allow] the production  
+
+
+DocID: CACM-3192
+
+the programming of algorithmic process and should [allow] considerable  
+
+
+DocID: CACM-2785
+
+been extended to [allow] the programmer explicitly  
+glypnir is one of the earliest existing languages  
+
+
+DocID: CACM-2732
+
+programming [languages] sequencing primitives, program  
+constructs that [allow] nondeterministic program components  
+
+
+DocID: CACM-2799
+
+stably updating [mean] and standard [deviation] of data  
+mean and standard [deviation] can be updated as data  
+mean, standard [deviation] least squares, givens  
+
+
+DocID: CACM-2731
+
+mean, standard deviation  
+remark on stably updating [mean] and standard [deviation] of data  
+
+
+DocID: CACM-1262
+
+two statements are suggested which [allow] a programmer  
+
+
+DocID: CACM-2898
+
+way will [allow] concurrent evaluation.  this paper describes  
+
+
+DocID: CACM-1703
+
+reliable identification of programming languages  
+programming [languages] standards which accommodate  
+standardization, programming [languages] trac t-64  
+
+
+DocID: CACM-2389
+
+that language are described which [allow] the  
+
+
+DocID: CACM-2106
+
+spurious issues as possible;  2  [allow] without undue effort, the  
+ 7  [allow] the student ready access to the machine;  8  be capable  
+
+
+DocID: CACM-1390
+
+principle which [allow] their elaboration in to more  
+
+
+DocID: CACM-2699
+
+languages, set-theoretic [languages] data  
+optimizer uses techniques which [allow] relations of inclusion  
+
+
+DocID: CACM-2857
+
+allow threading of nonrecursive lists, can replace  
+
+
+DocID: CACM-2754
+
+algorithm is of sufficient speed to [allow] on-line  
+
+
+DocID: CACM-2138
+
+programming [languages] implementation language,  
+to [allow] access to all relevant hardware features of  
+
+
+DocID: CACM-2201
+
+systems, two-dimensional [languages] crt, microfilm  
+facility which will [allow] any professor to produce  
+
+
+DocID: CACM-2940
+
+specification and verification techniques that allow  
+corresponding constructs in other [languages]  a  
+languages, programming methodology, proofs of correctness, types, verification  
+
+
+DocID: CACM-3166
+
+mean, standard [deviation] least squares, updating  
+computing standard [deviations] accuracy  
+of the standard [deviation] of  unweighted  sampled data  
+
+
+DocID: CACM-2897
+
+recent developments in optimizing techniques  
+simple optimizations was identified which allow  
+
+
+DocID: CACM-2130
+
+ramamoorthy's suggestions is made in order to [allow] their application  
+
+
+DocID: CACM-1411
+
+calculated were the [mean] standard [deviation] and  
+of means, standard [deviations] and correlation  
+mean be obtained from a subset of the data.  
+
+
+DocID: CACM-2153
+
+which [allow] the student to press from a computer-controlled  
+
+
+DocID: CACM-1002
+
+allow the definition of recursive macros.  
+
+
+DocID: CACM-3097
+
+the minimum shift rate requirement does not [allow] one  
+
+
+DocID: CACM-2928
+
+6180 processor is demonstrated to [allow] the primary  
+
+
+DocID: CACM-2713
+
+remark on stably updating [mean] and  
+standard [deviation] of data  corrigendum   
+
+
+DocID: CACM-3167
+
+mean, standard [deviation] variance, updating estimates, removing data  
+updating [mean] and variance estimates: an improved method  
+is given for updating the [mean] and variance of weighted sampled data  
+
+
+DocID: CACM-2126
+
+programming [languages] [extensible] compiler, bootstrapping, ambiguity  
+experience with an [extensible] language  
+an operational [extensible] language system is described.  
+
+
+DocID: CACM-2273
+
+allow handling limited entry, extended entry, and mixed  
+
+
+DocID: CACM-0495
+
+in order to [allow] a computer of given memory  
+
+
+DocID: CACM-2723
+
+allow the list processor to run unimpeded while  
+
+
+DocID: CACM-2753
+
+the designer problem solver  [dps]  demonstrates  
+extensive tests performed on the program.  [dps] is  
+be easily updated.  [dps] has been applied to 50 problems.  
+
+
+DocID: CACM-2931
+
+computability theory.  programming [languages] offer  
+logic and programming languages  
+semantics, a-calculus models, [computability]  
+
+
+DocID: CACM-2627
+
+minimizing [mean] finishing time, minimizing [mean] flow  
+sequencing to minimize [mean] finishing time  
+scheduling independent tasks to reduce [mean] finishing time  
+
+
+DocID: CACM-3067
+
+of the cost structure [allow] gws and gopt to simulate  
+
+
+DocID: CACM-2265
+
+a model for [type] checking  
+programming [languages] syntax, semantics, compiler  
+most current programming [languages] treat computation  
+
+
+DocID: CACM-2377
+
+these rings of protection. the mechanisms [allow] cross-ring  
+
+
+DocID: CACM-1463
+
+more on [extensible] machines  
+various levels of programming [languages]  
+one of the most salient characteristics of extensible  
+
+
+DocID: CACM-1534
+
+allow the integration of a remote console  display  subsystem  
+
+
+DocID: CACM-1698
+
+
+
+DocID: CACM-2906
+
+in [recent] years, very high-level languages  
+
+
+DocID: CACM-1902
+
+different [languages] including assembly language.  
+is made for testing with [programmer-supplied] data  
+
+
+DocID: CACM-2314
+
+programming [languages] interactive systems, control  
+list processing, programming [languages] design of  
+structure model specified would [allow] programming  
+
+
+DocID: CACM-2899
+
+recent curricular development in computer science  
+results of a survey taken to determine the type  
+
+
+DocID: CACM-1856
+
+and comprehension process of tlc [allow] new factual assertions  
+
+
+DocID: CACM-3105
+
+programming [languages] access control, data types,  
+abstract data types, [type] checking, capabilities  
+paper shows how to extend programming languages  
+
+
+DocID: CACM-1162
+
+languages generally provide a one-for-one translation  
+
+
+DocID: CACM-2450
+
+has been proposed in [recent] years as a basis for  
+
+
+DocID: CACM-1923
+
+high level [languages] command language  
+level [languages] using basic input/output support  
+
+
+DocID: CACM-1988
+
+such as compiler-compilers or extendible [languages]  
+
+
+DocID: CACM-1121
+
+several points in a [recent] paper describing some  
+
+
+DocID: CACM-1602
+
+departure from the fortran/algol [type] though  
+
+
+DocID: CACM-2766
+
+operates in linear time and does not require tag bits.  
+
+
+DocID: CACM-2082
+
+and retrieval facilities so that other programmers who want  
+
+
+DocID: CACM-1638
+
+deviation of the length of the j-th sequence.  
+formulas are obtained for both the [mean] and the standard  
+
+
+DocID: CACM-3142
+
+what [type] of errors occur?  how easily are they corrected?  what  
+
+
+DocID: CACM-2305
+
+higher programming [languages] programming,  
+of today's programming languages  
+in today's programming [languages]  the investigation  
+
+
+DocID: CACM-1253
+
+to the reader familiar with algebraic [languages]  
+
+
+DocID: CACM-2835
+
+enumerated [type]  
+
+
+DocID: CACM-2989
+
+
+
+DocID: CACM-2712
+
+evaluation of multinomial sums, load-dependent  
+also shown how [mean] queue size and throughput an be obtained  
+
+
+DocID: CACM-0672
+
+recent developments affecting adp in tax administration  
+
+
+DocID: CACM-3179
+
+
+
+DocID: CACM-1930
+
+
+
+DocID: CACM-2956
+
+data types, generic procedures, programming languages  
+values from one [type] to another.  
+some ideas on data types in high-level languages  
+
+
+DocID: CACM-2939
+
+languages, through the procedure or subroutine.  
+programming [languages] data types, data abstractions,  
+with complete [type] checking performed at compile  
+
+
+DocID: CACM-0195
+
+
+
+DocID: CACM-1112
+
+
+
+DocID: CACM-2244
+
+product [type] trapezoidal integration  algorithm a436   
+numerical integration, product [type] quadrature, trapezoidal integration  
+
+
+DocID: CACM-2786
+
+
+
+DocID: CACM-2243
+
+numerical integration, product [type] quadrature, simpson's rule  
+product [type] simpson's integration [d1]  algorithm a437   
+
+
+DocID: CACM-2242
+
+product [type] two-point gauss-legendre-simpson's  
+numerical integration, product [type] quadrature,  
+
+
+DocID: CACM-2241
+
+product [type] three-point gauss-legendre-simpson's  
+numerical integration, product [type] quadrature,  
+
+
+DocID: CACM-1152
+
+presented which is not limited to the size or type  
+
+
+DocID: CACM-2400
+
+duda, r. o.  
+
+
+DocID: CACM-1589
+
+type or dimension declarations.  moreover, in the online  
+
+
+DocID: CACM-0618
+
+main types, and the markets for each [type] are  
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-1489
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-0265
+
+in symbolic [languages] and for use within fortran  
+
+
+DocID: CACM-3198
+
+microprogramming, emulators and programming languages  
+
+
+DocID: CACM-2572
+
+
+
+DocID: CACM-2317
+
+and in [extensible] [languages] but so far at least  
+languages, operating systems, programming  
+programming systems and [languages] 1965-1975  
+

@@ -1,0 +1,686 @@
+TFIDF_NoStopNoStem
+
+Query
+fast atkinsm for context-free language recognition or parsing
+
+Top 100 Results (93 millisecs)
+
+
+DocID: CACM-1265
+
+a number of diverse [recognition] procedures  
+comparison of the [recognition] of more realistic  
+the increase in [recognition] efficiency they afford  
+
+
+DocID: CACM-1350
+
+derivation from the original [context-free] grammar.  
+context-free grammar g, a standard-form grammar  
+the augmented predictive analyzer for context-free  
+
+
+DocID: CACM-2739
+
+the restriction [language] for computer grammars of natural language  
+natural [language] [parsing] grammar, programming languages  
+presents a programming [language] designed specifically  
+
+
+DocID: CACM-1527
+
+through questions posed in natural language  
+when the [recognition] function succeeds, its  
+sentences of a natural [language]  it  
+
+
+DocID: CACM-2110
+
+a [parsing] algorithm which seems to be the most efficient general context-free  
+syntax analysis, [parsing] [context-free] grammar,  
+an efficient [context-free] [parsing] algorithm  
+
+
+DocID: CACM-2061
+
+bounded-context [parsing] bounded-context syntactic analysis, parser  
+context-free grammars, formal languages, pushdown automata  
+an algorithm is described which accepts an arbitrary context-free  
+
+
+DocID: CACM-2030
+
+formal [language] theory, [parsing] [parsing] algorithms, [recognition] algorithms  
+context-sensitive parsing  
+context-sensitive grammars, context-sensitive [parsing] formal grammars,  
+
+
+DocID: CACM-2811
+
+structural pattern [recognition] [parsing] waveform analysis, pulse waves  
+to structural pattern [recognition] of carotid  
+structural pattern [recognition] of carotid pulse  
+
+
+DocID: CACM-1162
+
+is, from assembly [language] to machine [language]  
+an assembly [language] for reprogramming  
+complete reprogramming of compiler [language] programs  
+
+
+DocID: CACM-1012
+
+set t.  every [context-free] [language] can be analyzed  
+formal [parsing] systems  
+syntactic analysis determines a formal parsing  
+
+
+DocID: CACM-1856
+
+natural [language] processing, natural [language] comprehension,  
+the teachable [language] comprehender:  
+a simulation program and theory of language  
+
+
+DocID: CACM-2112
+
+recognition and [parsing] may be treated as special cases of the translation  
+expression, [context-free] languages, translation, recognizers,  
+parsing, meta-compilers, pushdown transducer, syntax  
+
+
+DocID: CACM-1454
+
+a simple user-oriented compiler source language  
+language containing subtle and more powerful  
+nonproblem-oriented conventions.  a simple [language] even  
+
+
+DocID: CACM-1989
+
+natural [language] analysis, [parsing] semantic interpretation,  
+transition network grammars for natural [language] analysis  
+of natural [language] sentences is described.  structure-building  
+
+
+DocID: CACM-2301
+
+algorithmic [language] processing,bottom-up [parsing]  
+floyd production [language] [parsing] syntax  
+a bottom-up scheme for [parsing] them, based  
+
+
+DocID: CACM-2698
+
+arbitrary input strings, [context-free] grammars,  
+parsing, dynamic programming, stored subanalyses,  
+context-free languages: a practical approach  
+
+
+DocID: CACM-2786
+
+typesetting.  experience indicates that the language  
+by a small [context-free] grammar; a compiler-compiler  
+is used to make a compiler that translates this language  
+
+
+DocID: CACM-2971
+
+the [language] easy to compile.  the resulting language  
+in troduces new programming [language] constructs while  
+programming [language] design, teaching programming, in troductory computing  
+
+
+DocID: CACM-1455
+
+procedures, the capabilities of the [language] can  
+and compiling  [language] and processing algorithm  
+trac, a procedure-describing [language] for the reactive typewriter  
+
+
+DocID: CACM-1525
+
+on computing the [fast] fourier transform  
+cooley and tukey have proposed a [fast] algorithm  
+is briefly reviewed and [fast] difference equation methods  
+
+
+DocID: CACM-2215
+
+to sequential pattern recognition  
+sequential pattern [recognition] game tree searching,  
+some computer simulated experiments in character recognition  
+
+
+DocID: CACM-2703
+
+for including the semantics of a [context-free] language  
+attribute grammars, circularity problem, context-free  
+attribute grammars are an extension of context-free  
+
+
+DocID: CACM-2402
+
+pictorial pattern [recognition] and the  
+pictorial pattern [recognition] phase problem,  
+pattern [recognition] algorithms is hindered by the fact  
+
+
+DocID: CACM-1768
+
+parser, syntax-directed compiler, context-free  
+an algorithm for analyzing any [context-free] phrase  
+a global parser for [context-free] phrase structure grammars  
+
+
+DocID: CACM-2794
+
+proving, [language] recognition  
+language [recognition] problem which is based on the cocke  
+parsing algorithm is used as an illustration.  
+
+
+DocID: CACM-2178
+
+flowchart, syntax, [language] definition  
+a simple programming [language] "extension,"  
+graph processing, programming [language] formal semantics,  
+
+
+DocID: CACM-1825
+
+language, syntax-directed compiler, language  
+processor, [context-free] [language] algol  
+of recognizing and [parsing] an input during a single  
+
+
+DocID: CACM-2733
+
+lr [parsing] ll [parsing] ambiguous grammars  
+deterministic [parsing] of ambiguous grammars  
+programming [language] specification, parser generation,  
+
+
+DocID: CACM-1665
+
+machine, [parsing] plex structure, regular expressions,sequential  
+analyze the [language] and detect errors, and  
+as [fast] as hand-coded processors, which would  
+
+
+DocID: CACM-2492
+
+parsing of complex decision situations  
+parsing based only on syntactical characteristics  
+decision tables, [parsing] decision grid chart,problem analysis  
+
+
+DocID: CACM-2581
+
+parsing, speech [recognition] speech understanding,  
+augmented transition network, local parsing  
+parsing system, designed for use in a continuous  
+
+
+DocID: CACM-2246
+
+designed machine-independent [language] and  
+levels of [language] for portable software  
+portable software, level of [language] machine  
+
+
+DocID: CACM-2060
+
+quasi-parallel process, typeless [language] applicative [language]  
+gedanken-a simple typeless [language] based on the  
+programming [language] data structure, reference, assignment, coroutine,  
+
+
+DocID: CACM-2906
+
+very high level [language] nonprocedural [language]  
+data flow [language] business application, business  
+problem.  the business definition [language]  bdl   
+
+
+DocID: CACM-3087
+
+an english [language] question answering system  
+question answering, relational database, natural [language]  
+dialogue, query generation, information retrieval, natural [language] programming  
+
+
+DocID: CACM-1726
+
+pattern [recognition] character [recognition] text  
+resolution suitable for character [recognition]  
+
+
+DocID: CACM-2050
+
+content analysis, [parsing] syntactic analysis, natural [language] processing,  
+automatic [parsing] for content analysis  
+information retrieval, [language] analysis, text processing  
+
+
+DocID: CACM-2084
+
+type 2 [language] bounded language  
+ambiguity, inherent ambiguity, complement, [context-free] [language]  
+chomsky-language, phrase structure [language] production system,  
+
+
+DocID: CACM-2091
+
+problem oriented or digital simulation [language]  
+pdel-a [language] for partial differential equations  
+equation [language] pdel, is outlined, and the highlights  
+
+
+DocID: CACM-1641
+
+level a nonhomogeneous store composed of [fast]  core   
+leaves the most often called pages in the [fast] memory.  
+a use of [fast] and slow memories in list-processing languages  
+
+
+DocID: CACM-2054
+
+speech [recognition] word [recognition] pattern-matching, pattern  
+recognition, time-sharing, remote access, voice input, speech input,  
+considered.  details of a specific word [recognition] program are given.  this  
+
+
+DocID: CACM-2481
+
+a virtual memory computer system with a fast  
+the cost-time integral of primary and [fast] buffer  
+cache, virtual memory, lifetime function, cost-time integral, [fast] buffer  
+
+
+DocID: CACM-1787
+
+grammar, [context-free] [language] formal [language]  
+parsing  
+recognizer for sentences of the corresponding [language]  
+
+
+DocID: CACM-2310
+
+pattern [recognition] pattern generation,  
+language analysis in the humanities  
+language analysis, humanities, science of the humanities,  
+
+
+DocID: CACM-1855
+
+analysis, [parsing] analysis procedure, recognition  
+syntactic analysis, [language] processing, language  
+
+
+DocID: CACM-2702
+
+computational complexity, [context-free] grammars,  
+parsing, lr k  grammars, np-complete problems  
+context-free grammar is a member of some easily  
+
+
+DocID: CACM-2195
+
+picture processing, picture [recognition] picture  
+global [recognition] parallel processing, dynamic  
+of the problem is not embedded in the [recognition] algorithm  
+
+
+DocID: CACM-2179
+
+grammar, syntactic analysis, [parsing] algorithm,  
+a class of [context-free] grammars, called the  
+context-free grammar, lr k  grammar, precedence  
+
+
+DocID: CACM-1188
+
+an algol-like computer design language  
+programming [language]  the purposes and requirements  
+the design [language] is presented in terms  
+
+
+DocID: CACM-1767
+
+language  
+graphic [language] interactive, incremental compilation,  
+language design, metacompiler, syntax specified  
+
+
+DocID: CACM-0644
+
+an artificial computer programming language  
+language is followed by examples, a description of  
+algol 60 report, defines the proposed string [language]  
+
+
+DocID: CACM-2059
+
+a [language] for treating graphs  
+colored graph, [language] extended algol,  
+are represented by linked lists.  the [language] is syntactically defined  
+
+
+DocID: CACM-1470
+
+a basic instruction of the programming [language]  
+of every programming [language]  1  the elementary  
+for a [language]   he concludes by suggesting the evolution  
+
+
+DocID: CACM-2546
+
+larger class of [context-free] grammars.  
+grammar design, [language] definition, inference,  
+both in designing a new programming language  
+
+
+DocID: CACM-1681
+
+mode, information retrieval [language] symbolic command language  
+easy english,a [language] for information  
+natural [language] communication, on-line searching,  
+
+
+DocID: CACM-2113
+
+recognition, pattern [recognition] matching procedures, tree-structure  
+parsing, syntactic analysis, natural[language] analysis, linguistic data  
+
+
+DocID: CACM-1900
+
+specification, [language] standard maintenance, [language] standard  
+language, standardization, [language] standard  
+clarification, [language] standard interpretation,  
+
+
+DocID: CACM-1788
+
+programming [language] translator, programming language  
+translator, meta [language] processor, compiler-compiler,  
+macro instruction processor; meta processor, meta language  
+
+
+DocID: CACM-2154
+
+language standard clarification, [language] standard  
+programming [language] standardization, language  
+standard specification, [language] standard maintenance,  
+
+
+DocID: CACM-2003
+
+monitor [language] graphic [language] extended fortran  
+design, software system, software organization, [language]  
+language.  the application to computer-aided circuit design  
+
+
+DocID: CACM-2406
+
+definition [language] for describing both logical  
+computer [language] for specifying data structures.  
+a data definition and mapping language  
+
+
+DocID: CACM-2230
+
+graphic [language] problem-oriented [language] two-dimensional  
+in this paper cadep, a problem-oriented language  
+space, is presented.  although the [language] has been  
+
+
+DocID: CACM-3138
+
+
+
+DocID: CACM-0462
+
+pattern classification and [recognition] devices  
+computer pattern [recognition] techniques: electrocardiographic diagnosis  
+for the purpose of pattern [recognition]  in this way  
+
+
+DocID: CACM-1679
+
+fast fourier transform, time series analysis, digital  
+the order and symmetry of the cooley-turkey fast  
+a [fast] fourier transform algorithm for real-valued series  
+
+
+DocID: CACM-2754
+
+parsing, electrocardiogram.  
+approximation, [context-free] grammar, bottom-up  
+and tabular [parsing] techniques.  several parameters serve  
+
+
+DocID: CACM-3094
+
+language.  
+analyses of deterministic [parsing] algorithms  
+and bottom-up [parsing] relative efficiencies.  
+
+
+DocID: CACM-1399
+
+on top-to-bottom [recognition] and left recursion  
+the [recognition] according to a strongly equivalent,  
+descriptions in a [context-free] grammar by performing  
+
+
+DocID: CACM-1179
+
+pufft-the purdue university [fast] fortran translator  
+language compatibility has been maintained so that  
+language programs are processed at very high speeds.  
+
+
+DocID: CACM-2652
+
+design of programming languages, [language] contraction,  
+reduction of compilation costs through [language] contraction  
+expressed in that [language] when features not actually  
+
+
+DocID: CACM-2842
+
+semantics, programming [language] applicative, imperative,  
+to formal [language] specification is demonstrated  
+theory of programming [language] semantics developed  
+
+
+DocID: CACM-0616
+
+concerned with providing a working [language] for  
+the [language] structure group:  robert bosak, system  
+first phase of the work of the [language] structure  
+
+
+DocID: CACM-1824
+
+aparel-a parse-request language  
+macro system, an algebraic [language] preprocessor debugging  
+form their own programming [language] with special sequencing  
+
+
+DocID: CACM-2898
+
+nonprocedural programming, definitional [language]  
+a sequential programming [language] forces the  
+language providing both nonprocedural and sequential  
+
+
+DocID: CACM-2873
+
+a conversational programming [language] for analytic  
+lg: a [language] for analytic geometry  
+of using this [language] to design other  
+
+
+DocID: CACM-2645
+
+in the first [language] a go-to-less programming  
+60.  the second [language] consists of interactive  
+language and to output results estimating its efficiency.  
+
+
+DocID: CACM-3045
+
+syntax errors, error recovery, [parsing]  
+with negligible increase in [parsing] time, space,  
+no attempt to repair errors is made, yet [parsing] and  
+
+
+DocID: CACM-1548
+
+parsing of decision tables  
+and context relationships.  such parsing  
+considered in this paper are on the [parsing] of decision  
+
+
+DocID: CACM-1307
+
+or remember the vocabulary of the [language] because  
+the user severely in the particular [language] he can use,  
+a programming [language] it is essential that he be aided  
+
+
+DocID: CACM-1264
+
+
+
+DocID: CACM-2194
+
+
+
+DocID: CACM-1184
+
+a [fast] storage allocator  
+low-level list [language] , makes available  
+a [fast] storage bookkeeping method is described  
+
+
+DocID: CACM-1693
+
+gpl, a truly general purpose language  
+a truly general purpose programming [language]  
+programming [language] general purpose, self-extending, macro, algol  
+
+
+DocID: CACM-0679
+
+madcap is a programming [language] admitting subscripts,  
+compiler for a displayed formula textbook [language] comm.  
+recent improvements in the [language] in three areas: complex  
+
+
+DocID: CACM-2717
+
+translation definition [language] convert,  
+definition [language] for data conversion  
+other [language] or program bearing the same name.  
+
+
+DocID: CACM-1602
+
+with the new [language] the user need only describe  
+instruction. in this way the pose [language] user can  
+pose: a [language] for posing problems to a computer  
+
+
+DocID: CACM-2127
+
+question-answering, natural [language] artificial intelligence,language  
+language question-answering systems are reviewed  
+natural [language] question-answering systems: 1969  
+
+
+DocID: CACM-1747
+
+programming languages, programming language  
+design, program semantics, programming [language] semantics,  
+machine of a programming [language] and the notion  
+
+
+DocID: CACM-1272
+
+of text in [language] processing operations,  
+expanding the editing function in [language] data processing  
+
+
+DocID: CACM-1650
+
+
+
+DocID: CACM-3132
+
+pattern [recognition] pattern classification, linear discriminants, central  
+in two-class pattern [recognition] it is a standard  
+
+
+DocID: CACM-2534
+
+source [language] is employed, and that  
+a [fast] and efficient processor.  it effectively demonstrates  
+
+
+DocID: CACM-1309
+
+which makes possible [fast] preparation of management  
+a computer [language] system has been developed  
+
+
+DocID: CACM-2421
+
+which are [fast] will reserve a buffer area large enough  
+
+
+DocID: CACM-1421
+
+a programming [language] similar in many respects  
+is a rigorous definition of the proposed [language]  
+to be used with the [language] including facilities  
+
+
+DocID: CACM-1253
+
+language, 20-gate.  the quikscript [language] its internal  
+quikscript-a simscript- like [language] for the g-20  
+quikscript is a simulation [language] based on  
+
+
+DocID: CACM-2389
+
+that [language] are described which allow the  
+rely on heuristic programming.  both the language  
+used to solve problems expressed in this language  
+
+
+DocID: CACM-1703
+
+with the [language]  explicit standardization of the language  
+language, tranemark, public identification of  
+interactive [language] and its related family of languages.  
+
+
+DocID: CACM-1542
+
+interpretive [language] which can be executed  
+language euler has been implemented in  
+string [language] interpreter, and of an i/o control  
+
+
+DocID: CACM-2254
+
+dynamic partitioning, array partitioning array [language]  
+array [language] operation.  various modes of partitioning  
+language design, array control blocks, partition control blocks  
+

@@ -1,0 +1,567 @@
+BM25_NoStopNoStem
+
+Query
+ibm interested in mechanisms for communicating between disjoint processes,
+possibly, but not eiculslxevy, in a discerned ervmneninot.  i word-order see deviations of complete mechanisms, wish or wishout interrelationships opposed to theoretical work on the abstract pbelrom.  rome processinghas and message-passing are enables of my interests.
+
+Top 100 Results (1016 millisecs)
+
+
+DocID: CACM-2844
+
+mechanisms, priority queues, heaps  
+heaps applied to event driven mechanisms  
+
+
+DocID: CACM-2870
+
+of automatic program certification mechanisms  
+this paper investigates [mechanisms] that guarantee  
+the construction of [mechanisms] that enforce security.  
+
+
+DocID: CACM-2939
+
+abstraction [mechanisms] in clu  
+with [complete] type checking performed at compile  
+mechanisms that support the use of data and  
+
+
+DocID: CACM-2558
+
+linguistic [mechanisms] which can be used to protect  
+
+
+DocID: CACM-0483
+
+algol 60 is defined partly by formal mechanisms  
+stated restrictions.  it is shown that no formal mechanisms  
+
+
+DocID: CACM-2377
+
+of protection.  the [mechanisms] for implementing  
+hardware processor [mechanisms] for implementing these rings  
+these rings of protection. the [mechanisms] allow cross-ring  
+
+
+DocID: CACM-3105
+
+abstract data types, type checking, capabilities  
+languages that support the notion of [abstract] data  
+in operating systems by access control [mechanisms]  this  
+
+
+DocID: CACM-2742
+
+discrete event simulation, simulation, event scanning mechanisms  
+improved event-scanning [mechanisms] for discrete event simulation  
+
+
+DocID: CACM-2626
+
+key [mechanisms] described include access control lists,  
+the design of [mechanisms] to control the sharing  
+
+
+DocID: CACM-3128
+
+abstract objects called eventcounts and sequencers, that allows processes  
+ordering of events in the [processes]  
+synchronization of concurrent [processes] requires controlling the relative  
+
+
+DocID: CACM-2936
+
+scanning [mechanisms] multilinked lists  
+simulation, time flow [mechanisms] event  
+
+
+DocID: CACM-2767
+
+simulation, time flow [mechanisms] event  
+simulation, time flow [mechanisms] event list algorithm,  
+
+
+DocID: CACM-2721
+
+between the ecological [mechanisms] involved, the  
+river ecosystems, ecological [mechanisms] environmental simulation,  
+
+
+DocID: CACM-2632
+
+called an "object".  [mechanisms] are presented  
+type of object.  the [mechanisms] provide a coherent  
+
+
+DocID: CACM-1463
+
+the employment of linkage [mechanisms] through  
+
+
+DocID: CACM-2541
+
+communication [mechanisms] enabling the construction  
+allocation. this separation [enables] incorporation  
+
+
+DocID: CACM-2060
+
+quasi-parallel [processes] and other unorthodox control [mechanisms]  
+
+
+DocID: CACM-1677
+
+addressing [mechanisms] paging, segmentation, file  
+
+
+DocID: CACM-2342
+
+processes as well as to software [processes] and  
+interference between [communicating] parallel processes  
+operating systems, parallel processes  
+
+
+DocID: CACM-2840
+
+a model of protection [mechanisms] in computing  
+
+
+DocID: CACM-3188
+
+
+
+DocID: CACM-1754
+
+storage fragmentation, storage hierarchies, addressing mechanisms  
+
+
+DocID: CACM-0616
+
+interested in developing a [theoretical] approach to data  
+univac division;  roy goldfinger  chairman , ibm  
+first phase of the [work] of the language structure  
+
+
+DocID: CACM-2150
+
+independent [processes] from simultaneous access  
+there are two distinct classes of [processes] known  
+one of the case where we [wish] minimum delay for  
+
+
+DocID: CACM-1485
+
+elementary program statement,  2  [mechanisms] for linking  
+
+
+DocID: CACM-2705
+
+flexion less, [word-order] based language types  
+abstract constructs.  by analogy with incidents  
+avenues for further [work] of wide influence are  
+
+
+DocID: CACM-0414
+
+the [ibm] 1440 data processing system, announced  
+ibm 1440 data processing system features five new units  
+
+
+DocID: CACM-2320
+
+operating systems, concurrent [processes] shared  
+critical regions and event variables [enables] the  
+a data structure shared by concurrent processes  
+
+
+DocID: CACM-2519
+
+psychological and information-processing [processes] and  
+information we are [communicating] and a sophisticated  
+on the problem of [communicating] complex information  
+
+
+DocID: CACM-0946
+
+suggestions on algol 60  [rome]  issues - a report by the american  
+
+
+DocID: CACM-2895
+
+of [communicating] parallel [processes] is described.  
+
+
+DocID: CACM-3064
+
+event simulation, time-flow mechanisms  
+
+
+DocID: CACM-2314
+
+data communication [mechanisms]  interactive  
+
+
+DocID: CACM-3132
+
+
+
+DocID: CACM-2912
+
+two techniques for transmitting messages between [processes]  
+by one process and read by other [processes]  
+
+
+DocID: CACM-1470
+
+program statement,  2  [mechanisms] for linking elementary  
+
+
+DocID: CACM-2815
+
+the scheme is designed to [work] with any existing  
+
+
+DocID: CACM-2905
+
+shown to be [complete] in the sense that for every  
+method, is not [complete] in the above sense, but it seems  
+
+
+DocID: CACM-2684
+
+to define [abstract] syntax and translations between languages,  
+systems in providing a readable and [complete] formal definition  
+
+
+DocID: CACM-1323
+
+i.e. an [abstract] compiler" into the "abstract  
+then this model is used as an [abstract] object language"  
+
+
+DocID: CACM-1145
+
+isomorphism tester-incorporates a variety of processes  
+in the comit language and successfully tested on the [ibm] 7090.  
+
+
+DocID: CACM-1458
+
+changes in the [processes] related to producing and checking  
+
+
+DocID: CACM-2848
+
+a structure of [complete] decision tables.  
+is not a structure of [complete] decision tables  
+processes to be automated.  the result of such an interview  
+
+
+DocID: CACM-3177
+
+olutely no information about d.  this technique [enables] the construction  
+k pieces, but even [complete] knowledge of k - 1 pieces reveals  
+
+
+DocID: CACM-1846
+
+simulation, parallel [processes] simultaneous events,  
+events in separate [processes] is introduced.  
+on simulating networks of parallel processes  
+
+
+DocID: CACM-2851
+
+are presented: an [abstract] conceptual model and  
+an appendix is included which relates this work  
+processes  executing the program.  an induction  
+
+
+DocID: CACM-3073
+
+communicating sequential processes  
+composition of [communicating] sequential [processes] is  
+
+
+DocID: CACM-2717
+
+the users to visualize the translation [processes]  
+on the simple underlying concept of a form which enables  
+
+
+DocID: CACM-1931
+
+
+
+DocID: CACM-1412
+
+to real-time, direct access processing,has led  
+be [discerned]  in introducing the banking information  
+
+
+DocID: CACM-0990
+
+
+
+DocID: CACM-2627
+
+for independent tasks is polynomial [complete] and hence unlikely  
+
+
+DocID: CACM-3103
+
+purpose implementation for an [abstract] type.  
+abstract data types, automatic programming, data  
+thus the programs produced using [abstract] types were  
+
+
+DocID: CACM-1590
+
+converter attached to an interconnected [ibm] 7090-pdp-1  
+within 1 to 2 times real-time on the [ibm] 7090.  
+
+
+DocID: CACM-2376
+
+synchronization of [communicating] processes  
+running [processes] of a system communicate correctly.  
+and many receiving [processes] which remove messages  
+
+
+DocID: CACM-2865
+
+verification, concurrent [processes] synchronization,  
+is in some sense [complete] for partial correctness.  
+
+
+DocID: CACM-3053
+
+primarily suited for important fixed  but possibly  
+
+
+DocID: CACM-2020
+
+allocation [mechanisms] charging, computer pricing,  
+
+
+DocID: CACM-1665
+
+mechanisms based upon an ordered sequence  
+
+
+DocID: CACM-1014
+
+though the experimenter may not be [interested] in  
+to the computer to handle the bulk of [work] involved  
+
+
+DocID: CACM-2958
+
+that are both consistent and [complete]  
+abstract data type, correctness proof, data type,  
+abstract data types can play a significant role  
+
+
+DocID: CACM-1943
+
+special functions, [complete] elliptic integral  
+complete elliptic integrals  algorithm 165 [s21]   
+of the first kind, [complete] elliptic integral of  
+
+
+DocID: CACM-0724
+
+among other programmers.  nature of the [work] offered  
+work, and mostfind their jobs offer high level of professional  
+
+
+DocID: CACM-0618
+
+man-man-machine [processes] are characterized in five  
+
+
+DocID: CACM-0949
+
+
+
+DocID: CACM-1394
+
+of these calculations take several months to [complete] although  
+takes less than fifteen minutes on an [ibm] 7090.  
+discussed.  at present, about six months of human work  
+
+
+DocID: CACM-2450
+
+base [theoretical] [work]  
+
+
+DocID: CACM-3127
+
+encourages structuring programs as networks of [communicating] processes  
+
+
+DocID: CACM-0321
+
+
+
+DocID: CACM-3069
+
+may be used, and which are [possibly] preserved by a call  
+
+
+DocID: CACM-0040
+
+communicating between man and the computer.  in  
+
+
+DocID: CACM-0069
+
+computing centers which have [ibm] 650's.  
+statistical programs for the [ibm] 650-part i  
+
+
+DocID: CACM-2900
+
+polynomial [complete]  heuristics and other  
+
+
+DocID: CACM-2288
+
+set.  its existence [enables] the design of an information  
+
+
+DocID: CACM-1440
+
+of primary interest on [ibm] system/360.  
+starting approximations for square root calculation on [ibm] system/360  
+in a form to facilitate their use in [ibm] system/360 square  
+
+
+DocID: CACM-0163
+
+counting ones on the [ibm] 7090  
+
+
+DocID: CACM-2359
+
+size; and significant use of the file in the index as opposed  
+
+
+DocID: CACM-0818
+
+realizing boolean connectives on the [ibm] 1620  
+
+
+DocID: CACM-0106
+
+a general method which [enables] efficient erasure.  the  
+
+
+DocID: CACM-1362
+
+
+
+DocID: CACM-1209
+
+negative and zero subscripts in fortran ii programming for the [ibm] 1620  
+
+
+DocID: CACM-1462
+
+
+
+DocID: CACM-0526
+
+
+
+DocID: CACM-3166
+
+computing standard [deviations] accuracy  
+
+
+DocID: CACM-1253
+
+
+
+DocID: CACM-2263
+
+
+
+DocID: CACM-0425
+
+complete elliptic integral  algorithm 149   
+
+
+DocID: CACM-2371
+
+a system of communication between [processes] in a  
+system is extended so that it may be used between processes  
+
+
+DocID: CACM-0171
+
+
+
+DocID: CACM-0876
+
+complete elliptic integral  algorithm 149   
+
+
+DocID: CACM-2624
+
+sensitive instruction, formal requirements, abstract  
+systems, e.g. cp-67 on the [ibm] 360/67.  from previous  
+
+
+DocID: CACM-2940
+
+abstraction and representation, [abstract] data types,  
+on [abstract] entities without explicit dependence on the  
+of [abstract] data types.  in this paper the abstraction techniques  
+
+
+DocID: CACM-0883
+
+complete elliptic integrals  algorithm 165   
+
+
+DocID: CACM-1307
+
+but the method for [communicating] with the program  
+
+
+DocID: CACM-3141
+
+in circular configurations of processes  
+numbered [processes] arranged in a circle, in which no central  
+controller exists and the number of [processes] is not known a priori.  
+
+
+DocID: CACM-1530
+
+own notation.  this allows a [complete] user-oriented  
+
+
+DocID: CACM-1112
+
+
+
+DocID: CACM-2318
+
+examines the [interrelationships] between models and other  
+
+
+DocID: CACM-1135
+
+in the languages, as [opposed] to emphasizing  
+into a compiler the aspects common to all processes  
+of all batch file [processes]  this new philosophy has  
+
+
+DocID: CACM-2932
+
+and [theoretical] significance are given.  directions  
+

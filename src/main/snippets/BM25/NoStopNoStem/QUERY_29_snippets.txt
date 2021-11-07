@@ -1,0 +1,607 @@
+BM25_NoStopNoStem
+
+Query
+number-theoretic algorithms, especially involving prime number series,
+sieves, and circle remember toehrem.
+
+Top 100 Results (140 millisecs)
+
+
+DocID: CACM-1539
+
+prime [number] generator 1; [prime] [number] generator  
+
+
+DocID: CACM-1840
+
+prime numbers, factoring, [number] theory  
+an efficient [prime] [number] generator  algorithm 357 [a1]   
+
+
+DocID: CACM-1841
+
+prime numbers, [number] theory, sorting  
+a [prime] [number] generator using the  
+
+
+DocID: CACM-2927
+
+computational complexity, sieve, [prime] [number] generation,  
+involving space-time and additive-multiplicative  
+number theory, linked list, preprocessing,  
+
+
+DocID: CACM-1933
+
+number generator modulo 2**31 - 1, a [prime] mersenne  
+pseudo-random [number] random [number] modular arithmetic,  
+function, simulation, [prime] factorization, primitive roots  
+
+
+DocID: CACM-2089
+
+prime [number]  algorithm 310 $a1    
+prime numbers, generator  
+
+
+DocID: CACM-3141
+
+decentralized [algorithms] distributed systems, operating systems  
+numbered processes arranged in a [circle] in which no central  
+message extinction in order to achieve an average [number] of  
+
+
+DocID: CACM-3131
+
+algorithms [especially] useful for microcomputer control and other  
+focus microcomputer [number] system  
+number representation, logarithmic arithmetic, computational  
+
+
+DocID: CACM-2994
+
+display, integer arithmetic, [circle] algorithm  
+graphics, [circle] drawing, step generation, dot  
+step patterns closet to the true [circle]  
+
+
+DocID: CACM-2462
+
+an efficient [prime] [number] generator  algorithm r357   
+
+
+DocID: CACM-1537
+
+prime [number] generator 1  algorithm 310 [a1]   
+
+
+DocID: CACM-1538
+
+prime [number] generator 2  algorithm 311 [a1]   
+
+
+DocID: CACM-1420
+
+a new uniform pseudorandom [number] generator  
+number generator is discussed, in which the  
+modulus is the largest [prime] within accumulator capacity  
+
+
+DocID: CACM-1967
+
+number theory, [prime] numbers, complex numbers  
+
+
+DocID: CACM-0804
+
+exponentiation of [series]  [algorithms] 134   
+
+
+DocID: CACM-0122
+
+least squares fitting of a great [circle] through points on a sphere  
+
+
+DocID: CACM-2770
+
+is a [prime] [number]  here, certain results are derived for  
+the quadratic hash method when the table size is not a [prime] number  
+
+
+DocID: CACM-2329
+
+computer science-a vicious circle  
+
+
+DocID: CACM-1874
+
+number, random [number] generator, multiplicative  
+random [number] uniform distribution, pseudo-random  
+involving absolute values is also shown to have twice  
+
+
+DocID: CACM-0942
+
+fortran subroutines for time [series] analysis  
+piece of applied statistical research, [involving] extensive  
+up almost completely from a small [number] of basic operations,  
+
+
+DocID: CACM-2507
+
+representation, mixed radix conversion, [prime] [number]  
+
+
+DocID: CACM-2206
+
+representation, mixed-radix conversion, [prime] [number]  
+
+
+DocID: CACM-3037
+
+primes, [algorithms] data structures  
+a linear sieve algorithm for finding [prime] numbers  
+it is also easily extended to find the prime  
+
+
+DocID: CACM-2167
+
+algorithms and the [number-theoretic] conjectures on which  
+algorithms for certain classes of expressions are included.  
+
+
+DocID: CACM-2276
+
+and speed, with some new [algorithms]  a [number] of procedures  
+convert taylor [series] expansions directly  
+shorter [algorithms] and faster but space consuming  
+
+
+DocID: CACM-2767
+
+scheduling distributions [especially] chosen to show  
+a comparison of simulation event list algorithms  
+the advantages and limitations of the [algorithms]  
+
+
+DocID: CACM-1679
+
+where the [number] of points in the [series] is  
+fast fourier transform, time [series] analysis, digital  
+a fast fourier transform algorithm for real-valued series  
+
+
+DocID: CACM-1717
+
+prime implicants, extremal, switching function,  
+algorithm to obtain the extremals and [prime] implicants  
+generating [prime] implicants via ternary encoding and decimal arithmetic  
+
+
+DocID: CACM-2138
+
+is designed so as to be [especially] suitable  
+systems, etc.  [prime] design goals of the design are the  
+
+
+DocID: CACM-1307
+
+or [remember] the grammar.  the program restricts  
+or [remember] the vocabulary of the language because  
+
+
+DocID: CACM-2109
+
+hence the entire table of size p, where p is that [prime] [number] can be searched.  
+the storage table.  it is shown that for some classes of [prime] numbers  
+
+
+DocID: CACM-0944
+
+properties applicable to problems involving  
+certain list properties is available.  of [prime] interest  
+
+
+DocID: CACM-1691
+
+modulo two, congruential generators, [prime] numbers,  
+random numbers, pseudorandom [number] generators, autocorrelation  
+tests for random [number] generators.  it  
+
+
+DocID: CACM-1094
+
+prime twins  algorithm 223   
+
+
+DocID: CACM-1924
+
+matrix [algorithms] array processing, paging [algorithms]  
+multiplication, and inversion [algorithms] shows  
+carefully designed matrix [algorithms] can lead to  
+
+
+DocID: CACM-2325
+
+of computation, [algorithms] continuous algorithms  
+ finite precision [number] systems, computational  
+complexity , synthesis and analysis of [algorithms]  
+
+
+DocID: CACM-2229
+
+series, such as poisson [series] or chebyshev [series]  it  
+series, poisson [series] fourier series  
+with chebyshev [series] and with fourier [series]  
+
+
+DocID: CACM-2606
+
+integration, taylor [series] singularities,  
+gragg-bulirsh-stoer, and the taylor [series] method.  
+series expansions.  the new method is compared with  
+
+
+DocID: CACM-2289
+
+algorithms for distance and spanning tree problems  
+algorithms are presented for the solution of certain  
+these [algorithms] exhibit a computation time that in  
+
+
+DocID: CACM-2694
+
+legendre [series] chebyshev series  
+computation of legendre [series] coefficients [c6]  algorithm a473   
+
+
+DocID: CACM-2355
+
+quadrature, error estimates, chebyshev series  
+of reasons, [especially] the high accuracy obtained from  
+
+
+DocID: CACM-2146
+
+sorting, polyphase sorting, dispersion [algorithms]  
+new dispersion [algorithms] with more straightforward  
+various dispersion [algorithms] for the polyphase  
+
+
+DocID: CACM-2402
+
+autocorrelation or patterson function, especially  
+digital computers encourages the development of algorithms  
+pattern recognition [algorithms] is hindered by the fact  
+
+
+DocID: CACM-2490
+
+graphs,analysis of [algorithms] graph manipulation  
+efficient [algorithms] are presented for partitioning  
+and e is the [number] of edges, each algorithm  
+
+
+DocID: CACM-2605
+
+involving these numbers are executed according to interval  
+the solution to a small [number] of standard  
+each computed [number] is bounded in an interval with a  
+
+
+DocID: CACM-1780
+
+harmonic analysis, cosine [series] sine [series] function  
+series  
+
+
+DocID: CACM-2555
+
+applied to expressions [involving] any variable-precision  
+cos, which have simple [series] expansions, can be handled similarly.  
+
+
+DocID: CACM-2644
+
+a language [especially] oriented toward automated  
+because of the large [number] of strategies  
+
+
+DocID: CACM-1171
+
+between the [algorithms] is not only the number  
+algorithms for linear programming  
+of constraints and the [number] of variables but  
+
+
+DocID: CACM-2410
+
+orthogonal expansions, [series] interconversion,  
+recurrence, three-term recurrence, five-term recurrence, chebyshev series  
+for summing any finite [series] whose terms satisfy  
+
+
+DocID: CACM-3166
+
+four [algorithms] for the numerical computation  
+estimates, rounding error analysis, condition [number]  
+and computational literature; the other two are new algorithms  
+
+
+DocID: CACM-1995
+
+function evaluation, [series] summation, approximation  
+special [series] summation with arbitrary precision $c6   algorithm 393   
+
+
+DocID: CACM-2332
+
+function evaluation, [series] summation, approximation  
+special [series] summation with arbitrary precision  algorithm r393   
+
+
+DocID: CACM-2067
+
+multilevel logic design, generalized [prime] implicants,  
+
+
+DocID: CACM-2114
+
+lists, [prime] keyword, parallel processing of lists  
+derived.  two [algorithms] which retrieve records from the generalized file  
+
+
+DocID: CACM-1109
+
+even slowly convergent power [series] can be  
+rearranged as [series] in chebyshev polynomials if  
+conversion of a power to a [series] of chebyshev polynomials*  
+
+
+DocID: CACM-2521
+
+chebyshev [series] differentiation, integration,  
+of chebyshev [series] [c1]  algorithm a446   
+
+
+DocID: CACM-2306
+
+ancient babylonian algorithms  
+sexagesimal [number] system, sorting  
+science.  a [number] of old babylonian tablets, many  
+
+
+DocID: CACM-2283
+
+thinning [algorithms] rectangular, hexagonal,  
+and the relative performances of the algorithms  
+in this report three thinning [algorithms] are  
+
+
+DocID: CACM-1957
+
+the list set generator is defined and algorithms  
+results from any expression [involving] sets and set operators.  the  
+
+
+DocID: CACM-2267
+
+algorithms to reveal properties of floating-point arithmetic  
+two [algorithms] are presented in the form of  
+the radix and [number] of digits of the floating-point  
+
+
+DocID: CACM-3021
+
+prime [number] electronic mail, message-passing,  
+specified product, n, of two large secret prime  
+encrypted by representing it as a [number] m, raising  
+
+
+DocID: CACM-3026
+
+1100 computer [series] computer architecture, multiprocessing  
+the 1100 [series] systems are sperry univac's  
+series: a his tory, analysis, and projection  
+
+
+DocID: CACM-2726
+
+the quine-mccluskey method, [prime] implicants, minimization,  
+ 4  reducing the [number] of decision rules.  
+method for finding [prime] implicants.  if some of the  
+
+
+DocID: CACM-2825
+
+factor analysis, graphics, outliers, regression, time [series] transformations  
+the bmd and bmdp [series] of statistical computer programs  
+
+
+DocID: CACM-2095
+
+especially with respect to the organization of paging schemes.  
+of the measurements is the large [number] of small segments-about 60  
+
+
+DocID: CACM-2936
+
+published [algorithms]  first, the new algorithm's  
+recently [algorithms] have been presented for the  
+of commonly used simple linked list [algorithms]  in this  
+
+
+DocID: CACM-1386
+
+used by kronecker in a proof that the prime  
+factoring of any polynomial may be found in a finite number  
+
+
+DocID: CACM-2424
+
+of california, berkeley.  [prime] is an experimental time-sharing  
+of operating system decisions is used on the [prime] system  
+if the faults happen to reinforce each other.  on [prime]  
+
+
+DocID: CACM-0738
+
+fourier [series] approximation  algorithm 157   
+
+
+DocID: CACM-0903
+
+exponentiation of [series]  algorithm 134    
+
+
+DocID: CACM-0904
+
+fourier [series] approximation  algorithm 157   
+
+
+DocID: CACM-0737
+
+exponentiation of [series]  algorithm 158   
+
+
+DocID: CACM-0807
+
+reversion of [series]  algorithm 193   
+
+
+DocID: CACM-0706
+
+fourier [series] approximation  algorithm 157   
+
+
+DocID: CACM-0470
+
+summation of fourier [series]  algorithm 128   
+
+
+DocID: CACM-0455
+
+exponentiation of [series]  algorithm 134   
+
+
+DocID: CACM-1710
+
+structure package in which an arbitrary [number] of  
+data items and an arbitrary [number] of the relationships  
+of a [series] of macro calls, which are outlined in  
+
+
+DocID: CACM-0659
+
+reversion of [series]  algorithm 193   
+
+
+DocID: CACM-2561
+
+data base using nonnumerical clustering [algorithms]  they  
+a variety of conditions [involving] incomplete and inconsistent data.  
+
+
+DocID: CACM-2519
+
+what turns out to be a vicious [circle] of effects  
+
+
+DocID: CACM-1480
+
+computation of chebyshev [series] coefficients  algorithm 277[c6]   
+
+
+DocID: CACM-1118
+
+fortran subroutines for time [series] data reduction*  
+
+
+DocID: CACM-0201
+
+bessel funtion i, [series] expansion  algorithm 5   
+
+
+DocID: CACM-3107
+
+simplicity over previous methods, [especially] for  
+
+
+DocID: CACM-0826
+
+remarks on fortran subroutines for time [series] analysis  
+
+
+DocID: CACM-1039
+
+summation of fourier [series]  algorithm 128 [c6]   
+
+
+DocID: CACM-0313
+
+an iterative method for inversion of power series  
+
+
+DocID: CACM-0286
+
+an iterative method for inversion of power series  
+
+
+DocID: CACM-0974
+
+components of the electrocardiogram, long series  
+of long [series] heart cycles via a digital computer.  
+
+
+DocID: CACM-2896
+
+in this program makes it [especially] difficult  
+
+
+DocID: CACM-1495
+
+solution of transcendental equations by [series] reversion  
+series in  x - x0  when f and g are given as power [series]and  
+
+
+DocID: CACM-2762
+
+of chebyshev [series]  algorithm r446, c446   
+
+
+DocID: CACM-1110
+
+a fourier [series] method is described which, when  
+a fourier [series] method for the numerical solution  
+
+
+DocID: CACM-3055
+
+algorithms given by dijkstra are shown to have an expected number  
+an analysis of [algorithms] for the dutch national flag problem  
+
+
+DocID: CACM-2350
+
+quadrature, chebyshev [series] cosine transform, fast fourier transform  
+
+
+DocID: CACM-0184
+
+a short method for measuring error in a least-squares power series  
+
+
+DocID: CACM-2418
+
+student's t statistic, density function, [series] approximation  
+
+
+DocID: CACM-1511
+
+the damped taylor's [series] method for minimizing  
+
+
+DocID: CACM-2548
+
+transform, taylor [series] approximation  
+

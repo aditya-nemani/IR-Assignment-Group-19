@@ -1,0 +1,410 @@
+LUCENE_NoStopNoStem
+
+Query
+Currently interested in isolation of root of polynomial; there is an old
+more recent material.
+
+Heindel, L.
+
+Top 100 Results (19 millisecs)
+
+
+DocID: CACM-1524
+
+
+
+DocID: CACM-1623
+
+
+
+DocID: CACM-2808
+
+
+
+DocID: CACM-2749
+
+
+
+DocID: CACM-1999
+
+
+
+DocID: CACM-1567
+
+
+
+DocID: CACM-2722
+
+
+
+DocID: CACM-0492
+
+
+
+DocID: CACM-0848
+
+
+
+DocID: CACM-0435
+
+
+
+DocID: CACM-1867
+
+
+
+DocID: CACM-0116
+
+
+
+DocID: CACM-1667
+
+
+
+DocID: CACM-1893
+
+
+
+DocID: CACM-2657
+
+
+
+DocID: CACM-2194
+
+
+
+DocID: CACM-1763
+
+
+
+DocID: CACM-2266
+
+
+
+DocID: CACM-1620
+
+
+
+DocID: CACM-1949
+
+
+
+DocID: CACM-0464
+
+
+
+DocID: CACM-1386
+
+
+
+DocID: CACM-0531
+
+
+
+DocID: CACM-2324
+
+
+
+DocID: CACM-2181
+
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-0397
+
+
+
+DocID: CACM-1333
+
+
+
+DocID: CACM-1046
+
+
+
+DocID: CACM-1643
+
+
+
+DocID: CACM-2709
+
+
+
+DocID: CACM-1852
+
+
+
+DocID: CACM-3039
+
+
+
+DocID: CACM-1259
+
+
+
+DocID: CACM-2450
+
+
+
+DocID: CACM-3166
+
+
+
+DocID: CACM-1440
+
+
+
+DocID: CACM-2598
+
+
+
+DocID: CACM-1932
+
+
+
+DocID: CACM-1134
+
+
+
+DocID: CACM-2307
+
+
+
+DocID: CACM-2660
+
+
+
+DocID: CACM-2423
+
+
+
+DocID: CACM-1346
+
+
+
+DocID: CACM-2407
+
+
+
+DocID: CACM-2254
+
+
+
+DocID: CACM-1456
+
+
+
+DocID: CACM-1726
+
+
+
+DocID: CACM-0332
+
+
+
+DocID: CACM-1644
+
+
+
+DocID: CACM-1844
+
+
+
+DocID: CACM-1931
+
+
+
+DocID: CACM-1495
+
+
+
+DocID: CACM-0319
+
+
+
+DocID: CACM-1014
+
+
+
+DocID: CACM-2840
+
+
+
+DocID: CACM-2696
+
+
+
+DocID: CACM-2742
+
+
+
+DocID: CACM-3060
+
+
+
+DocID: CACM-1433
+
+
+
+DocID: CACM-2946
+
+
+
+DocID: CACM-1253
+
+
+
+DocID: CACM-2897
+
+
+
+DocID: CACM-1550
+
+
+
+DocID: CACM-2702
+
+
+
+DocID: CACM-0497
+
+
+
+DocID: CACM-0585
+
+
+
+DocID: CACM-2999
+
+
+
+DocID: CACM-1031
+
+
+
+DocID: CACM-2919
+
+
+
+DocID: CACM-0278
+
+
+
+DocID: CACM-2356
+
+
+
+DocID: CACM-1626
+
+
+
+DocID: CACM-1754
+
+
+
+DocID: CACM-1488
+
+
+
+DocID: CACM-1591
+
+
+
+DocID: CACM-1049
+
+
+
+DocID: CACM-2921
+
+
+
+DocID: CACM-1601
+
+
+
+DocID: CACM-1875
+
+
+
+DocID: CACM-1615
+
+
+
+DocID: CACM-2644
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-2812
+
+
+
+DocID: CACM-1908
+
+
+
+DocID: CACM-2581
+
+
+
+DocID: CACM-3127
+
+
+
+DocID: CACM-1476
+
+
+
+DocID: CACM-0276
+
+
+
+DocID: CACM-2893
+
+
+
+DocID: CACM-1393
+
+
+
+DocID: CACM-2247
+
+
+
+DocID: CACM-0718
+
+
+
+DocID: CACM-2526
+
+
+
+DocID: CACM-2500
+
+
+
+DocID: CACM-1633
+
+
+
+DocID: CACM-3114
+
+
+
+DocID: CACM-1809
+
+
+
+DocID: CACM-1806
+
+
+
+DocID: CACM-2184
+
+

@@ -1,0 +1,439 @@
+QL_NoStopNoStem
+
+Query
+ibm interested in mechanisms for communicating between disjoint processes,
+possibly, but not eiculslxevy, in a discerned ervmneninot.  i word-order see deviations of complete mechanisms, wish or wishout interrelationships opposed to theoretical work on the abstract pbelrom.  rome processinghas and message-passing are enables of my interests.
+
+Top 100 Results (1537 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+
+
+DocID: CACM-0994
+
+
+
+DocID: CACM-0995
+
+
+
+DocID: CACM-0996
+
+
+
+DocID: CACM-0990
+
+
+
+DocID: CACM-0991
+
+
+
+DocID: CACM-0992
+
+
+
+DocID: CACM-2703
+
+
+
+DocID: CACM-2702
+
+binary the problem is [complete] for nondeterministic  
+
+
+DocID: CACM-2705
+
+flexion less, [word-order] based language types  
+abstract constructs.  by analogy with incidents  
+avenues for further [work] of wide influence are  
+
+
+DocID: CACM-2704
+
+
+
+DocID: CACM-2701
+
+flow analysis  [abstract] only-[complete] paper jacm  
+
+
+DocID: CACM-2700
+
+
+
+DocID: CACM-2707
+
+
+
+DocID: CACM-2706
+
+
+
+DocID: CACM-2709
+
+bohm and jacopini on the [theoretical] completeness  
+of [theoretical] results on the practicing programmer and  
+issue on a solid footing, this paper reviews numerous theoretical  
+
+
+DocID: CACM-2708
+
+
+
+DocID: CACM-0975
+
+the new program of [work] for the international  
+
+
+DocID: CACM-0976
+
+
+
+DocID: CACM-0977
+
+
+
+DocID: CACM-0978
+
+
+
+DocID: CACM-0971
+
+
+
+DocID: CACM-0972
+
+
+
+DocID: CACM-0973
+
+
+
+DocID: CACM-0974
+
+analysis feasible on the [ibm] 7090  
+
+
+DocID: CACM-0970
+
+
+
+DocID: CACM-0979
+
+
+
+DocID: CACM-0986
+
+
+
+DocID: CACM-0987
+
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+which motivates the [work] is informally presented,  
+
+
+DocID: CACM-0983
+
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+
+
+DocID: CACM-0981
+
+
+
+DocID: CACM-1405
+
+
+
+DocID: CACM-2736
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1407
+
+
+
+DocID: CACM-2738
+
+to [work] with an abstraction of a real machine.  
+
+
+DocID: CACM-1406
+
+
+
+DocID: CACM-2737
+
+
+
+DocID: CACM-1401
+
+
+
+DocID: CACM-2732
+
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2731
+
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2734
+
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-2733
+
+
+
+DocID: CACM-2730
+
+
+
+DocID: CACM-1409
+
+
+
+DocID: CACM-1408
+
+
+
+DocID: CACM-2739
+
+
+
+DocID: CACM-1416
+
+
+
+DocID: CACM-2747
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-2746
+
+
+
+DocID: CACM-1418
+
+
+
+DocID: CACM-2749
+
+
+
+DocID: CACM-1417
+
+economies of scale and the [ibm] system/360  
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+to real-time, direct access processing,has led  
+be [discerned]  in introducing the banking information  
+
+
+DocID: CACM-2743
+
+
+
+DocID: CACM-1411
+
+of means, standard [deviations] and correlation  
+
+
+DocID: CACM-2742
+
+discrete event simulation, simulation, event scanning mechanisms  
+improved event-scanning [mechanisms] for discrete event simulation  
+
+
+DocID: CACM-1414
+
+
+
+DocID: CACM-2745
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-1410
+
+processes governing the user inputs and the program activity.  
+
+
+DocID: CACM-2741
+
+more [complete] definition of the circumstances in  
+
+
+DocID: CACM-2740
+
+sequential [processes]  the [processes] synchronize by  
+structuring, buffering, parallel [processes] synchronizing  
+cooperating [processes] operating system, semaphores,  
+
+
+DocID: CACM-1419
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-2713
+
+
+
+DocID: CACM-2716
+
+global query optimization,  2  exploiting disjoint  
+
+
+DocID: CACM-2715
+
+
+
+DocID: CACM-2710
+
+shown to be relationally [complete] however, it avoids  
+
+
+DocID: CACM-2712
+
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-2718
+
+
+
+DocID: CACM-2717
+
+the users to visualize the translation [processes]  
+on the simple underlying concept of a form which enables  
+
+
+DocID: CACM-2719
+
+
+
+DocID: CACM-2725
+
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+
+
+DocID: CACM-2726
+
+
+
+DocID: CACM-2721
+
+between the ecological [mechanisms] involved, the  
+river ecosystems, ecological [mechanisms] environmental simulation,  
+
+
+DocID: CACM-2720
+
+
+
+DocID: CACM-2723
+
+and interlocks. [complete] procedures for garbage  
+
+
+DocID: CACM-2722
+
+paper [theoretical]  it is felt, however, that  
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-2728
+
+

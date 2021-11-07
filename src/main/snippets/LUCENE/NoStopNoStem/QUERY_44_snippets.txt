@@ -1,0 +1,408 @@
+LUCENE_NoStopNoStem
+
+Query
+Texture analysis by computer.	Digitized texture analysis.  Texture
+synthesis. Perception of texture.
+
+Top 100 Results (43 millisecs)
+
+
+DocID: CACM-2829
+
+
+
+DocID: CACM-2523
+
+
+
+DocID: CACM-2325
+
+
+
+DocID: CACM-2494
+
+
+
+DocID: CACM-1002
+
+
+
+DocID: CACM-2825
+
+
+
+DocID: CACM-1679
+
+
+
+DocID: CACM-1260
+
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-0533
+
+
+
+DocID: CACM-2125
+
+
+
+DocID: CACM-2754
+
+
+
+DocID: CACM-2812
+
+
+
+DocID: CACM-1855
+
+
+
+DocID: CACM-0464
+
+
+
+DocID: CACM-2447
+
+
+
+DocID: CACM-0525
+
+
+
+DocID: CACM-0461
+
+
+
+DocID: CACM-0931
+
+
+
+DocID: CACM-1732
+
+
+
+DocID: CACM-1823
+
+
+
+DocID: CACM-1809
+
+
+
+DocID: CACM-2871
+
+
+
+DocID: CACM-1801
+
+
+
+DocID: CACM-0912
+
+
+
+DocID: CACM-3149
+
+
+
+DocID: CACM-1916
+
+
+
+DocID: CACM-1325
+
+
+
+DocID: CACM-1045
+
+
+
+DocID: CACM-2062
+
+
+
+DocID: CACM-3078
+
+
+
+DocID: CACM-2560
+
+
+
+DocID: CACM-2719
+
+
+
+DocID: CACM-1653
+
+
+
+DocID: CACM-1003
+
+
+
+DocID: CACM-1927
+
+
+
+DocID: CACM-1802
+
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-2221
+
+
+
+DocID: CACM-2751
+
+
+
+DocID: CACM-1989
+
+
+
+DocID: CACM-0974
+
+
+
+DocID: CACM-1526
+
+
+
+DocID: CACM-3055
+
+
+
+DocID: CACM-1507
+
+
+
+DocID: CACM-2286
+
+
+
+DocID: CACM-2210
+
+
+
+DocID: CACM-2877
+
+
+
+DocID: CACM-2310
+
+
+
+DocID: CACM-1365
+
+
+
+DocID: CACM-1308
+
+
+
+DocID: CACM-2113
+
+
+
+DocID: CACM-2478
+
+
+
+DocID: CACM-1014
+
+
+
+DocID: CACM-2999
+
+
+
+DocID: CACM-2820
+
+
+
+DocID: CACM-2947
+
+
+
+DocID: CACM-2687
+
+
+
+DocID: CACM-3069
+
+
+
+DocID: CACM-1435
+
+
+
+DocID: CACM-2308
+
+
+
+DocID: CACM-2645
+
+
+
+DocID: CACM-1272
+
+
+
+DocID: CACM-2798
+
+
+
+DocID: CACM-2181
+
+
+
+DocID: CACM-1709
+
+
+
+DocID: CACM-2924
+
+
+
+DocID: CACM-2835
+
+
+
+DocID: CACM-1605
+
+
+
+DocID: CACM-0726
+
+
+
+DocID: CACM-0633
+
+
+
+DocID: CACM-2634
+
+
+
+DocID: CACM-1782
+
+
+
+DocID: CACM-1160
+
+
+
+DocID: CACM-1686
+
+
+
+DocID: CACM-0721
+
+
+
+DocID: CACM-1307
+
+
+
+DocID: CACM-2387
+
+
+
+DocID: CACM-2556
+
+
+
+DocID: CACM-2683
+
+
+
+DocID: CACM-2050
+
+
+
+DocID: CACM-1517
+
+
+
+DocID: CACM-2423
+
+
+
+DocID: CACM-3022
+
+
+
+DocID: CACM-2188
+
+
+
+DocID: CACM-0643
+
+
+
+DocID: CACM-1515
+
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-2226
+
+
+
+DocID: CACM-2701
+
+
+
+DocID: CACM-1034
+
+
+
+DocID: CACM-2643
+
+
+
+DocID: CACM-1726
+
+
+
+DocID: CACM-1632
+
+
+
+DocID: CACM-2831
+
+
+
+DocID: CACM-0238
+
+
+
+DocID: CACM-1271
+
+
+
+DocID: CACM-3194
+
+
+
+DocID: CACM-2989
+
+

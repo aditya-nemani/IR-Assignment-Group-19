@@ -1,0 +1,576 @@
+BM25_NoStopNoStem
+
+Query
+intermediate languages used in construction of mesh-connected compelris; toll
+
+Top 100 Results (299 millisecs)
+
+
+DocID: CACM-2973
+
+sorting on a [mesh-connected] parallel computer  
+elements on an n x n [mesh-connected] processor  
+
+
+DocID: CACM-1496
+
+a formal semantics for computer languages  
+has been the basis for [construction] of an efficient,  
+a large class of computer [languages]  this meta-language  
+
+
+DocID: CACM-0252
+
+intermediate and final results.  
+
+
+DocID: CACM-1723
+
+ordering, network [construction] by computer  
+computer [construction] of project networks  
+
+
+DocID: CACM-2939
+
+languages, through the procedure or subroutine.  
+kinds of abstractions in program construction  
+programming [languages] data types, data abstractions,  
+
+
+DocID: CACM-0929
+
+glossary construction  
+
+
+DocID: CACM-3115
+
+intermediate vectors to the matrices.  the mapping  
+to two [intermediate] vectors.  these vectors are mapped into  
+
+
+DocID: CACM-3102
+
+incorporation of units into programming languages  
+units, language design, compiler [construction] language syntax  
+
+
+DocID: CACM-2558
+
+protection in programming languages  
+
+
+DocID: CACM-3099
+
+problem [construction] kuhn-tucker conditions,  
+useful for the [construction] of difficult integer  
+
+
+DocID: CACM-1852
+
+programming [languages] implementation techniques  
+programming [languages] whose implementation is based  
+bootstrapping, of processors for programming [languages] is  
+
+
+DocID: CACM-2061
+
+construction, syntactical analyzer [construction] generators, compiler  
+context-free grammars, formal [languages] pushdown automata  
+an algorithm for the [construction] of bounded-context parsers  
+
+
+DocID: CACM-1387
+
+growth in the [intermediate] equations and the hazards  
+
+
+DocID: CACM-1788
+
+lie in compiler [construction]  
+toward a general processor for programming languages  
+language than by the [construction] of a whole new compiler,  
+
+
+DocID: CACM-1835
+
+languages programming [languages] student programming  
+
+
+DocID: CACM-1223
+
+is applicable to most algebraic [languages]  
+scan an [intermediate] language produced by the preceding  
+
+
+DocID: CACM-3030
+
+programming [languages] that ease hierarchical  
+recognized as helpful in the [construction] of  
+
+
+DocID: CACM-1134
+
+prompted the development of an [intermediate] language  
+efficiency.  the subject of this paper is the intermediate  
+
+
+DocID: CACM-0249
+
+specification [languages] for mechanical languages  
+
+
+DocID: CACM-2867
+
+used in the [construction] of a family of operating  
+
+
+DocID: CACM-3130
+
+elementary level topics and courses, and [intermediate] level courses.  
+
+
+DocID: CACM-1313
+
+construction of nonlinear programming test problems  
+
+
+DocID: CACM-0077
+
+on gat and the [construction] of translators  
+
+
+DocID: CACM-0051
+
+on the [construction] of micro-flowcharts  
+
+
+DocID: CACM-1402
+
+of obtaining functional values at points intermediate  
+
+
+DocID: CACM-2587
+
+on the [construction] of a representative synthetic workload  errata   
+
+
+DocID: CACM-3171
+
+to be used for implementations of high level [languages]  under suitable  
+
+
+DocID: CACM-3105
+
+programming [languages] access control, data types,  
+paper shows how to extend programming languages  
+languages that support the notion of abstract data  
+
+
+DocID: CACM-0303
+
+mechanical [languages] and their processors  
+
+
+DocID: CACM-2878
+
+join, its [toll] service, and waiting charges.  such a  
+
+
+DocID: CACM-1029
+
+function, by introduction of [intermediate] variables,  
+
+
+DocID: CACM-2066
+
+an algol [construction] for procedures as parameters of procedures  
+
+
+DocID: CACM-1138
+
+formalism in programming [languages]  
+
+
+DocID: CACM-2603
+
+languages and deterministic languages  
+context free [languages]  
+reducing transition [languages] syntax controlled  
+
+
+DocID: CACM-0463
+
+on ambiguity in phrase structure languages  
+
+
+DocID: CACM-2316
+
+of [languages] are given.  the major [languages] are listed  
+of programming [languages]  = higher level [languages] .  
+programming [languages] higher level [languages]  
+
+
+DocID: CACM-1457
+
+the characteristics of various processing [languages] are  
+implementation.  advantages of these programming languages  
+
+
+DocID: CACM-1484
+
+standard programming [languages] for the description of  
+
+
+DocID: CACM-2112
+
+expression, context-free [languages] translation, recognizers,  
+context-free [languages]  a formal procedure is given for deriving from  
+
+
+DocID: CACM-1783
+
+many significant digits are needed in the intermediate  
+
+
+DocID: CACM-1350
+
+algorithm for arbitrary context-free [languages] is compared  
+gs can be constructed, which generates the same languages  
+y i  are [intermediate] symbols and c a terminal  
+
+
+DocID: CACM-1466
+
+discussion summary on graphical languages  
+
+
+DocID: CACM-2254
+
+dynamic partitioning for array languages  
+the value of partitioning for array [languages]  
+detail to be of value in the design of other array [languages]  
+
+
+DocID: CACM-1102
+
+mechanical [languages] a course specification  
+
+
+DocID: CACM-2921
+
+parsing, programming [languages] language generation,  
+describe the syntax of programming [languages] more  
+syntax diagrams,lr k  grammars, parser [construction]  
+
+
+DocID: CACM-1923
+
+high level [languages] command language  
+level [languages] using basic input/output support  
+
+
+DocID: CACM-2873
+
+interactive programming, problem oriented [languages]  
+user oriented [languages]  lg has been specifically designed  
+
+
+DocID: CACM-2652
+
+programming [languages] tailored to particular  
+design of programming [languages] language contraction,  
+
+
+DocID: CACM-0628
+
+for use with algorithmic languages  
+
+
+DocID: CACM-3124
+
+construction of data-driven algorithms.  
+
+
+DocID: CACM-1459
+
+requirements for real-time languages  
+real-time [languages] have different requirements  
+from other programming [languages] because of  
+
+
+DocID: CACM-2718
+
+translation, nonprocedural languages  
+
+
+DocID: CACM-1098
+
+a comparison of list-processing computer languages  
+four [languages] under consideration are detailed:  
+languages for use in particular problem applications,  
+
+
+DocID: CACM-1988
+
+such as compiler-compilers or extendible [languages]  
+
+
+DocID: CACM-2579
+
+languages, virtual memory, demand paging  
+
+
+DocID: CACM-1062
+
+for [intermediate] manipulations, which are performed  
+
+
+DocID: CACM-1366
+
+technique and comparison of languages  
+of some computer simulation languages  
+languages and packages can be improved.  
+
+
+DocID: CACM-2295
+
+programming primitives, programming [languages]  
+of programming [languages] data structures  
+
+
+DocID: CACM-0857
+
+
+
+DocID: CACM-2661
+
+education, programming [languages] simulators  
+
+
+DocID: CACM-2705
+
+programming [languages] natural [languages] and mathematics  
+artificial auxiliary [languages] literature, style,  
+of the history of artificial, auxiliary [languages] it  
+
+
+DocID: CACM-2470
+
+description [languages] models of computation  
+languages, data types, modes, axioms, correctness,  
+into [languages] through the mechanism of singleton  
+
+
+DocID: CACM-1869
+
+programming [languages] have included explicit  
+
+
+DocID: CACM-1392
+
+intermediate expression swell in order to minimize  
+
+
+DocID: CACM-1703
+
+reliable identification of programming languages  
+programming [languages] standards which accommodate  
+standardization, programming [languages] trac t-64  
+
+
+DocID: CACM-2424
+
+construction of an operating system which does not make certain  
+
+
+DocID: CACM-2317
+
+languages, operating systems, programming  
+programming systems and [languages] 1965-1975  
+and cobol remain the [languages] in which most  
+
+
+DocID: CACM-1678
+
+science program, automata, formal [languages]  
+automata, formal [languages] abstract switching,  
+describe as automata, formal [languages] abstract  
+
+
+DocID: CACM-0070
+
+construction of a set of test matrices  
+
+
+DocID: CACM-1456
+
+other list processing [languages] are ideally suited for  
+
+
+DocID: CACM-1162
+
+languages generally provide a one-for-one translation  
+
+
+DocID: CACM-1658
+
+over several test problems of small and intermediate  
+
+
+DocID: CACM-2710
+
+languages, relational completeness  
+database, data sublanguages, relations, query [languages]  
+languages based on the relational calculus.  facilities  
+
+
+DocID: CACM-2406
+
+"generalized" data definition [languages] are also  
+data definition [languages] which describe both the logical  
+most data definition [languages] concentrate on the declaration  
+
+
+DocID: CACM-2210
+
+illustrated by the automatic [construction] of both  
+
+
+DocID: CACM-2372
+
+system implementation within today's [languages] and operating systems.  
+
+
+DocID: CACM-0265
+
+in symbolic [languages] and for use within fortran  
+
+
+DocID: CACM-0464
+
+general questions of problem-oriented languages  
+
+
+DocID: CACM-2192
+
+for programming [languages]  
+
+
+DocID: CACM-1309
+
+use of two special [languages] extract and matran,  
+
+
+DocID: CACM-2746
+
+in a single pass.  [construction] of the pattern matching  
+
+
+DocID: CACM-1142
+
+an extension of algol-like languages  
+
+
+DocID: CACM-2814
+
+roster of programming [languages] for 1974-75  
+
+
+DocID: CACM-3077
+
+forms, functional forms, programming [languages]  
+conventional programming [languages] are growing  
+von neumann computers, von neumann [languages] models of  
+
+
+DocID: CACM-1306
+
+a class of unambiguous computer languages  
+means of designing computer [languages] which would be completely  
+
+
+DocID: CACM-1348
+
+scope to existing [languages]  one may define his own  
+
+
+DocID: CACM-3150
+
+beyond programming languages  
+programming, programming [languages] programming systems, systems development  
+shortcomings of programming [languages] as they now exist,  
+
+
+DocID: CACM-2870
+
+the [construction] of mechanisms that enforce security.  
+suggests some new approaches.  it also leads to the construction  
+
+
+DocID: CACM-0651
+
+a survey of [languages] and systems for information retrieval  
+
+
+DocID: CACM-0920
+
+toward better documentation of programming languages  
+
+
+DocID: CACM-0762
+
+some remarks on the syntax of symbolic programming languages  
+
+
+DocID: CACM-1314
+
+during the [construction] of the virginia algol 60 compiler  
+
+
+DocID: CACM-1467
+
+well as the use of new graphical [languages]  
+future through the use of interactive graphical [languages]  
+
+
+DocID: CACM-2645
+
+programming [languages] syntax-directed translation,  
+two [languages] for estimating program efficiency  
+two [languages] enabling their users to estimate  
+
+
+DocID: CACM-3148
+
+program of development in advanced programming [languages] and relations  
+languages.  based on primitive notions of module, message,  
+of particular [languages] and machines.  it appears to be useful for  
+
+
+DocID: CACM-3101
+
+procedures, coroutines, programming [languages]  
+
+
+DocID: CACM-2305
+
+higher programming [languages] programming,  
+of today's programming languages  
+in today's programming [languages]  the investigation  
+
+
+DocID: CACM-2572
+
+arguments for a moratorium on the construction  
+is not yet in a position to justify either the construction  
+
+
+DocID: CACM-2320
+
+structured multiprogramming, programming [languages]  
+
+
+DocID: CACM-0689
+
+languages in czechoslovakia and poland, 1963  
+

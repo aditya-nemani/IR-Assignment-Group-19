@@ -1,0 +1,587 @@
+BM25_NoStopNoStem
+
+Query
+the use of couger science principles (e.g. data surceutrts, 
+numerical motehds) in generating optimization (e.g. linear programming)
+aimhltrogs.  this induces issues of the keplerian (russian, ellipsoidal)
+algorithm and complexity of such aimhltrogs.
+
+Top 100 Results (766 millisecs)
+
+
+DocID: CACM-0265
+
+
+
+DocID: CACM-2624
+
+
+
+DocID: CACM-1651
+
+an interpretive input routine for [linear] programming  
+to any [linear] [programming] solution routine, for subsequent  
+is presented which greatly simplifies [data] input  
+
+
+DocID: CACM-2310
+
+for a "science" of the humanities-a [science] entailing  
+gathering [data] for the construction and testing  
+language analysis, humanities, [science] of the humanities,  
+
+
+DocID: CACM-2968
+
+
+
+DocID: CACM-2142
+
+mathematical [programming] monte carlo techniques, [optimization]  
+encoding, image processing, [linear] [programming]  
+
+
+DocID: CACM-1612
+
+of the top-to-bottom parsing [algorithm] as used in  
+connection with [programming] language grammars.  it is  
+
+
+DocID: CACM-1722
+
+improvement, [numerical] integration, rational  
+in the [numerical] integration of an improper  
+
+
+DocID: CACM-0047
+
+russian visit to u. computers  
+
+
+DocID: CACM-1463
+
+various levels of [programming] languages.  
+
+
+DocID: CACM-1135
+
+the structure of a digital compute programming  
+between [data] and results  there are no control  
+
+
+DocID: CACM-2850
+
+in a simple pl/i style [programming] language.  
+yet interesting [issues] arise during the symbolic execution  
+
+
+DocID: CACM-2704
+
+structured [programming] on conditions, programming  
+exception handling: [issues] and a proposed notation  
+to highlight exception handling [issues] by showing  
+
+
+DocID: CACM-1863
+
+minit [algorithm] for [linear] [programming]  [algorithm] 333 [h]   
+linear [programming] dual simplex method, primal problem, dual problem  
+
+
+DocID: CACM-1729
+
+minit [algorithm] for [linear] [programming]  [algorithm] 333 [h]   
+linear [programming] dual simplex method, primal problem, dual problem  
+
+
+DocID: CACM-2223
+
+minit [algorithm] for [linear] [programming]  [algorithm] 222 [h]   
+linear [programming] dual simplex method, primal problem, dual problem  
+
+
+DocID: CACM-1153
+
+a technique for [generating] normally distributed  
+a fast procedure for [generating] normal random variables*  
+
+
+DocID: CACM-2431
+
+linear [programming] [e2]  [algorithm] a458   
+discrete [linear] l1 approximation by interval  
+
+
+DocID: CACM-2509
+
+minit [algorithm] for [linear] [programming]  [algorithm] r333   
+
+
+DocID: CACM-1914
+
+matrix scaling by integer [programming]  [algorithm] 348 [f1]   
+integer [programming] [linear] algebra, mathematical  
+programming, matrix condition, matrix scaling  
+
+
+DocID: CACM-2323
+
+
+
+DocID: CACM-2689
+
+a crt report [generating] system  
+report generation, automated systems design, [data] processing, management  
+
+
+DocID: CACM-2510
+
+minit [algorithm] for [linear] [programming]  [algorithm] r333   
+
+
+DocID: CACM-1759
+
+transportation problem, [linear] programming  
+transportation problem  [algorithm] 293 [h]   
+
+
+DocID: CACM-2675
+
+programming problems  [algorithm] r431   
+a computer routine for quadratic and linear  
+
+
+DocID: CACM-2589
+
+programming problems  [algorithm] r431   
+a computer routine for quadratic and linear  
+
+
+DocID: CACM-2056
+
+linear [programming] integer variables, dual method  
+gomory  [algorithm] 263a $h    
+
+
+DocID: CACM-1066
+
+principles upon which future [linear] programming  
+programming matrix coefficients, [data] transmission  
+of problem statement in terms of basic [data] to linear  
+
+
+DocID: CACM-2743
+
+merge sorting, computational [complexity] data  
+
+
+DocID: CACM-1688
+
+capacitated network, [linear] [programming] minimum-cost  
+netflow  [algorithm] 248 [h]   
+
+
+DocID: CACM-1687
+
+capacitated network, [linear] [programming] minimum-cost  
+netflow  [algorithm] 248 [h]   
+
+
+DocID: CACM-1690
+
+capacitated network, [linear] [programming] minimum-cost  
+netflow  [algorithm] 336 [h]   
+
+
+DocID: CACM-2088
+
+capacitated network, [linear] [programming] minimum-cost  
+netflow  [algorithm] 336 $h    
+
+
+DocID: CACM-2879
+
+symbols, search, [science] computer [science] empirical,  
+computer [science] as empirical inquiry: symbols and search  
+
+
+DocID: CACM-2906
+
+data processing, structured [programming] modular [programming]  
+a very high level [programming] language for [data] processing applications  
+data flow language, business application, business  
+
+
+DocID: CACM-1899
+
+simplex method, [linear] [programming] lu decomposition,  
+simplex method procedure employing lu decomposition  [algorithm] 350 [h]   
+
+
+DocID: CACM-0927
+
+linear [programming] applied to ultraviolet absorption spectroscopy  
+
+
+DocID: CACM-1990
+
+numerical constants  [algorithm]   
+numerical [algorithm] [numerical] constants  
+
+
+DocID: CACM-1073
+
+a very fast method for [generating] exponential  
+a fast procedure for [generating] exponential random variables  
+
+
+DocID: CACM-2486
+
+
+
+DocID: CACM-1605
+
+experiment.  an identical set of four [programming] problems  
+factors in the experiment.  [data] was obtained for  
+was assigned to each of a group of four programming  
+
+
+DocID: CACM-2415
+
+algorithm for automatic [numerical] integration  
+automatic quadrature, [numerical] quadrature  
+automatic integration, [numerical] integration,  
+
+
+DocID: CACM-2464
+
+optimization, constrained [optimization] box's algorithm  
+the complex method for constrained [optimization] [e4]  [algorithm] a454   
+
+
+DocID: CACM-1842
+
+an [algorithm] for [generating] ising configurations  [algorithm] 355 [z]   
+
+
+DocID: CACM-1880
+
+systems, [linear] equations, exchange algorithm  
+linear system  [algorithm] 328 [f4]   
+chebyshev solutions, over-determined linear  
+
+
+DocID: CACM-0149
+
+algorithm  
+linear [programming] problems with the simplex  
+
+
+DocID: CACM-1734
+
+systems, [linear] equations, exchange algorithm  
+linear system  [algorithm] 328 [f4]   
+chebyshev solutions, overdetermined linear  
+
+
+DocID: CACM-2592
+
+for [generating] [linear] [programming] test problems  
+linear [programming] test problem generation,  
+users of [linear] [programming] computer codes have  
+
+
+DocID: CACM-2239
+
+squank  [algorithm] c379   
+numerical integration, integration rule, adaptive  
+rule, [numerical] quadrature, quadrature rule, adaptive  
+
+
+DocID: CACM-0027
+
+note on empirical bounds for [generating] bessel functions  
+
+
+DocID: CACM-2074
+
+sqank  [algorithm] 379 $d1    
+numerical integration, integration rule, adaptive integration,  
+automatic integration, simpson's rule, [numerical] quadrature, quadrature,  
+
+
+DocID: CACM-2362
+
+linear equation solver [f4]  [algorithm] a423   
+matrix algorithms, [linear] equations, fortran,  
+
+
+DocID: CACM-0087
+
+a note on a method for [generating] points  
+
+
+DocID: CACM-0394
+
+multiple [programming] [data] processing  
+
+
+DocID: CACM-2329
+
+science curriculum, systems design  
+
+
+DocID: CACM-2478
+
+education, computer [science] curriculum, imprecise  
+
+
+DocID: CACM-2290
+
+connectivity, program [optimization] optimizing compiler  
+immediate predominators in a directed graph [h]  [algorithm] a430   
+
+
+DocID: CACM-1966
+
+a generalized method for [generating] argument/function values  
+
+
+DocID: CACM-0946
+
+suggestions on algol 60  rome  [issues] - a report by the american  
+
+
+DocID: CACM-0987
+
+for information processing on automatic data  
+fortran vs. basic fortran  a [programming] language  
+
+
+DocID: CACM-0872
+
+adaptive [numerical] integration by simpson's rule  [algorithm] 145   
+
+
+DocID: CACM-1298
+
+adaptive [numerical] integration by simpson's rule  [algorithm] 145 [d1]   
+
+
+DocID: CACM-2576
+
+programming, [data] structures  
+
+
+DocID: CACM-1370
+
+linear equations, exact solutions  [algorithm] 290 [f4]   
+
+
+DocID: CACM-1661
+
+multint  [algorithm] 32 [d1]   
+numerical integration, multidimensional integration, gaussian integration  
+
+
+DocID: CACM-2244
+
+product type trapezoidal integration  [algorithm] a436   
+numerical integration, product type quadrature, trapezoidal integration  
+
+
+DocID: CACM-1731
+
+quadrature, gaussian quadrature, [numerical] integration,  
+gaussian quadrature formulas  [algorithm] 331 [d1]   
+
+
+DocID: CACM-2243
+
+numerical integration, product type quadrature, simpson's rule  
+product type simpson's integration [d1]  [algorithm] a437   
+
+
+DocID: CACM-2009
+
+numerical integration, multiple integration, simpson's rule  
+simpson's rule for multiple integration  [algorithm] 233 $d1    
+
+
+DocID: CACM-1883
+
+numerical integration, romberg quadrature,  
+modified romberg quadrature [algorithm] [d1]   
+
+
+DocID: CACM-1895
+
+quadrature, gaussian quadrature, [numerical] integration,  
+gaussian quadrature formulas  [algorithm] 331 [d1]   
+
+
+DocID: CACM-1104
+
+an undergraduate curriculum in [numerical] analysis  
+
+
+DocID: CACM-2347
+
+numerical integration, quadrature, adaptive quadrature,  
+fourier cosine integral [d1]  [algorithm] a427   
+
+
+DocID: CACM-2072
+
+numerical integration, romberg quadrature,  
+modified romberg quadrature  [algorithm] 351 $d1    
+
+
+DocID: CACM-2014
+
+function minimization and [linear] search $e4   [algorithm] 387   
+
+
+DocID: CACM-3130
+
+science component and other material is presented.  [issues] related  
+science education, computer [science] undergraduate degree  
+undergraduate program in computer science  
+
+
+DocID: CACM-2242
+
+integration [d1]  [algorithm] a438   
+numerical integration, product type quadrature,  
+
+
+DocID: CACM-2241
+
+numerical integration, product type quadrature,  
+integration [d1]  [algorithm] a439   
+
+
+DocID: CACM-2040
+
+modified romberg quadrature  [algorithm] 351 $d1    
+numerical integration, romberg quadrature, modified romberg quadrature,  
+
+
+DocID: CACM-3019
+
+the gre advanced test in computer science  
+
+
+DocID: CACM-1982
+
+numerical integration, havie integration, romberg quadrature,  
+modified havie integration  [algorithm] 400 $d1    
+
+
+DocID: CACM-2611
+
+the complex method for constrained [optimization]  [algorithm] r454   
+
+
+DocID: CACM-2008
+
+gaussian quadrature formulas  [algorithm] 331 $d1    
+quadrature, gaussian quadrature, [numerical] integration, weight function,  
+
+
+DocID: CACM-3112
+
+
+
+DocID: CACM-1205
+
+a report from the acm curriculum committee on computer science  
+
+
+DocID: CACM-0378
+
+manipulation and [numerical] calculation  
+
+
+DocID: CACM-3161
+
+in experimental computer science  
+
+
+DocID: CACM-2133
+
+operations research, [optimization] theory,  
+algorithm for the assignment problem  
+ rectangular matrices  [h]  [algorithm] 415   
+
+
+DocID: CACM-1489
+
+data, documentation and decision tables  
+in business [data] processing systems, it is  
+necessary to be able to define and document [data]  
+
+
+DocID: CACM-0052
+
+an efficient method for [generating] uniformly distributed  
+
+
+DocID: CACM-3132
+
+linearly separable, relaxation [algorithm] accelerated relaxation  
+technique to have an [algorithm] finding hyperplanes  
+pattern recognition, pattern classification, [linear] discriminants, central  
+
+
+DocID: CACM-3103
+
+abstract [data] types, automatic [programming] data  
+an example program.  general [issues] in [data] structure  
+programming systems have provided only a single general  
+
+
+DocID: CACM-1043
+
+specified [data]  the extracted [data] is later edited,  
+technique with real-time [data] extraction  
+listing the associated [data] with its high-level  
+
+
+DocID: CACM-2331
+
+an integer [programming] problem  [algorithm] r397   
+integer [programming] change-making problem  
+
+
+DocID: CACM-1985
+
+an integer [programming] problem $h   [algorithm] 397   
+integer [programming] change making problem  
+
+
+DocID: CACM-2974
+
+comment on weighted increment [linear] search for scatter tables  
+
+
+DocID: CACM-2325
+
+numerical mathematics and computer science  
+numerical mathematics, computer [science] mathematics  
+numerical mathematics is viewed as the analysis  
+
+
+DocID: CACM-2407
+
+couger, j. d.  
+
+
+DocID: CACM-1615
+
+an [algorithm] for [generating] root locus diagrams  
+
+
+DocID: CACM-2343
+
+

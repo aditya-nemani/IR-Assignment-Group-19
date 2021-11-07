@@ -1,0 +1,590 @@
+BM25_NoStopNoStem
+
+Query
+anothers or statistical packages for anova, regression using least-squares or generalized linear models.  stem design, capabilities,
+statistical formula are of ietrnest.  students t test, wilson assign ttses, multivariate and univariate components can be included.
+
+Top 100 Results (485 millisecs)
+
+
+DocID: CACM-1344
+
+components and calculated f statistics for the model terms is [included]  
+statistical computations based upon algebraically specified models  
+method of performing calculations for [statistical] models  
+
+
+DocID: CACM-2634
+
+statistical computation, [statistical] software,  
+installations now offer various types of statistical  
+correlation, [regression] factor analysis, one-way analysis of variance  
+
+
+DocID: CACM-1709
+
+multiple [linear] [regression] [statistical] recurrence  
+formulas, correlation, [linear] [statistical] [models]  
+for stepwise multiple [linear] [regression] requires  
+
+
+DocID: CACM-2849
+
+broadcast communication, [statistical] arbitration  
+transmitting stations using controlled [statistical] arbitration.  
+using packet address recognition.  [design] principles  
+
+
+DocID: CACM-1691
+
+shift-register generators, [linear] recurrence modulo  
+statistical tests for randomness, ibm 360, 32-bit  
+since computer word size can affect a generator's statistical  
+
+
+DocID: CACM-1698
+
+system [design] input-output design  
+design.  
+statistical [models] for input-output, operating  
+
+
+DocID: CACM-1629
+
+a package of fortran [statistical] programs for use  
+the major [design] criteria of ease of use, ease of modification,  
+
+
+DocID: CACM-1474
+
+validity of these [models]  it is concluded that the models  
+probabilistic [models] for roundoff error, and then to  
+tests of probabilistic [models] for propagation of roundoff errors  
+
+
+DocID: CACM-0069
+
+statistical programs for the ibm 650-part i  
+of [statistical] programs now in use in university  
+
+
+DocID: CACM-2825
+
+factor analysis, graphics, outliers, [regression] time series, transformations  
+the bmd and bmdp series of [statistical] computer programs  
+
+
+DocID: CACM-1252
+
+symbolic notations for [statistical] tables  
+and an approach towards automatic system design  
+the preparation of [statistical] tables is an  
+
+
+DocID: CACM-1637
+
+research is continued into [statistical] analysis  
+expand the possibilities of [statistical] spectral  
+problems in the [statistical] analysis of simulation  
+
+
+DocID: CACM-2225
+
+partitions, combinatorics, [statistical] [design] of experiments  
+
+
+DocID: CACM-2062
+
+sampling, [models] experimental design  
+simulation, inventory [models] sequential  
+statistical precision is calculated.  also the cost of computer time  
+
+
+DocID: CACM-2999
+
+computer-based [statistical] and data  
+processing [capabilities] for handling multidimensional  
+array processing, table processing, statistical  
+
+
+DocID: CACM-0050
+
+statistical programs for the ibm 650-part ii  
+
+
+DocID: CACM-2525
+
+this paper presents the [statistical] results  
+a [statistical] study of the accuracy of floating point number systems  
+
+
+DocID: CACM-1398
+
+robot data screening: a solution to multivariate  
+of the type of [multivariate] problem that is  
+rather than a "statistical" criterion by which variables  
+
+
+DocID: CACM-0382
+
+statistical programs at the university of north carolina  
+
+
+DocID: CACM-1674
+
+statistical properties than the library generators  
+
+
+DocID: CACM-2771
+
+computational geometry, computer-aided [design]  
+graphics, machined [components] polyhedra, shape  
+
+
+DocID: CACM-1732
+
+factorial variance analysis, variance, [statistical] analysis  
+
+
+DocID: CACM-1823
+
+factorial variance analysis, variance, [statistical] analysis  
+
+
+DocID: CACM-1874
+
+the period but with less attractive statistical  
+properties.  the [statistical] properties of these sequences  
+period of the latter without loss of desirable statistical  
+
+
+DocID: CACM-1410
+
+this paper provides a [statistical] description  
+
+
+DocID: CACM-3138
+
+linear programming [test] cases  
+linear programming, numerical [linear] algebra, modified givens transformations,  
+test cases and some sample computing times are presented.  
+
+
+DocID: CACM-1171
+
+algorithms for [linear] programming  
+a [statistical] comparison of the primal-dual  
+a [regression] analysis, that the relevant parameters  
+
+
+DocID: CACM-0942
+
+piece of applied [statistical] research, involving extensive  
+the question of general [statistical] programs is  
+
+
+DocID: CACM-1619
+
+error-free methods for [statistical] computations  
+
+
+DocID: CACM-1695
+
+models, on-line simulation, simulation  
+extensive error-checking [capabilities] are provided.  
+the determination of detailed [statistical] properties.  
+
+
+DocID: CACM-2993
+
+linear programming, cycling, queueing models  
+arising in a class of [linear] programming models  
+to solve these [linear] programming [models] using ibm's  
+
+
+DocID: CACM-1264
+
+blnsys-a 1401 operating system with braille capabilities  
+itself.  input-ouput subroutines are also included  
+
+
+DocID: CACM-2994
+
+a [linear] algorithm for incremental digital display of circular arcs  
+
+
+DocID: CACM-3142
+
+agement [packages] including poor software is indicated.  while most  
+large linked program [packages]  as eft for instance .  
+them?  what can be learned by designers of large management packages  
+
+
+DocID: CACM-2398
+
+at the system level shows how [students] can mix the advantages  
+
+
+DocID: CACM-1999
+
+wilson, m. w.  
+
+
+DocID: CACM-1631
+
+systems simulator  gpss  were subjected to statistical  
+
+
+DocID: CACM-2970
+
+with specified [statistical] accuracy.  this method  
+includes a [test] to check the normality assumption on  
+
+
+DocID: CACM-1975
+
+a [generalized] division algorithm for use with positive integral operands is  
+
+
+DocID: CACM-2986
+
+relation, [linear] precedence function, slr  
+compute [linear] precedence functions in o n^2  steps  
+is shown, as well as how to compute [linear] precedence  
+
+
+DocID: CACM-1977
+
+approximation, data fitting, functional approximation, linear  
+an interactive display for approximation by [linear] programming  
+are determined by [linear] programming so as to minimize the error  
+
+
+DocID: CACM-2373
+
+and from ensemble-average  [statistical]   
+
+
+DocID: CACM-1554
+
+was obtained.  the technique can be [generalized] to n-dimensions  
+
+
+DocID: CACM-2216
+
+binary trees, sorting, [statistical] analysis  
+effort.  [statistical] tests of the values of several  
+
+
+DocID: CACM-2514
+
+that permits a user to interactively design  
+and [test] array grammars.  the user can control the rule  
+
+
+DocID: CACM-2900
+
+included in an optimal allocation.  
+
+
+DocID: CACM-1366
+
+languages and [packages] can be improved.  
+of six simulation languages and [packages] simscript,  
+change [models]  part iii presents a detailed comparison  
+
+
+DocID: CACM-1420
+
+prime.  this generator passes the usual statistical  
+
+
+DocID: CACM-2951
+
+on a network. analytical, simulation, and [statistical] performance  
+
+
+DocID: CACM-2215
+
+receiving the result of that [test] the procedure  
+does not [test] all the features of a pattern  
+
+
+DocID: CACM-1434
+
+before all [students] requesting and requiring  
+by application to the problem of assigning students  
+scheduling is retained without loss of the students  
+
+
+DocID: CACM-3034
+
+linear expressions.  it is also assumed that actions  
+in a decision table are [linear] in variables which occur  
+a set of [linear] inequalities has or does not have a  
+
+
+DocID: CACM-0028
+
+
+
+DocID: CACM-1206
+
+in the [statistical] and graphical methods  
+and the [design] of many experiments is greatly simplified.  
+
+
+DocID: CACM-1200
+
+a computer [design] is describe which permits  
+
+
+DocID: CACM-1488
+
+
+
+DocID: CACM-2096
+
+procedure.  the [statistical] significance of important conclusions is given.  
+since information on [statistical] significance has often been lacking in papers  
+
+
+DocID: CACM-1988
+
+
+
+DocID: CACM-3166
+
+are analyzed.  two of the algorithms are well-known in the statistical  
+
+
+DocID: CACM-2604
+
+are [included]  
+partitioning by [linear] programming  
+area specification, [linear] programming  
+
+
+DocID: CACM-2439
+
+
+
+DocID: CACM-2786
+
+this paper describes the [design] and implementation  
+2 produces  [formula] .  the syntax of the language is specified  
+
+
+DocID: CACM-3084
+
+using the value of the key and the [statistical] distribution  
+
+
+DocID: CACM-1152
+
+
+
+DocID: CACM-2665
+
+is necessary to achieve [linear] speed.  a variation  
+any noncyclic structure is copied in [linear] speed, while  
+
+
+DocID: CACM-1816
+
+three-term recurrence, polynomial [regression]  
+generalized least squares fit by orthogonal  
+
+
+DocID: CACM-0242
+
+wilson, j. g.  
+
+
+DocID: CACM-2078
+
+design, engineering [design] architectural [design] robots  
+automated [design] data structures, computer graphics, computer-aided  
+
+
+DocID: CACM-1454
+
+for programming automatic [test] equipment  
+used to write computer programs which [test] electronic  
+capabilities.  the language described in this paper is  
+
+
+DocID: CACM-3056
+
+
+
+DocID: CACM-3047
+
+image registration, synthetic images, surface [models]  
+automatic hill shading, digital terrain [models]  
+using synthetic images to register real images with surface models  
+
+
+DocID: CACM-1604
+
+distributions of those time properties as well as statistical  
+
+
+DocID: CACM-1216
+
+in a [formula] translator to introduce a differentiation  
+
+
+DocID: CACM-1519
+
+
+
+DocID: CACM-2978
+
+design alternatives are also [included]  
+costs for possible combinations of [design] alternatives  
+memory environment is described.  [design] alternatives  
+
+
+DocID: CACM-1433
+
+a note on [linear] programming algorithm [design] a combinatorial problem  
+as [linear] programming [models] grow bigger and  
+to [design] more efficient algorithms.  this paper is  
+
+
+DocID: CACM-1470
+
+the following are identified as major components  
+forms of each of these [components] are described,  
+
+
+DocID: CACM-1112
+
+one of these errors occurred.  during a [test] run on garbled  
+
+
+DocID: CACM-3087
+
+also [included] are discussions of important issues  
+of system [components] and examples of overall system  
+design and implementation of this system is described and  
+
+
+DocID: CACM-0698
+
+of a [test] with telephones in the boston area are reported.  
+
+
+DocID: CACM-1455
+
+procedures, the [capabilities] of the language can  
+
+
+DocID: CACM-1966
+
+wilson, w. j.  
+a [generalized] method for generating argument/function values  
+
+
+DocID: CACM-2145
+
+than logical [design]  it can be used to design  
+heuristic etching-pattern layout, wiring [design] of  
+ics in dual-in-line [packages] as well as discrete  
+
+
+DocID: CACM-2194
+
+
+
+DocID: CACM-1259
+
+
+
+DocID: CACM-2766
+
+list processing, copying, [linear] time, space complexity  
+operates in [linear] time and does not require tag bits.  
+copying cyclic list structures in [linear] time using bounded workspace  
+
+
+DocID: CACM-2188
+
+design guidelines.  
+model, optimum system [design] queueing  
+design guidelines, graphic display systems, mathematical  
+
+
+DocID: CACM-2820
+
+the [design] and implementation of a table driven,  
+him find the cause of his error.  most components  
+of the multilingual system.  over 500 [students] have used  
+
+
+DocID: CACM-2695
+
+in numerical [linear] algebra. consider the class of sparse  
+of increments are [linear] in n.  this compares  
+
+
+DocID: CACM-1605
+
+the [design] factors had been eliminated.  statistical  
+and problem characteristics, were specified as design  
+as a critique of the experimental [design] itself  
+
+
+DocID: CACM-1650
+
+
+
+DocID: CACM-2534
+
+design objective was to provide a maximum degree  
+can optionally be considered either source [test] or comment.  
+design and implementation of a diagnostic compiler for pl/i  
+
+
+DocID: CACM-2343
+
+several of the best [capabilities] from existing schemes  
+capabilities which are found in various existing techniques.  
+are [included] in the proposal in order to aid  
+
+
+DocID: CACM-1802
+
+regression analysis, experimental [design] matrix  
+regression using certain direct product matrices  algorithm 366 [g2]   
+
+
+DocID: CACM-3158
+
+
+
+DocID: CACM-0533
+
+simplify discussion of the [statistical] properties of the  
+
+
+DocID: CACM-2906
+
+format specification, and [design] methodology  
+sublanguages or [components] one for defining the business  
+
+
+DocID: CACM-1630
+
+
+
+DocID: CACM-1143
+
+exponentials.  [statistical] errors of the fitted  
+
+
+DocID: CACM-1700
+
+on a [test] search of 33,000 subject index entries.  a search  
+

@@ -1,0 +1,408 @@
+LUCENE_NoStopNoStem
+
+Query
+Languages and compilers for parallel processors, especially highly
+horizontal microcoded machines; code compaction
+
+Top 100 Results (34 millisecs)
+
+
+DocID: CACM-2138
+
+
+
+DocID: CACM-1988
+
+
+
+DocID: CACM-2112
+
+
+
+DocID: CACM-0249
+
+
+
+DocID: CACM-1811
+
+
+
+DocID: CACM-3075
+
+
+
+DocID: CACM-2896
+
+
+
+DocID: CACM-2685
+
+
+
+DocID: CACM-1795
+
+
+
+DocID: CACM-0670
+
+
+
+DocID: CACM-1852
+
+
+
+DocID: CACM-1665
+
+
+
+DocID: CACM-2175
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-3110
+
+
+
+DocID: CACM-2266
+
+
+
+DocID: CACM-2921
+
+
+
+DocID: CACM-2495
+
+
+
+DocID: CACM-2897
+
+
+
+DocID: CACM-2929
+
+
+
+DocID: CACM-1223
+
+
+
+DocID: CACM-3148
+
+
+
+DocID: CACM-2785
+
+
+
+DocID: CACM-1163
+
+
+
+DocID: CACM-0303
+
+
+
+DocID: CACM-1463
+
+
+
+DocID: CACM-2644
+
+
+
+DocID: CACM-0637
+
+
+
+DocID: CACM-1159
+
+
+
+DocID: CACM-3156
+
+
+
+DocID: CACM-2570
+
+
+
+DocID: CACM-1603
+
+
+
+DocID: CACM-2723
+
+
+
+DocID: CACM-2423
+
+
+
+DocID: CACM-3005
+
+
+
+DocID: CACM-3080
+
+
+
+DocID: CACM-3175
+
+
+
+DocID: CACM-2298
+
+
+
+DocID: CACM-1389
+
+
+
+DocID: CACM-0243
+
+
+
+DocID: CACM-2497
+
+
+
+DocID: CACM-2567
+
+
+
+DocID: CACM-2433
+
+
+
+DocID: CACM-2064
+
+
+
+DocID: CACM-2717
+
+
+
+DocID: CACM-1548
+
+
+
+DocID: CACM-1099
+
+
+
+DocID: CACM-3150
+
+
+
+DocID: CACM-2289
+
+
+
+DocID: CACM-3093
+
+
+
+DocID: CACM-2645
+
+
+
+DocID: CACM-1738
+
+
+
+DocID: CACM-0082
+
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1923
+
+
+
+DocID: CACM-3066
+
+
+
+DocID: CACM-0950
+
+
+
+DocID: CACM-2633
+
+
+
+DocID: CACM-0799
+
+
+
+DocID: CACM-1324
+
+
+
+DocID: CACM-3074
+
+
+
+DocID: CACM-2579
+
+
+
+DocID: CACM-1591
+
+
+
+DocID: CACM-2252
+
+
+
+DocID: CACM-1680
+
+
+
+DocID: CACM-2886
+
+
+
+DocID: CACM-2341
+
+
+
+DocID: CACM-2820
+
+
+
+DocID: CACM-1367
+
+
+
+DocID: CACM-1747
+
+
+
+DocID: CACM-1154
+
+
+
+DocID: CACM-2534
+
+
+
+DocID: CACM-1613
+
+
+
+DocID: CACM-1947
+
+
+
+DocID: CACM-0205
+
+
+
+DocID: CACM-2253
+
+
+
+DocID: CACM-1670
+
+
+
+DocID: CACM-1409
+
+
+
+DocID: CACM-1844
+
+
+
+DocID: CACM-2904
+
+
+
+DocID: CACM-1158
+
+
+
+DocID: CACM-1828
+
+
+
+DocID: CACM-2767
+
+
+
+DocID: CACM-2681
+
+
+
+DocID: CACM-3107
+
+
+
+DocID: CACM-2973
+
+
+
+DocID: CACM-1262
+
+
+
+DocID: CACM-3171
+
+
+
+DocID: CACM-3073
+
+
+
+DocID: CACM-3127
+
+
+
+DocID: CACM-1275
+
+
+
+DocID: CACM-2989
+
+
+
+DocID: CACM-1807
+
+
+
+DocID: CACM-1425
+
+
+
+DocID: CACM-2819
+
+
+
+DocID: CACM-2146
+
+
+
+DocID: CACM-2651
+
+
+
+DocID: CACM-1825
+
+
+
+DocID: CACM-2316
+
+
+
+DocID: CACM-1135
+
+

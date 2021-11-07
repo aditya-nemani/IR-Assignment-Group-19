@@ -1,0 +1,470 @@
+QL_NoStopNoStem
+
+Query
+what armies exit which dahl with tss (time sharing system), accelerating system for ibm crmupteos?
+
+Top 100 Results (362 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+
+
+DocID: CACM-0994
+
+
+
+DocID: CACM-0995
+
+
+
+DocID: CACM-0996
+
+
+
+DocID: CACM-0990
+
+
+
+DocID: CACM-0991
+
+
+
+DocID: CACM-0992
+
+
+
+DocID: CACM-2703
+
+time, semantics  
+is also given, which actually solves the problem within exponential [time]  
+
+
+DocID: CACM-2702
+
+exponential [time]  these results carry over to many  
+is considered.  the [time] complexity of this problem  
+
+
+DocID: CACM-2705
+
+dominant for a long [time] to come.  the most promising  
+
+
+DocID: CACM-2704
+
+multilevel [exit] goto statement, error conditions,  
+
+
+DocID: CACM-2701
+
+the [time] bound.  examples are given of code  
+worst case [time] bound of o e log e  function operations.  
+
+
+DocID: CACM-2700
+
+system can often be greatly simplified.  
+
+
+DocID: CACM-2707
+
+time for the solution to another combinatorial problem.  
+time in many cases.  in particular, this technique has allowed  
+
+
+DocID: CACM-2706
+
+
+
+DocID: CACM-2709
+
+
+
+DocID: CACM-2708
+
+
+
+DocID: CACM-0975
+
+
+
+DocID: CACM-0976
+
+
+
+DocID: CACM-0977
+
+
+
+DocID: CACM-0978
+
+
+
+DocID: CACM-0971
+
+time [sharing] in a traffic control program  
+the toronto traffic signal control [system] consists  
+programs, all competing for machine [time]  to satisfy  
+
+
+DocID: CACM-0972
+
+system components. the major emphasis of the  
+an executive [system] implemented as a finite-state automaton  
+the 473l command and control [system] used by  
+
+
+DocID: CACM-0973
+
+
+
+DocID: CACM-0974
+
+analysis feasible on the [ibm] 7090  
+
+
+DocID: CACM-0970
+
+
+
+DocID: CACM-0979
+
+
+
+DocID: CACM-0986
+
+
+
+DocID: CACM-0987
+
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+
+
+DocID: CACM-0983
+
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+described in this paper is a [system] of general-purpose  
+
+
+DocID: CACM-0981
+
+
+
+DocID: CACM-1405
+
+
+
+DocID: CACM-2736
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1407
+
+
+
+DocID: CACM-2738
+
+
+
+DocID: CACM-1406
+
+
+
+DocID: CACM-2737
+
+
+
+DocID: CACM-1401
+
+
+
+DocID: CACM-2732
+
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2731
+
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2734
+
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-2733
+
+
+
+DocID: CACM-2730
+
+it into a natural language [system] consultant.  
+
+
+DocID: CACM-1409
+
+time and provides possibilities for an associative  
+
+
+DocID: CACM-1408
+
+real [time] is to perform accesses quickly.  the  
+enable a [system] to perform a job by employing fewer or  
+
+
+DocID: CACM-2739
+
+
+
+DocID: CACM-1416
+
+
+
+DocID: CACM-2747
+
+fibonacci buddy [system] dynamic storage allocation, buddy system  
+buddy [system] which requires neither tables  
+a simplified recombination scheme for the fibonacci buddy system  
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-2746
+
+machine takes [time] proportional to the sum of  
+
+
+DocID: CACM-1418
+
+
+
+DocID: CACM-2749
+
+relative running [time] of the two methods is developed.  
+than the clock pulse method at low levels of system  
+
+
+DocID: CACM-1417
+
+economies of scale and the [ibm] [system]360  
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+system.  the banking information [system] now serves the  
+the banking information [system] concept  
+generally, this [system] must interface with other computer  
+
+
+DocID: CACM-2743
+
+
+
+DocID: CACM-1411
+
+
+
+DocID: CACM-2742
+
+a method for significantly reducing the [time] spent scanning  
+reputation of eating up hours of computer [time]  this  
+amount of bookkeeping [time] is required to keep future events  
+
+
+DocID: CACM-1414
+
+
+
+DocID: CACM-2745
+
+solve this problem in quadratic [time] and in linear  
+time and space.  an algorithm is presented which will  
+
+
+DocID: CACM-1413
+
+will become the actual and, if so, on what time  
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-1410
+
+time[sharing] [system]  [tss] .  the input process  
+interarrival statistics for [time] [sharing] systems  
+the optimization of [time]shared [system] performance  
+
+
+DocID: CACM-2741
+
+system levels, hierarchy,networks of queues  
+critical computing loads which bring the system  
+system, both borrowed from econometrics.  this approach  
+
+
+DocID: CACM-2740
+
+multiprogramming [system]  
+operating [system] structure, asynchronous  
+cooperating processes, operating [system] semaphores,  
+
+
+DocID: CACM-1419
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-2713
+
+
+
+DocID: CACM-2716
+
+response [time] and space utilization by:  1  performing  
+
+
+DocID: CACM-2715
+
+memory [system] and the sequel language have  
+
+
+DocID: CACM-2710
+
+
+
+DocID: CACM-2712
+
+
+
+DocID: CACM-2711
+
+the value of an indexing [system] may be expressible  
+
+
+DocID: CACM-2718
+
+a preliminary [system] for the design of dbtg data structures  
+
+
+DocID: CACM-2717
+
+
+
+DocID: CACM-2719
+
+time, execution behavior, difference equations,  
+of such analysis, and describes a [system]  
+for their running [time] expressed in terms of size of input.  
+
+
+DocID: CACM-2725
+
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+
+
+DocID: CACM-2726
+
+reducing machine execution [time]  2  reducing  
+preprocessing [time]  3  reducing required machine memory;  
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-2720
+
+disk drive hierarchies, [system] evaluation, input/output,  
+uniform distributions. total response [time] of the  
+model with service [time] of a disk drive represented  
+
+
+DocID: CACM-2723
+
+
+
+DocID: CACM-2722
+
+attribute, information retrieval [system] nearest  
+[proven maximum running [time] of o  n^ k-t /k ]  
+running [time] of o  log n .]  these performances  
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-2728
+
+

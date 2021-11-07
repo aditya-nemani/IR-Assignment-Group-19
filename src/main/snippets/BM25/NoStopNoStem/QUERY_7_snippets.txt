@@ -1,0 +1,627 @@
+BM25_NoStopNoStem
+
+Query
+i am interested in distributed algorithms - checkout programs ichbiah processes communicate and synchronize by using message possibilities of particular interest include foreknowledge and techniquefor understanding the correctness of the algorithms.
+
+Top 100 Results (797 millisecs)
+
+
+DocID: CACM-3043
+
+processes [communicate] and [synchronize] by means of procedure  
+concurrent programming, [distributed] [processes]  
+distributed [processes] a concurrent programming concept  
+
+
+DocID: CACM-2903
+
+recursion elimination, pattern matching [algorithms]  
+program transformation, optimization of [programs]  
+by using recursion in troduction, algorithms  
+
+
+DocID: CACM-3141
+
+decentralized [algorithms] [distributed] systems, operating systems  
+in circular configurations of processes  
+numbered [processes] arranged in a circle, in which no central  
+
+
+DocID: CACM-0371
+
+remarks on [algorithms] 2 and 3, algorithm 15 and [algorithms] 25 and 26  
+
+
+DocID: CACM-1952
+
+index by subject to [algorithms] 1970  
+
+
+DocID: CACM-1660
+
+index by subject to [algorithms] 1960-1968  
+
+
+DocID: CACM-1796
+
+index by subject to [algorithms] 1969  
+index by subject to [algorithms] 1960 1968  comm.  
+
+
+DocID: CACM-2902
+
+algorithms.  simple [algorithms] operating on memory ordered  
+fragmentation.  [algorithms] main taining separate  
+well.  [algorithms] employing power-of-two block sizes  
+
+
+DocID: CACM-2949
+
+distributed computer network, [correctness] proofs,  
+computer networks, [distributed] control, network  
+topology, routing problem in networks, [distributed] operating  
+
+
+DocID: CACM-2417
+
+four combinatorial [algorithms] [g6]  algorithm a466   
+
+
+DocID: CACM-2830
+
+a practitioner's guide to addressing [algorithms]  corrigendum   
+
+
+DocID: CACM-2007
+
+algorithms policy/revised august 1970  
+
+
+DocID: CACM-0225
+
+a [techniquefor] handling macro instructions  corrigendum   
+
+
+DocID: CACM-1551
+
+on compiling [algorithms] for arithmetic expressions  
+algorithms generate an object code which minimizes  
+this paper deals with [algorithms] concerning arithmetic  
+
+
+DocID: CACM-2289
+
+that exploit the [possibilities] for parallelism,  
+algorithms for distance and spanning tree problems  
+algorithms are presented for the solution of certain  
+
+
+DocID: CACM-1342
+
+transportation problem  [algorithms] 293 [h]   
+
+
+DocID: CACM-2665
+
+of primarily theoretical [interest] shows that without  
+two new [algorithms] are presented for list structure  
+less than nlogn.  no [foreknowledge] of cycle absence  
+
+
+DocID: CACM-2863
+
+realizable variable space [algorithms]  
+page replacement [algorithms] optimal page replacement  
+and the page partitioning replacement algorithms  
+
+
+DocID: CACM-0270
+
+techniques for storage allocation algorithms  
+
+
+DocID: CACM-2912
+
+two techniques for transmitting messages between [processes]  
+theorems are proved, and some [algorithms] are presented  
+by one process and read by other [processes]  
+
+
+DocID: CACM-2950
+
+of time-invariant [algorithms] which [include] most  
+scheduling [algorithms] scheduling models, priority,  
+algorithms, the dependence of processing rates  
+
+
+DocID: CACM-2325
+
+of computation, [algorithms] continuous algorithms  
+complexity , synthesis and analysis of [algorithms]  
+analysis of error, [programs] and program libraries.  
+
+
+DocID: CACM-2890
+
+distributed network, computer network, [message] switching  
+on quadratic adaptive routing algorithms  
+routing [algorithms] adaptive routing, quadratic routing,  
+
+
+DocID: CACM-1397
+
+people [interested] in programming languages designed  
+by the acm special [interest] committee on symbolic  
+strings, in their applications, and in [algorithms] for  
+
+
+DocID: CACM-2674
+
+that the noninteractive [algorithms] can significantly  
+scan conversion [algorithms] which have been  
+to [include] general graphics.  two fundamentally different  
+
+
+DocID: CACM-1953
+
+exponential integral ei x   [algorithms] 385 $s13    
+
+
+DocID: CACM-2273
+
+two [algorithms] for generating computer programs  
+from decision tables are described.  the algorithms  
+entry tables.  the [algorithms] are based on the  
+
+
+DocID: CACM-2505
+
+and adjacent transposition algorithms  
+
+
+DocID: CACM-2520
+
+proof of [algorithms] greatest common divisor,  
+
+
+DocID: CACM-2657
+
+program-synthesizing [algorithms] theorem proving,  
+an improved program-synthesizing algorithm and its correctness  
+in 1969.  the [correctness] of the improved algorithm  
+
+
+DocID: CACM-2226
+
+the [algorithms] as a suboptimizer is indicated.  
+further evidence for the analysis of algorithms  
+operations research, integer programming, zero-one variables, algorithms  
+
+
+DocID: CACM-2362
+
+matrix [algorithms] linear equations, fortran,  
+
+
+DocID: CACM-1373
+
+gamma function; logarithm of gamma function  algorithms  
+
+
+DocID: CACM-2376
+
+running [processes] of a system [communicate] correctly.  
+synchronization of communicating processes  
+parallel programming, multiprogramming, program [correctness]  
+
+
+DocID: CACM-2884
+
+permutations, loop-free algorithms  
+classical permutation enumeration [algorithms] encounter  
+permutation enumeration: four new permutation algorithms  
+
+
+DocID: CACM-2276
+
+distributed random numbers into exponentially  
+shorter [algorithms] and faster but space consuming  
+and normally [distributed] quantities.  the most efficient  
+
+
+DocID: CACM-2263
+
+algorithms  
+two new [algorithms] for deriving optimal and  
+decision table, flowcharting, preprocessor, optimal [programs] search  
+
+
+DocID: CACM-1873
+
+accelerating lp algorithms  
+phase of lp [algorithms]  other lp applications are indicated.  
+
+
+DocID: CACM-1619
+
+by some [algorithms] used to compute various  
+
+
+DocID: CACM-0804
+
+exponentiation of series  [algorithms] 134   
+
+
+DocID: CACM-3148
+
+distributed computing, modules, messages, assertions  
+high level programming for [distributed] computing  
+programming for [distributed] and other loosely coupled systems  
+
+
+DocID: CACM-2146
+
+sorting, polyphase sorting, dispersion [algorithms]  
+new dispersion [algorithms] with more straightforward  
+various dispersion [algorithms] for the polyphase  
+
+
+DocID: CACM-1122
+
+a note on some compiling algorithms  
+
+
+DocID: CACM-3128
+
+correctness arguments and also simplifies implementation in distributed  
+process synchronization, interprocess communication, distributed  
+ordering of events in the [processes]  
+
+
+DocID: CACM-2111
+
+incorporating spelling correction [algorithms] in  
+spelling correction in systems programs  
+to compilers and operating systems.  these [include] the use of syntax  
+
+
+DocID: CACM-1923
+
+for [programs] to [communicate] with deeply embedded  
+
+
+DocID: CACM-2283
+
+thinning [algorithms] rectangular, hexagonal,  
+and the relative performances of the algorithms  
+in this report three thinning [algorithms] are  
+
+
+DocID: CACM-3006
+
+fault frequency, paging algorithms  
+algorithms, virtual memory, working set, page  
+anomalies with variable partition paging algorithms  
+
+
+DocID: CACM-1924
+
+matrix [algorithms] array processing, paging [algorithms]  
+multiplication, and inversion [algorithms] shows  
+carefully designed matrix [algorithms] can lead to  
+
+
+DocID: CACM-3166
+
+four [algorithms] for the numerical computation  
+and computational literature; the other two are new algorithms  
+algorithms will provide accurate answers for many problems, but two  
+
+
+DocID: CACM-2627
+
+algorithms, deterministic scheduling models  
+time, sequencing [algorithms] optimal scheduling  
+which extend and generalize the [algorithms] known for  
+
+
+DocID: CACM-2942
+
+pattern implementation, [algorithms] in pascal  
+
+
+DocID: CACM-3132
+
+experiments with some [algorithms] that find  
+than a noncentral hyperplane.  six [algorithms] for finding central  
+three [algorithms] which are defined in the paper are found to be  
+
+
+DocID: CACM-3151
+
+points, real-time [algorithms] on-line [algorithms]  
+
+
+DocID: CACM-2426
+
+algorithms scale1, scale2, and scale3 for determination  
+
+
+DocID: CACM-2094
+
+d by properties which permit the application of special [algorithms]  
+mainly based on the exchange [algorithms] of remes  1934, 1935 , for  
+
+
+DocID: CACM-1374
+
+evaluation  [algorithms] 41[f3]; 269[f3]   
+
+
+DocID: CACM-2272
+
+a family of sorting [algorithms] is proposed,  
+algorithms, sorting by replacement selection, expected string length  
+
+
+DocID: CACM-2725
+
+a comparison of simulation event list [algorithms]  corrigendum   
+
+
+DocID: CACM-2679
+
+claims.  of all these [algorithms] quickersort requires  
+for six acm [algorithms] quicksort  no. 64 ,  
+402 .  [algorithms] 271 and 402 are refinements of algorithm  
+
+
+DocID: CACM-2767
+
+a comparison of simulation event list algorithms  
+the advantages and limitations of the [algorithms]  
+four [algorithms] are considered which can be used  
+
+
+DocID: CACM-1851
+
+generator of spanning trees  [algorithms] 354 [h]   
+
+
+DocID: CACM-2973
+
+two [algorithms] are presented for sorting n^2  
+n .  the [algorithms] of this paper are shown to be optimal  
+
+
+DocID: CACM-2904
+
+integrated package of local optimization [algorithms]  
+are discussed.  these [algorithms] should fit well into an  
+
+
+DocID: CACM-1172
+
+the tables into computer [programs] will extend  
+conversion of limited-entry decision tables to computer programs  
+of conditions.  [algorithms] that can efficiently convert  
+
+
+DocID: CACM-1658
+
+programming, zero-one variables, algorithms  
+of several existing [algorithms] for the  
+analysis of [algorithms] for the zero-one programming problem  
+
+
+DocID: CACM-2740
+
+sequential [processes]  the [processes] [synchronize] by  
+structuring, buffering, parallel [processes] synchronizing  
+cooperating [processes] operating system, semaphores,  
+
+
+DocID: CACM-3061
+
+simulations of dynamic sequential search algorithms  
+
+
+DocID: CACM-2222
+
+proof of [algorithms] debugging, certification,  
+
+
+DocID: CACM-2936
+
+published [algorithms]  first, the new algorithm's  
+recently [algorithms] have been presented for the  
+of commonly used simple linked list [algorithms]  in this  
+
+
+DocID: CACM-2337
+
+algorithms is given.  one new algorithm for  
+
+
+DocID: CACM-2025
+
+factorial analysis of variance;  [algorithms] 332,344,351,359   
+
+
+DocID: CACM-1392
+
+of mathematical expression manipulation algorithms  
+formac expand and differentiation [algorithms] a  
+in the design of [algorithms] for manipulating  
+
+
+DocID: CACM-2306
+
+ancient babylonian algorithms  
+of greatest [interest] from the standpoint of computer  
+
+
+DocID: CACM-2236
+
+p.  [algorithms] r352, r385, r392   
+
+
+DocID: CACM-1752
+
+are given by tracing the development of the algorithms  
+of the task scheduling and paging [algorithms] that were implemented,  
+
+
+DocID: CACM-2819
+
+codes, n-gram encoding, comparison of algorithms  
+two [algorithms] for encoding a string differ  
+parameters in the [algorithms] are optimized to obtain  
+
+
+DocID: CACM-2454
+
+computational [algorithms] for closed queueing  
+the computational [algorithms] are based on two-dimensional  
+
+
+DocID: CACM-2389
+
+and the search [algorithms] are detailed.  
+automated design, architecture, heuristic [programs] space planning  
+a computer language and a set of [programs] within  
+
+
+DocID: CACM-3075
+
+fast parallel sorting algorithms  
+parallel processing, sorting, [algorithms] bucket sort  
+
+
+DocID: CACM-2691
+
+decision table, flowcharting, preprocessor, optimal [programs] search  
+comments on the [algorithms] of verhelst for the  
+
+
+DocID: CACM-2216
+
+uniformly [distributed] branching ratios, and  
+using more advanced [algorithms] in the family makes  
+therefore is applicable to a family of sorting algorithms  
+
+
+DocID: CACM-2953
+
+stacks, trees, sorting [algorithms] computational  
+recursion elimination, optimization of [programs]  
+with tree traversal and sorting [algorithms]  each method  
+
+
+DocID: CACM-2490
+
+graphs,analysis of [algorithms] graph manipulation  
+efficient [algorithms] are presented for partitioning  
+efficient [algorithms] for graph manipulation [h]  algorithm a447   
+
+
+DocID: CACM-2997
+
+computational complexity, convex hull, optimal [algorithms]  
+proposed [algorithms] is optimal within a multiplicative  
+log n  operations.  the presented [algorithms] use the "divide  
+
+
+DocID: CACM-1237
+
+conversion of decision tables to computer programs  
+of decision tables to [programs] are presented  
+are valuable as hand-coding guides or as [algorithms] for  
+
+
+DocID: CACM-2267
+
+algorithms to reveal properties of floating-point arithmetic  
+two [algorithms] are presented in the form of  
+
+
+DocID: CACM-2630
+
+two [algorithms] are presented that construct  
+in a directed graph.  these [algorithms] generalize the floyd  
+
+
+DocID: CACM-2365
+
+matrix [algorithms] linear equations, fortran,  
+the efficiency of conventional fortran programs  
+
+
+DocID: CACM-1529
+
+relative performance of the two [algorithms] and to their  
+algorithms.  in the course of the analysis, a substructure  
+
+
+DocID: CACM-2692
+
+these [algorithms] are able to clip polygons  
+clipping window.  the [algorithms] described achieve  
+a new family of clipping [algorithms] is described.  
+
+
+DocID: CACM-0409
+
+problems and to provide intercommunication between programs  
+data and [algorithms] may be expressed in a family  
+as well as [algorithms] defined on these data sets.  both  
+
+
+DocID: CACM-3032
+
+computer network [include]  1  transmission  
+nodes of a network.  [algorithms] for accomplishing  
+this list of [algorithms] we add  6  reverse path  
+
+
+DocID: CACM-2647
+
+more on [algorithms] that reveal properties  
+
+
+DocID: CACM-3143
+
+reasoning about arrays.  the basic concepts [include] intervals and their  
+algorithms for binary search and merging, and by a short formal proof.  
+
+
+DocID: CACM-1948
+
+calculus.  group theory [programs] range from  
+simple combinatorial or numerical [programs] to large  
+more important [algorithms] in use are described and contrasted,  
+
+
+DocID: CACM-1957
+
+the list set generator is defined and algorithms  
+
+
+DocID: CACM-2373
+
+working-set model, paging, paging [algorithms]  
+size is shown to be normally [distributed]  
+a program's working set w t,t  at time t is  
+
+
+DocID: CACM-2771
+
+added together or subtracted.  two [algorithms] to  
+
+
+DocID: CACM-2646
+
+these [algorithms] are restricted to classes  
+this paper presents the background and algorithms  
+of [programs] with predictable behavior.  while the methods  
+

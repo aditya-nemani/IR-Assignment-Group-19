@@ -1,0 +1,624 @@
+BM25_NoStopNoStem
+
+Query
+code optimization for space efficiency
+
+Top 100 Results (94 millisecs)
+
+
+DocID: CACM-1947
+
+object [code] optimization  
+instructions, object [code] [optimization] redundancy  
+compilers, data flow analysis, dominance, [efficiency]  
+
+
+DocID: CACM-1795
+
+code [optimization] sequencing of operations,  
+optimal [code] for serial and parallel computation  
+
+
+DocID: CACM-2748
+
+threaded [code] snobol4, interpretors, [code] generation  
+of threaded [code] but requires less [space] and is more  
+indirect threaded code  
+
+
+DocID: CACM-2495
+
+object[code] [optimization] register assignment,  
+arithmetic expressions, [code] generation, compilers,  
+adapting optimal [code] generation for arithmetic  
+
+
+DocID: CACM-2491
+
+interpreter, machine [code] time tradeoff, space  
+code  
+threaded code  
+
+
+DocID: CACM-2559
+
+when the [space] allocation for a hash-coded table  
+reallocation, dynamic storage, hash [code] scatter storage, deletions  
+over the new [space]  a technique for accomplishing  
+
+
+DocID: CACM-2897
+
+optimization, [optimization] techniques, data flow analysis  
+compiler structure, optimizing compiler, code  
+can further improve the object [code]  
+
+
+DocID: CACM-3080
+
+the system is as a post [optimization] step in code  
+compilers, correctness, [code] [optimization]  
+proving the correctness of heuristically optimized code  
+
+
+DocID: CACM-2680
+
+systems, file scheduling, [space] allocation,  
+disk analysis, disk [optimization] disk files,file  
+optimal [space] allocation on disk storage devices  
+
+
+DocID: CACM-1886
+
+efficiency of the object [code] produced by first factoring  
+factorization algorithms, [code] [optimization] sequencing  
+generation of optimal [code] for expressions via factorization  
+
+
+DocID: CACM-3054
+
+various [code] [optimization] techniques.  a detailed  
+quicksort, analysis of algorithms, [code] [optimization] sorting  
+
+
+DocID: CACM-2904
+
+compilers, [optimization] of compiled [code] program analysis,  
+integrated package of local [optimization] algorithms.  
+
+
+DocID: CACM-2944
+
+efficiency.  
+optimization, reference counts, storage  
+used to find actions that cancel when the [code] is executed  
+
+
+DocID: CACM-2537
+
+minimum [space] text storage, [optimization]  
+optimization problem: determine how each message should  
+a method for saving storage [space] for text  
+
+
+DocID: CACM-2253
+
+languages, program [optimization] range operations, symbolic  
+generate [code] for handling the tedious address  
+in a previous paper.  this scheme attempts program optimization  
+
+
+DocID: CACM-1195
+
+aeronautics and [space] administration.  
+national aeronautics and [space] administration linear file  
+the output for [optimization] of processing on the  
+
+
+DocID: CACM-3171
+
+line number administration, diagnostic messages, abstract machine code  
+in either time or [space] during execution of the program.  
+
+
+DocID: CACM-2929
+
+program [optimization] compilers, structured  
+is analyzed.  the [optimization] consists  
+an [optimization] technique known as inline substitution  
+
+
+DocID: CACM-2464
+
+optimization, constrained [optimization] box's algorithm  
+the complex method for constrained [optimization] [e4]  algorithm a454   
+
+
+DocID: CACM-1564
+
+tables into cobol [code] is contained in the  
+a line at a time.  the only optimization  
+indexing and also by outputting the [code] as it is generated,  
+
+
+DocID: CACM-2033
+
+layout, retrieval trade-offs, retrieval [efficiency] storage efficiency  
+space is accomplished by exploiting the possibility that a small fraction of  
+are intended to reduce the amount of [space] required to contain the hash-coded  
+
+
+DocID: CACM-1651
+
+in the [code] itself, but from an [efficiency] evaluation:  
+in this descriptive article an input code  
+the input [code] described.  from a user's standpoint,  
+
+
+DocID: CACM-2374
+
+storage allocation, [space] sharing, multiprogrammed  
+and operating [efficiency] over fixed partitioning.  
+
+
+DocID: CACM-3083
+
+hash [code] scatter storage, open addressing, chaining,  
+efficiency of the method is derived and a tradeoff analysis is given.  
+
+
+DocID: CACM-2423
+
+automata, translation grammars, translator [optimization] compression algorithm  
+table entries and 82 words are links to code  
+syntactic rule corresponds to a  possibly empty  "code  
+
+
+DocID: CACM-2716
+
+relational database, database [optimization] inverted  
+global query [optimization]  2  exploiting disjoint  
+response time and [space] utilization by:  1  performing  
+
+
+DocID: CACM-2835
+
+recursion, compiler optimization  
+recursion analysis for compiler optimization  
+use in compiler [optimization]  implementation considerations  
+
+
+DocID: CACM-1223
+
+high speed compilation of efficient object code  
+optimization such as the effective use of index  
+the object [code] which would be most efficient  
+
+
+DocID: CACM-1362
+
+7-bit [code] for information interchange.  
+philosophies regarding [code] extension applications,  
+the american standard [code] for information  
+
+
+DocID: CACM-1655
+
+code extension, [code] table, bit pattern  
+standard [code] [code] information interchange, characters,  
+code extension procedures for information  
+
+
+DocID: CACM-1807
+
+fortran, [optimization] expressions, compilers,  
+optimization of expressions in fortran  
+code without significantly reducing the compilation  
+
+
+DocID: CACM-0048
+
+code  with 64 10-bit [code] words to be employed  
+shift-register [code] for indexing applications  
+a single-error correcting [code]  "minimum-distance-three"  
+
+
+DocID: CACM-3005
+
+efficient with respect to both [space] and time.  
+only fixed length  1-byte  op [code] and address  
+size by a factor of 3.  unlike a huffman [code]  
+
+
+DocID: CACM-2701
+
+global flow analysis, data flow, [code] [optimization]  
+the time bound.  examples are given of code  
+
+
+DocID: CACM-1231
+
+peephole optimization  
+optimizing technique called peephole [optimization]  
+
+
+DocID: CACM-1901
+
+program behavior, and processor efficiency  
+cost of [space] allocation per task are defined  
+
+
+DocID: CACM-2711
+
+indexing, content analysis, document space  
+a vector [space] model for automatic indexing  
+with [space] density.  an approach based on  
+
+
+DocID: CACM-1756
+
+code, hole-patterns, hole-patterns assignment,  
+hollerith punched card [code]  proposed usa standard   
+usa standard, card [code] punched card, punched card  
+
+
+DocID: CACM-2745
+
+space.  
+a linear [space] algorithm for computing maximal common subsequences  
+time and [space]  an algorithm is presented which will  
+
+
+DocID: CACM-2524
+
+are presented which compare the [efficiency] of the methods.  
+a metric on the the key [space] is suitably defined,  
+
+
+DocID: CACM-3129
+
+several criteria for best allocating storage [space] to the files.  
+designates the [space] required in each file for record addition. whenever one  
+direct-access storage device in which storage [space] is limited.  records are  
+
+
+DocID: CACM-2858
+
+program structure and a choice of optimization  
+in which case the total [code] length is minimized, or  
+
+
+DocID: CACM-1652
+
+code , is an 8-bit [code] set constructed  
+a [code] for non-numeric information processing  
+a [code] has been specifically designed to simplify  
+
+
+DocID: CACM-2611
+
+the complex method for constrained [optimization]  algorithm r454   
+
+
+DocID: CACM-1992
+
+hashing, hash [code] scatter storage, calculated address,  
+comment on bell's quadratic quotient method for hash [code] searching  
+
+
+DocID: CACM-0267
+
+some proposals for improving the [efficiency] of algol 60  
+
+
+DocID: CACM-2645
+
+symbolic manipulation, program [efficiency]  
+two languages for estimating program efficiency  
+the [efficiency] of computer programs are presented.  
+
+
+DocID: CACM-2078
+
+representations for [space] planning  
+are called [space] planning problems.  the representational  
+that allow automated [space] planning are described and compared.  
+
+
+DocID: CACM-1234
+
+and array identifiers with particular [efficiency]  
+enables the generation of [code] for expressions  
+
+
+DocID: CACM-2834
+
+reflected gray [code] and its applications  
+gray [code] combinations, subsets, compositions, combinatorial computing  
+binary reflected gray [code] and codewords of  
+
+
+DocID: CACM-2107
+
+code eliminating secondary clustering  
+hashing, hash [code] scatter storage, calculated address, clustering,  
+secondary clustering as a cause of hash [code] inefficiency is discussed, and a  
+
+
+DocID: CACM-2533
+
+gray [code] sign sequences, ordering, positive  
+gray [code] and the +- sign sequence when  
+
+
+DocID: CACM-0164
+
+a short study of notation efficiency  
+
+
+DocID: CACM-1369
+
+half rotations in n-dimensional euclidean space  
+space. the method is a variant of the cyclic jacobi  
+
+
+DocID: CACM-2616
+
+decision tables, program [optimization] debugging,  
+conversions are mainly program debugging and optimization  
+
+
+DocID: CACM-0117
+
+an estimation of the relative [efficiency] of two internal sorting methods  
+
+
+DocID: CACM-0797
+
+american standard [code] for information interchange  
+
+
+DocID: CACM-2892
+
+performance evaluation and [efficiency] resource sharing  
+some measurements of line [efficiency] for the arpanet are  
+of each level are summarized.  then the line efficiency  
+
+
+DocID: CACM-2856
+
+respect to average execution time or storage [space] for  
+be created.  using this approach, the [efficiency] of creating  
+
+
+DocID: CACM-1542
+
+of interpretive [code]  the structure and content  
+and main storage [space] required and compiler and interpreter  
+
+
+DocID: CACM-1757
+
+data [code] for calendar date for machine-to-machine  
+usa standard, data [code] calendar date, machine-to-machine  
+
+
+DocID: CACM-2389
+
+automated design, architecture, heuristic programs, [space] planning  
+formulating and solving of a class of [space] planning  
+preliminary report on a system for general [space] planning  
+
+
+DocID: CACM-2508
+
+increasing the [efficiency] of quicksort  algorithm r402   
+
+
+DocID: CACM-2433
+
+code structuring is the crucial illiac optimization  
+
+
+DocID: CACM-1289
+
+proposed revised american standard [code] for information interchange  
+
+
+DocID: CACM-0149
+
+a decision rule for improved [efficiency] in solving  
+
+
+DocID: CACM-2836
+
+optimization.  
+structural ambiguity, combinatorial optimization  
+
+
+DocID: CACM-1414
+
+twelve-row punched-card [code] for information  
+
+
+DocID: CACM-1064
+
+perforated tape [code] for information  
+
+
+DocID: CACM-0230
+
+a proposal for character [code] compatibility  
+
+
+DocID: CACM-1969
+
+increasing the [efficiency] of quicksort  algorithm 402 $m1    
+
+
+DocID: CACM-3066
+
+testing, [code] walkthroughs, [code] inspections,  
+and [code] walkthroughs/inspections  
+popular [code] walk through/inspection method was as effective  
+
+
+DocID: CACM-2133
+
+operations research, [optimization] theory,  
+
+
+DocID: CACM-1708
+
+efficiency of paged computation  
+a note on the [efficiency] of a lisp computation in a paged machine  
+
+
+DocID: CACM-1670
+
+code, hole-patterns, hole-patterns assignment,  
+usa standard, card [code] punched card, punched card  
+
+
+DocID: CACM-1676
+
+common subsegments, tree representation, optimization  
+and do-loop and machine-dependent [optimization] in  
+machine-independent [optimization] occurs in pass ii  
+
+
+DocID: CACM-2344
+
+time-sharing, simulation studies, [optimization]  
+features would benefit from [optimization] whereas  
+algorithm, including the scheduling itself, require [optimization]  
+
+
+DocID: CACM-2964
+
+optimization, resident, overflow storage  
+
+
+DocID: CACM-0195
+
+what is a [code]  
+
+
+DocID: CACM-0066
+
+a proposal for a generalized card [code] for 256 characters  
+
+
+DocID: CACM-1465
+
+efficiency dictates that the overall effectiveness  
+be based on fixed conventions to preserve efficiency  
+
+
+DocID: CACM-1275
+
+code structures for protection and manipulation  
+
+
+DocID: CACM-1187
+
+note on an ascii-octal [code] table  standards   
+
+
+DocID: CACM-1232
+
+code in punched cards  ecma standard   
+
+
+DocID: CACM-1065
+
+bit sequencing of the american standard [code] for  
+
+
+DocID: CACM-1066
+
+a computer [code]  an advanced [code] must cope with  
+the simplex algorithm, an efficient and reliable code  
+for organizing a computer [code] has undergone a radical  
+
+
+DocID: CACM-2736
+
+hash search, address [space] extension,  
+
+
+DocID: CACM-2586
+
+adapting optimal [code] generation for arithmetic  
+
+
+DocID: CACM-1204
+
+standard [code] for information interchange  proposed american standard   
+
+
+DocID: CACM-2290
+
+connectivity, program [optimization] optimizing compiler  
+
+
+DocID: CACM-1235
+
+high speed in only a limited storage [space]  
+to [code] additional words.  finally, the remaining words  
+
+
+DocID: CACM-1641
+
+increase in memory [space] utilized to store  
+applications the price of the additional [space] is computer  
+and slow  disk or drum  memories.  the [space] available  
+
+
+DocID: CACM-1973
+
+the linear quotient hash code  
+hashing, hash [code] scatter storage, calculated  
+
+
+DocID: CACM-2569
+
+be better than the [efficiency] of johnk's method.  
+the [efficiency] of the rejection method is shown to  
+of accuracy and [efficiency]  1  when a is less than  
+
+
+DocID: CACM-0333
+
+design of an improved* transmission/data processing code  
+
+
+DocID: CACM-1786
+
+an improved hash [code] for scatter storage  
+hash [code] hash table, scatter storage, searching  
+
+
+DocID: CACM-2863
+
+realizable variable [space] algorithms.  
+a criterion for comparing variable [space] page  
+
+
+DocID: CACM-2411
+
+inductive assertion, least fix points, optimization  
+
+
+DocID: CACM-2230
+
+space, is presented.  although the language has been  
+a language for treating geometric patterns in a two-dimensional space  
+
+
+DocID: CACM-3134
+
+rapid retrieval, [space] economy  
+with a more economical [space] requirement than conventional systems.  
+results with respect to the number of disk accesses and disk space  
+

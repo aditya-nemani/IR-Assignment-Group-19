@@ -1,0 +1,416 @@
+LUCENE_NoStopNoStem
+
+Query
+Abstracts of articles:
+    J. Backus, "Can programming be liberated from the Von Neumann style?
+               A functional style and its algebra of programs", CACM 21
+    Re Millo, R. Lipton, A. Perlis, letter to ACM Forum, CACM 22
+	       (1979), 629-630
+
+Backus, J.
+De Millo, R.
+Lipton, R.
+Perlis, A.
+
+Top 100 Results (33 millisecs)
+
+
+DocID: CACM-3077
+
+
+
+DocID: CACM-3140
+
+
+
+DocID: CACM-2700
+
+
+
+DocID: CACM-1705
+
+
+
+DocID: CACM-1132
+
+
+
+DocID: CACM-1106
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-2850
+
+
+
+DocID: CACM-1137
+
+
+
+DocID: CACM-0406
+
+
+
+DocID: CACM-0196
+
+
+
+DocID: CACM-1046
+
+
+
+DocID: CACM-3008
+
+
+
+DocID: CACM-0437
+
+
+
+DocID: CACM-0001
+
+
+
+DocID: CACM-0209
+
+
+
+DocID: CACM-1614
+
+
+
+DocID: CACM-2922
+
+
+
+DocID: CACM-1764
+
+
+
+DocID: CACM-2802
+
+
+
+DocID: CACM-1029
+
+
+
+DocID: CACM-1835
+
+
+
+DocID: CACM-2219
+
+
+
+DocID: CACM-3078
+
+
+
+DocID: CACM-1834
+
+
+
+DocID: CACM-1278
+
+
+
+DocID: CACM-1007
+
+
+
+DocID: CACM-0065
+
+
+
+DocID: CACM-0176
+
+
+
+DocID: CACM-1260
+
+
+
+DocID: CACM-1469
+
+
+
+DocID: CACM-0689
+
+
+
+DocID: CACM-0254
+
+
+
+DocID: CACM-1458
+
+
+
+DocID: CACM-3154
+
+
+
+DocID: CACM-2113
+
+
+
+DocID: CACM-1977
+
+
+
+DocID: CACM-2097
+
+
+
+DocID: CACM-2981
+
+
+
+DocID: CACM-1155
+
+
+
+DocID: CACM-2181
+
+
+
+DocID: CACM-2148
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-1482
+
+
+
+DocID: CACM-1852
+
+
+
+DocID: CACM-2312
+
+
+
+DocID: CACM-3199
+
+
+
+DocID: CACM-2470
+
+
+
+DocID: CACM-2542
+
+
+
+DocID: CACM-2210
+
+
+
+DocID: CACM-1196
+
+
+
+DocID: CACM-3054
+
+
+
+DocID: CACM-1248
+
+
+
+DocID: CACM-0527
+
+
+
+DocID: CACM-2834
+
+
+
+DocID: CACM-1934
+
+
+
+DocID: CACM-0231
+
+
+
+DocID: CACM-3099
+
+
+
+DocID: CACM-2538
+
+
+
+DocID: CACM-3197
+
+
+
+DocID: CACM-2929
+
+
+
+DocID: CACM-1891
+
+
+
+DocID: CACM-1028
+
+
+
+DocID: CACM-3133
+
+
+
+DocID: CACM-3103
+
+
+
+DocID: CACM-1112
+
+
+
+DocID: CACM-2903
+
+
+
+DocID: CACM-1391
+
+
+
+DocID: CACM-2201
+
+
+
+DocID: CACM-1931
+
+
+
+DocID: CACM-2645
+
+
+
+DocID: CACM-3138
+
+
+
+DocID: CACM-2311
+
+
+
+DocID: CACM-2020
+
+
+
+DocID: CACM-2060
+
+
+
+DocID: CACM-2707
+
+
+
+DocID: CACM-0796
+
+
+
+DocID: CACM-0942
+
+
+
+DocID: CACM-1754
+
+
+
+DocID: CACM-3036
+
+
+
+DocID: CACM-2971
+
+
+
+DocID: CACM-2490
+
+
+
+DocID: CACM-2480
+
+
+
+DocID: CACM-2227
+
+
+
+DocID: CACM-3191
+
+
+
+DocID: CACM-1365
+
+
+
+DocID: CACM-1170
+
+
+
+DocID: CACM-3027
+
+
+
+DocID: CACM-2215
+
+
+
+DocID: CACM-1630
+
+
+
+DocID: CACM-2092
+
+
+
+DocID: CACM-2718
+
+
+
+DocID: CACM-3069
+
+
+
+DocID: CACM-2517
+
+
+
+DocID: CACM-1474
+
+
+
+DocID: CACM-2920
+
+
+
+DocID: CACM-2876
+
+
+
+DocID: CACM-2534
+
+
+
+DocID: CACM-2943
+
+
+
+DocID: CACM-1988
+
+

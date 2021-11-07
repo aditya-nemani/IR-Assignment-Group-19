@@ -1,0 +1,409 @@
+LUCENE_NoStopNoStem
+
+Query
+I am interested in hidden-line and hidden-surface algorithms for
+cylinders, toroids, spheres, and cones.  This is a rather specialized
+topic in computer graphics.
+
+Top 100 Results (33 millisecs)
+
+
+DocID: CACM-2913
+
+
+
+DocID: CACM-2004
+
+
+
+DocID: CACM-2751
+
+
+
+DocID: CACM-2678
+
+
+
+DocID: CACM-2369
+
+
+
+DocID: CACM-2692
+
+
+
+DocID: CACM-1915
+
+
+
+DocID: CACM-2473
+
+
+
+DocID: CACM-2829
+
+
+
+DocID: CACM-2827
+
+
+
+DocID: CACM-2828
+
+
+
+DocID: CACM-2924
+
+
+
+DocID: CACM-2674
+
+
+
+DocID: CACM-1978
+
+
+
+DocID: CACM-2845
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-2367
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-2384
+
+
+
+DocID: CACM-2919
+
+
+
+DocID: CACM-3116
+
+
+
+DocID: CACM-2809
+
+
+
+DocID: CACM-2111
+
+
+
+DocID: CACM-2786
+
+
+
+DocID: CACM-1181
+
+
+
+DocID: CACM-2925
+
+
+
+DocID: CACM-1742
+
+
+
+DocID: CACM-2188
+
+
+
+DocID: CACM-2146
+
+
+
+DocID: CACM-2918
+
+
+
+DocID: CACM-2421
+
+
+
+DocID: CACM-2341
+
+
+
+DocID: CACM-1159
+
+
+
+DocID: CACM-1551
+
+
+
+DocID: CACM-2905
+
+
+
+DocID: CACM-2433
+
+
+
+DocID: CACM-2201
+
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-1697
+
+
+
+DocID: CACM-3141
+
+
+
+DocID: CACM-2841
+
+
+
+DocID: CACM-2687
+
+
+
+DocID: CACM-3111
+
+
+
+DocID: CACM-1908
+
+
+
+DocID: CACM-3193
+
+
+
+DocID: CACM-2987
+
+
+
+DocID: CACM-1710
+
+
+
+DocID: CACM-0531
+
+
+
+DocID: CACM-1458
+
+
+
+DocID: CACM-2152
+
+
+
+DocID: CACM-3059
+
+
+
+DocID: CACM-1014
+
+
+
+DocID: CACM-1924
+
+
+
+DocID: CACM-1680
+
+
+
+DocID: CACM-0435
+
+
+
+DocID: CACM-2657
+
+
+
+DocID: CACM-0492
+
+
+
+DocID: CACM-2967
+
+
+
+DocID: CACM-2968
+
+
+
+DocID: CACM-3049
+
+
+
+DocID: CACM-2892
+
+
+
+DocID: CACM-1735
+
+
+
+DocID: CACM-2667
+
+
+
+DocID: CACM-2708
+
+
+
+DocID: CACM-1237
+
+
+
+DocID: CACM-2959
+
+
+
+DocID: CACM-2035
+
+
+
+DocID: CACM-2819
+
+
+
+DocID: CACM-1281
+
+
+
+DocID: CACM-3082
+
+
+
+DocID: CACM-1931
+
+
+
+DocID: CACM-2400
+
+
+
+DocID: CACM-3204
+
+
+
+DocID: CACM-2631
+
+
+
+DocID: CACM-2453
+
+
+
+DocID: CACM-2016
+
+
+
+DocID: CACM-3149
+
+
+
+DocID: CACM-2389
+
+
+
+DocID: CACM-1397
+
+
+
+DocID: CACM-1957
+
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-3075
+
+
+
+DocID: CACM-3071
+
+
+
+DocID: CACM-2984
+
+
+
+DocID: CACM-2522
+
+
+
+DocID: CACM-3028
+
+
+
+DocID: CACM-2973
+
+
+
+DocID: CACM-1569
+
+
+
+DocID: CACM-2598
+
+
+
+DocID: CACM-2969
+
+
+
+DocID: CACM-2547
+
+
+
+DocID: CACM-1385
+
+
+
+DocID: CACM-1433
+
+
+
+DocID: CACM-1824
+
+
+
+DocID: CACM-2535
+
+
+
+DocID: CACM-2534
+
+
+
+DocID: CACM-1623
+
+
+
+DocID: CACM-1145
+
+
+
+DocID: CACM-2368
+
+
+
+DocID: CACM-2873
+
+

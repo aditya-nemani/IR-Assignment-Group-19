@@ -1,0 +1,408 @@
+LUCENE_NoStopNoStem
+
+Query
+Articles relation the algebraic theory of semigroups and monoids
+to the study of automata and regular languages.
+
+Top 100 Results (31 millisecs)
+
+
+DocID: CACM-2112
+
+
+
+DocID: CACM-2650
+
+
+
+DocID: CACM-1678
+
+
+
+DocID: CACM-2327
+
+
+
+DocID: CACM-2921
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-1665
+
+
+
+DocID: CACM-2061
+
+
+
+DocID: CACM-2645
+
+
+
+DocID: CACM-1739
+
+
+
+DocID: CACM-2449
+
+
+
+DocID: CACM-2470
+
+
+
+DocID: CACM-2323
+
+
+
+DocID: CACM-1453
+
+
+
+DocID: CACM-2842
+
+
+
+DocID: CACM-1154
+
+
+
+DocID: CACM-2302
+
+
+
+DocID: CACM-2932
+
+
+
+DocID: CACM-1253
+
+
+
+DocID: CACM-1867
+
+
+
+DocID: CACM-1961
+
+
+
+DocID: CACM-0464
+
+
+
+DocID: CACM-1048
+
+
+
+DocID: CACM-2051
+
+
+
+DocID: CACM-2326
+
+
+
+DocID: CACM-2134
+
+
+
+DocID: CACM-1991
+
+
+
+DocID: CACM-2809
+
+
+
+DocID: CACM-1911
+
+
+
+DocID: CACM-2580
+
+
+
+DocID: CACM-1258
+
+
+
+DocID: CACM-1334
+
+
+
+DocID: CACM-2166
+
+
+
+DocID: CACM-1046
+
+
+
+DocID: CACM-1397
+
+
+
+DocID: CACM-2165
+
+
+
+DocID: CACM-2603
+
+
+
+DocID: CACM-2305
+
+
+
+DocID: CACM-1216
+
+
+
+DocID: CACM-1834
+
+
+
+DocID: CACM-1223
+
+
+
+DocID: CACM-1806
+
+
+
+DocID: CACM-3124
+
+
+
+DocID: CACM-2167
+
+
+
+DocID: CACM-1781
+
+
+
+DocID: CACM-3077
+
+
+
+DocID: CACM-2616
+
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-2813
+
+
+
+DocID: CACM-3031
+
+
+
+DocID: CACM-3199
+
+
+
+DocID: CACM-1703
+
+
+
+DocID: CACM-2719
+
+
+
+DocID: CACM-3119
+
+
+
+DocID: CACM-0397
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-1649
+
+
+
+DocID: CACM-0724
+
+
+
+DocID: CACM-2032
+
+
+
+DocID: CACM-3150
+
+
+
+DocID: CACM-1101
+
+
+
+DocID: CACM-1425
+
+
+
+DocID: CACM-2163
+
+
+
+DocID: CACM-3012
+
+
+
+DocID: CACM-3203
+
+
+
+DocID: CACM-3148
+
+
+
+DocID: CACM-2164
+
+
+
+DocID: CACM-2316
+
+
+
+DocID: CACM-2779
+
+
+
+DocID: CACM-2210
+
+
+
+DocID: CACM-1934
+
+
+
+DocID: CACM-2648
+
+
+
+DocID: CACM-2423
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-2129
+
+
+
+DocID: CACM-1098
+
+
+
+DocID: CACM-0124
+
+
+
+DocID: CACM-1471
+
+
+
+DocID: CACM-1567
+
+
+
+DocID: CACM-2803
+
+
+
+DocID: CACM-2052
+
+
+
+DocID: CACM-1394
+
+
+
+DocID: CACM-2998
+
+
+
+DocID: CACM-1072
+
+
+
+DocID: CACM-1906
+
+
+
+DocID: CACM-0536
+
+
+
+DocID: CACM-2545
+
+
+
+DocID: CACM-1809
+
+
+
+DocID: CACM-2227
+
+
+
+DocID: CACM-1948
+
+
+
+DocID: CACM-1887
+
+
+
+DocID: CACM-2017
+
+
+
+DocID: CACM-1533
+
+
+
+DocID: CACM-1900
+
+
+
+DocID: CACM-0068
+
+
+
+DocID: CACM-2148
+
+
+
+DocID: CACM-1824
+
+
+
+DocID: CACM-3202
+
+
+
+DocID: CACM-0671
+
+
+
+DocID: CACM-1975
+
+

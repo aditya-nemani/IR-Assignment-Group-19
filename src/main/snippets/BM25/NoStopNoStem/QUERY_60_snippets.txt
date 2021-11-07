@@ -1,0 +1,559 @@
+BM25_NoStopNoStem
+
+Query
+hardware and scidmore retaining to debate mcdermott systems.
+debate packages, back end cpeuomtrs, societal anticipate hardware
+with microcomputers adapted to disk heads or twins like rap, 
+lertoanail or network (codasyl) or hierarchical models, system-the system r, ims, adabas, total, etc.
+
+Top 100 Results (391 millisecs)
+
+
+DocID: CACM-3158
+
+secure personal computing in an insecure network  
+data to other users on the [network]  
+a method for implementing secure personal computing in a network  
+
+
+DocID: CACM-2424
+
+of operating [system] decisions is used on the prime system  
+verification, modular computer systems  
+hardware and software required for dynamic  
+
+
+DocID: CACM-3056
+
+to advantage in multichannel counting hardware  
+
+
+DocID: CACM-0944
+
+scidmore, a. k.  
+storage [system] assuming that a memory possessing  
+storage and search properties of a tree-organized memory system  
+
+
+DocID: CACM-3026
+
+models to the latest [system] the 1100/80, introduced  
+languages, data management [systems]  
+end user facilities, executive control software  
+
+
+DocID: CACM-0698
+
+an operating [system] is described which allows  
+from ordinary dial telephones.  no special [hardware] or  
+
+
+DocID: CACM-2002
+
+syntax, [hardware] independent software,  
+amesplot-a higher level data plotting software system  
+map coastlines, and 3-d plots.  the [system] was formulate  
+
+
+DocID: CACM-1462
+
+multilevel operating systems  
+system.  large applications require supervisory  
+operating [systems] this implies that all applications-no  
+
+
+DocID: CACM-0695
+
+limitations of the [disk] [system]  several possible  
+applications of [disk] usage are discussed  
+use of the [disk] file on stretch  
+
+
+DocID: CACM-2016
+
+multiprogramming [systems] measuring tools, [system] analysis, multics,  
+particular measurements of interest in a [system] which combines demand  
+computer utility is discussed.  these tools include special hardware  
+
+
+DocID: CACM-1152
+
+
+
+DocID: CACM-2516
+
+information retrieval, [hierarchical] storage  
+hierarchical storage in information retrieval  
+the effect of [hierarchical] storage organizations  
+
+
+DocID: CACM-3142
+
+errors, [systems] errors, billing errors, management [systems] consumers  
+management [systems] may be adequate, results of the survey raise  
+agement [packages] including poor software is indicated.  while most  
+
+
+DocID: CACM-1264
+
+in the [system]  
+blnsys-a 1401 operating [system] with braille capabilities  
+blnsys is an operating [system] designed for  
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-1519
+
+an operating [system] is described which will  
+a common command language.  the [system] includes  
+george 3-a general purpose time sharing and operating system  
+
+
+DocID: CACM-2421
+
+most graphics [systems] using a raster scan output  
+hardware or software, must be provided to translate  
+
+
+DocID: CACM-2486
+
+devised in the information [system] of the american institute  
+i.e. words or formulas placed partly at the [end] of  
+
+
+DocID: CACM-0617
+
+instants in the action of the control [system]  
+work at the same speed as the control [system]  it must  
+
+
+DocID: CACM-2147
+
+hardware or courses in nearly half of the associate  
+
+
+DocID: CACM-1488
+
+
+
+DocID: CACM-3131
+
+focus microcomputer number system  
+focus is a number [system] and supporting computational  
+speed with [hardware] arithmetic for many applications.  algorithms  
+
+
+DocID: CACM-2828
+
+hierarchical geometric [models] for visible surface algorithms  
+models  
+hierarchical data structures, geometric  
+
+
+DocID: CACM-1818
+
+
+
+DocID: CACM-3138
+
+
+
+DocID: CACM-0344
+
+
+
+DocID: CACM-1805
+
+monitor, operating [system] [system] software, supervisors,  
+equipment  evaluation, [hardware] evaluation,  
+
+
+DocID: CACM-3136
+
+predicting [system] cost as a function of several hardware  
+the relationships between [system] price and [hardware] performance.  single  
+price/performance patterns of u. computer systems  
+
+
+DocID: CACM-2439
+
+the [system] executive or in any of the [system]s compilers or interpreters.  
+system can communicate with many remote  
+in any language available on the [system]  this  
+
+
+DocID: CACM-2194
+
+
+
+DocID: CACM-1259
+
+
+
+DocID: CACM-2900
+
+of finding the optimal set of [network] sites at  
+
+
+DocID: CACM-2342
+
+operating [systems] parallel processes  
+transition rules are both applicable to hardware  
+dictate the [system]s behavior.  the mutual exclusion problem  
+
+
+DocID: CACM-1523
+
+a time sharing [system] embedded within the  
+standard batch processing [system] for the cdc 6600  
+sharer, a time sharing [system] for the cdc 6600  
+
+
+DocID: CACM-1408
+
+engineering or [hardware] improvements.  in  
+enable a [system] to perform a job by employing fewer or  
+
+
+DocID: CACM-1999
+
+
+
+DocID: CACM-1572
+
+ibm 360/67 time-sharing [system]  
+the simulation of time sharing systems  
+to develop an appropriate [hardware] configuration  
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-1384
+
+of [debate]  the association for computing machinery's  
+
+
+DocID: CACM-1589
+
+system control language has been prevented, and there  
+dialog: a conversational programming [system] with a graphical orientation  
+results.  use of the [system] requires a minimum of experience  
+
+
+DocID: CACM-3025
+
+sharing computing [systems] transferring hardware  
+evolution of the [hardware] operating [system] and languages  
+minicomputer/microcomputer [systems]  
+
+
+DocID: CACM-2398
+
+systems  
+interactive [system] called newbasic/catalyst  
+experience with the [system] in an urban  
+
+
+DocID: CACM-0778
+
+
+
+DocID: CACM-1988
+
+interpreters, assemblers-and their interactions in complex systems  
+is presented for deciding whether or not a given [system] can  
+
+
+DocID: CACM-3034
+
+
+
+DocID: CACM-1650
+
+without rearrangement.  the [total] sum of squares,  
+
+
+DocID: CACM-0354
+
+
+
+DocID: CACM-3196
+
+
+
+DocID: CACM-0028
+
+
+
+DocID: CACM-0544
+
+
+
+DocID: CACM-1084
+
+
+
+DocID: CACM-0510
+
+
+
+DocID: CACM-2188
+
+on considerations such as [system] response time, system  
+model, optimum [system] design, queueing  
+design guidelines, graphic display [systems] mathematical  
+
+
+DocID: CACM-1287
+
+
+
+DocID: CACM-2967
+
+system utilizes a [hardware] associative memory  
+data structures, software evaluation, [hardware] evaluation,  
+a comparison of [hardware] and software associative  
+
+
+DocID: CACM-1975
+
+
+
+DocID: CACM-0585
+
+and [hardware] [system] which has developed into the present  
+multiprogramming [system] at lewis research center.  
+system modifications were necessary to accomplish this  
+
+
+DocID: CACM-1962
+
+functions, interactive software, hybrid [systems] conductor program  
+controlled is an important link in the [system]  the environment for  
+disk file.  functions may be created by real-time human inputs to  
+
+
+DocID: CACM-1001
+
+
+
+DocID: CACM-2852
+
+center management, computer [system] performance  
+education, information [systems] administration, computer  
+in computer science or in information systems  
+
+
+DocID: CACM-2377
+
+protection, protection rings, protection [hardware]  
+access control, [hardware] access control, computer  
+a [hardware] architecture for implementing protection rings  
+
+
+DocID: CACM-3113
+
+
+
+DocID: CACM-1554
+
+
+
+DocID: CACM-2484
+
+
+
+DocID: CACM-1749
+
+operating [system] multiprogramming [system] system  
+hierarchy, [system] structure, real-time debugging,  
+sequential processes, [system] levels, input-output  
+
+
+DocID: CACM-1846
+
+systems are assumed to be described as a network  
+event [systems] particularly computer [systems] on  
+picture processing, computer [system] simulation  
+
+
+DocID: CACM-3030
+
+software modules, [hierarchical] structures  
+hierarchical programming is being increasingly  
+programming languages that ease hierarchical  
+
+
+DocID: CACM-2059
+
+operation research, [network] traffic  
+operation research, [network] problems, control theory, traffic problems, etc.  
+
+
+DocID: CACM-2994
+
+
+
+DocID: CACM-0719
+
+
+
+DocID: CACM-3129
+
+a computer [system] uses several serial files.  the files reside on a  
+file runs out of space, the [system] must be reorganized.  this paper considers  
+
+
+DocID: CACM-1261
+
+system as a digital [network] simulator is discussed an  
+digital [network] is modeled as a set of time-dependent  
+of a model element comprising the [network] mode.  the  
+
+
+DocID: CACM-1216
+
+
+
+DocID: CACM-1977
+
+interactive [system] is described and several examples of its use are given.  
+
+
+DocID: CACM-0144
+
+present communications [systems] transmit single  
+present methods are inefficient when computer systems  
+
+
+DocID: CACM-1112
+
+
+
+DocID: CACM-2786
+
+a [system] for typesetting mathematics  
+of a [system] for typesetting mathematics.  
+and reverse half-line motions.  the system  
+
+
+DocID: CACM-2078
+
+
+
+DocID: CACM-1309
+
+a computer user-oriented system  
+manager.  the [system] requires initial preparation  
+a computer language [system] has been developed  
+
+
+DocID: CACM-1035
+
+
+
+DocID: CACM-1154
+
+of the length of the input,  3  restrict the [total] amount  
+
+
+DocID: CACM-1630
+
+
+
+DocID: CACM-2680
+
+disk analysis, [disk] optimization, [disk] files,file  
+systems, file scheduling, space allocation,  
+optimal space allocation on [disk] storage devices  
+
+
+DocID: CACM-2928
+
+the additional [hardware] required for  
+and keep the [system] in tune.  
+a minor [hardware] extension to the honeywell  
+
+
+DocID: CACM-1930
+
+
+
+DocID: CACM-2738
+
+hierarchical [systems] bottom up design, levels  
+design of hierarchically structured systems  
+structured programming [systems]  it develops  
+
+
+DocID: CACM-0282
+
+consider a magnetic tape [system] with a read  
+
+
+DocID: CACM-1677
+
+storage organization in programming systems  
+or programming [systems] simplicity of programmed addressing,  
+of memory utilization, variability of [system] composition  
+
+
+DocID: CACM-1272
+
+
+
+DocID: CACM-2175
+
+on the [hardware] environment in which the expression is  
+
+
+DocID: CACM-1087
+
+and operation of an automatic abstracting system  
+
+
+DocID: CACM-2998
+
+
+
+DocID: CACM-0626
+
+
+
+DocID: CACM-2500
+
+operating [system] keeps resources relatively  
+been incorporated in the running [system] due  
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-2711
+
+the value of an indexing [system] may be expressible  
+
+
+DocID: CACM-2989
+
+programs running on the dec [system] 10 isp.  
+
+
+DocID: CACM-1783
+
+back to a floating-point number in the original  
+
+
+DocID: CACM-1888
+
+
+
+DocID: CACM-1379
+
+

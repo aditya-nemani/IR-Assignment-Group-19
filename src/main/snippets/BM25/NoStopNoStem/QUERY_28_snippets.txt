@@ -1,0 +1,583 @@
+BM25_NoStopNoStem
+
+Query
+any information on packet ratio ntorkews.  of particular interest aggregations for packet routing, and for dantzig with changes interblock thpoagopry.  i am not interested in the hardware used in the
+network.
+
+Top 100 Results (782 millisecs)
+
+
+DocID: CACM-3032
+
+computer networks, store-and-forward packet  
+routing procedures and data structures already  
+in store-and-forward [packet] switching computer networks.  
+
+
+DocID: CACM-2849
+
+computer networks, [packet] switching, multiprocessing,  
+locally distributed computing stations. the packet  
+under heavy loads and a [packet] protocol  
+
+
+DocID: CACM-2949
+
+network  
+distributed computer [network] correctness proofs,  
+computer networks, distributed control, network  
+
+
+DocID: CACM-2892
+
+communication, measurement, [packet] switching,  
+are used to anticipate overhead in a heavily loaded [network]  
+proposed [network] protocol and compared with those for the current system.  
+
+
+DocID: CACM-2890
+
+routing algorithms, adaptive [routing] quadratic [routing]  
+alternate [routing] store-and-forward [network]  
+conditions for an optimal [routing]  adaptive [routing] tends  
+
+
+DocID: CACM-1867
+
+one is [interested] in the [ratio] l j  of the  
+
+
+DocID: CACM-3158
+
+secure personal computing in an insecure network  
+data to other users on the [network]  
+a method for implementing secure personal computing in a network  
+
+
+DocID: CACM-0616
+
+model called "an [information] algebra" developed primarily  
+an [information] algebra - phase i report-language  
+interested in developing a theoretical approach to data  
+
+
+DocID: CACM-1458
+
+
+
+DocID: CACM-1407
+
+confidence interval for a [ratio]  algorithm 289 [g1]   
+
+
+DocID: CACM-2630
+
+graph, [network] shortest path, algorithm  
+algorithm and the [dantzig] algorithm for finding  
+
+
+DocID: CACM-2572
+
+of a community [information] utility  
+of an [information] utility in a prototype  
+community [information] utilities are examined in this  
+
+
+DocID: CACM-1575
+
+incomplete beta [ratio]  algorithm 179 [s14]   
+
+
+DocID: CACM-1165
+
+use of both [hardware] micro-program routines and  
+
+
+DocID: CACM-0944
+
+word length and distribution of stored information  
+certain list properties is available.  of prime interest  
+trees.  such trees have [information] storage and retrieval  
+
+
+DocID: CACM-2445
+
+routing problem, shortest path, traveling  
+routing problem  algorithm a456   
+
+
+DocID: CACM-0383
+
+on finding minimum routes in a [network] with turn penalties  
+
+
+DocID: CACM-1516
+
+also automatically decode the compressed information  
+the [information] explosion" noted in recent  
+for the automatic compression of "any" [information]  
+
+
+DocID: CACM-1397
+
+people [interested] in programming languages designed  
+by the acm special [interest] committee on symbolic  
+for several [interest] groups.  the conference was sponsored  
+
+
+DocID: CACM-2526
+
+have a very small read-time/write-time [ratio]  this study  
+
+
+DocID: CACM-2424
+
+hardware and software required for dynamic  
+hardware and software.  the dynamic verification  
+single [hardware] or software fault.the amount of additional  
+
+
+DocID: CACM-2439
+
+
+
+DocID: CACM-1572
+
+to develop an appropriate [hardware] configuration  
+
+
+DocID: CACM-1906
+
+routing, printed circuit, interconnections, aperture,  
+a computer program for [routing] interconnections  
+automated printed circuit [routing] with a stepping aperture  
+
+
+DocID: CACM-1159
+
+that it is this process of convergence in hardware  
+
+
+DocID: CACM-1421
+
+
+
+DocID: CACM-2016
+
+particular measurements of [interest] in a system which combines demand  
+computer utility is discussed.  these tools include special hardware  
+
+
+DocID: CACM-2401
+
+neural [network] description, in terms of mcculloch-pitts  
+a [hardware] implementation of the algorithm using large  
+
+
+DocID: CACM-2516
+
+information retrieval, hierarchical storage  
+hierarchical storage in [information] retrieval  
+linearly connected memory [hardware] with increasing data  
+
+
+DocID: CACM-2888
+
+information reference coding  
+analysis, [information] modeling, database  
+through a set-theoretic [information] model.  
+
+
+DocID: CACM-1623
+
+of [interest] in areas other than circuit analysis.  
+may be [interested] in the problem because it is stated  
+
+
+DocID: CACM-2973
+
+routing and comparison steps, perfect shuffle.  
+array that require o n  [routing] and comparison steps.  
+
+
+DocID: CACM-0397
+
+a variety of reference files in information  
+books, articles, programming terms, [hardware] terms, equipment,  
+a card format for reference files in [information] processing  
+
+
+DocID: CACM-1844
+
+terminal.  a crosspoint switching [network] allows  
+the [ratio] of users to computers is dependent on both  
+
+
+DocID: CACM-0281
+
+
+
+DocID: CACM-1526
+
+the [hardware] characteristics and the program statistics,  
+the effect of several [hardware] modifications is also  
+
+
+DocID: CACM-2833
+
+
+
+DocID: CACM-1801
+
+experiment, missing data, [interblock] estimate, intra block estimate  
+
+
+DocID: CACM-2970
+
+confidence in terval, [ratio] estimator, regenerative  
+
+
+DocID: CACM-1685
+
+network analysis, [network] calculation, [network] program  
+activity [network] management project, standard [network]  
+network generator, [network] assembler, activity  
+
+
+DocID: CACM-1928
+
+large systems simulation, [network] structures,  
+of [network] structures other than digital networks.  
+
+
+DocID: CACM-2562
+
+routing problem  algorithm r456   
+
+
+DocID: CACM-0837
+
+incomplete beta [ratio]  algorithm 179   
+
+
+DocID: CACM-3052
+
+assumptions, the cache miss [ratio] for multiprogramming  
+miss [ratio] cold start, warm start, storage hierarchy,  
+ratio measurements are often made from a "cold  
+
+
+DocID: CACM-2046
+
+service which supplies such [information] is not a satisfactory  
+types of stored [information]  existing noninferential, formatted data systems  
+provide users with tree-structured files or slightly more general network  
+
+
+DocID: CACM-0248
+
+special [interest] committee on mathematical programming  
+
+
+DocID: CACM-2515
+
+minimal event-node [network] is an event-node network  
+network, minimal event-node [network] dummy  
+network, project, event-node [network] activity-node  
+
+
+DocID: CACM-2677
+
+incomplete beta [ratio]  algorithm r179   
+
+
+DocID: CACM-1989
+
+transition [network] grammars, transformational grammars  
+transition [network] grammars for natural language analysis  
+experimental parsing system for transition [network] grammars is briefly  
+
+
+DocID: CACM-0595
+
+a student must know the [hardware] and logic  
+accepted that some knowledge of the [hardware] and computer  
+
+
+DocID: CACM-1199
+
+changing technologies of [hardware] and software  
+center in terms of [information] nets, decision processes,  
+
+
+DocID: CACM-2923
+
+data flow [information] to reflect program changes,  
+exploits the control flow [information] implicit in  
+and derives new global [information] helpful in solving  
+
+
+DocID: CACM-2598
+
+coding, decision tables, flowcharting, information  
+extending the [information] theory approach to converting  
+to the [information] algorithm in extending the depth  
+
+
+DocID: CACM-1768
+
+of [interest] apart from their application in this particular context.  
+
+
+DocID: CACM-2652
+
+
+
+DocID: CACM-1456
+
+examples of methods of inputting information  
+associates with each english word the syntactic [information]  
+
+
+DocID: CACM-1362
+
+7-bit code for [information] interchange.  
+the american standard code for information  
+that is, with the representation of information  
+
+
+DocID: CACM-1171
+
+also the [ratio] of the latter to the former.  
+
+
+DocID: CACM-2967
+
+memory, graphics, [information] retrieval,  
+system utilizes a [hardware] associative memory  
+data structures, software evaluation, [hardware] evaluation,  
+
+
+DocID: CACM-1846
+
+unfeasible when the additional [information] is provided.  
+the [information] available to the solution technique, but  
+systems are assumed to be described as a network  
+
+
+DocID: CACM-2377
+
+protection of computations and information  
+protection, protection rings, protection [hardware]  
+access control, [hardware] access control, computer  
+
+
+DocID: CACM-2380
+
+arpa [network]  
+system operational within six months of hardware  
+on dec pdp-10 augmented by special paging hardware  
+
+
+DocID: CACM-1034
+
+of documents in the [information] [network] automatically.  
+
+
+DocID: CACM-1931
+
+
+
+DocID: CACM-3069
+
+associates with each procedure in a program information  
+information in a single pass, not requiring a prepass to  
+
+
+DocID: CACM-2311
+
+computing milieu, management data processing, hardware  
+a generational perspective of [information] system development  
+
+
+DocID: CACM-2147
+
+hardware or courses in nearly half of the associate  
+
+
+DocID: CACM-0356
+
+interest  algorithm 45   
+
+
+DocID: CACM-2916
+
+information retrieval, linear time bound, pattern  
+pat.  the [information] gained by starting the match  
+
+
+DocID: CACM-2216
+
+ratio.  
+distribution of branching [ratio] and for the second moment  
+
+
+DocID: CACM-1707
+
+
+
+DocID: CACM-2845
+
+
+
+DocID: CACM-2951
+
+computing applications at some [network] computing  
+if the ultimate aim of a computing network  
+network, anlytic modeling, simulation, benchmark jobs, system measurement  
+
+
+DocID: CACM-2371
+
+distributed throughout a computer [network]  
+in a resource sharing computer network  
+the hypothetical application of the system to an existing [network] is discussed.  
+
+
+DocID: CACM-2274
+
+algorithm uses the [information] in the semantic  
+network to select appropriate generation paths through  
+by the system is in the form of a [network] that imposes  
+
+
+DocID: CACM-2711
+
+automatic [information] retrieval, automatic  
+
+
+DocID: CACM-2934
+
+graph, [network] shortest path, algorithm, ranking  
+
+
+DocID: CACM-1769
+
+information is impeded by nine principal barriers:  
+processing [information] ever more urgent as the greater  
+to service.  computer developments in [hardware] programming,  
+
+
+DocID: CACM-2881
+
+if the "least recently used" miss [ratio] is minimized .  
+
+
+DocID: CACM-3147
+
+determine [aggregations] of computations, [aggregations] of datasets, device,  
+
+
+DocID: CACM-2176
+
+
+
+DocID: CACM-2631
+
+direct access, [information] retrieval, character  
+text searching, [information] theory, file organization,  
+information, an attempt is made to overcome  
+
+
+DocID: CACM-1956
+
+time for optimum merging on a given [hardware] configuration is proportional  
+parameterized in terms of the [ratio] of seek time to the time it takes  
+
+
+DocID: CACM-2905
+
+
+
+DocID: CACM-1161
+
+
+
+DocID: CACM-1206
+
+item of [information] are used to compute the maximum  
+is used to discard wrong [information] and to compute  
+
+
+DocID: CACM-2358
+
+information sharing, paging, memory management,  
+645 segmentation and paging [hardware]  
+system programs of all [information] independent  
+
+
+DocID: CACM-1551
+
+
+
+DocID: CACM-3188
+
+
+
+DocID: CACM-1930
+
+
+
+DocID: CACM-1770
+
+rules of ethics in [information] processing  
+well as to stimulate thought and [interest]  
+a set of guidelines for professional conduct in information  
+
+
+DocID: CACM-3148
+
+is a problem of growing [interest]  this paper describes an approach  
+
+
+DocID: CACM-1032
+
+theoretical considerations in [information] retrieval systems  
+information storage and retrieval systems are composed  
+efficient.  for identification of [information] the paper  
+
+
+DocID: CACM-0441
+
+is discussed in terms of the 7090.  a pert [network] of  
+
+
+DocID: CACM-1728
+
+
+
+DocID: CACM-0367
+
+randomly-numbered elements of a network  
+a [network] of directed line segments free of circular  
+
+
+DocID: CACM-1258
+
+of precision which exceeds the normal [hardware] capacity  
+
+
+DocID: CACM-1440
+
+of primary [interest] on ibm system/360.  
+
+
+DocID: CACM-3040
+
+a constraint [network] representation is presented  
+network consistency, relaxation, scene labeling, search  
+
+
+DocID: CACM-2060
+
+

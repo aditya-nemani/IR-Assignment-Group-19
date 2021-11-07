@@ -1,0 +1,478 @@
+BM25_NoStopNoStem
+
+Query
+acting denning with sitar height of regular languages or reiuxer
+nlpaessgors or regular events.
+
+Top 100 Results (188 millisecs)
+
+
+DocID: CACM-2650
+
+error correction, [regular] [languages] [regular] [events]  
+order-n correction for [regular] languages  
+b, belonging to a given [regular] language l,  
+
+
+DocID: CACM-1896
+
+regular coulomb wave functions  algorithm 292 s22]   
+coulomb wave functions, wave functions, [regular] coulomb wave functions  
+
+
+DocID: CACM-1898
+
+regular coulomb wave functions  algorithm 292 [s22]   
+coulomb wave functions, wave functions, [regular] coulomb wave functions  
+
+
+DocID: CACM-1993
+
+regular coulomb wave functions  algorithm 292 $s22    
+coulomb wave functions, wave functions, [regular] coulomb wave functions  
+
+
+DocID: CACM-1739
+
+search, match, [regular] expression  
+regular expression search algorithm  
+is discussed.  the compiler accepts a regular  
+
+
+DocID: CACM-1355
+
+regular coulomb wave functions  algorithm 292    
+
+
+DocID: CACM-2921
+
+parsing, programming [languages] language generation,  
+grammars called [regular] right part  rrp   
+and, as a special case, [regular] expressions,  
+
+
+DocID: CACM-2112
+
+expression, context-free [languages] translation, recognizers,  
+automata, turing machines, [regular] expression, transduction  
+context-free [languages]  a formal procedure is given for deriving from  
+
+
+DocID: CACM-1665
+
+machine, parsing, plex structure, [regular] expressions,sequential  
+word "events" is substituted for character string,  
+of a subset of [regular] expressions. the output  
+
+
+DocID: CACM-2051
+
+the [regular] sound correspondences between genetically related [languages]  
+correspondence, [regular] correspondence, list processing  
+
+
+DocID: CACM-2838
+
+power as [regular] garbage collectors, if they are  
+
+
+DocID: CACM-3056
+
+counting large numbers of [events] in small registers  
+of the number n of [events]  this relative error can  
+are used to keep track of as many as 130,000 [events] with  
+
+
+DocID: CACM-3158
+
+denning, d.  
+
+
+DocID: CACM-1453
+
+languages, including some sublanguage of algol.  
+the use of the kleene [regular] expression notation  
+
+
+DocID: CACM-1846
+
+simulation, parallel processes, simultaneous [events]  
+in which simultaneous [events] may occur  
+events in separate processes is introduced.  
+
+
+DocID: CACM-1906
+
+regular pattern of lines, pins  terminals , and vias  
+
+
+DocID: CACM-1488
+
+
+
+DocID: CACM-1152
+
+
+
+DocID: CACM-1084
+
+the inability of existing programming languages  
+
+
+DocID: CACM-2078
+
+computer graphic [languages]  four alternative data structures  
+
+
+DocID: CACM-1264
+
+
+
+DocID: CACM-1818
+
+
+
+DocID: CACM-0944
+
+
+
+DocID: CACM-1216
+
+no use is made of list-processing [languages]  
+
+
+DocID: CACM-3096
+
+height of its left subtree.  it has an advantage  
+height which is equal to or exactly one greater than the  
+
+
+DocID: CACM-1988
+
+such as compiler-compilers or extendible [languages]  
+
+
+DocID: CACM-2398
+
+in education, extended [languages] interactive  
+
+
+DocID: CACM-1999
+
+
+
+DocID: CACM-0028
+
+
+
+DocID: CACM-0544
+
+
+
+DocID: CACM-0344
+
+
+
+DocID: CACM-0510
+
+
+
+DocID: CACM-3138
+
+
+
+DocID: CACM-1462
+
+
+
+DocID: CACM-1287
+
+
+
+DocID: CACM-3198
+
+microprogramming, emulators and programming languages  
+
+
+DocID: CACM-1035
+
+the fortran cep [languages] differs from fortran  
+
+
+DocID: CACM-1519
+
+
+
+DocID: CACM-3196
+
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-2947
+
+retrieval, literary analysis, linguistic analysis, command languages  
+sitar, a low-cost in teractive text handling  
+delivered.  extensive experience with [sitar] shows that  
+
+
+DocID: CACM-1309
+
+use of two special [languages] extract and matran,  
+
+
+DocID: CACM-3034
+
+
+
+DocID: CACM-2002
+
+in most conventional higher [languages]  the functions of positioning,  
+
+
+DocID: CACM-1523
+
+
+
+DocID: CACM-3113
+
+
+
+DocID: CACM-2194
+
+
+
+DocID: CACM-3171
+
+to be used for implementations of high level [languages]  under suitable  
+
+
+DocID: CACM-2439
+
+
+
+DocID: CACM-0617
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-1975
+
+
+
+DocID: CACM-0719
+
+
+
+DocID: CACM-1379
+
+a final solution to the dangling else of algol 60 and related languages  
+
+
+DocID: CACM-2998
+
+which governs word frequencies in natural [languages] poin ters  
+
+
+DocID: CACM-0778
+
+
+
+DocID: CACM-0354
+
+
+
+DocID: CACM-2994
+
+
+
+DocID: CACM-1162
+
+languages generally provide a one-for-one translation  
+
+
+DocID: CACM-1650
+
+
+
+DocID: CACM-1001
+
+
+
+DocID: CACM-1259
+
+
+
+DocID: CACM-1554
+
+
+
+DocID: CACM-1888
+
+
+
+DocID: CACM-1237
+
+the nature of table-oriented programming languages  
+
+
+DocID: CACM-1470
+
+the structure of programming languages  
+of programming [languages] toward one which  
+list processing [languages] illustrate the forms  
+
+
+DocID: CACM-2717
+
+utility program, programming [languages] nonprocedural languages  
+
+
+DocID: CACM-2267
+
+languages, philosophy of language design  
+
+
+DocID: CACM-1977
+
+
+
+DocID: CACM-1112
+
+
+
+DocID: CACM-0626
+
+
+
+DocID: CACM-2917
+
+sitar: an interactive text processing  
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-2815
+
+
+
+DocID: CACM-3129
+
+
+
+DocID: CACM-2900
+
+
+
+DocID: CACM-1589
+
+
+
+DocID: CACM-0078
+
+
+
+DocID: CACM-1272
+
+
+
+DocID: CACM-2514
+
+parallel .  examples are given involving array languages  
+
+
+DocID: CACM-2931
+
+logic and programming languages  
+logic, programming [languages] automata, denotational  
+computability theory.  programming [languages] offer  
+
+
+DocID: CACM-1197
+
+
+
+DocID: CACM-1630
+
+
+
+DocID: CACM-0282
+
+
+
+DocID: CACM-2265
+
+programming [languages] syntax, semantics, compiler  
+most current programming [languages] treat computation  
+
+
+DocID: CACM-1200
+
+
+
+DocID: CACM-1457
+
+the characteristics of various processing [languages] are  
+implementation.  advantages of these programming languages  
+
+
+DocID: CACM-0698
+
+
+
+DocID: CACM-2500
+
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-1930
+
+
+
+DocID: CACM-0144
+
+
+
+DocID: CACM-2852
+
+
+
+DocID: CACM-1438
+
+
+
+DocID: CACM-2484
+
+
+
+DocID: CACM-1455
+
+
+
+DocID: CACM-2368
+
+
+
+DocID: CACM-0242
+
+
+
+DocID: CACM-2684
+
+to define abstract syntax and translations between [languages]  
+of the syntax of programming [languages] has been  
+
+
+DocID: CACM-2421
+
+

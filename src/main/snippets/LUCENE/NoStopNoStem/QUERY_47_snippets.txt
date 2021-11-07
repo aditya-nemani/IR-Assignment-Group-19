@@ -1,0 +1,409 @@
+LUCENE_NoStopNoStem
+
+Query
+The use of Bayesian decision models to optimize information retrieval
+system performance.  This includes stopping rules to determine when a
+user should cease scanning the output of a retrieval search.
+
+Top 100 Results (41 millisecs)
+
+
+DocID: CACM-1699
+
+
+
+DocID: CACM-3012
+
+
+
+DocID: CACM-2451
+
+
+
+DocID: CACM-1236
+
+
+
+DocID: CACM-2848
+
+
+
+DocID: CACM-1359
+
+
+
+DocID: CACM-2046
+
+
+
+DocID: CACM-2979
+
+
+
+DocID: CACM-1032
+
+
+
+DocID: CACM-1506
+
+
+
+DocID: CACM-3134
+
+
+
+DocID: CACM-2547
+
+
+
+DocID: CACM-2722
+
+
+
+DocID: CACM-2990
+
+
+
+DocID: CACM-2970
+
+
+
+DocID: CACM-2318
+
+
+
+DocID: CACM-2288
+
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-1680
+
+
+
+DocID: CACM-1935
+
+
+
+DocID: CACM-2598
+
+
+
+DocID: CACM-1937
+
+
+
+DocID: CACM-2882
+
+
+
+DocID: CACM-1527
+
+
+
+DocID: CACM-1908
+
+
+
+DocID: CACM-1524
+
+
+
+DocID: CACM-0891
+
+
+
+DocID: CACM-2516
+
+
+
+DocID: CACM-3087
+
+
+
+DocID: CACM-0944
+
+
+
+DocID: CACM-1936
+
+
+
+DocID: CACM-2726
+
+
+
+DocID: CACM-1976
+
+
+
+DocID: CACM-1627
+
+
+
+DocID: CACM-2765
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-2746
+
+
+
+DocID: CACM-2092
+
+
+
+DocID: CACM-2372
+
+
+
+DocID: CACM-1652
+
+
+
+DocID: CACM-1681
+
+
+
+DocID: CACM-2140
+
+
+
+DocID: CACM-2453
+
+
+
+DocID: CACM-3041
+
+
+
+DocID: CACM-2622
+
+
+
+DocID: CACM-2984
+
+
+
+DocID: CACM-1194
+
+
+
+DocID: CACM-1684
+
+
+
+DocID: CACM-1725
+
+
+
+DocID: CACM-2991
+
+
+
+DocID: CACM-1271
+
+
+
+DocID: CACM-2889
+
+
+
+DocID: CACM-3070
+
+
+
+DocID: CACM-1705
+
+
+
+DocID: CACM-2307
+
+
+
+DocID: CACM-1747
+
+
+
+DocID: CACM-2580
+
+
+
+DocID: CACM-2561
+
+
+
+DocID: CACM-3135
+
+
+
+DocID: CACM-2198
+
+
+
+DocID: CACM-3095
+
+
+
+DocID: CACM-1938
+
+
+
+DocID: CACM-1695
+
+
+
+DocID: CACM-2832
+
+
+
+DocID: CACM-1651
+
+
+
+DocID: CACM-1855
+
+
+
+DocID: CACM-2860
+
+
+
+DocID: CACM-2319
+
+
+
+DocID: CACM-2537
+
+
+
+DocID: CACM-2947
+
+
+
+DocID: CACM-1427
+
+
+
+DocID: CACM-0440
+
+
+
+DocID: CACM-1307
+
+
+
+DocID: CACM-2263
+
+
+
+DocID: CACM-1514
+
+
+
+DocID: CACM-2795
+
+
+
+DocID: CACM-2519
+
+
+
+DocID: CACM-1526
+
+
+
+DocID: CACM-2742
+
+
+
+DocID: CACM-2846
+
+
+
+DocID: CACM-2437
+
+
+
+DocID: CACM-2033
+
+
+
+DocID: CACM-2176
+
+
+
+DocID: CACM-1698
+
+
+
+DocID: CACM-2968
+
+
+
+DocID: CACM-1083
+
+
+
+DocID: CACM-0282
+
+
+
+DocID: CACM-2535
+
+
+
+DocID: CACM-2645
+
+
+
+DocID: CACM-2631
+
+
+
+DocID: CACM-2370
+
+
+
+DocID: CACM-2389
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-1827
+
+
+
+DocID: CACM-3163
+
+
+
+DocID: CACM-2988
+
+
+
+DocID: CACM-2053
+
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-2203
+
+
+
+DocID: CACM-2716
+
+

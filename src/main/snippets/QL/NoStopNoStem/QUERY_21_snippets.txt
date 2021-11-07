@@ -1,0 +1,432 @@
+QL_NoStopNoStem
+
+Query
+computational complexity, intractlbiitay, classifiable reductions,
+algorithms and efficiency
+
+Top 100 Results (183 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+
+
+DocID: CACM-0994
+
+
+
+DocID: CACM-0995
+
+
+
+DocID: CACM-0996
+
+
+
+DocID: CACM-0990
+
+
+
+DocID: CACM-0991
+
+
+
+DocID: CACM-0992
+
+
+
+DocID: CACM-2703
+
+grammars, [computational] [complexity] exponential  
+the intrinsically exponential [complexity] of  
+
+
+DocID: CACM-2702
+
+computational [complexity] context-free grammars,  
+on the [complexity] of lr k  testing  
+the [complexity] of the problem depends very strongly  
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-2704
+
+
+
+DocID: CACM-2701
+
+
+
+DocID: CACM-2700
+
+
+
+DocID: CACM-2707
+
+
+
+DocID: CACM-2706
+
+computational [complexity] polynomial completeness,  
+
+
+DocID: CACM-2709
+
+
+
+DocID: CACM-2708
+
+
+
+DocID: CACM-0975
+
+
+
+DocID: CACM-0976
+
+
+
+DocID: CACM-0977
+
+
+
+DocID: CACM-0978
+
+
+
+DocID: CACM-0971
+
+
+
+DocID: CACM-0972
+
+
+
+DocID: CACM-0973
+
+
+
+DocID: CACM-0974
+
+
+
+DocID: CACM-0970
+
+
+
+DocID: CACM-0979
+
+
+
+DocID: CACM-0986
+
+
+
+DocID: CACM-0987
+
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+
+
+DocID: CACM-0983
+
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+
+
+DocID: CACM-0981
+
+
+
+DocID: CACM-1405
+
+
+
+DocID: CACM-2736
+
+
+
+DocID: CACM-1404
+
+computational aspects of multiple covariance  
+the [computational] procedure for the analysis  
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1407
+
+
+
+DocID: CACM-2738
+
+
+
+DocID: CACM-1406
+
+
+
+DocID: CACM-2737
+
+
+
+DocID: CACM-1401
+
+
+
+DocID: CACM-2732
+
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2731
+
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2734
+
+efficiency.  for exponential and hyperexponential  
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-2733
+
+
+
+DocID: CACM-2730
+
+
+
+DocID: CACM-1409
+
+
+
+DocID: CACM-1408
+
+deal with this, a standard of [efficiency] is developed  
+
+
+DocID: CACM-2739
+
+
+
+DocID: CACM-1416
+
+
+
+DocID: CACM-2747
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-2746
+
+finite state machines, [computational] [complexity]  
+
+
+DocID: CACM-1418
+
+
+
+DocID: CACM-2749
+
+efficiency is of sufficient importance.  
+in the simulation of some systems when computational  
+
+
+DocID: CACM-1417
+
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+
+
+DocID: CACM-2743
+
+merge sorting, [computational] [complexity] data  
+
+
+DocID: CACM-1411
+
+comparison of several [algorithms] for computation  
+several [algorithms] for computation of basic  
+
+
+DocID: CACM-2742
+
+
+
+DocID: CACM-1414
+
+
+
+DocID: CACM-2745
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-1410
+
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-1419
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-2713
+
+
+
+DocID: CACM-2716
+
+algorithms for implementing the operators  
+
+
+DocID: CACM-2715
+
+query.  the optimization [algorithms] designed  
+
+
+DocID: CACM-2710
+
+
+
+DocID: CACM-2712
+
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-2718
+
+
+
+DocID: CACM-2717
+
+
+
+DocID: CACM-2719
+
+of algorithms  
+
+
+DocID: CACM-2725
+
+a comparison of simulation event list [algorithms]  corrigendum   
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+
+
+DocID: CACM-2726
+
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-2720
+
+
+
+DocID: CACM-2723
+
+algorithms for a multiprocessing compactifying  
+
+
+DocID: CACM-2722
+
+very efficiently.  various utility [algorithms] are developed;  
+far surpass the best currently known [algorithms] for  
+of searches , o  n log n .  search algorithms  
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-2728
+
+

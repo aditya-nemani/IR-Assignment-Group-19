@@ -1,0 +1,410 @@
+LUCENE_NoStopNoStem
+
+Query
+The use of computer science principles (e.g. data structures, 
+numerical methods) in generating optimization (e.g. linear programming)
+algorithms.  This includes issues of the Khachian (Russian, ellipsoidal)
+algorithm and complexity of such algorithms.
+
+Top 100 Results (48 millisecs)
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-2325
+
+
+
+DocID: CACM-1066
+
+
+
+DocID: CACM-2646
+
+
+
+DocID: CACM-2142
+
+
+
+DocID: CACM-0409
+
+
+
+DocID: CACM-3130
+
+
+
+DocID: CACM-2310
+
+
+
+DocID: CACM-2433
+
+
+
+DocID: CACM-2968
+
+
+
+DocID: CACM-2877
+
+
+
+DocID: CACM-2766
+
+
+
+DocID: CACM-2699
+
+
+
+DocID: CACM-2695
+
+
+
+DocID: CACM-1601
+
+
+
+DocID: CACM-1433
+
+
+
+DocID: CACM-2226
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-2592
+
+
+
+DocID: CACM-3037
+
+
+
+DocID: CACM-2273
+
+
+
+DocID: CACM-3165
+
+
+
+DocID: CACM-1651
+
+
+
+DocID: CACM-2932
+
+
+
+DocID: CACM-1385
+
+
+
+DocID: CACM-2094
+
+
+
+DocID: CACM-1809
+
+
+
+DocID: CACM-1392
+
+
+
+DocID: CACM-3103
+
+
+
+DocID: CACM-2324
+
+
+
+DocID: CACM-3010
+
+
+
+DocID: CACM-3200
+
+
+
+DocID: CACM-3150
+
+
+
+DocID: CACM-2522
+
+
+
+DocID: CACM-2828
+
+
+
+DocID: CACM-2556
+
+
+
+DocID: CACM-2665
+
+
+
+DocID: CACM-1722
+
+
+
+DocID: CACM-2081
+
+
+
+DocID: CACM-1769
+
+
+
+DocID: CACM-2538
+
+
+
+DocID: CACM-2850
+
+
+
+DocID: CACM-1658
+
+
+
+DocID: CACM-2389
+
+
+
+DocID: CACM-2032
+
+
+
+DocID: CACM-2953
+
+
+
+DocID: CACM-2406
+
+
+
+DocID: CACM-2283
+
+
+
+DocID: CACM-2986
+
+
+
+DocID: CACM-1677
+
+
+
+DocID: CACM-1654
+
+
+
+DocID: CACM-3124
+
+
+
+DocID: CACM-1886
+
+
+
+DocID: CACM-1927
+
+
+
+DocID: CACM-2767
+
+
+
+DocID: CACM-1924
+
+
+
+DocID: CACM-2484
+
+
+
+DocID: CACM-2936
+
+
+
+DocID: CACM-1147
+
+
+
+DocID: CACM-0095
+
+
+
+DocID: CACM-3032
+
+
+
+DocID: CACM-1196
+
+
+
+DocID: CACM-2941
+
+
+
+DocID: CACM-2113
+
+
+
+DocID: CACM-1504
+
+
+
+DocID: CACM-1098
+
+
+
+DocID: CACM-2451
+
+
+
+DocID: CACM-2692
+
+
+
+DocID: CACM-2835
+
+
+
+DocID: CACM-2701
+
+
+
+DocID: CACM-2186
+
+
+
+DocID: CACM-2716
+
+
+
+DocID: CACM-2106
+
+
+
+DocID: CACM-2903
+
+
+
+DocID: CACM-3125
+
+
+
+DocID: CACM-3163
+
+
+
+DocID: CACM-2883
+
+
+
+DocID: CACM-1659
+
+
+
+DocID: CACM-2253
+
+
+
+DocID: CACM-2155
+
+
+
+DocID: CACM-1457
+
+
+
+DocID: CACM-2962
+
+
+
+DocID: CACM-1353
+
+
+
+DocID: CACM-2927
+
+
+
+DocID: CACM-2969
+
+
+
+DocID: CACM-3118
+
+
+
+DocID: CACM-2997
+
+
+
+DocID: CACM-1728
+
+
+
+DocID: CACM-2887
+
+
+
+DocID: CACM-0940
+
+
+
+DocID: CACM-1977
+
+
+
+DocID: CACM-3018
+
+
+
+DocID: CACM-3087
+
+
+
+DocID: CACM-2366
+
+
+
+DocID: CACM-3092
+
+
+
+DocID: CACM-2337
+
+
+
+DocID: CACM-2832
+
+
+
+DocID: CACM-1463
+
+
+
+DocID: CACM-1183
+
+
+
+DocID: CACM-2950
+
+

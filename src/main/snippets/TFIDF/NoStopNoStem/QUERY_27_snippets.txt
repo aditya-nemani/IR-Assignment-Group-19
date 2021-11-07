@@ -1,0 +1,698 @@
+TFIDF_NoStopNoStem
+
+Query
+memory management access of operating sheets
+
+Top 100 Results (94 millisecs)
+
+
+DocID: CACM-2902
+
+terms of processing time, [memory] usage, and external memory  
+algorithms.  simple algorithms [operating] on [memory] ordered  
+memory [management] programming techniques, simulation,  
+
+
+DocID: CACM-1725
+
+value readout, digit variety readout, [memory] [access] memory  
+access frequency, ordered retrieval efficiency,  
+access frequency proof, retrieval theorem proof  
+
+
+DocID: CACM-2669
+
+systems, virtual [memory] associative [memory] [memory] usage accounting, multics  
+performance measurement, multilevel memory  
+managed multilevel [memory] system requires  
+
+
+DocID: CACM-2358
+
+operating system, multics, virtual [memory] segmentation,  
+information sharing, paging, [memory] [management]  
+memory hierarchy  
+
+
+DocID: CACM-3011
+
+management practices where top [management] is supportive  
+computer utilization, [management] information system,  
+traditional concepts of [management] information  
+
+
+DocID: CACM-2798
+
+of [memory] modules in operation during a memory  
+interleaved [memory] systems, modular [memory] systems,  
+memory performance analysis, blockage buffer,  
+
+
+DocID: CACM-2297
+
+memory management  
+studies, queuing analysis, [memory] contention,  
+paging machines, demand paging, [operating] systems  
+
+
+DocID: CACM-2918
+
+reducing [memory] in terference.  home [memory] organization  
+multiprocessor [memory] organization and [memory] interference  
+attention to nonin terleaved [memory]  alternative memory  
+
+
+DocID: CACM-1856
+
+simulation, human [memory] simulation, computer  
+this [memory] is a "semantic network" representing factual  
+assertions for the [memory] and the capabilities for  
+
+
+DocID: CACM-2740
+
+of [operating] systems.  the project management  
+operating system structure, asynchronous  
+cooperating processes, [operating] system, semaphores,  
+
+
+DocID: CACM-1750
+
+operating systems, control data corporation 6600, [operating] system with ecs  
+ but not executable  fast random [access] [memory] to  
+multiprogrammed [operating] systems, multiprocessor  
+
+
+DocID: CACM-2859
+
+memory, [memory] interference, multiprocessing,  
+interleaved [memory] trace driven simulation  
+this paper analyzes the [memory] interference  
+
+
+DocID: CACM-2372
+
+operating systems, [access] [management] data banks,  
+management information systems  
+security, privacy, [access] control confidentiality,  
+
+
+DocID: CACM-2928
+
+primary [memory] requirement, virtual [memory] level  
+of multiprogramming, associative [memory] working  
+primary [memory] requirement estimate was employed  
+
+
+DocID: CACM-2526
+
+optical [memory] [memory] device, [memory] hierarchy,  
+asymmetric [memory] hierarchies  
+rca read/write holographic optical [memory]  
+
+
+DocID: CACM-2988
+
+of finite [memory] size and workload [memory] requirements  
+memory [management] system performance, queueing  
+memory [management] and response time  
+
+
+DocID: CACM-2319
+
+operating system performance  
+paging, virtual [memory] input/output, disk  
+computer system, [operating] system, performance  
+
+
+DocID: CACM-1752
+
+resource [management] for a medium scale time-sharing [operating] system  
+time-sharing, [operating] systems, resource [management]  
+memory [management] virtual memories  
+
+
+DocID: CACM-2516
+
+data [access] times using sequential files, random [access] files,  
+memory, computer core [memory] extended core  
+linearly connected [memory] hardware with increasing data  
+
+
+DocID: CACM-1641
+
+with 32k of core [memory] and disks.  gains in [memory] space  
+increase in [memory] space utilized to store  
+one-level [memory] is performed by a program which  
+
+
+DocID: CACM-3105
+
+in [operating] systems by [access] control mechanisms.  this  
+programming languages, [access] control, data types,  
+expression of [access] constraints on shared data.  
+
+
+DocID: CACM-2864
+
+modeling of program behavior and [memory] [management] in virtual [memory] systems.  
+program behavior, [memory] [management] locality  
+
+
+DocID: CACM-2396
+
+intelligence, human [memory] simulation  
+memory structures, allowing direct verification  
+natural language processing, semantic [memory] text  
+
+
+DocID: CACM-2181
+
+university programs, [management] education, curriculum  
+for improving computer education for [management]  
+the acm committee on computer education for [management]  
+
+
+DocID: CACM-1976
+
+retrieval, data [management] [access] method, secondary  
+fields by a single [access] to an index file, although each bucket may  
+keys  or [access] numbers of the records  that satisfy different combinations  
+
+
+DocID: CACM-2967
+
+memory, graphics, information retrieval,  
+parallel processing, database management  
+associative [memory] associative processor, content-addressable  
+
+
+DocID: CACM-1924
+
+paged [memory] systems, virtual [memory] systems,  
+of the number of pages of main [memory] available  
+organizing matrices and matrix operations for paged [memory] systems  
+
+
+DocID: CACM-0854
+
+systems using random [access] storage devices  
+to the various properties of random access  
+of random [access] storage and tape devices dictate  
+
+
+DocID: CACM-3006
+
+anomaly, [memory] [management] program behavior, stack  
+occur in paged virtual [memory] [operating] systems  
+algorithms, virtual [memory] working set, page  
+
+
+DocID: CACM-2991
+
+access method, randomizing, random [access] file  
+improving the [access] time for random [access] files  
+transformation, direct addressing, direct [access] direct  
+
+
+DocID: CACM-2481
+
+buffer  cache  [memory] between primary [memory] and  
+a virtual [memory] computer system with a fast  
+and primary [memory] is studied using the program's lifetime  
+
+
+DocID: CACM-3153
+
+systems by [memory] allocations  
+queueing networks, paging, virtual [memory] performance control  
+classes by regulating their [memory] allocation is examined in  
+
+
+DocID: CACM-2377
+
+access control, hardware [access] control, computer  
+associating concentric rings of decreasing [access] privilege  
+utility, time-sharing, shared information, segmentation, virtual [memory] multics  
+
+
+DocID: CACM-3067
+
+database referencing, [memory] [management] optimal  
+memory policies, paging, program behavior, program  
+for the entire class of demand-fetching memory  
+
+
+DocID: CACM-1728
+
+behavior, virtual [memory] systems, single-level  
+operating systems, supervisor simulation, machine  
+storage, one-level storage, [operating] system simulation,  
+
+
+DocID: CACM-2626
+
+hierarchical control of [access] specifications,  
+multics, protection, security, privacy, [access] control,  
+key mechanisms described include [access] control lists,  
+
+
+DocID: CACM-2668
+
+based on [memory] states, control states, and memory  
+probability in a virtual [memory] system operating  
+virtual [memory] demand paging, replacement rule,  
+
+
+DocID: CACM-3068
+
+operating systems, security, protection, program verification  
+ucla secure [operating] system is also discussed.  
+many of those properties of an [operating] system which  
+
+
+DocID: CACM-2379
+
+data sharing, resource [management] deadlock  
+operating systems, system design, levels of abstraction,  
+the design of the venus [operating] system  
+
+
+DocID: CACM-3092
+
+aids, [management] and technical issues  
+the most important [management] problem area.  
+ 3  in maintenance and enhancement, problems of a management  
+
+
+DocID: CACM-1591
+
+operating system to execute functions other than  
+into an [operating] system of a large computer  
+written in any language processed by the [operating] system.  
+
+
+DocID: CACM-2208
+
+hashing algorithms, [memory] allocation, [memory] hierarchy,  
+memory utilization, storage allocation,  
+memory hierarchy.  the first storage level,  
+
+
+DocID: CACM-2106
+
+management information systems, interpreters  
+computer education in a graduate school of management  
+design and evaluation of [management] information systems requires  
+
+
+DocID: CACM-2868
+
+operating system, protection, capabilities,  
+layering domains, [memory] hierarchy, faults  
+reflections on an [operating] system design  
+
+
+DocID: CACM-2198
+
+generalized data base [management] systems"  
+data base [management] systems, programming languages,  
+of generalized data base [management] systems.  this introduction  
+
+
+DocID: CACM-1680
+
+retrieval [operating] systems, graphics, displays, man-machine  
+display unit under [operating] system/360.  adept  
+to it, and surrendering control to the operating  
+
+
+DocID: CACM-2911
+
+rule in dynamic [memory] allocation  
+dynamic [memory] allocation, storage fragmentation,  
+that, in dynamic [memory] allocation, the average  
+
+
+DocID: CACM-1892
+
+strategies, [operating] systems, [memory] management  
+between the number of programs permitted to share memory  
+
+
+DocID: CACM-2424
+
+dynamic verification of [operating] system decisions  
+operating systems, data security, fault tolerance,  
+of [operating] system decisions is used on the prime system  
+
+
+DocID: CACM-1753
+
+paging, multiprogramming, storage [management]  
+virtual [memory] information sharing, shared procedures,  
+virtual [memory] processes, and sharing in multics  
+
+
+DocID: CACM-2479
+
+management, computer management  
+education, [management] information systems, information  
+committee on computer education for management  
+
+
+DocID: CACM-2378
+
+operating systems, supervisors, multiprogramming,  
+an [operating] system which is organized as a  
+active processes and manages [memory] handle errors, and  
+
+
+DocID: CACM-3097
+
+memory, [memory] hierarchy, electronic drum,  
+ccd [memory] is composed of serial shift registers  
+optimal shift strategy for a block-transfer ccd memory  
+
+
+DocID: CACM-2681
+
+dynamic [memory] repacking, [memory] compaction,storage  
+dynamic [memory] repacking  
+and the [operating] conditions that lead  
+
+
+DocID: CACM-2582
+
+improvement, [memory] hierarchies, virtual  
+memory, multiprogramming, restructuring techniques, static  
+working set which does not contain the next memory  
+
+
+DocID: CACM-3000
+
+virtual [memory] program behavior, segmentation,  
+memory systems are presented and discussed.  
+the characteristics of the virtual [memory] requirements  
+
+
+DocID: CACM-1194
+
+user [access] via on-line teletypewriter console,  
+user [access] through many facets of document indexing,  
+direct user [access] to all details of the system organization,  
+
+
+DocID: CACM-1751
+
+multiprogramming, [operating] systems, program  
+general [operating] system concepts, multiprocessing,  
+activity; then "processor demand" and [memory] demand"  
+
+
+DocID: CACM-2452
+
+simulation, data base, [access] time, storage  
+file organization, file structures, file [management]  
+requirement, data base analysis, data management  
+
+
+DocID: CACM-2632
+
+operating system, kernel, nucleus, protection, security  
+hydra: the kernel of a multiprocessor [operating] system  
+hydra-the kernel of an [operating] system for c.mmp,  
+
+
+DocID: CACM-2631
+
+direct [access] information retrieval, character  
+text searching in direct [access] systems  
+using direct [access] computer files of bibliographic  
+
+
+DocID: CACM-3142
+
+errors, systems errors, billing errors, [management] systems, consumers  
+management systems may be adequate, results of the survey raise  
+them?  what can be learned by designers of large [management] packages  
+
+
+DocID: CACM-2277
+
+paging associative [memory] storage allocation,  
+ii, [memory] allocation, one-level store, paging,  
+thrashing, virtual [memory] working set model  
+
+
+DocID: CACM-1901
+
+storage [management] [memory] [management] program  
+space-sharing, storage allocation, [memory] allocation,  
+
+
+DocID: CACM-1747
+
+input equipment design, [operating] systems, operating  
+deterministic computers, protection, [memory] protection,  
+
+
+DocID: CACM-1412
+
+to real-time, direct [access] processing,has led  
+common store of data contained in the direct access  
+management use.  both kinds of processing draw upon a  
+
+
+DocID: CACM-2852
+
+center [management] computer system performance  
+on computer education for [management] for graduate  
+the technology of computer center [management] a  
+
+
+DocID: CACM-2734
+
+produced by first-fit and best-fit memory  
+storage fragmentation, dynamic [memory] allocation, first-fit, best-fit  
+allocating toward one end of [memory] encourages large blocks  
+
+
+DocID: CACM-2357
+
+multiplexer, implementation effort, [operating] overhead,  
+time-sharing, remote computing, on-line [access]  
+user reactions, remote terminals, [operating] system  
+
+
+DocID: CACM-3002
+
+length data-items.  the probabilities of access  
+library routines' storage at a large scale operating  
+several  requests [access] the file system, and each  
+
+
+DocID: CACM-3050
+
+system design, configuration, [management] game  
+this paper presents a [management] game that allows  
+and a simulated run of the center [operating] under  
+
+
+DocID: CACM-2359
+
+one of the most important file [management] systems  
+the index sequential [access] method  isam  is  
+an improved index sequential [access] method using hashed overflow  
+
+
+DocID: CACM-2593
+
+data base [management] information retrieval, computer  
+a back-end computer for data base management  
+data [management] system, xdms, is described and certain  
+
+
+DocID: CACM-2219
+
+scheduler, time-sharing, [operating] system,  
+operating system can be characterized  
+in a general purpose [operating] system, and  
+
+
+DocID: CACM-1845
+
+utilization, [memory] occupation, tree structure,  
+linkage, linkage editor, standardization, memory  
+that overlay software incorporates a [memory] occupation  
+
+
+DocID: CACM-2625
+
+information sharing, [operating] systems, computer  
+for obtaining a segment's location in main [memory] given  
+suggested. the scheme uses a main [memory] hash table  
+
+
+DocID: CACM-2138
+
+specific machine  the pdp-10 : compilers, operating  
+to allow [access] to all relevant hardware features of  
+data structures in terms of the [access] algorithm for elements of the structure.  
+
+
+DocID: CACM-0856
+
+using random [access] drum [memory]  the sort program  
+first part presents the [operating] environment; the  
+sorting with large volume, random [access] drum storage  
+
+
+DocID: CACM-2978
+
+index, index structure, pages, virtual [memory]  
+memory environment is described.  design alternatives  
+analysis of design alternatives for virtual [memory] indexes  
+
+
+DocID: CACM-2500
+
+management, multiprogramming, time-sharing,  
+operating system, keeps resources relatively  
+management program is described which uses linked  
+
+
+DocID: CACM-2375
+
+access time, analytical models, auxiliary storage,  
+performance criteria, peripheral [memory] devices, real-time  
+direct [access] storage, disk analysis, disk scheduling,  
+
+
+DocID: CACM-2646
+
+buffer [memory] [memory] hierarchy, permutation algorithm,  
+memory.  the methods discussed are independent of  
+
+
+DocID: CACM-2317
+
+languages, [operating] systems, programming  
+of [operating] system principles.  important trends  
+in the [operating] system area all major computer  
+
+
+DocID: CACM-2150
+
+independent processes from simultaneous access  
+have exclusive [access]  two solutions are presented:  
+mutual exclusion, critical section, shared [access] to resources  
+
+
+DocID: CACM-2017
+
+performance evaluation, [memory] management  
+environment characteristic of virtual [memory] machines.  descriptions of  
+
+
+DocID: CACM-2597
+
+monitors, [operating] systems, scheduling, mutual  
+monitors: an [operating] system structuring concept  
+a monitor as a method of structuring an operating  
+
+
+DocID: CACM-2920
+
+operating system, multiprogramming, time-sharing,  
+priori information about the processes, resources, operating  
+as a game between the [operating] system and the processes  
+
+
+DocID: CACM-1409
+
+memory allows a simple interface with the 340 kc  
+memory.  the arithmetic unit has a command structure similar  
+using glass delay lines circulating at 22 mc as [memory]  
+
+
+DocID: CACM-2867
+
+data type, address space, virtual memory  
+modularization and hierarchy in a family of [operating] systems  
+used in the construction of a family of operating  
+
+
+DocID: CACM-1708
+
+storage [management] list processor implementation,  
+a large virtual [memory] stored on a drum.  details  
+a lisp system which uses core [memory] as a buffer for  
+
+
+DocID: CACM-2536
+
+telecommunications i/o within an [operating] system  
+varied remote terminal [access] to a large scale  
+of the main processor [operating] system, and an  
+
+
+DocID: CACM-3048
+
+in the system are the [memory] unit and the fixed  
+value when high-speed  cache  [memory] is used, as  
+
+
+DocID: CACM-3118
+
+bubble [memory] [memory] loops, permutation algorithm, data block shift  
+permutation of data blocks in a bubble memory  
+
+
+DocID: CACM-2175
+
+memory and processor time requirements.  this  
+a uniprocessor with an unbuffered main [memory] to  
+multiprocessor with a "cache" buffer [memory]  if the  
+
+
+DocID: CACM-2035
+
+conversational computer [access]  
+conversational [access] to a 2048-word machine  
+tape algorithms to minimize the limitations of the small [memory]  techniques  
+
+
+DocID: CACM-2262
+
+garbage collection, virtual [memory] list  
+memory systems, and compares them with traditional  
+garbage collection for virtual [memory] computer systems  
+
+
+DocID: CACM-1642
+
+the main [memory] and quite fast; and level 2,  
+time sharing on a computer with a small memory  
+a computer with a small central [memory] are presented.  
+
+
+DocID: CACM-2985
+
+computer [management] computer budget,  
+user [management] attitudes about their computer-based  
+
+
+DocID: CACM-1810
+
+automatic folding, storage hierarchies, memory  
+the available [memory] is discussed.  measurements  
+even though it is [operating] across a [memory]to-storage  
+
+
+DocID: CACM-2622
+
+operating system security, security, authentication,  
+in many computer [operating] systems a user authenticates  
+have [access] to the table, but he can penetrate the system  
+

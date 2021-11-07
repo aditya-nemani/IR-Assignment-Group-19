@@ -1,0 +1,640 @@
+BM25_NoStopNoStem
+
+Query
+parallel progress and paging algorithms
+
+Top 100 Results (94 millisecs)
+
+
+DocID: CACM-3006
+
+fault frequency, [paging] algorithms  
+anomalies with variable partition [paging] algorithms  
+two [paging] [algorithms] are examined in terms of their  
+
+
+DocID: CACM-2973
+
+parallel computer, [parallel] sorting, [parallel] merge,  
+sorting on a mesh-connected [parallel] computer  
+two [algorithms] are presented for sorting n^2  
+
+
+DocID: CACM-3075
+
+parallel processing, sorting, [algorithms] bucket sort  
+fast [parallel] sorting algorithms  
+a [parallel] bucket-sort algorithm is presented  
+
+
+DocID: CACM-1752
+
+of the task scheduling and [paging] [algorithms] that were implemented,  
+task scheduling, [paging] system simulation,  
+a medium size virtual memory [paging] machine are  
+
+
+DocID: CACM-2365
+
+matrix [algorithms] linear equations, fortran,  
+matrix computations with fortran and paging  
+under an operating system which uses [paging]  
+
+
+DocID: CACM-2266
+
+parallel numerical [algorithms] real polynomials,  
+a highly [parallel] algorithm for approximating  
+is conceptually suitable for [parallel] computation,  
+
+
+DocID: CACM-2863
+
+realizable variable space [algorithms]  
+demand [paging] performance measurement, multilevel  
+page replacement [algorithms] optimal page replacement  
+
+
+DocID: CACM-3156
+
+graph theory, [parallel] processing, [algorithms]  
+computing connected components on [parallel] computers  
+we present a [parallel] algorithm which uses n2 processors to find the connected  
+
+
+DocID: CACM-1601
+
+obtained are superior to standard [algorithms]  
+measurements are interpreted in a [parallel] processing  
+parallel numerical methods for the solution of equations  
+
+
+DocID: CACM-2557
+
+as well as [parallel] computers is discussed.  algorithms  
+minimization, [parallel] machine, time minimization  
+
+
+DocID: CACM-2450
+
+the design of scheduling and [paging] [algorithms]  although  
+virtual memory, [paging] working set,  
+
+
+DocID: CACM-2373
+
+working-set model, [paging] [paging] [algorithms]  
+recently used  [paging] is characterized.  the independent-reference  
+
+
+DocID: CACM-0950
+
+parallel methods for integrating ordinary differential equations  
+algorithms ought to be replaced by algorithm which  
+computations of highly [parallel] computers as can be  
+
+
+DocID: CACM-2022
+
+paging machines, demand [paging] replacement algorithm  
+note on an anomaly in paging  
+
+
+DocID: CACM-2085
+
+paging machines, demand [paging] replacement algorithm  
+comment on a [paging] anomaly  
+
+
+DocID: CACM-1810
+
+paging, automatic [paging] demand [paging] folding,  
+hierarchies, replacement [algorithms] performance, measurement  
+mechanism of simple design, a demand [paging] unit  
+
+
+DocID: CACM-1468
+
+on labeling techniques using [parallel] processing  
+and the [parallel] processing simulator mentioned  
+algorithms was proposed by the author some years ago.  
+
+
+DocID: CACM-0059
+
+survey of [progress] and trend of development  
+
+
+DocID: CACM-2277
+
+paging associative memory, storage allocation,  
+ii, memory allocation, one-level store, [paging]  
+demand [paging] dynamic storage allocation, maniac  
+
+
+DocID: CACM-1728
+
+paging systems, [paging] dynamic program behavior, program  
+of programs in a [paging] environment  
+of page replacement [algorithms] and for assessing the  
+
+
+DocID: CACM-1924
+
+matrix [algorithms] array processing, [paging] [algorithms]  
+multiplication, and inversion [algorithms] shows  
+carefully designed matrix [algorithms] can lead to  
+
+
+DocID: CACM-0084
+
+survey of [progress] and trend of development  
+
+
+DocID: CACM-2740
+
+structuring, buffering, [parallel] processes, synchronizing  
+coroutines, correctness, program maintenance, software paging  
+semaphores .  the number of [parallel] processes is carefully  
+
+
+DocID: CACM-1964
+
+demand [paging] working set, [paging] rate, multiprogramming  
+
+
+DocID: CACM-2714
+
+parallel processing, [parallel] merging, [parallel] binary insertion  
+merging with [parallel] processors  
+the previous best [parallel] merging algorithm,  
+
+
+DocID: CACM-2838
+
+parallel processing, real time, data structures, analysis of algorithms  
+processor in [parallel] with list processing operations,  
+algorithms for recovering discarded list structures in  
+
+
+DocID: CACM-2570
+
+parallel processing, precedence graphs, scheduling,  
+different [algorithms] suggested in the literature vary significantly  
+a comparison of list schedules for [parallel] processing systems  
+
+
+DocID: CACM-0086
+
+survey of [progress] and trend of development  
+
+
+DocID: CACM-2669
+
+paging, demand [paging] memory models, program models,  
+paging exceptions increases linearly with the  
+a simple linear model of demand [paging] performance  
+
+
+DocID: CACM-2685
+
+parallel computing, multiprocessor computers,  
+the [parallel] execution of do loops  
+methods are developed for the [parallel] execution  
+
+
+DocID: CACM-2289
+
+parallel processing, special purpose computers,  
+algorithms for distance and spanning tree problems  
+algorithms are presented for the solution of certain  
+
+
+DocID: CACM-3153
+
+queueing networks, [paging] virtual memory, performance control  
+the context of a paged computer system.  two parameterized algorithms  
+alocation parameters on the expected response times under the two [algorithms]  
+
+
+DocID: CACM-2017
+
+sorting in a [paging] environment  
+sorting, merging, virtual machines, [paging] systems, dynamic  
+of sorting procedures in the context of the dynamic paging  
+
+
+DocID: CACM-1262
+
+procedure-oriented language statements to facilitate [parallel] processing  
+in [parallel]  the statements are do together  
+a range of [parallel] operation and partly to  
+
+
+DocID: CACM-1884
+
+paging machines, demand [paging] replacement algorithm  
+certain programs running in a [paging] machine  
+the running time of programs in a [paging] machine  
+
+
+DocID: CACM-3193
+
+work is in [progress] on a formula coding technique allowing direct entry  
+
+
+DocID: CACM-2700
+
+parallel program, semaphore, verification  
+halting.  thus correctness proofs of a parallel  
+when proving that a [parallel] program has a  
+
+
+DocID: CACM-2896
+
+with proving such [parallel] programs correct  
+a [parallel] program, dijkstra's on-the-fly garbage  
+an exercise in proving [parallel] programs correct  
+
+
+DocID: CACM-1158
+
+program structures for [parallel] processing  
+constructs for organizing and explicating parallel  
+
+
+DocID: CACM-2433
+
+this storage method and express [parallel] [algorithms] are described.  
+parallelism, array allocation, [parallel] control  
+
+
+DocID: CACM-2579
+
+languages, virtual memory, demand paging  
+algorithms that eliminate redundant computations, and  
+
+
+DocID: CACM-3152
+
+matrix multiplication, [paging] virtual memory,  
+matrix computation in a [paging] environment  
+rather than to use the best known [algorithms] which leave the  
+
+
+DocID: CACM-2872
+
+a counterintuitive example of computer [paging]  corrigendum   
+
+
+DocID: CACM-2785
+
+parallel computation, [parallel] architecture  
+of the problems associated with [parallel] computer  
+
+
+DocID: CACM-0141
+
+some thoughts on [parallel] processing  
+
+
+DocID: CACM-1302
+
+parallel signaling speeds for data transmission  
+
+
+DocID: CACM-0392
+
+comment on a paper on [parallel] processing  
+
+
+DocID: CACM-2297
+
+paging machines, demand [paging] operating systems  
+computer system operating under demand [paging]  in  
+a model of memory contention in a [paging] machine  
+
+
+DocID: CACM-2498
+
+dynamic storage allocation, virtual memory, [paging]  
+number of page sizes is considered.  two algorithms  
+
+
+DocID: CACM-1828
+
+parallel accessing, [parallel] search, file search,  
+which will maximize the amount of parallel  
+
+
+DocID: CACM-2881
+
+a counterintuitive example of computer paging  
+paging  an organization is said to be optimal  
+
+
+DocID: CACM-2068
+
+multiprogramming, [paging] modeling  
+
+
+DocID: CACM-1957
+
+in [parallel] rather than evaluating subexpressions and  
+the list set generator is defined and algorithms  
+
+
+DocID: CACM-2114
+
+lists, prime keyword, [parallel] processing of lists  
+derived.  two [algorithms] which retrieve records from the generalized file  
+
+
+DocID: CACM-1459
+
+advance developments in the field.  [progress] may be made  
+
+
+DocID: CACM-2895
+
+formal specifications,program correctness, parallel  
+of communicating [parallel] processes is described.  
+
+
+DocID: CACM-2182
+
+interrupts, supervisors, monitors, debugging, parallel  
+
+
+DocID: CACM-3059
+
+multiprogramming, [parallel] processing, queueing  
+models for [parallel] processing within programs:  
+approximate queueing models for internal parallel  
+
+
+DocID: CACM-2342
+
+operating systems, [parallel] processes  
+interference between communicating [parallel] processes  
+parallel processes have been examined by  
+
+
+DocID: CACM-1795
+
+optimal code for serial and [parallel] computation  
+
+
+DocID: CACM-2667
+
+program behavior, virtual memory, [paging] demand [paging]  
+other data show [paging] characteristics  
+
+
+DocID: CACM-1476
+
+control procedures for data communication-an asa [progress] report  
+interchange  ascii .  this paper represents a progress  
+
+
+DocID: CACM-2692
+
+these [algorithms] are able to clip polygons  
+clipping window.  the [algorithms] described achieve  
+a new family of clipping [algorithms] is described.  
+
+
+DocID: CACM-1805
+
+paper presents the results of [progress] in developing  
+programs.  the effective [progress] rate of each  
+
+
+DocID: CACM-2865
+
+of properties of [parallel] programs is presented.  
+which are added to a [parallel] program as  
+verifying properties of [parallel] programs: an axiomatic approach  
+
+
+DocID: CACM-2401
+
+counting binary patterns, shrinking, parallel  
+a [parallel] processing algorithm for shrinking  
+window employed  two-by-two elements , the parallel  
+
+
+DocID: CACM-2069
+
+page-on-demand, demand [paging] time-sharing multiprogramming,  
+
+
+DocID: CACM-1753
+
+paging, multiprogramming, storage management,  
+memory are defined and the use of [paging] and  
+
+
+DocID: CACM-2016
+
+metering, event tracing, demand [paging] script driven  
+paging with multiprogramming are described in detail.  where appropriate,  
+
+
+DocID: CACM-2914
+
+for simulation of [paging] behavior  
+virtual memory, [paging] lru stack, working set, headway  
+
+
+DocID: CACM-3073
+
+program structures, [parallel] programming,  
+basic primitives of programming and that parallel  
+
+
+DocID: CACM-2522
+
+recent research in time-sharing [paging] systems  
+dependent upon the [algorithms] employed to allocate  
+
+
+DocID: CACM-2741
+
+multiprogramming, [paging] performance evaluation,  
+paging systems  i  unstable regimes of operations and  ii   
+
+
+DocID: CACM-2080
+
+multiprogramming, operating systems, [parallel] processes, process concept,  
+are handled uniformly as [parallel] cooperating process  
+
+
+DocID: CACM-2175
+
+parallel processing, cache, arithmetic expressions,  
+parallel exceeds the number of available processors,  
+in serials, in [parallel] or in a combination of these  
+
+
+DocID: CACM-2884
+
+permutations, loop-free algorithms  
+classical permutation enumeration [algorithms] encounter  
+permutation enumeration: four new permutation algorithms  
+
+
+DocID: CACM-2195
+
+global recognition, [parallel] processing, dynamic  
+the method described is suitable for parallel  
+state can be computed in [parallel] and the number  
+
+
+DocID: CACM-2851
+
+parallel program, correctness, verification,  
+formal verification of [parallel] programs  
+two formal models for [parallel] computation  
+
+
+DocID: CACM-1569
+
+in a pl/i procedure whose structure and statements parallel  
+
+
+DocID: CACM-2325
+
+of computation, [algorithms] continuous algorithms  
+complexity , synthesis and analysis of [algorithms]  
+of continuous [algorithms]  four of the components  
+
+
+DocID: CACM-2095
+
+paging, resource allocation, memory allocation, core utilization  
+especially with respect to the organization of [paging] schemes.  
+
+
+DocID: CACM-0371
+
+remarks on [algorithms] 2 and 3, algorithm 15 and [algorithms] 25 and 26  
+
+
+DocID: CACM-1846
+
+simulation, [parallel] processes, simultaneous events,  
+on simulating networks of [parallel] processes  
+simulating the [parallel] events or report that none  
+
+
+DocID: CACM-3166
+
+four [algorithms] for the numerical computation  
+and computational literature; the other two are new algorithms  
+algorithms will provide accurate answers for many problems, but two  
+
+
+DocID: CACM-2950
+
+scheduling [algorithms] scheduling models, priority,  
+of time-invariant [algorithms] which include most  
+algorithms, the dependence of processing rates  
+
+
+DocID: CACM-1747
+
+parallel processing, [parallel] programming,  
+a time-of-day clock,  the synchronization of parallel  
+
+
+DocID: CACM-2226
+
+the [algorithms] as a suboptimizer is indicated.  
+further evidence for the analysis of algorithms  
+operations research, integer programming, zero-one variables, algorithms  
+
+
+DocID: CACM-2668
+
+virtual memory, demand [paging] replacement rule,  
+under demand [paging] with various memory sizes and replacement  
+
+
+DocID: CACM-1900
+
+clarification of fortran standards-initial progress  
+
+
+DocID: CACM-2723
+
+semaphores, [parallel] processing, compactification, relocation,  
+algorithms for a multiprocessing compactifying  
+
+
+DocID: CACM-1551
+
+on compiling [algorithms] for arithmetic expressions  
+algorithms generate an object code which minimizes  
+this paper deals with [algorithms] concerning arithmetic  
+
+
+DocID: CACM-2137
+
+lisp, list processing, [paging] virtual memory,  
+new lisp techniques for a [paging] environment  
+
+
+DocID: CACM-2902
+
+algorithms.  simple [algorithms] operating on memory ordered  
+fragmentation.  [algorithms] main taining separate  
+well.  [algorithms] employing power-of-two block sizes  
+
+
+DocID: CACM-1658
+
+programming, zero-one variables, algorithms  
+of several existing [algorithms] for the  
+analysis of [algorithms] for the zero-one programming problem  
+
+
+DocID: CACM-2380
+
+tenex, [paging] virtual machines, time sharing  
+on dec pdp-10 augmented by special [paging] hardware  
+
+
+DocID: CACM-2283
+
+thinning [algorithms] rectangular, hexagonal,  
+and the relative performances of the algorithms  
+in this report three thinning [algorithms] are  
+
+
+DocID: CACM-2903
+
+recursion elimination, pattern matching [algorithms]  
+by using recursion in troduction, algorithms  
+recursive [algorithms] in which no stack operations  
+
+
+DocID: CACM-3044
+
+parallel evaluation, suspending cons, lisp, conditional  
+
+
+DocID: CACM-2273
+
+two [algorithms] for generating computer programs  
+from decision tables are described.  the algorithms  
+entry tables.  the [algorithms] are based on the  
+
+
+DocID: CACM-2146
+
+sorting, polyphase sorting, dispersion [algorithms]  
+new dispersion [algorithms] with more straightforward  
+various dispersion [algorithms] for the polyphase  
+

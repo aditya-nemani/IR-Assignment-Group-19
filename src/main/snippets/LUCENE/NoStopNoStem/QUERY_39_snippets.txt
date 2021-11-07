@@ -1,0 +1,410 @@
+LUCENE_NoStopNoStem
+
+Query
+What does type compatibility mean in languages that allow programmer
+defined types?  (You might want to restrict this to "extensible" languages
+that allow definition of abstract data types or programmer-supplied
+definitions of operators like *, +.)
+
+Top 100 Results (11 millisecs)
+
+
+DocID: CACM-2651
+
+
+
+DocID: CACM-2940
+
+
+
+DocID: CACM-1861
+
+
+
+DocID: CACM-3105
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-3103
+
+
+
+DocID: CACM-1614
+
+
+
+DocID: CACM-1902
+
+
+
+DocID: CACM-2082
+
+
+
+DocID: CACM-2470
+
+
+
+DocID: CACM-2265
+
+
+
+DocID: CACM-2957
+
+
+
+DocID: CACM-2956
+
+
+
+DocID: CACM-2958
+
+
+
+DocID: CACM-2254
+
+
+
+DocID: CACM-3031
+
+
+
+DocID: CACM-2078
+
+
+
+DocID: CACM-1602
+
+
+
+DocID: CACM-3101
+
+
+
+DocID: CACM-2684
+
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-2939
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-1678
+
+
+
+DocID: CACM-1626
+
+
+
+DocID: CACM-1463
+
+
+
+DocID: CACM-2785
+
+
+
+DocID: CACM-1379
+
+
+
+DocID: CACM-2341
+
+
+
+DocID: CACM-1470
+
+
+
+DocID: CACM-2138
+
+
+
+DocID: CACM-1589
+
+
+
+DocID: CACM-0867
+
+
+
+DocID: CACM-1783
+
+
+
+DocID: CACM-1491
+
+
+
+DocID: CACM-3142
+
+
+
+DocID: CACM-1098
+
+
+
+DocID: CACM-2632
+
+
+
+DocID: CACM-2264
+
+
+
+DocID: CACM-2941
+
+
+
+DocID: CACM-2699
+
+
+
+DocID: CACM-1112
+
+
+
+DocID: CACM-0630
+
+
+
+DocID: CACM-1210
+
+
+
+DocID: CACM-1625
+
+
+
+DocID: CACM-0527
+
+
+
+DocID: CACM-2320
+
+
+
+DocID: CACM-2603
+
+
+
+DocID: CACM-2937
+
+
+
+DocID: CACM-0595
+
+
+
+DocID: CACM-1282
+
+
+
+DocID: CACM-2201
+
+
+
+DocID: CACM-1869
+
+
+
+DocID: CACM-3171
+
+
+
+DocID: CACM-1262
+
+
+
+DocID: CACM-1237
+
+
+
+DocID: CACM-2722
+
+
+
+DocID: CACM-2081
+
+
+
+DocID: CACM-2898
+
+
+
+DocID: CACM-1390
+
+
+
+DocID: CACM-2305
+
+
+
+DocID: CACM-2178
+
+
+
+DocID: CACM-2876
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-1878
+
+
+
+DocID: CACM-1469
+
+
+
+DocID: CACM-1911
+
+
+
+DocID: CACM-2406
+
+
+
+DocID: CACM-2627
+
+
+
+DocID: CACM-1693
+
+
+
+DocID: CACM-2152
+
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-3185
+
+
+
+DocID: CACM-2527
+
+
+
+DocID: CACM-1162
+
+
+
+DocID: CACM-2051
+
+
+
+DocID: CACM-1835
+
+
+
+DocID: CACM-3030
+
+
+
+DocID: CACM-3150
+
+
+
+DocID: CACM-2717
+
+
+
+DocID: CACM-2534
+
+
+
+DocID: CACM-3097
+
+
+
+DocID: CACM-2126
+
+
+
+DocID: CACM-1154
+
+
+
+DocID: CACM-2919
+
+
+
+DocID: CACM-3013
+
+
+
+DocID: CACM-3198
+
+
+
+DocID: CACM-2546
+
+
+
+DocID: CACM-1853
+
+
+
+DocID: CACM-2794
+
+
+
+DocID: CACM-3002
+
+
+
+DocID: CACM-2833
+
+
+
+DocID: CACM-2843
+
+
+
+DocID: CACM-2389
+
+
+
+DocID: CACM-1703
+
+
+
+DocID: CACM-3066
+
+
+
+DocID: CACM-1988
+
+
+
+DocID: CACM-2558
+
+
+
+DocID: CACM-2851
+
+
+
+DocID: CACM-1180
+
+

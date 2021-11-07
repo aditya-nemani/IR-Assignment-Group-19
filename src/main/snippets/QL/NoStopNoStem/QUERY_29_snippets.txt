@@ -1,0 +1,442 @@
+QL_NoStopNoStem
+
+Query
+number-theoretic algorithms, especially involving prime number series,
+sieves, and circle remember toehrem.
+
+Top 100 Results (154 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+
+
+DocID: CACM-0994
+
+
+
+DocID: CACM-0995
+
+
+
+DocID: CACM-0996
+
+
+
+DocID: CACM-0990
+
+
+
+DocID: CACM-0991
+
+
+
+DocID: CACM-0992
+
+
+
+DocID: CACM-2703
+
+
+
+DocID: CACM-2702
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-2704
+
+
+
+DocID: CACM-2701
+
+number of exits from program loops.  consequently  
+the [number] of operations is proportional to e plus the  
+
+
+DocID: CACM-2700
+
+
+
+DocID: CACM-2707
+
+series, and the substantial reduction in computation  
+
+
+DocID: CACM-2706
+
+
+
+DocID: CACM-2709
+
+
+
+DocID: CACM-2708
+
+
+
+DocID: CACM-0975
+
+
+
+DocID: CACM-0976
+
+
+
+DocID: CACM-0977
+
+julian day [number]  algorithm 199 [z]   
+
+
+DocID: CACM-0978
+
+
+
+DocID: CACM-0971
+
+
+
+DocID: CACM-0972
+
+
+
+DocID: CACM-0973
+
+
+
+DocID: CACM-0974
+
+components of the electrocardiogram, long series  
+of long [series] heart cycles via a digital computer.  
+
+
+DocID: CACM-0970
+
+
+
+DocID: CACM-0979
+
+logarithm of a complex [number]  algorithm 243 [b3]   
+
+
+DocID: CACM-0986
+
+
+
+DocID: CACM-0987
+
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+
+
+DocID: CACM-0983
+
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+
+
+DocID: CACM-0981
+
+the last [number] being summed can be recognized as such prior to its rounding.  
+
+
+DocID: CACM-1405
+
+
+
+DocID: CACM-2736
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1407
+
+
+
+DocID: CACM-2738
+
+a [number] of examples from hardware and software  
+
+
+DocID: CACM-1406
+
+
+
+DocID: CACM-2737
+
+
+
+DocID: CACM-1401
+
+
+
+DocID: CACM-2732
+
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2731
+
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2734
+
+a [series] of experiments were performed in order  
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-2733
+
+
+
+DocID: CACM-2730
+
+
+
+DocID: CACM-1409
+
+
+
+DocID: CACM-1408
+
+the [prime] function of a drum, operating in  
+
+
+DocID: CACM-2739
+
+over the past few years, a [number] of systems  
+
+
+DocID: CACM-1416
+
+forms design.  a method of information extraction involving  
+
+
+DocID: CACM-2747
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-2746
+
+processing the text string is independent of the number  
+the lengths of the keywords.  the [number] of state transitions  
+number of keywords in a string of text.  the algorithm  
+
+
+DocID: CACM-1418
+
+
+
+DocID: CACM-2749
+
+
+
+DocID: CACM-1417
+
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+
+
+DocID: CACM-2743
+
+
+
+DocID: CACM-1411
+
+comparison of several [algorithms] for computation  
+several [algorithms] for computation of basic  
+
+
+DocID: CACM-2742
+
+
+
+DocID: CACM-1414
+
+
+
+DocID: CACM-2745
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-1410
+
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-2740
+
+semaphores .  the [number] of parallel processes is carefully  
+
+
+DocID: CACM-1419
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-2713
+
+
+
+DocID: CACM-2716
+
+algorithms for implementing the operators  
+
+
+DocID: CACM-2715
+
+query.  the optimization [algorithms] designed  
+
+
+DocID: CACM-2710
+
+
+
+DocID: CACM-2712
+
+expressions.  the [number] of terms in those expressions  
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-2718
+
+
+
+DocID: CACM-2717
+
+
+
+DocID: CACM-2719
+
+of algorithms  
+
+
+DocID: CACM-2725
+
+a comparison of simulation event list [algorithms]  corrigendum   
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+
+
+DocID: CACM-2726
+
+the quine-mccluskey method, [prime] implicants, minimization,  
+ 4  reducing the [number] of decision rules.  
+method for finding [prime] implicants.  if some of the  
+
+
+DocID: CACM-2721
+
+planning [involving] such examinations.  
+
+
+DocID: CACM-2720
+
+the [number] of different device types utilized  
+
+
+DocID: CACM-2723
+
+algorithms for a multiprocessing compactifying  
+complex cases [involving] several list processors  
+
+
+DocID: CACM-2722
+
+very efficiently.  various utility [algorithms] are developed;  
+far surpass the best currently known [algorithms] for  
+of searches , o  n log n .  search algorithms  
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-2728
+
+

@@ -1,0 +1,460 @@
+TFIDF_NoStopNoStem
+
+Query
+rests relating parallel complexity theory (both for primes algorithm cicruits).
+
+Top 100 Results (109 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+kutta merson  [algorithm] 218 [d2]   
+
+
+DocID: CACM-0994
+
+stringsort  [algorithm] 207 [m1]   
+
+
+DocID: CACM-0995
+
+steep1  [algorithm] 203 [e4]   
+
+
+DocID: CACM-0996
+
+permutations of a set with repetitions  [algorithm] 242 [g6]   
+
+
+DocID: CACM-0990
+
+
+
+DocID: CACM-0991
+
+gamma function with controller accuracy  [algorithm] 225 [s14]   
+
+
+DocID: CACM-0992
+
+gamma function  [algorithm] 221 [s14]   
+
+
+DocID: CACM-2703
+
+grammars, computational [complexity] exponential  
+the intrinsically exponential [complexity] of  
+version of knuth's circularity testing algorithm  
+
+
+DocID: CACM-2702
+
+computational [complexity] context-free grammars,  
+on the [complexity] of lr k  testing  
+the [complexity] of the problem depends very strongly  
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-2704
+
+
+
+DocID: CACM-2701
+
+reducible graphs is presented. the [algorithm] is  
+a new [algorithm] for global flow analysis on  
+a fast and usually linear [algorithm] for global  
+
+
+DocID: CACM-2700
+
+parallel program, semaphore, verification  
+halting.  thus correctness proofs of a parallel  
+when proving that a [parallel] program has a  
+
+
+DocID: CACM-2707
+
+
+
+DocID: CACM-2706
+
+computational [complexity] polynomial completeness,  
+
+
+DocID: CACM-2709
+
+relating the relative power of control structures under  
+
+
+DocID: CACM-2708
+
+
+
+DocID: CACM-0975
+
+
+
+DocID: CACM-0976
+
+fresnel integrals  [algorithm] 213 [s20]   
+
+
+DocID: CACM-0977
+
+julian day number  [algorithm] 199 [z]   
+
+
+DocID: CACM-0978
+
+fresnel integrals  [algorithm] 244 [s20]   
+
+
+DocID: CACM-0971
+
+
+
+DocID: CACM-0972
+
+
+
+DocID: CACM-0973
+
+model [relating] ventricular dipoles to surface  
+
+
+DocID: CACM-0974
+
+
+
+DocID: CACM-0970
+
+treesort 3  [algorithm] [m1]   
+
+
+DocID: CACM-0979
+
+logarithm of a complex number  [algorithm] 243 [b3]   
+
+
+DocID: CACM-0986
+
+
+
+DocID: CACM-0987
+
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+
+
+DocID: CACM-0983
+
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+
+
+DocID: CACM-0981
+
+
+
+DocID: CACM-1405
+
+matrix triangulation with integer arithmetic  [algorithm] 287 [f1]   
+
+
+DocID: CACM-2736
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1407
+
+confidence interval for a ratio  [algorithm] 289 [g1]   
+
+
+DocID: CACM-2738
+
+
+
+DocID: CACM-1406
+
+equations  [algorithm] 288 [f4]   
+
+
+DocID: CACM-2737
+
+
+
+DocID: CACM-1401
+
+
+
+DocID: CACM-2732
+
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2731
+
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2734
+
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-2733
+
+
+
+DocID: CACM-2730
+
+
+
+DocID: CACM-1409
+
+to large [parallel] machines, and uses flip-flop  
+
+
+DocID: CACM-1408
+
+it to be analyzed as a problem in queueing [theory]  
+
+
+DocID: CACM-2739
+
+
+
+DocID: CACM-1416
+
+
+
+DocID: CACM-2747
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-2746
+
+finite state machines, computational [complexity]  
+this paper describes a simple, efficient algorithm  
+of keywords.  the [algorithm] has been used to  
+
+
+DocID: CACM-1418
+
+examination scheduling  [algorithm] 286 [zh]   
+
+
+DocID: CACM-2749
+
+
+
+DocID: CACM-1417
+
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+
+
+DocID: CACM-2743
+
+merge sorting, computational [complexity] data  
+
+
+DocID: CACM-1411
+
+correlation coefficient.  for each statistic, the algorithm  
+
+
+DocID: CACM-2742
+
+
+
+DocID: CACM-1414
+
+
+
+DocID: CACM-2745
+
+a linear space [algorithm] for computing maximal common subsequences  
+time and space.  an [algorithm] is presented which will  
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-1410
+
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-2740
+
+structuring, buffering, [parallel] processes, synchronizing  
+semaphores .  the number of [parallel] processes is carefully  
+
+
+DocID: CACM-1419
+
+chebyshev quadrature  [algorithm] 279 [d1]   
+
+
+DocID: CACM-2714
+
+parallel processing, [parallel] merging, [parallel] binary insertion  
+the previous best [parallel] merging [algorithm]  
+merging with [parallel] processors  
+
+
+DocID: CACM-2713
+
+
+
+DocID: CACM-2716
+
+
+
+DocID: CACM-2715
+
+
+
+DocID: CACM-2710
+
+
+
+DocID: CACM-2712
+
+queueing networks, queueing [theory] horner's rule,  
+algorithm is given which does not show a combinatorial  
+operation count.  the [algorithm] is based on a generalization  
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-2718
+
+
+
+DocID: CACM-2717
+
+
+
+DocID: CACM-2719
+
+
+
+DocID: CACM-2725
+
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+a method is described which allows parallel  
+
+
+DocID: CACM-2726
+
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-2720
+
+modeling, queueing [theory] balancing,  
+theory, each disk drive is characterized by a queueing  
+
+
+DocID: CACM-2723
+
+semaphores, [parallel] processing, compactification, relocation,  
+
+
+DocID: CACM-2722
+
+these tasks.  an [algorithm] is presented to handle  
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-2728
+
+

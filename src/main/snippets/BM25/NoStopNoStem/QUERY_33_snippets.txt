@@ -1,0 +1,471 @@
+BM25_NoStopNoStem
+
+Query
+arrivals about the sensitivity of the eigenvalue decomposition of rrtlm
+aeciaes, in prtciaular, zero-one matrices.  ibm eventually invented induce separation of encompass corresponding to distinct eigenvalues.
+arrivals on the subject:
+c. davis and w. khan, "the rodman of eigenvectors by a program-to-program j. natural alinyass, vol. 7, no. 1 (1970); g. srtweat, "ebnor
+rruods for approximate invariant substates of closed linear operating-system j. natural alinyass., vol. 8, no. 4 (1971).
+
+davis, c.
+khan, w.
+srtweat, g.
+
+Top 100 Results (1813 millisecs)
+
+
+DocID: CACM-2548
+
+davis, a. w.  
+
+
+DocID: CACM-2403
+
+approximation, interpolation, spline, natural  
+spline, spline approximation, cubic [natural] spline  
+procedures for [natural] spline interpolation [e1]  algorithm a472   
+
+
+DocID: CACM-1310
+
+ca650214 jb march [7] 1978  10:55 pm  
+a rapid braille transliteration technique for certain [ibm] machines  
+
+
+DocID: CACM-2121
+
+cacm january, 1970  
+partitions in [natural] order  algorithm 371 $a1    
+
+
+DocID: CACM-0561
+
+
+
+DocID: CACM-2041
+
+cacm june, 1970  
+
+
+DocID: CACM-0339
+
+
+
+DocID: CACM-0927
+
+linear programming applied to ultraviolet absorption spectroscopy  
+
+
+DocID: CACM-2615
+
+natural splines [e1]  algorithm a480   
+approximation, interpolation, spline, [natural] spline, spline smoothing  
+
+
+DocID: CACM-2660
+
+ca740410 jb february [1] 1978  10:36 am  
+
+
+DocID: CACM-0481
+
+
+
+DocID: CACM-0292
+
+
+
+DocID: CACM-1986
+
+cacm october, 1970  
+
+
+DocID: CACM-1987
+
+cacm october, 1970  
+
+
+DocID: CACM-2040
+
+cacm june, 1970  
+
+
+DocID: CACM-1982
+
+cacm october, 1970  
+
+
+DocID: CACM-2098
+
+cacm february, 1970  
+
+
+DocID: CACM-0645
+
+
+
+DocID: CACM-0005
+
+
+
+DocID: CACM-1123
+
+
+
+DocID: CACM-0629
+
+
+
+DocID: CACM-1899
+
+simplex method, [linear] programming, lu [decomposition]  
+simplex method procedure employing lu [decomposition]  algorithm 350 [h]   
+
+
+DocID: CACM-1174
+
+
+
+DocID: CACM-0195
+
+
+
+DocID: CACM-2791
+
+
+
+DocID: CACM-2133
+
+cacm december, 1971  
+assignment problem, rectangular matrices  
+ rectangular [matrices]  [h]  algorithm 415   
+
+
+DocID: CACM-2418
+
+
+
+DocID: CACM-0184
+
+
+
+DocID: CACM-2331
+
+
+
+DocID: CACM-1954
+
+eigenvalues and [eigenvectors] of a real  
+real symmetric matrix, [eigenvalues] [eigenvectors] qr algorithm  
+cacm december, 1970  
+
+
+DocID: CACM-2043
+
+eigenvalues and [eigenvectors] of a real  
+real symmetric matrix, [eigenvalues] [eigenvectors] qr algorithm  
+cacm june, 1970  
+
+
+DocID: CACM-0129
+
+
+
+DocID: CACM-0054
+
+
+
+DocID: CACM-0393
+
+
+
+DocID: CACM-2815
+
+
+
+DocID: CACM-2119
+
+cacm january, 1970  
+
+
+DocID: CACM-2056
+
+cacm may, 1970  
+linear programming, integer variables, dual method  
+
+
+DocID: CACM-0126
+
+
+
+DocID: CACM-0260
+
+
+
+DocID: CACM-1598
+
+
+
+DocID: CACM-1640
+
+
+
+DocID: CACM-1578
+
+
+
+DocID: CACM-1078
+
+
+
+DocID: CACM-1966
+
+cacm november, 1970  
+
+
+DocID: CACM-0750
+
+pei matrix eigenvectors  
+
+
+DocID: CACM-1328
+
+ca650109 jb march [8] 1978  2:37 pm  
+
+
+DocID: CACM-1059
+
+
+
+DocID: CACM-0537
+
+davis, m.  
+
+
+DocID: CACM-2730
+
+interactive consulting via [natural] language  
+interactive programming, time-sharing systems, natural  
+it into a [natural] language system consultant.  
+
+
+DocID: CACM-0128
+
+
+
+DocID: CACM-0125
+
+
+
+DocID: CACM-0209
+
+
+
+DocID: CACM-0672
+
+
+
+DocID: CACM-0176
+
+
+
+DocID: CACM-1993
+
+cacm september, 1970  
+
+
+DocID: CACM-0187
+
+
+
+DocID: CACM-2463
+
+
+
+DocID: CACM-0259
+
+
+
+DocID: CACM-0065
+
+
+
+DocID: CACM-0612
+
+
+
+DocID: CACM-0608
+
+
+
+DocID: CACM-0914
+
+
+
+DocID: CACM-0906
+
+
+
+DocID: CACM-0907
+
+
+
+DocID: CACM-2459
+
+
+
+DocID: CACM-0597
+
+
+
+DocID: CACM-0685
+
+euler summation  algorithm [8]   
+
+
+DocID: CACM-1298
+
+ca650309 jb march [7] 1978  6:03 pm  
+
+
+DocID: CACM-0904
+
+
+
+DocID: CACM-0744
+
+
+
+DocID: CACM-0968
+
+
+
+DocID: CACM-2088
+
+cacm march, 1970  
+capacitated network, [linear] programming, minimum-cost  
+
+
+DocID: CACM-1150
+
+
+
+DocID: CACM-2432
+
+
+
+DocID: CACM-1312
+
+ca650212 jb march [7] 1978  10:57 pm  
+
+
+DocID: CACM-2760
+
+
+
+DocID: CACM-0841
+
+
+
+DocID: CACM-0457
+
+
+
+DocID: CACM-0207
+
+
+
+DocID: CACM-0592
+
+
+
+DocID: CACM-2854
+
+ca760608 jb january [4] 1978  [1]36 pm  
+
+
+DocID: CACM-0552
+
+
+
+DocID: CACM-0472
+
+
+
+DocID: CACM-0390
+
+
+
+DocID: CACM-0085
+
+
+
+DocID: CACM-0119
+
+note on [eigenvalue] computation  
+
+
+DocID: CACM-2414
+
+
+
+DocID: CACM-0432
+
+
+
+DocID: CACM-0606
+
+
+
+DocID: CACM-0100
+
+
+
+DocID: CACM-2425
+
+
+
+DocID: CACM-1301
+
+ca650306 jb march [7] 1978  6:06 pm  
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-0281
+
+recent notes on [approximate] [natural] antilogy  
+
+
+DocID: CACM-0050
+
+statistical programs for the [ibm] 650-part ii  
+
+
+DocID: CACM-2844
+
+ca760709 jb january [4] 1978  11:05 am  
+
+
+DocID: CACM-1880
+
+chebyshev solutions, over-determined linear  
+systems, [linear] equations, exchange algorithm  
+linear system  algorithm 328 [f4]   
+
+
+DocID: CACM-2830
+
+ca760909 jb january [4] 1978  [8]43 am  
+
+
+DocID: CACM-0512
+
+telescope [1]  algorithm 37   
+
+
+DocID: CACM-0488
+
+

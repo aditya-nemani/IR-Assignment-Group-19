@@ -1,0 +1,643 @@
+BM25_NoStopNoStem
+
+Query
+id lie papers on design and implementation of editing instances,
+window-managers, command itreprretens, etc.  the essential issues archimedian instance design, wish views on improvements to user efficiency,
+effectiveness and staaofictsin.
+
+Top 100 Results (641 millisecs)
+
+
+DocID: CACM-1742
+
+the display processor [design] [lie] on a circular path, by  
+display processor [design] display system, computer  
+on the [design] of display processors  
+
+
+DocID: CACM-2035
+
+layering, linc, man-machine communication, on-line [editing] on-line [efficiency]  
+oriented system, text editing  
+display [editing] display oriented system, filing algorithms, lap6,  
+
+
+DocID: CACM-1960
+
+takes into account recent information about [user] behavior.  
+emphasis is placed on basic ideas underlying the [design] rather  
+the main [design] principles of the multiaccess system esope are described.  
+
+
+DocID: CACM-2299
+
+design and [implementation] of a text editor.  a versatile  
+command processing, context searching, executive  
+string manipulation, text [editing] virtual memory  
+
+
+DocID: CACM-2003
+
+of the software system; its [design] criteria provide the [user] with  
+design, software system, software organization, language,  
+design:  an application to circuit project  
+
+
+DocID: CACM-3147
+
+in advance.  the model [views] file and program [design] as a problem  
+system [design] automatic programming, search  
+methods, system configurations, [design] choices  
+
+
+DocID: CACM-1435
+
+design techniques which may be applicable to the design  
+the paper treats four specific experimental design  
+design of computer simulation experiments for industrial systems  
+
+
+DocID: CACM-1605
+
+the [effectiveness] for program development  
+and problem characteristics, were specified as design  
+definitive of "system [effectiveness]" and analysis of  
+
+
+DocID: CACM-1698
+
+user, but rather easy to characterize the entire [user] community.  
+system [design] input-output design  
+design.  
+
+
+DocID: CACM-2105
+
+numerous modifications of the original [design]  a graphical interactive system  
+processed signal is returned to the scope.  a successful [design] may require  
+computer interpretation of a flowchart.  the [user] draws a description of a  
+
+
+DocID: CACM-2145
+
+than logical [design]  it can be used to design  
+heuristic etching-pattern layout, wiring [design] of  
+wiring [design] of printed circuit boards.  help  
+
+
+DocID: CACM-0251
+
+essential to the [design] of preproduction cams which  
+ballistic cam design  
+
+
+DocID: CACM-3137
+
+distributed processing, system [design] cost minimization, distributed  
+a methodology for the [design] of distributed information systems  
+the technique is illustrated by application to the design  
+
+
+DocID: CACM-1188
+
+an algol-like computer [design] language  
+the [design] language is presented in terms  
+the idea of constructing a computer design  
+
+
+DocID: CACM-1699
+
+command language, symbolic [command] language,  
+interactive systems, [user] learning factors, on-line searching  
+effectiveness of actual retrieval.  three experiments  
+
+
+DocID: CACM-2067
+
+multilevel logic [design] generalized prime implicants,  
+
+
+DocID: CACM-2357
+
+described, including [design] criteria, [implementation]  
+multiplexer, [implementation] effort, operating overhead,  
+software [implementation] although basically simple,  
+
+
+DocID: CACM-2860
+
+design of record addressing algorithms, and discusses  
+specific [design] example is presented and solved.  
+loading factor, bucket size, heuristic [design] rules of thumb  
+
+
+DocID: CACM-2522
+
+the [design] [implementation] and evaluation of a working set dispatcher  
+announced.  this report discusses the [design] and  
+implementation of a dispatcher based on the working set  
+
+
+DocID: CACM-2542
+
+with [design] and [implementation] is described.  
+design and [implementation] methodology is that  
+a software [design] and evaluation system  
+
+
+DocID: CACM-2812
+
+and [design] algorithm  
+system [design] problem statement language,  
+of applications software [design] computer selection  
+
+
+DocID: CACM-2514
+
+that permits a [user] to interactively design  
+of [instance] selection schemes  raster,random,  
+and test array grammars.  the [user] can control the rule  
+
+
+DocID: CACM-2247
+
+engineering, kwic index, software design  
+time.  the [effectiveness] of a "modularization"  
+in most cases.  an alternative approach to implementation  
+
+
+DocID: CACM-3102
+
+units, language [design] compiler construction, language syntax  
+the [issues] of how a programming language might  
+
+
+DocID: CACM-2379
+
+operating systems, system [design] levels of abstraction,  
+the [design] of the venus operating system  
+described, with particular emphasis on the principles which guided the [design]  
+
+
+DocID: CACM-2957
+
+implementation detail, should be incorporated  
+aggregation, database [design] data structure,  
+important in database [design]  a top-down  
+
+
+DocID: CACM-1392
+
+various facets of the [design] and implementation  
+experience with formac algorithm design  
+the formac [implementation] are presented, an attempt  
+
+
+DocID: CACM-2502
+
+sciences curriculum, systems design  
+
+
+DocID: CACM-3174
+
+the present [design] was the result of countering observed attempts  
+this paper describes the history of the [design] of the password  
+
+
+DocID: CACM-1764
+
+design experiments, and computer appreciation.  its second  
+bohn, who had presented [papers] in the first  
+the panelists.  some remarks referred to [papers] by van  
+
+
+DocID: CACM-1747
+
+computer [design] computer [design] criteria, computer  
+systems [design] multiprogramming, multiprogrammed  
+systems, computer systems [design] input equipment,  
+
+
+DocID: CACM-3050
+
+system [design] configuration, management game  
+systems [design] education: a gaming approach  
+
+
+DocID: CACM-0799
+
+design of a separable transition-diagram compiler*  
+a cobol compiler [design] is presented which is  
+
+
+DocID: CACM-2647
+
+languages, philosophy of language design  
+
+
+DocID: CACM-2322
+
+computer [design] computer organization  
+devices and incidentally for the design  
+
+
+DocID: CACM-1750
+
+is discussed.  the general design  
+considerations in the [design] of a multiple  
+generalization of such a [design] special emphasis is  
+
+
+DocID: CACM-2753
+
+artificial intelligence, computer-aided [design]  
+design synthesis, diagnostic search, heuristics,  
+a heuristic problem solving [design] system  
+
+
+DocID: CACM-1534
+
+the [design] and [implementation] of the c.  
+made of the validity of various [design] decisions.  performance  
+
+
+DocID: CACM-2451
+
+design of tree structures for efficient querying  
+poses an optimization problem in the [design] of  
+of such a model this paper considers the [design] of  
+
+
+DocID: CACM-1937
+
+the [command] language of the system provides the user  
+command languages, report program generation,  
+and the general system [design] are described.  
+
+
+DocID: CACM-2541
+
+concurrent [design] operating-system, scheduling,  
+design of the language, operating system,  
+an overview of the ispl computer system design  
+
+
+DocID: CACM-1395
+
+for the [design] of the ambit language.  
+a brief description is given of the implementation  
+on the [implementation] of ambit, a language for symbol manipulation  
+
+
+DocID: CACM-2295
+
+algol, semantics, recursive composition, design  
+
+
+DocID: CACM-2138
+
+systems, etc.  prime [design] goals of the [design] are the  
+programming languages, [implementation] language,  
+
+
+DocID: CACM-2188
+
+design guidelines.  
+model, optimum system [design] queueing  
+design guidelines, graphic display systems, mathematical  
+
+
+DocID: CACM-2469
+
+petri nets and speed independent design  
+by the [design] of a speed independent processor  
+from modules developed in the investigation of petri net [implementation]  
+
+
+DocID: CACM-2718
+
+design, data structure, automatic programming,  
+the functional approach to database [design] is  
+which utilizers the functional approach to [design] data  
+
+
+DocID: CACM-2078
+
+design, engineering [design] architectural [design] robots  
+automated [design] data structures, computer graphics, computer-aided  
+
+
+DocID: CACM-3012
+
+implementation, system use, information storage and retrieval system  
+data on [user] reactions were gathe red from a questionnaire.  
+of the study for the [design] of similar systems are discussed.  
+
+
+DocID: CACM-1053
+
+design and [implementation] of a general-purpose input routine  
+
+
+DocID: CACM-1671
+
+to the [user] after each [command] is executed.  
+the [design] and [implementation] of a system to  
+permits the [user] to define, on-line, sets of rules  
+
+
+DocID: CACM-1409
+
+the [design] objectives as originally conceived  
+basic research in computer systems [design]  an  
+memory.  the arithmetic unit has a [command] structure similar  
+
+
+DocID: CACM-0173
+
+atlas a new concept in large computer design  
+
+
+DocID: CACM-2841
+
+real-time graphics, computer-aided [design]  
+design of free-form surfaces in three dimensions  
+knowledge of them by the [user] of the system.  also  
+
+
+DocID: CACM-2868
+
+reflections on an operating system design  
+features of the [design] were the use of capabilities  
+
+
+DocID: CACM-2867
+
+incremental machine [design] module,  
+this paper describes the [design] philosophy  
+of the [implementation] of run-time modules at the  
+
+
+DocID: CACM-2314
+
+entry, testing, debugging, [editing] optimization,  
+list processing, programming languages, [design] of  
+to the [design] of advanced programming systems for  
+
+
+DocID: CACM-1252
+
+and an approach towards automatic system design  
+and time-consuming part of system [design] and programming  
+is described and suggestions are made for the [implementation] of the larger goal.  
+
+
+DocID: CACM-0606
+
+to signal coincidence in digital design  
+
+
+DocID: CACM-2572
+
+favor of its widespread [implementation]  
+group of ultimate users in systems [design]  
+design and desirability of computerized community information  
+
+
+DocID: CACM-1460
+
+of meta-assemblers on compiler [design] is  
+
+
+DocID: CACM-2738
+
+design of hierarchically structured systems  
+hierarchical systems, bottom up [design] levels  
+this paper deals with the [design] of hierarchically  
+
+
+DocID: CACM-3146
+
+students can acquire [essential] skills of software engineering,  
+such as team work, software project management, software design  
+
+
+DocID: CACM-2267
+
+languages, philosophy of language design  
+
+
+DocID: CACM-1159
+
+design rather than any foreseeable software developments  
+diminished by current trends in computer [design] and  
+
+
+DocID: CACM-2887
+
+for the learning [user] of cobol.  
+potential [effectiveness] for software based correction  
+design, and lack of research.  the types  
+
+
+DocID: CACM-2358
+
+privilege.  here, the [design] and implementation  
+the multics virtual memory: concepts and design  
+multics provides direct hardware addressing by [user] and  
+
+
+DocID: CACM-3030
+
+program [design] and proof.  
+an example of hierarchical [design] and proof  
+program specification, [implementation] and proof.  we  
+
+
+DocID: CACM-2329
+
+science curriculum, systems design  
+
+
+DocID: CACM-1502
+
+editing operations.  the editor  
+an online, interactive system for test editing  
+maximum convenience and power for the [user]  notable  
+
+
+DocID: CACM-2629
+
+file system and of the [user] [command] interface.  
+initiate asynchronous processes;  4  system command  
+time-sharing, operating system, file system, [command] language, pdp-11  
+
+
+DocID: CACM-2230
+
+architecture [design] urban planning  
+diagram representation.  the [design] criteria,  
+architecture [design] urban planning, logical and block  
+
+
+DocID: CACM-1901
+
+program behavior, and processor efficiency  
+behavior, multiprogramming, computer system [design] allocation  
+
+
+DocID: CACM-0063
+
+their applicability to computer [design] logic  
+of the octal diagrams to modern electronic-digital-computer [design] logic.  
+
+
+DocID: CACM-2782
+
+high-level languages, philosophy of language design  
+
+
+DocID: CACM-2626
+
+the [design] of mechanisms to control the sharing  
+five [design] principles help provide insight into the  
+of several known weaknesses in the current protection mechanism [design]  
+
+
+DocID: CACM-2689
+
+report generation, automated systems [design] data processing, management  
+
+
+DocID: CACM-2277
+
+finally, a description of the hardware [design] for implementation  
+a hardware [implementation] on the maniac ii computer  
+
+
+DocID: CACM-0493
+
+the property classification method of file [design] and processing  
+
+
+DocID: CACM-1629
+
+the major [design] criteria of ease of use, ease of modification,  
+
+
+DocID: CACM-1101
+
+the place of logical [design] and switching  
+
+
+DocID: CACM-2452
+
+of data base structure [design] and evaluation.  
+model, file structure [design] secondary index organization,  
+
+
+DocID: CACM-1200
+
+a computer [design] is describe which permits  
+
+
+DocID: CACM-2652
+
+compiler [design] compilation cost, algol  
+design of programming languages, language contraction,  
+
+
+DocID: CACM-0333
+
+design of an improved* transmission/data processing code  
+
+
+DocID: CACM-2964
+
+an approach to optimal [design] of storage parameters in databases  
+
+
+DocID: CACM-1746
+
+flexible sharing of [user] information is privacy.  
+one of the critical problems in the design  
+
+
+DocID: CACM-0409
+
+of [command] and descriptive languages.  the concept  
+and [instances] of large and complex data sets,  
+
+
+DocID: CACM-1408
+
+engineering or hardware [improvements]  in  
+deal with this, a standard of [efficiency] is developed  
+definition.  then a simple [design] scheme  eschenbach   
+
+
+DocID: CACM-2978
+
+design alternatives are also included.  
+costs for possible combinations of [design] alternatives  
+memory environment is described.  [design] alternatives  
+
+
+DocID: CACM-2225
+
+partitions, combinatorics, statistical [design] of experiments  
+
+
+DocID: CACM-1835
+
+systems, language [design] high school programs,  
+are included.  a discussion of [design] principles  
+
+
+DocID: CACM-2433
+
+as part of an effort to [design] and implement  
+compiler  [design]  the implications of these features for  
+
+
+DocID: CACM-1503
+
+in the fortran program, basic [design] problems relate  
+in terms of basic program [design] decisions, storage  
+design considerations center around the choice of model  
+
+
+DocID: CACM-2534
+
+design and [implementation] of a diagnostic compiler for pl/i  
+design objective was to provide a maximum degree  
+and execution, and the [design] of pl/c is dominated by  
+
+
+DocID: CACM-2288
+
+set.  its existence enables the [design] of an information  
+
+
+DocID: CACM-1314
+
+important feature in the [design] of any compiler.  
+in the symbol table [design] was that the recognition of  
+
+
+DocID: CACM-0491
+
+use of multiprogramming in the [design] of a low cost digital computer  
+
+
+DocID: CACM-2546
+
+grammar [design] language definition, inference,  
+the [implementation] is presently restricted  
+approach to the grammar [design] problem wherein the designer  
+
+
+DocID: CACM-2553
+
+science curriculum, systems design  
+

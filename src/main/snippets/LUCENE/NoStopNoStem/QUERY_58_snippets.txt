@@ -1,0 +1,410 @@
+LUCENE_NoStopNoStem
+
+Query
+Algorithms or statistical packages for ANOVA, regression using least
+squares or generalized linear models.  System design, capabilities,
+statistical formula are of interest.  Student's t test, Wilcoxon and
+sign tests, multivariate and univariate components can be included.
+
+Top 100 Results (20 millisecs)
+
+
+DocID: CACM-1474
+
+
+
+DocID: CACM-2634
+
+
+
+DocID: CACM-1344
+
+
+
+DocID: CACM-3138
+
+
+
+DocID: CACM-2849
+
+
+
+DocID: CACM-1709
+
+
+
+DocID: CACM-1691
+
+
+
+DocID: CACM-1695
+
+
+
+DocID: CACM-3166
+
+
+
+DocID: CACM-1698
+
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-1631
+
+
+
+DocID: CACM-3087
+
+
+
+DocID: CACM-2604
+
+
+
+DocID: CACM-1946
+
+
+
+DocID: CACM-1816
+
+
+
+DocID: CACM-2993
+
+
+
+DocID: CACM-1206
+
+
+
+DocID: CACM-2670
+
+
+
+DocID: CACM-2373
+
+
+
+DocID: CACM-3142
+
+
+
+DocID: CACM-1629
+
+
+
+DocID: CACM-2994
+
+
+
+DocID: CACM-2062
+
+
+
+DocID: CACM-1252
+
+
+
+DocID: CACM-1433
+
+
+
+DocID: CACM-1398
+
+
+
+DocID: CACM-2188
+
+
+
+DocID: CACM-3150
+
+
+
+DocID: CACM-2786
+
+
+
+DocID: CACM-1609
+
+
+
+DocID: CACM-1978
+
+
+
+DocID: CACM-1637
+
+
+
+DocID: CACM-2951
+
+
+
+DocID: CACM-1410
+
+
+
+DocID: CACM-2665
+
+
+
+DocID: CACM-2145
+
+
+
+DocID: CACM-1264
+
+
+
+DocID: CACM-2525
+
+
+
+DocID: CACM-2216
+
+
+
+DocID: CACM-2753
+
+
+
+DocID: CACM-2395
+
+
+
+DocID: CACM-2310
+
+
+
+DocID: CACM-3049
+
+
+
+DocID: CACM-0865
+
+
+
+DocID: CACM-1420
+
+
+
+DocID: CACM-2645
+
+
+
+DocID: CACM-1171
+
+
+
+DocID: CACM-1674
+
+
+
+DocID: CACM-2167
+
+
+
+DocID: CACM-2398
+
+
+
+DocID: CACM-1697
+
+
+
+DocID: CACM-2470
+
+
+
+DocID: CACM-0536
+
+
+
+DocID: CACM-2514
+
+
+
+DocID: CACM-2986
+
+
+
+DocID: CACM-2820
+
+
+
+DocID: CACM-1454
+
+
+
+DocID: CACM-1169
+
+
+
+DocID: CACM-1665
+
+
+
+DocID: CACM-2343
+
+
+
+DocID: CACM-2135
+
+
+
+DocID: CACM-1270
+
+
+
+DocID: CACM-1066
+
+
+
+DocID: CACM-2722
+
+
+
+DocID: CACM-1768
+
+
+
+DocID: CACM-3099
+
+
+
+DocID: CACM-2999
+
+
+
+DocID: CACM-1517
+
+
+
+DocID: CACM-2787
+
+
+
+DocID: CACM-3131
+
+
+
+DocID: CACM-1856
+
+
+
+DocID: CACM-2490
+
+
+
+DocID: CACM-1977
+
+
+
+DocID: CACM-3136
+
+
+
+DocID: CACM-1650
+
+
+
+DocID: CACM-2828
+
+
+
+DocID: CACM-3105
+
+
+
+DocID: CACM-2249
+
+
+
+DocID: CACM-1957
+
+
+
+DocID: CACM-2592
+
+
+
+DocID: CACM-0867
+
+
+
+DocID: CACM-0409
+
+
+
+DocID: CACM-2970
+
+
+
+DocID: CACM-2534
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-1924
+
+
+
+DocID: CACM-2217
+
+
+
+DocID: CACM-2766
+
+
+
+DocID: CACM-0981
+
+
+
+DocID: CACM-2439
+
+
+
+DocID: CACM-1468
+
+
+
+DocID: CACM-2646
+
+
+
+DocID: CACM-1844
+
+
+
+DocID: CACM-1411
+
+
+
+DocID: CACM-1572
+
+
+
+DocID: CACM-1423
+
+
+
+DocID: CACM-3008
+
+
+
+DocID: CACM-2153
+
+

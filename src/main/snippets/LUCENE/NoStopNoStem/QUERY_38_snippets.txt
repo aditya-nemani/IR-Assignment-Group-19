@@ -1,0 +1,410 @@
+LUCENE_NoStopNoStem
+
+Query
+What is the type of a module?	(I don't want the entire literature on
+Abstract Data Types here, but I'm not sure how to phrase this to avoid it.
+I'm interested in questions about how one can check that a module "matches"
+contexts in which it is used.)
+
+Top 100 Results (65 millisecs)
+
+
+DocID: CACM-3031
+
+
+
+DocID: CACM-2082
+
+
+
+DocID: CACM-3105
+
+
+
+DocID: CACM-2867
+
+
+
+DocID: CACM-1698
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-2582
+
+
+
+DocID: CACM-2470
+
+
+
+DocID: CACM-2247
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-3142
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-1323
+
+
+
+DocID: CACM-0670
+
+
+
+DocID: CACM-3177
+
+
+
+DocID: CACM-2233
+
+
+
+DocID: CACM-2342
+
+
+
+DocID: CACM-1861
+
+
+
+DocID: CACM-2956
+
+
+
+DocID: CACM-2905
+
+
+
+DocID: CACM-2622
+
+
+
+DocID: CACM-2941
+
+
+
+DocID: CACM-0492
+
+
+
+DocID: CACM-3069
+
+
+
+DocID: CACM-0595
+
+
+
+DocID: CACM-0497
+
+
+
+DocID: CACM-1470
+
+
+
+DocID: CACM-0536
+
+
+
+DocID: CACM-3002
+
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-0677
+
+
+
+DocID: CACM-2305
+
+
+
+DocID: CACM-1727
+
+
+
+DocID: CACM-0321
+
+
+
+DocID: CACM-1847
+
+
+
+DocID: CACM-2850
+
+
+
+DocID: CACM-2876
+
+
+
+DocID: CACM-3103
+
+
+
+DocID: CACM-2989
+
+
+
+DocID: CACM-2148
+
+
+
+DocID: CACM-1931
+
+
+
+DocID: CACM-0867
+
+
+
+DocID: CACM-2970
+
+
+
+DocID: CACM-2572
+
+
+
+DocID: CACM-2369
+
+
+
+DocID: CACM-1625
+
+
+
+DocID: CACM-1456
+
+
+
+DocID: CACM-3033
+
+
+
+DocID: CACM-2851
+
+
+
+DocID: CACM-3060
+
+
+
+DocID: CACM-2958
+
+
+
+DocID: CACM-0483
+
+
+
+DocID: CACM-2897
+
+
+
+DocID: CACM-1135
+
+
+
+DocID: CACM-1806
+
+
+
+DocID: CACM-1890
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-2940
+
+
+
+DocID: CACM-2390
+
+
+
+DocID: CACM-2939
+
+
+
+DocID: CACM-3148
+
+
+
+DocID: CACM-1536
+
+
+
+DocID: CACM-2354
+
+
+
+DocID: CACM-2145
+
+
+
+DocID: CACM-2184
+
+
+
+DocID: CACM-2176
+
+
+
+DocID: CACM-1162
+
+
+
+DocID: CACM-2196
+
+
+
+DocID: CACM-1768
+
+
+
+DocID: CACM-1003
+
+
+
+DocID: CACM-1248
+
+
+
+DocID: CACM-1638
+
+
+
+DocID: CACM-3054
+
+
+
+DocID: CACM-3057
+
+
+
+DocID: CACM-2832
+
+
+
+DocID: CACM-0637
+
+
+
+DocID: CACM-2534
+
+
+
+DocID: CACM-1572
+
+
+
+DocID: CACM-2631
+
+
+
+DocID: CACM-1458
+
+
+
+DocID: CACM-2356
+
+
+
+DocID: CACM-2480
+
+
+
+DocID: CACM-1824
+
+
+
+DocID: CACM-0718
+
+
+
+DocID: CACM-2993
+
+
+
+DocID: CACM-1159
+
+
+
+DocID: CACM-1828
+
+
+
+DocID: CACM-1359
+
+
+
+DocID: CACM-2424
+
+
+
+DocID: CACM-1974
+
+
+
+DocID: CACM-2840
+
+
+
+DocID: CACM-2568
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2957
+
+
+
+DocID: CACM-2499
+
+
+
+DocID: CACM-1062
+
+
+
+DocID: CACM-1474
+
+
+
+DocID: CACM-2750
+
+
+
+DocID: CACM-3014
+
+
+
+DocID: CACM-3144
+
+

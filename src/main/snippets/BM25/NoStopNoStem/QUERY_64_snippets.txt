@@ -1,0 +1,504 @@
+BM25_NoStopNoStem
+
+Query
+list all abilities on el1 and engel (el1 may be green as el/1; i data-transfer how they did it.
+
+Top 100 Results (265 millisecs)
+
+
+DocID: CACM-2651
+
+the treatment of data types in el1  
+and efficient implementation.  the [el1] language contains  
+
+
+DocID: CACM-1878
+
+list processing, slip, garbage-collection  
+recovery of reentrant [list] structures in slip  
+collector that recovers abandoned reentrant [list] structures  
+
+
+DocID: CACM-0595
+
+
+
+DocID: CACM-0497
+
+
+
+DocID: CACM-1051
+
+multiword [list] items  
+the [list] concept as originally proposed by  
+of standard [list] structures with single-word items, the  
+
+
+DocID: CACM-2513
+
+list moving, [list] copying, [list] traversal, garbage collection lisp  
+in the [list]  the original [list] structure is destroyed as it is moved.  
+a nonrecursive [list] moving algorithm  
+
+
+DocID: CACM-2106
+
+green, r. s.  
+
+
+DocID: CACM-2184
+
+the expression lambda name [list]  expression  value [list] ,  
+expression mu name [list]  value [list]  expression .  
+
+
+DocID: CACM-2177
+
+ordered [list] of edges or  ii  as a packed adjacency  
+
+
+DocID: CACM-1931
+
+
+
+DocID: CACM-1853
+
+list representation, [list] compact [list] garbage  
+compact [list] representation: definition,  
+data structure, data representation, [list] structure,  
+
+
+DocID: CACM-1957
+
+set manipulating, [list] processing, set  
+the [list] set generator is defined and algorithms  
+the [list] set generator: a construct for evaluating set expressions  
+
+
+DocID: CACM-2838
+
+garbage collection, storage reclamation, list  
+processor in parallel with [list] processing operations,  
+suspending the operations of a [list] processor  
+
+
+DocID: CACM-2390
+
+
+
+DocID: CACM-2845
+
+
+
+DocID: CACM-1456
+
+other [list] processing languages are ideally suited for  
+
+
+DocID: CACM-3106
+
+a fast algorithm for copying [list] structures  
+linked [list] structure into a block of  
+list copying, lisp, space complexity, constant workspace  
+
+
+DocID: CACM-1264
+
+functions: assemble sps source decks, post [list]  
+user's program, [list] card input to a program,  
+list punched output, provide a storage dump, execute  
+
+
+DocID: CACM-0185
+
+possesses simultaneous processing [abilities]  
+
+
+DocID: CACM-2998
+
+list structure measurement, lisp, [list] structure  
+green, c. c.  
+space-efficient representation of [list] structure  
+
+
+DocID: CACM-0527
+
+the description [list] of concepts  
+with the description [list] structure discussed  
+elementary [list] structures by a recursive process.  
+
+
+DocID: CACM-2470
+
+
+
+DocID: CACM-3142
+
+
+
+DocID: CACM-0064
+
+green, j.  
+
+
+DocID: CACM-1459
+
+
+
+DocID: CACM-2723
+
+complex cases involving several [list] processors  
+list operations and the other performing  
+lisp, [list] processing, free storage, pointers,  
+
+
+DocID: CACM-1608
+
+
+
+DocID: CACM-1861
+
+
+
+DocID: CACM-3069
+
+
+
+DocID: CACM-2354
+
+
+
+DocID: CACM-3188
+
+
+
+DocID: CACM-2855
+
+list moving, [list] copying, lisp, space complexity, constant workspace  
+arbitrary [list] structures, using no storage  
+to hold the original [list] and the copy.  the  
+
+
+DocID: CACM-2179
+
+
+
+DocID: CACM-1972
+
+list compacting, garbage collection, compact [list] lisp  
+a  nonrecursive [list] compacting algorithm  
+a simple nonrecursive [list] structure compacting scheme or garbage  
+
+
+DocID: CACM-2232
+
+
+
+DocID: CACM-2767
+
+list algorithm, simulation executive, event scheduling  
+a comparison of simulation event [list] algorithms  
+simulation, time flow mechanisms, event [list] algorithm,  
+
+
+DocID: CACM-2305
+
+
+
+DocID: CACM-1614
+
+complex numbers, file processing, and [list] manipulation.  
+
+
+DocID: CACM-3112
+
+real-time, compacting,garbage collection, [list] processing,  
+classical proportions by compact [list] representation.  
+classical implementations of [list] processing systems  
+
+
+DocID: CACM-3052
+
+
+
+DocID: CACM-1035
+
+on the complexity of the [list] of quantities  
+mixtures, in an input/output [list] or in an expression,  
+
+
+DocID: CACM-2970
+
+
+
+DocID: CACM-3202
+
+
+
+DocID: CACM-1847
+
+pushdown [list] and examine it, i.e. inspect all those  
+in a pushdown [list] to await examination.  one stage  
+
+
+DocID: CACM-3130
+
+engel, g.  
+
+
+DocID: CACM-2484
+
+information structures, as [list] tree, ring,  
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-2538
+
+engel, g. l.  
+and an extensive library [list] is included.  
+
+
+DocID: CACM-2986
+
+
+
+DocID: CACM-3031
+
+
+
+DocID: CACM-2060
+
+lambda calculus, [list] processing, nondeterministic algorithm  
+
+
+DocID: CACM-2196
+
+abilities.  the computer is not asked to solve the  
+
+
+DocID: CACM-0206
+
+green, j.  
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-2229
+
+
+
+DocID: CACM-1549
+
+list is an essential part of any [list] processing  
+garbage collection in various [list] structures  
+algorithm to a number of different [list] structures  
+
+
+DocID: CACM-0321
+
+
+
+DocID: CACM-2766
+
+list structures is given.  this algorithm  
+list processing, copying, linear time, space complexity  
+copying cyclic [list] structures in linear time using bounded workspace  
+
+
+DocID: CACM-0099
+
+green, j.  
+
+
+DocID: CACM-1255
+
+performed [list] operations are outlined, and logically  
+a method of data [list] processing with application to eeg analysis  
+
+
+DocID: CACM-2905
+
+
+
+DocID: CACM-2194
+
+
+
+DocID: CACM-0675
+
+
+
+DocID: CACM-3189
+
+
+
+DocID: CACM-3054
+
+
+
+DocID: CACM-1389
+
+bell telephone laboratories' low-linked [list] language  
+many of the facilities which underlie such list  
+language for [list] structure manipulations.  it contains  
+
+
+DocID: CACM-2666
+
+
+
+DocID: CACM-2051
+
+correspondence, regular correspondence, [list] processing  
+and uses [list] processing techniques to sort and count them.  
+in that pair of words.  the output is a [list] of all correspondence  
+
+
+DocID: CACM-0971
+
+green, l. e. s.  
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-2406
+
+
+
+DocID: CACM-1956
+
+read time, defined to be the sum of seek time plus data-transfer  
+
+
+DocID: CACM-1346
+
+
+
+DocID: CACM-3144
+
+
+
+DocID: CACM-2358
+
+
+
+DocID: CACM-0731
+
+a [list] processing system in which each list  
+symmetric [list] processor  
+
+
+DocID: CACM-2139
+
+
+
+DocID: CACM-2622
+
+
+
+DocID: CACM-1643
+
+
+
+DocID: CACM-1390
+
+
+
+DocID: CACM-1588
+
+pl/i [list] processing  
+the concepts of [list] processing have been introduced  
+operate on simple and complex data [list] organizations.  
+
+
+DocID: CACM-1154
+
+
+
+DocID: CACM-1424
+
+to [list] structures is described, together  
+with a [list] processing program written for the control  
+automatic analysis of electronic digital circuits using [list] processing  
+
+
+DocID: CACM-1165
+
+
+
+DocID: CACM-2542
+
+
+
+DocID: CACM-2841
+
+
+
+DocID: CACM-1465
+
+
+
+DocID: CACM-1791
+
+green, d. r.  
+
+
+DocID: CACM-1216
+
+symbolic derivatives without [list] processing, subroutines, or recursion  
+
+
+DocID: CACM-0598
+
+
+
+DocID: CACM-2919
+
+
+
+DocID: CACM-1162
+
+a canonical [list] form into an arbitrary stream of bits.  
+
+
+DocID: CACM-3140
+
+
+
+DocID: CACM-1911
+
+
+
+DocID: CACM-3032
+
+this [list] of algorithms we add  6  reverse path  
+
+
+DocID: CACM-2317
+
+
+
+DocID: CACM-2927
+
+number theory, linked [list] preprocessing,  
+
+
+DocID: CACM-2944
+
+garbage collection, global flow analysis, [list] processing,  
+
+
+DocID: CACM-2989
+
+
+
+DocID: CACM-2036
+
+

@@ -1,0 +1,407 @@
+LUCENE_NoStopNoStem
+
+Query
+Concurrency control mechanisms in operating systems
+
+Top 100 Results (86 millisecs)
+
+
+DocID: CACM-2626
+
+
+
+DocID: CACM-3105
+
+
+
+DocID: CACM-2632
+
+
+
+DocID: CACM-2840
+
+
+
+DocID: CACM-3128
+
+
+
+DocID: CACM-2541
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-2080
+
+
+
+DocID: CACM-1750
+
+
+
+DocID: CACM-2372
+
+
+
+DocID: CACM-2870
+
+
+
+DocID: CACM-1677
+
+
+
+DocID: CACM-1680
+
+
+
+DocID: CACM-2320
+
+
+
+DocID: CACM-3068
+
+
+
+DocID: CACM-2377
+
+
+
+DocID: CACM-2939
+
+
+
+DocID: CACM-1747
+
+
+
+DocID: CACM-3026
+
+
+
+DocID: CACM-2558
+
+
+
+DocID: CACM-2578
+
+
+
+DocID: CACM-2036
+
+
+
+DocID: CACM-2938
+
+
+
+DocID: CACM-2817
+
+
+
+DocID: CACM-0696
+
+
+
+DocID: CACM-1754
+
+
+
+DocID: CACM-1463
+
+
+
+DocID: CACM-2111
+
+
+
+DocID: CACM-2936
+
+
+
+DocID: CACM-1461
+
+
+
+DocID: CACM-1728
+
+
+
+DocID: CACM-0084
+
+
+
+DocID: CACM-0059
+
+
+
+DocID: CACM-1591
+
+
+
+DocID: CACM-2867
+
+
+
+DocID: CACM-2597
+
+
+
+DocID: CACM-2342
+
+
+
+DocID: CACM-1247
+
+
+
+DocID: CACM-1341
+
+
+
+DocID: CACM-2379
+
+
+
+DocID: CACM-1476
+
+
+
+DocID: CACM-2878
+
+
+
+DocID: CACM-2317
+
+
+
+DocID: CACM-1290
+
+
+
+DocID: CACM-2621
+
+
+
+DocID: CACM-3011
+
+
+
+DocID: CACM-2319
+
+
+
+DocID: CACM-2821
+
+
+
+DocID: CACM-1485
+
+
+
+DocID: CACM-3064
+
+
+
+DocID: CACM-0618
+
+
+
+DocID: CACM-0086
+
+
+
+DocID: CACM-0300
+
+
+
+DocID: CACM-1534
+
+
+
+DocID: CACM-3141
+
+
+
+DocID: CACM-2020
+
+
+
+DocID: CACM-3025
+
+
+
+DocID: CACM-2151
+
+
+
+DocID: CACM-2060
+
+
+
+DocID: CACM-2138
+
+
+
+DocID: CACM-2629
+
+
+
+DocID: CACM-3127
+
+
+
+DocID: CACM-0104
+
+
+
+DocID: CACM-2321
+
+
+
+DocID: CACM-2950
+
+
+
+DocID: CACM-1751
+
+
+
+DocID: CACM-3050
+
+
+
+DocID: CACM-2438
+
+
+
+DocID: CACM-2424
+
+
+
+DocID: CACM-3183
+
+
+
+DocID: CACM-1636
+
+
+
+DocID: CACM-2876
+
+
+
+DocID: CACM-2522
+
+
+
+DocID: CACM-1951
+
+
+
+DocID: CACM-1226
+
+
+
+DocID: CACM-1236
+
+
+
+DocID: CACM-2985
+
+
+
+DocID: CACM-2888
+
+
+
+DocID: CACM-0251
+
+
+
+DocID: CACM-2849
+
+
+
+DocID: CACM-3072
+
+
+
+DocID: CACM-1033
+
+
+
+DocID: CACM-2358
+
+
+
+DocID: CACM-1552
+
+
+
+DocID: CACM-3028
+
+
+
+DocID: CACM-1844
+
+
+
+DocID: CACM-2374
+
+
+
+DocID: CACM-2668
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-0322
+
+
+
+DocID: CACM-2624
+
+
+
+DocID: CACM-2844
+
+
+
+DocID: CACM-3153
+
+
+
+DocID: CACM-1199
+
+
+
+DocID: CACM-3137
+
+
+
+DocID: CACM-2069
+
+
+
+DocID: CACM-1264
+
+
+
+DocID: CACM-2378
+
+
+
+DocID: CACM-2742
+
+
+
+DocID: CACM-2949
+
+

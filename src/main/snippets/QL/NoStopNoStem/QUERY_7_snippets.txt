@@ -1,0 +1,634 @@
+QL_NoStopNoStem
+
+Query
+i am interested in distributed algorithms - checkout programs ichbiah processes communicate and synchronize by using message possibilities of particular interest include foreknowledge and techniquefor understanding the correctness of the algorithms.
+
+Top 100 Results (1095 millisecs)
+
+
+DocID: CACM-3043
+
+processes [communicate] and [synchronize] by means of procedure  
+concurrent programming, [distributed] [processes]  
+distributed [processes] a concurrent programming concept  
+
+
+DocID: CACM-3128
+
+correctness arguments and also simplifies implementation in distributed  
+process synchronization, interprocess communication, distributed  
+ordering of events in the [processes]  
+
+
+DocID: CACM-2949
+
+distributed computer network, [correctness] proofs,  
+computer networks, [distributed] control, network  
+topology, routing problem in networks, [distributed] operating  
+
+
+DocID: CACM-2376
+
+running [processes] of a system [communicate] correctly.  
+synchronization of communicating processes  
+parallel programming, multiprogramming, program [correctness]  
+
+
+DocID: CACM-2740
+
+sequential [processes]  the [processes] [synchronize] by  
+structuring, buffering, parallel [processes] synchronizing  
+cooperating [processes] operating system, semaphores,  
+
+
+DocID: CACM-3148
+
+distributed computing, modules, messages, assertions  
+high level programming for [distributed] computing  
+programming for [distributed] and other loosely coupled systems  
+
+
+DocID: CACM-1397
+
+people [interested] in programming languages designed  
+by the acm special [interest] committee on symbolic  
+strings, in their applications, and in [algorithms] for  
+
+
+DocID: CACM-3141
+
+decentralized [algorithms] [distributed] systems, operating systems  
+in circular configurations of processes  
+numbered [processes] arranged in a circle, in which no central  
+
+
+DocID: CACM-1623
+
+of [interest] in areas other than circuit analysis.  
+may be [interested] in the problem because it is stated  
+
+
+DocID: CACM-2665
+
+of primarily theoretical [interest] shows that without  
+two new [algorithms] are presented for list structure  
+less than nlogn.  no [foreknowledge] of cycle absence  
+
+
+DocID: CACM-2289
+
+that exploit the [possibilities] for parallelism,  
+algorithms for distance and spanning tree problems  
+algorithms are presented for the solution of certain  
+
+
+DocID: CACM-0616
+
+processing;  b  with [interest] and understanding  
+interested in developing a theoretical approach to data  
+will be read  a  with avid [interest] by programming language  
+
+
+DocID: CACM-2903
+
+recursion elimination, pattern matching [algorithms]  
+program transformation, optimization of [programs]  
+by using recursion in troduction, algorithms  
+
+
+DocID: CACM-2317
+
+include the increased [interest] in the development of  
+have contributed greatly to a better understanding  
+of the world's production [programs] are written and will  
+
+
+DocID: CACM-2111
+
+incorporating spelling correction [algorithms] in  
+spelling correction in systems programs  
+to compilers and operating systems.  these [include] the use of syntax  
+
+
+DocID: CACM-2890
+
+distributed network, computer network, [message] switching  
+on quadratic adaptive routing algorithms  
+routing [algorithms] adaptive routing, quadratic routing,  
+
+
+DocID: CACM-1445
+
+understanding of statistics were explored  
+teaching the subject matter.  the possibilities  
+
+
+DocID: CACM-1381
+
+utilized should yield a much better understanding  
+mathematicians be modified to [include] the extensions  
+the [understanding] of our current society.  student  
+
+
+DocID: CACM-2216
+
+uniformly [distributed] branching ratios, and  
+using more advanced [algorithms] in the family makes  
+therefore is applicable to a family of sorting algorithms  
+
+
+DocID: CACM-2519
+
+psychological and information-processing [processes] and  
+is described.  these [include] ways of augmenting written  
+
+
+DocID: CACM-2657
+
+program-synthesizing [algorithms] theorem proving,  
+an improved program-synthesizing algorithm and its correctness  
+in 1969.  the [correctness] of the improved algorithm  
+
+
+DocID: CACM-2931
+
+enter in giving descriptions of [processes]  
+since the outcome puts bounds on the [possibilities] of  
+aspects.  it would seem that the [understanding] of higher-level  
+
+
+DocID: CACM-2912
+
+two techniques for transmitting messages between [processes]  
+theorems are proved, and some [algorithms] are presented  
+by one process and read by other [processes]  
+
+
+DocID: CACM-2342
+
+processes as well as to software [processes] and  
+operating systems, parallel processes  
+interference between communicating parallel processes  
+
+
+DocID: CACM-1553
+
+contextual [understanding] by computers  
+and machine [understanding] is stressed.  it is  
+understanding on the part of either humans or  
+
+
+DocID: CACM-1698
+
+the ability of a computer system to communicate  
+how many [processes] are suspended waiting for console  
+
+
+DocID: CACM-1237
+
+conversion of decision tables to computer programs  
+of decision tables to [programs] are presented  
+are valuable as hand-coding guides or as [algorithms] for  
+
+
+DocID: CACM-2795
+
+processes, semantic representation  
+knowledge, which [include]  1  executable tests  
+understanding with respect to a given context.  this  
+
+
+DocID: CACM-2033
+
+ space , the time required to identify a [message] as a nonmember of the  
+
+
+DocID: CACM-2913
+
+attenuate them, an [understanding] of these defects leads  
+to hidden-surface [algorithms] is discussed, and an implementation  
+
+
+DocID: CACM-1135
+
+source [programs] into efficient machine codes.  
+programs, even for comparatively complex applications,  
+into a compiler the aspects common to all processes  
+
+
+DocID: CACM-1637
+
+expand the [possibilities] of statistical spectral  
+the quantities of [interest] is described. the results  
+
+
+DocID: CACM-2439
+
+user-written [programs] on the dartmouth time-sharing  
+system can [communicate] with many remote  
+between these terminals.  such [programs] can  
+
+
+DocID: CACM-2871
+
+correctness, incorrectness, termination, automatic  
+logical analysis of programs  
+programs are incomplete in that intermediate  
+
+
+DocID: CACM-1752
+
+are given by tracing the development of the algorithms  
+of the task scheduling and paging [algorithms] that were implemented,  
+
+
+DocID: CACM-2895
+
+formal specifications,program [correctness] parallel  
+of communicating parallel [processes] is described.  
+
+
+DocID: CACM-2950
+
+of time-invariant [algorithms] which [include] most  
+scheduling [algorithms] scheduling models, priority,  
+algorithms, the dependence of processing rates  
+
+
+DocID: CACM-2344
+
+measure of performance, scheduling algorithms  
+
+
+DocID: CACM-2016
+
+particular measurements of [interest] in a system which combines demand  
+computer utility is discussed.  these tools [include] special hardware  
+
+
+DocID: CACM-2896
+
+correctness for multiprocessing tasks  
+with proving such parallel [programs] correct  
+an exercise in proving parallel [programs] correct  
+
+
+DocID: CACM-3014
+
+correctness and termination of [programs] simultaneously.  
+and the [correctness] of continuously operating [programs]  
+intermittent assertions, [correctness] of [programs]  
+
+
+DocID: CACM-2801
+
+0 bits.  a long decimal [message] can be subdivided into  
+
+
+DocID: CACM-2535
+
+scheduling [algorithms] operating systems  
+analytical results [include] a general description of the  
+
+
+DocID: CACM-1867
+
+one is [interested] in the ratio l j  of the  
+
+
+DocID: CACM-2716
+
+algorithms for implementing the operators  
+
+
+DocID: CACM-1601
+
+independent, making the methods of interest  
+obtained are superior to standard [algorithms]  
+
+
+DocID: CACM-3080
+
+compilers, [correctness] code optimization,  
+level language [programs]  the examples demonstrate  
+proving the [correctness] of heuristically optimized code  
+
+
+DocID: CACM-1551
+
+on compiling [algorithms] for arithmetic expressions  
+algorithms generate an object code which minimizes  
+this paper deals with [algorithms] concerning arithmetic  
+
+
+DocID: CACM-1458
+
+changes in the [processes] related to producing and checking  
+out [programs]  in the main, it it not the  
+
+
+DocID: CACM-2402
+
+digital computers encourages the development of algorithms  
+pattern recognition [algorithms] is hindered by the fact  
+and will continue to be a field of intense [interest]  
+
+
+DocID: CACM-2268
+
+programs for integrating systems of ordinary  
+include multistep methods  predictor-correctors ,  
+a comparative study of computer programs  
+
+
+DocID: CACM-2325
+
+of computation, [algorithms] continuous algorithms  
+complexity , synthesis and analysis of [algorithms]  
+analysis of error, [programs] and program libraries.  
+
+
+DocID: CACM-2646
+
+these [algorithms] are restricted to classes  
+this paper presents the background and algorithms  
+of [programs] with predictable behavior.  while the methods  
+
+
+DocID: CACM-0409
+
+problems and to provide intercommunication between programs  
+data and [algorithms] may be expressed in a family  
+as well as [algorithms] defined on these data sets.  both  
+
+
+DocID: CACM-3143
+
+reasoning about arrays.  the basic concepts [include] intervals and their  
+algorithms for binary search and merging, and by a short formal proof.  
+
+
+DocID: CACM-3134
+
+are compared to other common approaches.  [algorithms] evaluating  
+for the information system.  [algorithms] for the organization an  
+
+
+DocID: CACM-2110
+
+class of grammars, which seems to [include] most practical context-free  
+to be superior to the top-down and bottom-up [algorithms] studied by griffiths  
+
+
+DocID: CACM-0243
+
+a binary-coded [message]  the [message] itself is arranged  
+array.  the [processes] of encoding and error detection  
+
+
+DocID: CACM-1768
+
+of [interest] apart from their application in this particular context.  
+
+
+DocID: CACM-1243
+
+testing the [understanding] of the difference between  
+
+
+DocID: CACM-1625
+
+automatically to [programs] written in an algol-like  
+on the automatic simplification of source-language programs  
+by a processor, without any [understanding] of what the  
+
+
+DocID: CACM-2972
+
+that simplifies proofs of their correctness  
+proof techniques for hierarchically structured programs  
+specification.  the proofs, like the [programs]  
+
+
+DocID: CACM-3153
+
+the context of a paged computer system.  two parameterized algorithms  
+alocation parameters on the expected response times under the two [algorithms]  
+
+
+DocID: CACM-3038
+
+and public-key encryption [algorithms] are considered as the basis for protocols.  
+
+
+DocID: CACM-1411
+
+comparison of several [algorithms] for computation  
+several [algorithms] for computation of basic  
+
+
+DocID: CACM-3078
+
+of obtaining analytical solutions to markov processes  
+of symbol manipulation [programs]  since many physical  
+processes, the potential range of application of these techniques  
+
+
+DocID: CACM-2520
+
+proof of [algorithms] greatest common divisor,  
+
+
+DocID: CACM-2276
+
+distributed random numbers into exponentially  
+shorter [algorithms] and faster but space consuming  
+and normally [distributed] quantities.  the most efficient  
+
+
+DocID: CACM-2094
+
+d by properties which permit the application of special [algorithms]  
+mainly based on the exchange [algorithms] of remes  1934, 1935 , for  
+
+
+DocID: CACM-2981
+
+recursive [programs] iterative programs  
+program verification, proving [programs] correct,  
+it can often be used to prove a loop's correctness  
+
+
+DocID: CACM-2865
+
+verification, concurrent [processes] synchronization,  
+structured multiprogramming [correctness] proofs, program  
+of properties of parallel [programs] is presented.  
+
+
+DocID: CACM-1323
+
+
+
+DocID: CACM-1939
+
+which are frequently too long to be of practical [interest]  
+
+
+DocID: CACM-2389
+
+and the search [algorithms] are detailed.  
+automated design, architecture, heuristic [programs] space planning  
+a computer language and a set of [programs] within  
+
+
+DocID: CACM-1392
+
+of mathematical expression manipulation algorithms  
+formac expand and differentiation [algorithms] a  
+in the design of [algorithms] for manipulating  
+
+
+DocID: CACM-1440
+
+of primary [interest] on ibm system/360.  
+root routines.  these approximations include  
+
+
+DocID: CACM-3137
+
+distributed processing, system design, cost minimization, distributed  
+a methodology for the design of [distributed] information systems  
+a macro model of a [distributed] information system in presented.  the model  
+
+
+DocID: CACM-1181
+
+include cardiac-output calculations, radio-activity  
+
+
+DocID: CACM-1749
+
+sequential [processes]  these sequential [processes] are placed  
+sequential [processes] system levels, input-output  
+of the design and the [correctness] of its implementation.  
+
+
+DocID: CACM-2771
+
+added together or subtracted.  two [algorithms] to  
+
+
+DocID: CACM-1931
+
+
+
+DocID: CACM-2226
+
+the [algorithms] as a suboptimizer is indicated.  
+further evidence for the analysis of algorithms  
+operations research, integer programming, zero-one variables, algorithms  
+
+
+DocID: CACM-2306
+
+ancient babylonian algorithms  
+of greatest [interest] from the standpoint of computer  
+
+
+DocID: CACM-2932
+
+in tractable problems, probabilistic algorithms  
+
+
+DocID: CACM-2674
+
+that the noninteractive [algorithms] can significantly  
+scan conversion [algorithms] which have been  
+to [include] general graphics.  two fundamentally different  
+
+
+DocID: CACM-2828
+
+visible surface [algorithms] hidden surface [algorithms]  
+hierarchical geometric models for visible surface algorithms  
+
+
+DocID: CACM-2905
+
+distributed sets, this method can give rather sparse tables.  
+
+
+DocID: CACM-1098
+
+programming formalisms and special [processes] available,  
+
+
+DocID: CACM-1603
+
+parallel processing capability.  user [programs] communicate  
+
+
+DocID: CACM-2188
+
+and helps give a better [understanding] of now  
+
+
+DocID: CACM-1172
+
+the tables into computer [programs] will extend  
+conversion of limited-entry decision tables to computer programs  
+of conditions.  [algorithms] that can efficiently convert  
+
+
+DocID: CACM-1960
+
+processes using system primitive operations, the file-memory relationship,  
+include the ability given to any user to schedule his own parallel  
+
+
+DocID: CACM-1924
+
+matrix [algorithms] array processing, paging [algorithms]  
+multiplication, and inversion [algorithms] shows  
+carefully designed matrix [algorithms] can lead to  
+
+
+DocID: CACM-2834
+
+algorithms are presented to generate the n-bit  
+fixed weight in that code.  both [algorithms] are efficient  
+
+
+DocID: CACM-2380
+
+achieve these goals.  these [include] specifications  
+checkout, tenex has met its major goals and provided  
+
+
+DocID: CACM-1665
+
+compared favorably in speed to carefully hand-coded programs  
+
+
+DocID: CACM-2080
+
+process communication, [message] buffering, process  
+multiprogramming, operating systems, parallel [processes] process concept,  
+of a hierarchy of [processes] as well as the communication among them.  
+
+
+DocID: CACM-0497
+
+
+
+DocID: CACM-2355
+
+
+
+DocID: CACM-1877
+
+the [algorithms] are both necessary and sufficient  
+which could have been safely granted.  algorithms  
+to prevent deadlock.  the [algorithms] have been successfully used in the the system.  
+

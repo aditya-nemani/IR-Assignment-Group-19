@@ -1,0 +1,409 @@
+LUCENE_NoStopNoStem
+
+Query
+Analysis and perception of shape by humans and computers.  Shape
+descriptions, shape recognition by computer.  Two-dimensional shapes.
+Measures of circularity.  Shape matching.
+
+Top 100 Results (37 millisecs)
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-2569
+
+
+
+DocID: CACM-3052
+
+
+
+DocID: CACM-2847
+
+
+
+DocID: CACM-3098
+
+
+
+DocID: CACM-3046
+
+
+
+DocID: CACM-3107
+
+
+
+DocID: CACM-2754
+
+
+
+DocID: CACM-2455
+
+
+
+DocID: CACM-3125
+
+
+
+DocID: CACM-2341
+
+
+
+DocID: CACM-1528
+
+
+
+DocID: CACM-2883
+
+
+
+DocID: CACM-2829
+
+
+
+DocID: CACM-1553
+
+
+
+DocID: CACM-2113
+
+
+
+DocID: CACM-3149
+
+
+
+DocID: CACM-1399
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-1272
+
+
+
+DocID: CACM-3100
+
+
+
+DocID: CACM-2556
+
+
+
+DocID: CACM-3135
+
+
+
+DocID: CACM-2841
+
+
+
+DocID: CACM-0462
+
+
+
+DocID: CACM-2232
+
+
+
+DocID: CACM-2924
+
+
+
+DocID: CACM-2054
+
+
+
+DocID: CACM-2746
+
+
+
+DocID: CACM-1260
+
+
+
+DocID: CACM-2828
+
+
+
+DocID: CACM-2751
+
+
+
+DocID: CACM-2703
+
+
+
+DocID: CACM-2494
+
+
+
+DocID: CACM-2289
+
+
+
+DocID: CACM-2153
+
+
+
+DocID: CACM-3197
+
+
+
+DocID: CACM-2903
+
+
+
+DocID: CACM-2287
+
+
+
+DocID: CACM-1726
+
+
+
+DocID: CACM-1855
+
+
+
+DocID: CACM-1891
+
+
+
+DocID: CACM-2308
+
+
+
+DocID: CACM-2811
+
+
+
+DocID: CACM-2030
+
+
+
+DocID: CACM-1771
+
+
+
+DocID: CACM-2547
+
+
+
+DocID: CACM-2215
+
+
+
+DocID: CACM-3049
+
+
+
+DocID: CACM-0320
+
+
+
+DocID: CACM-0531
+
+
+
+DocID: CACM-1427
+
+
+
+DocID: CACM-1325
+
+
+
+DocID: CACM-0633
+
+
+
+DocID: CACM-2367
+
+
+
+DocID: CACM-2560
+
+
+
+DocID: CACM-1265
+
+
+
+DocID: CACM-2692
+
+
+
+DocID: CACM-1518
+
+
+
+DocID: CACM-1808
+
+
+
+DocID: CACM-2959
+
+
+
+DocID: CACM-2910
+
+
+
+DocID: CACM-3047
+
+
+
+DocID: CACM-2339
+
+
+
+DocID: CACM-3143
+
+
+
+DocID: CACM-0825
+
+
+
+DocID: CACM-3165
+
+
+
+DocID: CACM-2966
+
+
+
+DocID: CACM-1590
+
+
+
+DocID: CACM-2880
+
+
+
+DocID: CACM-1381
+
+
+
+DocID: CACM-2988
+
+
+
+DocID: CACM-3170
+
+
+
+DocID: CACM-2310
+
+
+
+DocID: CACM-1350
+
+
+
+DocID: CACM-2370
+
+
+
+DocID: CACM-0409
+
+
+
+DocID: CACM-1902
+
+
+
+DocID: CACM-2321
+
+
+
+DocID: CACM-2812
+
+
+
+DocID: CACM-3011
+
+
+
+DocID: CACM-1706
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-3057
+
+
+
+DocID: CACM-1844
+
+
+
+DocID: CACM-2947
+
+
+
+DocID: CACM-2407
+
+
+
+DocID: CACM-0464
+
+
+
+DocID: CACM-1769
+
+
+
+DocID: CACM-2801
+
+
+
+DocID: CACM-2980
+
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-1223
+
+
+
+DocID: CACM-1308
+
+
+
+DocID: CACM-1045
+
+
+
+DocID: CACM-3055
+
+
+
+DocID: CACM-0252
+
+
+
+DocID: CACM-3078
+
+
+
+DocID: CACM-2682
+
+
+
+DocID: CACM-2387
+
+

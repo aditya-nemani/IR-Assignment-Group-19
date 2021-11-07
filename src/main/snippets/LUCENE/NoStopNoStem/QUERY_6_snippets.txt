@@ -1,0 +1,409 @@
+LUCENE_NoStopNoStem
+
+Query
+Interested in articles on robotics, motion planning particularly the
+geometric and combinatorial aspects.  We are not interested in the
+dynamics of arm motion.
+
+Top 100 Results (140 millisecs)
+
+
+DocID: CACM-2828
+
+
+
+DocID: CACM-2826
+
+
+
+DocID: CACM-0695
+
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-0492
+
+
+
+DocID: CACM-0531
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-1543
+
+
+
+DocID: CACM-0435
+
+
+
+DocID: CACM-0605
+
+
+
+DocID: CACM-1867
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-1341
+
+
+
+DocID: CACM-1014
+
+
+
+DocID: CACM-2230
+
+
+
+DocID: CACM-1365
+
+
+
+DocID: CACM-0417
+
+
+
+DocID: CACM-0670
+
+
+
+DocID: CACM-2176
+
+
+
+DocID: CACM-1397
+
+
+
+DocID: CACM-1234
+
+
+
+DocID: CACM-1664
+
+
+
+DocID: CACM-2389
+
+
+
+DocID: CACM-1623
+
+
+
+DocID: CACM-3198
+
+
+
+DocID: CACM-3035
+
+
+
+DocID: CACM-1046
+
+
+
+DocID: CACM-2753
+
+
+
+DocID: CACM-1009
+
+
+
+DocID: CACM-2187
+
+
+
+DocID: CACM-2873
+
+
+
+DocID: CACM-1385
+
+
+
+DocID: CACM-3135
+
+
+
+DocID: CACM-0242
+
+
+
+DocID: CACM-2078
+
+
+
+DocID: CACM-2582
+
+
+
+DocID: CACM-1634
+
+
+
+DocID: CACM-2095
+
+
+
+DocID: CACM-2667
+
+
+
+DocID: CACM-1698
+
+
+
+DocID: CACM-1621
+
+
+
+DocID: CACM-2622
+
+
+
+DocID: CACM-2046
+
+
+
+DocID: CACM-2810
+
+
+
+DocID: CACM-1885
+
+
+
+DocID: CACM-2887
+
+
+
+DocID: CACM-0731
+
+
+
+DocID: CACM-0321
+
+
+
+DocID: CACM-2572
+
+
+
+DocID: CACM-1148
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-2900
+
+
+
+DocID: CACM-2943
+
+
+
+DocID: CACM-2319
+
+
+
+DocID: CACM-2519
+
+
+
+DocID: CACM-3150
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-2486
+
+
+
+DocID: CACM-1348
+
+
+
+DocID: CACM-1727
+
+
+
+DocID: CACM-1325
+
+
+
+DocID: CACM-1978
+
+
+
+DocID: CACM-2406
+
+
+
+DocID: CACM-2834
+
+
+
+DocID: CACM-2712
+
+
+
+DocID: CACM-2167
+
+
+
+DocID: CACM-3154
+
+
+
+DocID: CACM-1748
+
+
+
+DocID: CACM-2922
+
+
+
+DocID: CACM-2485
+
+
+
+DocID: CACM-3033
+
+
+
+DocID: CACM-2496
+
+
+
+DocID: CACM-3125
+
+
+
+DocID: CACM-1846
+
+
+
+DocID: CACM-3148
+
+
+
+DocID: CACM-1199
+
+
+
+DocID: CACM-0438
+
+
+
+DocID: CACM-1184
+
+
+
+DocID: CACM-1456
+
+
+
+DocID: CACM-3188
+
+
+
+DocID: CACM-2968
+
+
+
+DocID: CACM-1928
+
+
+
+DocID: CACM-3105
+
+
+
+DocID: CACM-3172
+
+
+
+DocID: CACM-1458
+
+
+
+DocID: CACM-3000
+
+
+
+DocID: CACM-2707
+
+
+
+DocID: CACM-3166
+
+
+
+DocID: CACM-1379
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-3117
+
+
+
+DocID: CACM-1083
+
+
+
+DocID: CACM-1783
+
+
+
+DocID: CACM-2765
+
+
+
+DocID: CACM-0281
+
+
+
+DocID: CACM-1433
+
+
+
+DocID: CACM-2092
+
+
+
+DocID: CACM-1262
+
+
+
+DocID: CACM-2836
+
+
+
+DocID: CACM-2918
+
+

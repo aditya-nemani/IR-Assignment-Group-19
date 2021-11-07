@@ -1,0 +1,691 @@
+TFIDF_NoStopNoStem
+
+Query
+parallel processors in information retrieval
+
+Top 100 Results (78 millisecs)
+
+
+DocID: CACM-2714
+
+parallel processing, [parallel] merging, [parallel] binary insertion  
+merging with [parallel] processors  
+|b|=n, m<=n, and p, p<=m, [parallel] processors  
+
+
+DocID: CACM-3134
+
+information [retrieval] inverted files, multiattribute [retrieval]  
+for [information] storage and retrieval  
+d [retrieval] of [information] are described.  this method is particularly  
+
+
+DocID: CACM-1699
+
+information [retrieval] testing,  [information] system  
+of mechanized [information] [retrieval] systems,  
+of the research is that an [information] [retrieval] system  
+
+
+DocID: CACM-1665
+
+processors using finite state techniques  
+since 1966, and [processors] generated have  
+as fast as hand-coded [processors] which would  
+
+
+DocID: CACM-1811
+
+parallel-processor, parallelism, [parallel] programming,  
+between cooperating [processors] is by  
+the [processors] can simultaneously execute separate  
+
+
+DocID: CACM-2288
+
+retrieval, [information] [retrieval] record organization,  
+retrieval property is also discussed.  
+file organization: the consecutive [retrieval] property  
+
+
+DocID: CACM-1681
+
+remote console communication, [information] [retrieval]  
+mode, [information] [retrieval] language, symbolic command language  
+translator, document [retrieval] conversational  
+
+
+DocID: CACM-2882
+
+retrieval systems.  these data [retrieval] systems can  
+list, [information] [retrieval] database organizations,  
+organization in data [retrieval] systems  
+
+
+DocID: CACM-1457
+
+in automatic [information] retrieval  
+automatic [information] [retrieval] programs require  
+facilities to aid in [information] [retrieval]  
+
+
+DocID: CACM-2990
+
+information [retrieval] automatic indexing, content  
+the performance of [information] [retrieval] systems  
+effective [information] [retrieval] using term accuracy  
+
+
+DocID: CACM-3075
+
+fast [parallel] sorting algorithms  
+a [parallel] bucket-sort algorithm is presented  
+parallel processing, sorting, algorithms, bucket sort  
+
+
+DocID: CACM-0891
+
+everyman's [information] [retrieval] system  
+the [information] [retrieval] problem whose solution  
+to install an [information] [retrieval] program in less than  
+
+
+DocID: CACM-3156
+
+we present a [parallel] algorithm which uses n2 [processors] to find the connected  
+graph theory, [parallel] processing, algorithms,  
+computing connected components on [parallel] computers  
+
+
+DocID: CACM-1927
+
+data [retrieval] language analysis, information  
+science, [information] organization, [information] [retrieval]  
+courses,computer science curriculum, information  
+
+
+DocID: CACM-1032
+
+of [information] and tagging it for effective [retrieval]  
+information storage and [retrieval] systems are composed  
+theoretical considerations in [information] [retrieval] systems  
+
+
+DocID: CACM-1601
+
+measurements are interpreted in a [parallel] processing  
+insured by extracting the "best [information] at  
+parallel numerical methods for the solution of equations  
+
+
+DocID: CACM-2175
+
+parallel exceeds the number of available [processors]  
+parallel processing, cache, arithmetic expressions,  
+in serials, in [parallel] or in a combination of these  
+
+
+DocID: CACM-1725
+
+ordered lists, ordered [information] [retrieval]  
+access frequency, ordered [retrieval] efficiency,  
+access frequency proof, [retrieval] theorem proof  
+
+
+DocID: CACM-2342
+
+operating systems, [parallel] processes  
+interference between communicating [parallel] processes  
+parallel processes have been examined by  
+
+
+DocID: CACM-1976
+
+multi-attribute [retrieval] with combined indexes  
+retrieval, data management, access method, secondary  
+of false drops, combining indexes, query, multi-attribute retrieval  
+
+
+DocID: CACM-2631
+
+direct access, [information] [retrieval] character  
+text searching, [information] theory, file organization,  
+information, an attempt is made to overcome  
+
+
+DocID: CACM-2497
+
+interrupts,supervisors, monitors, debugging, parallel  
+synchronizing [processors] with memory-content-generated interrupts  
+of synchronizing [processors] in a multiprocessor  
+
+
+DocID: CACM-2846
+
+information [retrieval] systems.  it has the same underlying  
+retrieval time, storage requirement, keys  
+improvement in storage requirements and [retrieval] time  
+
+
+DocID: CACM-1825
+
+is developed.  these [processors] are capable  
+processors are satisfied, then an lr k  processor  
+a practical method for constructing lr k  processors  
+
+
+DocID: CACM-1846
+
+simulation, [parallel] processes, simultaneous events,  
+on simulating networks of [parallel] processes  
+unfeasible when the additional [information] is provided.  
+
+
+DocID: CACM-2358
+
+information sharing, paging, memory management,  
+system programs of all [information] independent  
+information resides in large, segmented main memory.  
+
+
+DocID: CACM-1745
+
+information networks, [information] systems, computing  
+of our [information] processing industry  
+communications, and the development of information  
+
+
+DocID: CACM-1516
+
+also automatically decode the compressed information  
+the [information] explosion" noted in recent  
+for the automatic compression of "any" [information]  
+
+
+DocID: CACM-1262
+
+procedure-oriented language statements to facilitate [parallel] processing  
+in [parallel]  the statements are do together  
+a range of [parallel] operation and partly to  
+
+
+DocID: CACM-2572
+
+of a community [information] utility  
+of an [information] utility in a prototype  
+community [information] utilities are examined in this  
+
+
+DocID: CACM-2598
+
+coding, decision tables, flowcharting, information  
+extending the [information] theory approach to converting  
+to the [information] algorithm in extending the depth  
+
+
+DocID: CACM-2479
+
+education, management [information] systems, information  
+systems administration, [information] systems  
+addendum on [information] systems administration  
+
+
+DocID: CACM-2870
+
+protection, security, [information] flow, security  
+secure [information] flow in a computer system.  
+of [information] flow.  the lattice properties  
+
+
+DocID: CACM-2519
+
+complex [information] [information] communication,  
+using a computer based [information] [retrieval] system  
+information we are communicating, and a sophisticated  
+
+
+DocID: CACM-1652
+
+to problems in area such as [information] [retrieval] document  
+the internal [information] processing operations  
+a code for non-numeric [information] processing  
+
+
+DocID: CACM-2516
+
+information [retrieval] hierarchical storage  
+hierarchical storage in [information] retrieval  
+on [information] [retrieval] operations.  the data storage  
+
+
+DocID: CACM-2160
+
+file organization, [information] [retrieval] inverted  
+thus, for example, the structure for retrieval  
+a new file structure for attribute based retrieval  
+
+
+DocID: CACM-2723
+
+semaphores, [parallel] processing, compactification, relocation,  
+complex cases involving several list processors  
+the simple case of two [processors] one performing lisp-like  
+
+
+DocID: CACM-2195
+
+global recognition, [parallel] processing, dynamic  
+the method described is suitable for parallel  
+state can be computed in [parallel] and the number  
+
+
+DocID: CACM-1747
+
+parallel processing, [parallel] programming,  
+information security, [information] privacy, computing  
+a time-of-day clock,  the synchronization of parallel  
+
+
+DocID: CACM-2973
+
+parallel computer, [parallel] sorting, [parallel] merge,  
+sorting on a mesh-connected [parallel] computer  
+
+
+DocID: CACM-2484
+
+data base, data-base management, [information] [retrieval]  
+information structure, file organization,  
+information structures, as list, tree, ring,  
+
+
+DocID: CACM-2140
+
+files, [information] [retrieval] query, multi-attribute  
+retrieval, file update  
+permitted decreased [retrieval] time at the cost  
+
+
+DocID: CACM-2832
+
+so that data can be cached to speed up [retrieval]  a retrieval  
+on previous context tree [retrieval] algorithms.  
+faster [retrieval] from context trees  corrigendum   
+
+
+DocID: CACM-1680
+
+information [retrieval]  it is written in fortran  
+programming, simulation, modeling, information  
+retrieval operating systems, graphics, displays, man-machine  
+
+
+DocID: CACM-2865
+
+of properties of [parallel] programs is presented.  
+which are added to a [parallel] program as  
+verifying properties of [parallel] programs: an axiomatic approach  
+
+
+DocID: CACM-2851
+
+parallel program, correctness, verification,  
+formal verification of [parallel] programs  
+two formal models for [parallel] computation  
+
+
+DocID: CACM-2852
+
+education, [information] systems administration, computer  
+in computer science or in [information] systems  
+adding a course on [information] systems administration  
+
+
+DocID: CACM-1412
+
+the banking [information] system concept  
+facilitate cross referencing of account information  
+more complex combinations of [information] for  
+
+
+DocID: CACM-1267
+
+information thruput as a characteristic of  
+that affect [information] thruput, and some examples  
+of determination of transfer rate of information  
+
+
+DocID: CACM-2949
+
+information protocol that was implemented on the  
+a correctness proof of a topology information  
+on such a topology [information] scheme is that  
+
+
+DocID: CACM-2307
+
+for [information] [retrieval] and for the control  
+automatic indexing, automatic search and [retrieval]  
+files are searched and [information] is retrieved following  
+
+
+DocID: CACM-3012
+
+implementation, system use, [information] storage and [retrieval] system  
+and [retrieval] system in medical research  
+the use of an interactive [information] storage  
+
+
+DocID: CACM-2455
+
+avl trees, balanced trees, [information] storage and retrieval  
+imbalances of up to five units, the [retrieval] time  
+trees on the basis of mean [retrieval] time, of amount  
+
+
+DocID: CACM-3059
+
+multiprogramming, [parallel] processing, queueing  
+models for [parallel] processing within programs:  
+approximate queueing models for internal parallel  
+
+
+DocID: CACM-2570
+
+parallel processing, precedence graphs, scheduling,  
+the problem of scheduling two or more processors  
+a comparison of list schedules for [parallel] processing systems  
+
+
+DocID: CACM-2700
+
+parallel program, semaphore, verification  
+halting.  thus correctness proofs of a parallel  
+when proving that a [parallel] program has a  
+
+
+DocID: CACM-2033
+
+layout, [retrieval] trade-offs, [retrieval] efficiency, storage efficiency  
+information from that associated with conventional methods.  the reduction in  
+
+
+DocID: CACM-1359
+
+data filtering applied to [information] storage and [retrieval] applications  
+processing function in [information] storage  
+and [retrieval] applications.  data string manipulation  
+
+
+DocID: CACM-2947
+
+information [retrieval] text editing, minicomputers,  
+search and [retrieval] systems, but has several  
+retrieval, literary analysis, linguistic analysis, command languages  
+
+
+DocID: CACM-3011
+
+computer utilization, management [information] system,  
+traditional concepts of management information  
+involving improvements in decision [information]  
+
+
+DocID: CACM-2345
+
+management [information] systems, [information] systems  
+development, [information] analysis, system design  
+professional programs in [information] systems  
+
+
+DocID: CACM-1527
+
+value represents the requested [information]  
+stored [information] either explicitly or implicitly represented,  
+itself is a procedure for retrieving [information]  
+
+
+DocID: CACM-2451
+
+tree file, [information] storage and [retrieval] clustering,  
+a standard [information] [retrieval] operation is  
+
+
+DocID: CACM-2711
+
+automatic [information] [retrieval] automatic  
+in particular, [retrieval] performance may correlate inversely  
+in a document [retrieval] or other pattern matching  
+
+
+DocID: CACM-1236
+
+a fully automatic document [retrieval] system  
+the smart automatic document [retrieval] system-an illustration  
+retrieve the wanted [information]  a typical search  
+
+
+DocID: CACM-2289
+
+parallel processing, special purpose computers,  
+achieved by virtue of the possibilities for parallel  
+
+
+DocID: CACM-1468
+
+on labeling techniques using [parallel] processing  
+and the [parallel] processing simulator mentioned  
+this to bubble chamber pictures.  the [parallel] processing  
+
+
+DocID: CACM-0950
+
+parallel methods for integrating ordinary differential equations  
+computations of highly [parallel] computers as can be  
+"parallel" form.  by this is meant that serial  
+
+
+DocID: CACM-2896
+
+with proving such [parallel] programs correct  
+a [parallel] program, dijkstra's on-the-fly garbage  
+an exercise in proving [parallel] programs correct  
+
+
+DocID: CACM-2046
+
+redundancy, consistency, composition, join, retrieval  
+service which supplies such [information] is not a satisfactory  
+types of stored [information]  existing noninferential, formatted data systems  
+
+
+DocID: CACM-1746
+
+protection, privacy, [information] processing utility,  
+multiprocessing, security, shared [information] controlled  
+protection in an [information] processing utility  
+
+
+DocID: CACM-1194
+
+system for [retrieval] by concept coordination.  
+paramount in the provision of [information] services:  
+the main features of the [information] system are direct  
+
+
+DocID: CACM-2722
+
+attribute, [information] [retrieval] system, nearest  
+associative [retrieval] binary search trees, key,  
+information to be retrieved by associative searches.  
+
+
+DocID: CACM-2278
+
+binary trees, search trees, [information] storage, [information] retrieval  
+on foster's [information] storage and [retrieval] using avl trees  
+
+
+DocID: CACM-2561
+
+inference, inductive inference, clustering, fact [retrieval] heuristics  
+are implemented in a model fact [retrieval] system  
+from available [information]  the procedures make use  
+
+
+DocID: CACM-1937
+
+data display, [information] [retrieval] graphic display,  
+a user-oriented data [retrieval] and display system.  
+with an easy means for specifying data retrieval  
+
+
+DocID: CACM-1959
+
+systems, interrupt scheduling, [parallel] processing  
+management [information] systems, integrated data processing,  
+an interrupt based organization for management [information] systems  
+
+
+DocID: CACM-1684
+
+facilities in decision table [processors] is emphasized.  
+to limited entry form.  [processors] which automatically  
+
+
+DocID: CACM-1935
+
+and offers new potential for [information] [retrieval] systems.  
+retrieval, mathematical model, partitioning,  
+binary pattern, file examination, graph theory, information  
+
+
+DocID: CACM-2978
+
+files, [retrieval] main tenance, search strategy,  
+which compare the [retrieval] costs of the alternatives.  
+the index structure.  formulas for the retrieval  
+
+
+DocID: CACM-2114
+
+a formal system for [information] [retrieval] from files  
+lists, prime keyword, [parallel] processing of lists  
+file structure, directory decoding, and record [retrieval] are defined  
+
+
+DocID: CACM-2785
+
+parallel computation, [parallel] architecture  
+of the problems associated with [parallel] computer  
+
+
+DocID: CACM-2401
+
+counting binary patterns, shrinking, parallel  
+a [parallel] processing algorithm for shrinking  
+window employed  two-by-two elements , the parallel  
+
+
+DocID: CACM-1828
+
+parallel accessing, [parallel] search, file search,  
+which will maximize the amount of parallel  
+
+
+DocID: CACM-2266
+
+parallel numerical algorithms, real polynomials,  
+a highly [parallel] algorithm for approximating  
+is conceptually suitable for [parallel] computation,  
+
+
+DocID: CACM-2888
+
+information reference coding  
+analysis, [information] modeling, database  
+through a set-theoretic [information] model.  
+
+
+DocID: CACM-3135
+
+structure search, [information] [retrieval] crystal  
+
+
+DocID: CACM-2795
+
+the program employs both the [information] [retrieval] and  
+ 2  [information] relating conceptual to syntactic  
+
+
+DocID: CACM-1711
+
+and [retrieval] systems, including the pending  
+information is given on patents, copyrights and  
+of using copyrighted material in [information] storage  
+
+
+DocID: CACM-2916
+
+information [retrieval] linear time bound, pattern  
+pat.  the [information] gained by starting the match  
+
+
+DocID: CACM-2092
+
+linguistics, language processing, fact retrieval  
+use of semantic [information] in deductive question answering greatly  
+information.  it is concluded that the development of protosynthex  
+
+
+DocID: CACM-1514
+
+information [retrieval] system.  
+term [retrieval] systems.  the expected gain and its probability  
+on the expected gain from adjust ing matched term [retrieval] systems  
+
+
+DocID: CACM-0670
+
+relating to off-premises [processors] particularly  
+with respect to the obligation not to disclose information  
+
+
+DocID: CACM-2685
+
+parallel computing, multiprocessor computers,  
+the [parallel] execution of do loops  
+methods are developed for the [parallel] execution  
+
+
+DocID: CACM-2931
+
+orderings  under an [information] content ordering,  
+
+
+DocID: CACM-1362
+
+7-bit code for [information] interchange.  
+the american standard code for information  
+that is, with the representation of information  
+
+
+DocID: CACM-2163
+
+need for education in administrative information  
+on "curriculum development in management information  
+education, [information] analysis, systems design, business data processing  
+
+
+DocID: CACM-2876
+
+the supply of [information] on its intended  
+what [information] a given user can get from a database.  
+a user is allowed to do with a piece of information  
+
+
+DocID: CACM-3096
+
+problems of insertion, deletion, and [retrieval]  
+of balancing [information] is required  two bits are  
+

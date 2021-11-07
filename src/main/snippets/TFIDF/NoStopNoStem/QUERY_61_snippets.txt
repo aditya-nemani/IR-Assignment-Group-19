@@ -1,0 +1,472 @@
+TFIDF_NoStopNoStem
+
+Query
+information retrieval arises by gerard shown or others about clustering,
+bibliographic colupnig, use of contains or ci-icaottons, the verifiable model, belson search methods using inverted files, fdaeecbk, etc.
+
+shown, g.
+
+Top 100 Results (328 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+
+
+DocID: CACM-0994
+
+
+
+DocID: CACM-0995
+
+
+
+DocID: CACM-0996
+
+
+
+DocID: CACM-0990
+
+
+
+DocID: CACM-0991
+
+
+
+DocID: CACM-0992
+
+
+
+DocID: CACM-2703
+
+specifically, it is [shown] that any deterministic algorithm  
+
+
+DocID: CACM-2702
+
+it is [shown] that this problem is np-complete  
+of the test.  in the first case, it is [shown] that for  
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-2704
+
+
+
+DocID: CACM-2701
+
+go-to-less programming, depth-first [search]  
+analysis, [information] propagation, flow graph, reducibility,  
+it is also [shown] that in programming terms,  
+
+
+DocID: CACM-2700
+
+
+
+DocID: CACM-2707
+
+backtrack, depth-first [search] exhaustive [search]  
+and its history is given.  second, it is [shown] how the use  
+
+
+DocID: CACM-2706
+
+
+
+DocID: CACM-2709
+
+
+
+DocID: CACM-2708
+
+high quality recovery with good diagnostic information  
+
+
+DocID: CACM-0975
+
+standard vocabulary in computers and information  
+
+
+DocID: CACM-0976
+
+
+
+DocID: CACM-0977
+
+
+
+DocID: CACM-0978
+
+
+
+DocID: CACM-0971
+
+
+
+DocID: CACM-0972
+
+to the computer.  the [information] received  
+
+
+DocID: CACM-0973
+
+model relating ventricular dipoles to surface  
+potentials is sketched.  then it is [shown] that the inverse  
+
+
+DocID: CACM-0974
+
+
+
+DocID: CACM-0970
+
+
+
+DocID: CACM-0979
+
+
+
+DocID: CACM-0986
+
+for [information] processing  
+
+
+DocID: CACM-0987
+
+for [information] processing on automatic data  
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+
+
+DocID: CACM-0983
+
+information interchange  proposed american standard   
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+
+
+DocID: CACM-0981
+
+
+
+DocID: CACM-1405
+
+
+
+DocID: CACM-2736
+
+hash [search] address space extension,  
+
+
+DocID: CACM-1404
+
+are [shown] to be carried out by an analysis-of-variance  
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1407
+
+
+
+DocID: CACM-2738
+
+
+
+DocID: CACM-1406
+
+
+
+DocID: CACM-2737
+
+
+
+DocID: CACM-1401
+
+
+
+DocID: CACM-2732
+
+of these constructs, a calculus will be [shown]  
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2731
+
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2734
+
+
+
+DocID: CACM-1402
+
+of additional [information] as in interpolation [methods]  
+
+
+DocID: CACM-2733
+
+these [methods] involve the use of ambiguous  
+methods of describing the syntax of programming  
+syntactic ambiguities.  it is [shown] how efficient  
+
+
+DocID: CACM-2730
+
+
+
+DocID: CACM-1409
+
+unusual arrangement of [information] within the 22 mc  
+
+
+DocID: CACM-1408
+
+accessing for drums so defined.  this is [shown] to  
+specific use, the [methods] underlying it have more general applicability.  
+
+
+DocID: CACM-2739
+
+
+
+DocID: CACM-1416
+
+tape file; the extraction of nonstandard sets of [information]  
+forms design.  a method of [information] extraction involving  
+
+
+DocID: CACM-2747
+
+
+
+DocID: CACM-1415
+
+toward conducting automatic [retrieval] of natural  
+message [retrieval] systems, they may have practical  
+
+
+DocID: CACM-2746
+
+search, [information] [retrieval] text-editing,  
+efficient string matching: an aid to [bibliographic] search  
+improve the speed of a library bibliographic  
+
+
+DocID: CACM-1418
+
+
+
+DocID: CACM-2749
+
+mathematical [model] for the trade-off in the  
+the [model] aids in choosing between the two simulation  
+methods for a particular experiment.  it is concluded  
+
+
+DocID: CACM-1417
+
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+the banking [information] system concept  
+facilitate cross referencing of account information  
+more complex combinations of [information] for  
+
+
+DocID: CACM-2743
+
+
+
+DocID: CACM-1411
+
+
+
+DocID: CACM-2742
+
+
+
+DocID: CACM-1414
+
+twelve-row punched-card code for information  
+
+
+DocID: CACM-2745
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-1410
+
+
+
+DocID: CACM-2741
+
+a step-by-step approach to [model] the dynamic  
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-1419
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-2713
+
+
+
+DocID: CACM-2716
+
+relational database, database optimization, inverted  
+
+
+DocID: CACM-2715
+
+relational [model] query language, nonprocedural language,  
+the relational [model] of data, the xrm relational  
+
+
+DocID: CACM-2710
+
+casual user, relational data [model] tabular  
+shown to be relationally complete; however, it avoids  
+is based on the relational [model] of data, and is  
+
+
+DocID: CACM-2712
+
+also [shown] how mean queue size and throughput an be obtained  
+
+
+DocID: CACM-2711
+
+automatic [information] [retrieval] automatic  
+the usefulness of the [model]  
+typical evaluation results are [shown] demonstrating  
+
+
+DocID: CACM-2718
+
+network [model] of databases, data base task group, database  
+
+
+DocID: CACM-2717
+
+
+
+DocID: CACM-2719
+
+
+
+DocID: CACM-2725
+
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+
+
+DocID: CACM-2726
+
+to a human reader.   it will be [shown] that objectives  
+ 3  and  4  can be furthered with the above [methods]  
+ 1 ,  3 , and  4  in deciding whether to use the above [methods]  
+
+
+DocID: CACM-2721
+
+mathematical [model] for and the digital simulation  
+of the accuracy of the simulation [methods] a simulation  
+
+
+DocID: CACM-2720
+
+model with service time of a disk drive represented  
+
+
+DocID: CACM-2723
+
+
+
+DocID: CACM-2722
+
+associative [retrieval] binary [search] trees, key,  
+attribute, [information] [retrieval] system, nearest  
+information to be retrieved by associative searches.  
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-2728
+
+consecutive, [retrieval] storage, file, records, query, redundancy, key  
+

@@ -1,0 +1,407 @@
+LUCENE_NoStopNoStem
+
+Query
+Intermediate languages used in construction of multi-targeted compilers; TCOLL
+
+Top 100 Results (107 millisecs)
+
+
+DocID: CACM-1988
+
+
+
+DocID: CACM-2061
+
+
+
+DocID: CACM-2112
+
+
+
+DocID: CACM-2921
+
+
+
+DocID: CACM-0252
+
+
+
+DocID: CACM-1496
+
+
+
+DocID: CACM-0205
+
+
+
+DocID: CACM-2411
+
+
+
+DocID: CACM-1154
+
+
+
+DocID: CACM-3102
+
+
+
+DocID: CACM-1223
+
+
+
+DocID: CACM-1387
+
+
+
+DocID: CACM-1723
+
+
+
+DocID: CACM-2579
+
+
+
+DocID: CACM-0637
+
+
+
+DocID: CACM-3115
+
+
+
+DocID: CACM-3030
+
+
+
+DocID: CACM-1788
+
+
+
+DocID: CACM-3130
+
+
+
+DocID: CACM-1029
+
+
+
+DocID: CACM-1787
+
+
+
+DocID: CACM-2684
+
+
+
+DocID: CACM-3093
+
+
+
+DocID: CACM-2939
+
+
+
+DocID: CACM-2732
+
+
+
+DocID: CACM-1807
+
+
+
+DocID: CACM-0799
+
+
+
+DocID: CACM-2886
+
+
+
+DocID: CACM-2867
+
+
+
+DocID: CACM-1533
+
+
+
+DocID: CACM-3099
+
+
+
+DocID: CACM-1350
+
+
+
+DocID: CACM-1852
+
+
+
+DocID: CACM-3171
+
+
+
+DocID: CACM-2929
+
+
+
+DocID: CACM-1134
+
+
+
+DocID: CACM-1947
+
+
+
+DocID: CACM-2138
+
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-0303
+
+
+
+DocID: CACM-2746
+
+
+
+DocID: CACM-2603
+
+
+
+DocID: CACM-2534
+
+
+
+DocID: CACM-3124
+
+
+
+DocID: CACM-1484
+
+
+
+DocID: CACM-1135
+
+
+
+DocID: CACM-1835
+
+
+
+DocID: CACM-3105
+
+
+
+DocID: CACM-1783
+
+
+
+DocID: CACM-2210
+
+
+
+DocID: CACM-1003
+
+
+
+DocID: CACM-1392
+
+
+
+DocID: CACM-1565
+
+
+
+DocID: CACM-0464
+
+
+
+DocID: CACM-1457
+
+
+
+DocID: CACM-1386
+
+
+
+DocID: CACM-2652
+
+
+
+DocID: CACM-1572
+
+
+
+DocID: CACM-2316
+
+
+
+DocID: CACM-0265
+
+
+
+DocID: CACM-2295
+
+
+
+DocID: CACM-1976
+
+
+
+DocID: CACM-2990
+
+
+
+DocID: CACM-2424
+
+
+
+DocID: CACM-2873
+
+
+
+DocID: CACM-2254
+
+
+
+DocID: CACM-2666
+
+
+
+DocID: CACM-1456
+
+
+
+DocID: CACM-0070
+
+
+
+DocID: CACM-1671
+
+
+
+DocID: CACM-2111
+
+
+
+DocID: CACM-2718
+
+
+
+DocID: CACM-1194
+
+
+
+DocID: CACM-2372
+
+
+
+DocID: CACM-2470
+
+
+
+DocID: CACM-2542
+
+
+
+DocID: CACM-1062
+
+
+
+DocID: CACM-1007
+
+
+
+DocID: CACM-3077
+
+
+
+DocID: CACM-1348
+
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-2871
+
+
+
+DocID: CACM-2341
+
+
+
+DocID: CACM-1309
+
+
+
+DocID: CACM-1314
+
+
+
+DocID: CACM-1306
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-3101
+
+
+
+DocID: CACM-0661
+
+
+
+DocID: CACM-1098
+
+
+
+DocID: CACM-2179
+
+
+
+DocID: CACM-2320
+
+
+
+DocID: CACM-1678
+
+
+
+DocID: CACM-2870
+
+
+
+DocID: CACM-1869
+
+
+
+DocID: CACM-1682
+
+
+
+DocID: CACM-2904
+
+
+
+DocID: CACM-2551
+
+
+
+DocID: CACM-2658
+
+
+
+DocID: CACM-2423
+
+

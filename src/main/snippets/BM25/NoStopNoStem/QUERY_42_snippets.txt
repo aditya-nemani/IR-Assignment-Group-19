@@ -1,0 +1,653 @@
+BM25_NoStopNoStem
+
+Query
+computer performance evaluation techniques using portion recognitionand clustering.
+
+     la    7:03
+
+Top 100 Results (94 millisecs)
+
+
+DocID: CACM-1653
+
+evaluation and in the development of [evaluation] methods is explored.  
+evaluation is reviewed and [evaluation] goals and  
+system [performance] [evaluation] survey and appraisal  
+
+
+DocID: CACM-2318
+
+the role of [computer] system models in [performance] evaluation  
+computer system [performance]  this paper  
+methods for evaluating the [performance] of computer  
+
+
+DocID: CACM-1030
+
+techniques for the simulation of [computer] logic  
+characterize the [computer] being simulated constitutes  
+integral part of most [computer] design automation  
+
+
+DocID: CACM-2894
+
+of [computer] [performance] instead of the more  
+performance, external measurement, methodology,  
+evaluation of results, is included.  
+
+
+DocID: CACM-2984
+
+computer system, [performance] [evaluation] cost/utilization, system balance  
+performance.  
+cost/utilization: a measure of system performance  
+
+
+DocID: CACM-2991
+
+hashing, hashing [techniques] hashing methods, hash  
+clustering, information retrieval, open addressing, open  
+lead to improved file [performance] for secondary  
+
+
+DocID: CACM-3089
+
+and system [performance] evaluation  
+procedures, checking [techniques] reliability  
+principal [performance] measures, including availability,  
+
+
+DocID: CACM-2319
+
+computer system, operating system, performance  
+evaluation, [performance] measurement, measurement,  
+operating system performance  
+
+
+DocID: CACM-2542
+
+is proposed.  a system which integrates [performance] evaluation  
+software [evaluation] compilers, system programming,  
+a software design and [evaluation] system  
+
+
+DocID: CACM-2494
+
+computer graphics, cluster analysis, numerical  
+taxonomy, hierarchical [clustering] factor analysis  
+a [computer] generated graphic method, which  
+
+
+DocID: CACM-0276
+
+is concerned with the application of computer  
+techniques to the activities of certain headquarters  
+of the design plan of the core allocation portion  
+
+
+DocID: CACM-1938
+
+evaluation.  
+quantitative time-sharing system performance  
+time-sharing [performance] criteria, time-sharing  
+
+
+DocID: CACM-2437
+
+randomization [performance] analysis  
+general [performance] analysis of key-to-address  
+of [performance] of the various key-to-address  
+
+
+DocID: CACM-1719
+
+illustrated by carrying out a [portion] of the performance  
+system cost [performance] ratio  
+optimizing real-time system performance  
+
+
+DocID: CACM-3070
+
+performance [evaluation] simulation, queueing  
+hybrid simulation models of [computer] systems  
+discrete-event simulation and analytic [techniques] are  
+
+
+DocID: CACM-2641
+
+clustering, pattern recognition, feature  
+a minimal spanning tree [clustering] method [z]  algorithm a479   
+
+
+DocID: CACM-3048
+
+performance [evaluation] deterministic simulation,  
+for [performance] [evaluation] of alternative  
+performance [evaluation] of highly concurrent  
+
+
+DocID: CACM-2107
+
+code eliminating secondary clustering  
+hashing, hash code, scatter storage, calculated address, [clustering]  
+secondary [clustering] as a cause of hash code inefficiency is discussed, and a  
+
+
+DocID: CACM-2990
+
+the [performance] of information retrieval systems  
+study, retrieval [evaluation] is based on optimizing the  
+on measuring the retrieval [performance] of an average  
+
+
+DocID: CACM-1931
+
+interval arithmetic determinant evaluation  
+mathematical proof by computer  
+determinant [evaluation] chebyshev system,  
+
+
+DocID: CACM-1908
+
+on-line vs off-line [performance] decision-making [performance]  
+time-sharing vs batch-processing, user [performance]  
+using time-sharing and batch-processing computer  
+
+
+DocID: CACM-0123
+
+rand univac countess [computer] this compiler  
+ca601112 jb march 20, 1978  [7:03] pm  
+
+
+DocID: CACM-2268
+
+a study comparing the [performance] of several computer  
+rational extrapolation showed the best [performance]  
+a comparative study of [computer] programs  
+
+
+DocID: CACM-3119
+
+performance [evaluation] queueing models  
+simple queueing models are used to study the [performance] tradeoffs of  
+
+
+DocID: CACM-1564
+
+saved by using queueing [techniques] and extensive  
+generator [portion] of the detab/65 preprocessor.  the  
+
+
+DocID: CACM-3078
+
+on-line [computer] system.  
+systems using [computer] aided algebra  
+analysis of the availability of computer  
+
+
+DocID: CACM-0893
+
+solution, determinant [evaluation] and matrix  
+significance arithmetic on a digital computer  
+examples include power series [evaluation] linear equations  
+
+
+DocID: CACM-2561
+
+inference, inductive inference, [clustering] fact retrieval, heuristics  
+data base using nonnumerical [clustering] algorithms.  they  
+
+
+DocID: CACM-2789
+
+a minimal spanning tree [clustering] method  algorithm r479   
+
+
+DocID: CACM-0961
+
+techniques are developed for manipulating bits  
+using only fortran ii.  these [techniques] allow  
+
+
+DocID: CACM-0851
+
+techniques  
+new [techniques] for sorting fixed-length records  
+of memory.  specifically, the [techniques] sequence  
+
+
+DocID: CACM-2344
+
+effect on system [performance]  system performance  
+measure of [performance] scheduling algorithms  
+affect system [performance] in a predictable  
+
+
+DocID: CACM-2370
+
+recognition,and image processing are presented.  
+digital [computer] dot-mode and vector displays,  
+
+
+DocID: CACM-1870
+
+some [techniques] for using pseudorandom numbers in [computer] simulation  
+value.  [techniques] for making use of such "numbers"  
+
+
+DocID: CACM-0104
+
+computer to simulate such systems utilizes some  
+techniques not common in other approaches to physical  
+problems.  the principal [portion] of the paper is  
+
+
+DocID: CACM-2720
+
+disk drive hierarchies, system [evaluation] input/output,  
+analytical [techniques]  using standard queueing  
+
+
+DocID: CACM-2258
+
+techniques: a fundamental [performance] study on  
+hashing, hashing [techniques] hashing methods, hash  
+
+
+DocID: CACM-2902
+
+memory management, programming [techniques] simulation,  
+simulation memory management, simulation [techniques]  
+this paper investigates the [performance] of  
+
+
+DocID: CACM-1439
+
+a major [portion] of this process.  the [techniques] developed  
+
+
+DocID: CACM-1050
+
+on operating program using these [techniques]  
+
+
+DocID: CACM-3091
+
+programmer [evaluation] programmer scheduling,  
+programmer [performance] standards, predicting program  
+development time, program estimation [techniques]  
+
+
+DocID: CACM-1805
+
+equipment  [evaluation] hardware, [evaluation]  
+performance, time sharing, time slicing  
+a mode of [computer] operation in which two or more  
+
+
+DocID: CACM-2452
+
+file organization [performance] file organization  
+of data base structure design and [evaluation]  
+affect file  data base  organization [performance]  
+
+
+DocID: CACM-2882
+
+database architecture, database [performance] and  
+evaluation, invented list, threaded list, cellular  
+a stochastic [evaluation] model for database  
+
+
+DocID: CACM-2575
+
+document retrieval, best match, [clustering] file  
+
+
+DocID: CACM-0436
+
+evaluation of polynomials by computer  
+
+
+DocID: CACM-1827
+
+performance, software measurement, time-sharing [performance]  
+performance monitoring, [performance] measurement,  
+program behavior, [performance] data, multiprogramming  
+
+
+DocID: CACM-2634
+
+several hundred college and university computer  
+an [evaluation] of statistical software in the social sciences  
+and the results are summarized as to cost and [performance]  
+
+
+DocID: CACM-2974
+
+hash address, primary [clustering] index,  
+
+
+DocID: CACM-2251
+
+storage, hash table, key, hash address, [clustering]  
+practically eliminates primary [clustering] at a very low cost.  
+
+
+DocID: CACM-2451
+
+tree file, information storage and retrieval, [clustering]  
+performance and that of an intuitively attractive  
+techniques.  on the other hand, it is potentially  
+
+
+DocID: CACM-1785
+
+scatter storage techniques  
+scatter storage [techniques] as a method for  
+most useful variants of the [techniques] are documented.  
+
+
+DocID: CACM-1992
+
+clustering, search, symbol table, keys, table look-up  
+
+
+DocID: CACM-0827
+
+sorting [techniques] using an ibm 1401 with  
+
+
+DocID: CACM-2862
+
+the [performance] of the pff algorithm.  
+of the [performance] of the replacement algorithm  
+the [performance] of the page fault frequency  pff   
+
+
+DocID: CACM-2716
+
+performance of a particular user query is described.  
+optimizing the [performance] of a relational algebra database interface  
+the basic idea is to employ automatic programming techniques  
+
+
+DocID: CACM-2375
+
+performance two-policy algorithm are discussed.  
+performance including system oriented and individual  
+performance criteria, peripheral memory devices, real-time  
+
+
+DocID: CACM-2741
+
+multiprogramming, paging, [performance] [evaluation]  
+behavior and evaluate the [performance] of computing  
+
+
+DocID: CACM-2571
+
+hasp, os/360, dispatching, scheduling, modeling, [performance] evaluation  
+of the monitor in improving system [performance]  a  
+
+
+DocID: CACM-1792
+
+performance, debugging effectiveness, time sharing  
+programmer trainee [performance] basic programming  
+performance under controlled conditions for standard  
+
+
+DocID: CACM-2812
+
+and [performance] [evaluation]  there are four major  
+of applications software design, [computer] selection  
+and [performance] evaluator. the statement of requirements  
+
+
+DocID: CACM-1526
+
+computer system using a page on demand strategy  
+performance  measured by the average usage of  
+
+
+DocID: CACM-1108
+
+digital [computer] that extracts the measurements and  
+an optical sensor, digital [computer] and tracker  
+a study of lunar tracking [techniques] and fabrication  
+
+
+DocID: CACM-2109
+
+clustering, scatter storage, file searching, file  
+to avoid the [clustering] usually encountered when hash address collisions  
+
+
+DocID: CACM-0678
+
+simulation.  the [techniques] are applicable to any general-purpose [computer]  
+executed on the "host" [computer]  [techniques] are  
+optimizing bit-time [computer] simulation  
+
+
+DocID: CACM-2849
+
+computer networks, packet switching, multiprocessing,  
+computer networks or loosely coupled multiprocessors.  
+ethernet: distributed packet switching for local [computer] networks  
+
+
+DocID: CACM-1534
+
+made of the validity of various design decisions.  performance  
+of the system.  the [techniques] found useful in the development  
+
+
+DocID: CACM-2018
+
+hash code, [clustering] collisions  
+of the [clustering] experienced with a linear search method.  the simple  
+
+
+DocID: CACM-2892
+
+performance [evaluation] and efficiency, resource sharing  
+arpanet, [computer] communication networks, interprocess  
+
+
+DocID: CACM-2017
+
+performance [evaluation] memory management  
+the experimental sort programs and analysis of the performance  
+
+
+DocID: CACM-2203
+
+key-to-address transform [techniques] a fundamental  
+hashing, hashing [techniques] hashing methods, hash  
+performance study on large existing formatted  
+
+
+DocID: CACM-2048
+
+definite integral [evaluation] adaptive numerical in tegration, newton-cotes  
+this report compares the [performance] of five different adaptive quadrature  
+
+
+DocID: CACM-2798
+
+memory [performance] analysis, blockage buffer,  
+the [performance] of various system structures,  
+to the memory system.  [performance] is measured  
+
+
+DocID: CACM-2535
+
+performance of the [computer]  model , in the sense  
+computer communications, time-sharing, multiplexing,  
+and, consequently, affects the performance  
+
+
+DocID: CACM-1543
+
+techniques involved, a digital [computer] has been used  
+prepared for this purpose the [computer] will  
+and a [computer] language designed to facilitate  
+
+
+DocID: CACM-1435
+
+of variance [techniques] three other techniques  
+of [computer] simulation experiments for industrial  
+problems and several [techniques] for solving them.  
+
+
+DocID: CACM-0860
+
+sort [techniques] is developed for computer  
+and tape drives for the two [techniques]  
+a comparison between the polyphase and oscillating sort techniques  
+
+
+DocID: CACM-1374
+
+evaluation of determinant; determinant  
+evaluation  algorithms 41[f3]; 269[f3]   
+
+
+DocID: CACM-3072
+
+in the multiprogramming- multiprocessor computer  
+schedulers are shown to improve system performance  
+and trace-driven [techniques]  even relatively simple dynamic  
+
+
+DocID: CACM-2988
+
+memory management, system [performance] queueing  
+network models, in teractive [computer] systems  
+in queueing network models of [computer] systems.  
+
+
+DocID: CACM-2859
+
+results provide a good indication of the performance  
+interference in multiprocessor [computer] systems with interleaved memory  
+
+
+DocID: CACM-2683
+
+assistance.  this paper discusses techniques  
+of [techniques] are considered:  1  heuristic  
+classes of loop predicates by an [evaluation] on the weak interpretation.  
+
+
+DocID: CACM-2871
+
+most present systems for verification of computer  
+the first part of the paper is devoted to techniques  
+
+
+DocID: CACM-2951
+
+evaluation tools are employed to investigate  
+response time monitor, [computer] networks, time-sharing  
+dynamic response time prediction for [computer] networks  
+
+
+DocID: CACM-0462
+
+computer pattern recognition [techniques] electrocardiographic diagnosis  
+comparisons between machine and human performance  
+
+
+DocID: CACM-1973
+
+time per probe and using few probes per lookup.  performance  
+
+
+DocID: CACM-2454
+
+iterative [techniques] which are highly efficient  
+order of [evaluation] are examined in some detail.  
+
+
+DocID: CACM-1689
+
+function [evaluation] polynomial [evaluation]  
+
+
+DocID: CACM-2421
+
+the next [portion]  because of the list processing  
+for a group of scan lines.  when this portion  
+
+
+DocID: CACM-3169
+
+query, boolean expression, optimal [evaluation] information retrieval  
+note on "an optimal [evaluation] of boolean expressions  
+
+
+DocID: CACM-1940
+
+function, [evaluation] polynomial [evaluation]  
+
+
+DocID: CACM-2326
+
+verification [techniques] semantics of programming  
+verification [techniques] but also their extension to the  
+of [computer] programs, including correctness, termination, and equivalence.  
+
+
+DocID: CACM-1620
+
+in function [evaluation] routines  
+approximation polynomials.  new polynomial evaluation  
+used in function [evaluation] routines to evaluate  
+
+
+DocID: CACM-1642
+
+techniques to make time sharing attractive on  
+the [techniques] depend on having two levels of secondary  
+time sharing on a [computer] with a small memory  
+
+
+DocID: CACM-0058
+
+digital [computer] using contactless magnetic  ferrite   
+computer using magnetic  ferrite  elements  
+
+
+DocID: CACM-2829
+
+using these new [techniques] are included.  
+texture and reflection in [computer] generated images  
+computer graphics, graphic display, shading, hidden surface removal  
+
+
+DocID: CACM-1334
+
+fortran, using simple array manipulation techniques  
+a [computer] program has been written to generate  
+
+
+DocID: CACM-1278
+
+machine [evaluation] of the partial derivatives of a function  
+
+
+DocID: CACM-1542
+
+performance obtained.  the role of microprogramming  
+efficiently by microprograms on existing [computer] hardware.  
+
+
+DocID: CACM-0175
+
+computer  
+

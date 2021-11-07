@@ -1,0 +1,411 @@
+LUCENE_NoStopNoStem
+
+Query
+I'm interested in mechanisms for communicating between disjoint processes,
+possibly, but not exclusively, in a distributed environment.  I would
+rather see descriptions of complete mechanisms, with or without implementations,
+as opposed to theoretical work on the abstract problem.  Remote procedure
+calls and message-passing are examples of my interests.
+
+Top 100 Results (157 millisecs)
+
+
+DocID: CACM-2342
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-3128
+
+
+
+DocID: CACM-2377
+
+
+
+DocID: CACM-1135
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-2060
+
+
+
+DocID: CACM-3043
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-2438
+
+
+
+DocID: CACM-2905
+
+
+
+DocID: CACM-2851
+
+
+
+DocID: CACM-2939
+
+
+
+DocID: CACM-2895
+
+
+
+DocID: CACM-2684
+
+
+
+DocID: CACM-3141
+
+
+
+DocID: CACM-1727
+
+
+
+DocID: CACM-2848
+
+
+
+DocID: CACM-2969
+
+
+
+DocID: CACM-3021
+
+
+
+DocID: CACM-1665
+
+
+
+DocID: CACM-3103
+
+
+
+DocID: CACM-2900
+
+
+
+DocID: CACM-3105
+
+
+
+DocID: CACM-3049
+
+
+
+DocID: CACM-2439
+
+
+
+DocID: CACM-1145
+
+
+
+DocID: CACM-2519
+
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-0409
+
+
+
+DocID: CACM-1253
+
+
+
+DocID: CACM-3148
+
+
+
+DocID: CACM-1458
+
+
+
+DocID: CACM-2233
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-1470
+
+
+
+DocID: CACM-2767
+
+
+
+DocID: CACM-1742
+
+
+
+DocID: CACM-2916
+
+
+
+DocID: CACM-0724
+
+
+
+DocID: CACM-2929
+
+
+
+DocID: CACM-1651
+
+
+
+DocID: CACM-1908
+
+
+
+DocID: CACM-2840
+
+
+
+DocID: CACM-1846
+
+
+
+DocID: CACM-1829
+
+
+
+DocID: CACM-2865
+
+
+
+DocID: CACM-0321
+
+
+
+DocID: CACM-0435
+
+
+
+DocID: CACM-1014
+
+
+
+DocID: CACM-2940
+
+
+
+DocID: CACM-3069
+
+
+
+DocID: CACM-3056
+
+
+
+DocID: CACM-1588
+
+
+
+DocID: CACM-2406
+
+
+
+DocID: CACM-1626
+
+
+
+DocID: CACM-1534
+
+
+
+DocID: CACM-1536
+
+
+
+DocID: CACM-2692
+
+
+
+DocID: CACM-1307
+
+
+
+DocID: CACM-1323
+
+
+
+DocID: CACM-1099
+
+
+
+DocID: CACM-3013
+
+
+
+DocID: CACM-3018
+
+
+
+DocID: CACM-2870
+
+
+
+DocID: CACM-2080
+
+
+
+DocID: CACM-1506
+
+
+
+DocID: CACM-3081
+
+
+
+DocID: CACM-1699
+
+
+
+DocID: CACM-3064
+
+
+
+DocID: CACM-2742
+
+
+
+DocID: CACM-1550
+
+
+
+DocID: CACM-1595
+
+
+
+DocID: CACM-2017
+
+
+
+DocID: CACM-2541
+
+
+
+DocID: CACM-2915
+
+
+
+DocID: CACM-1728
+
+
+
+DocID: CACM-2252
+
+
+
+DocID: CACM-2196
+
+
+
+DocID: CACM-1166
+
+
+
+DocID: CACM-1159
+
+
+
+DocID: CACM-2534
+
+
+
+DocID: CACM-1677
+
+
+
+DocID: CACM-2020
+
+
+
+DocID: CACM-2816
+
+
+
+DocID: CACM-1248
+
+
+
+DocID: CACM-2092
+
+
+
+DocID: CACM-1083
+
+
+
+DocID: CACM-3188
+
+
+
+DocID: CACM-2359
+
+
+
+DocID: CACM-1527
+
+
+
+DocID: CACM-2273
+
+
+
+DocID: CACM-1978
+
+
+
+DocID: CACM-3072
+
+
+
+DocID: CACM-2396
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-2932
+
+
+
+DocID: CACM-2946
+
+
+
+DocID: CACM-1143
+
+
+
+DocID: CACM-2450
+
+

@@ -1,0 +1,651 @@
+QL_NoStopNoStem
+
+Query
+community cobol mechanisms in operating systems
+
+Top 100 Results (153 millisecs)
+
+
+DocID: CACM-2840
+
+protection in [operating] systems  
+protection, protection system, operating  
+systems is presented and its appropriateness  
+
+
+DocID: CACM-2020
+
+allocation [mechanisms] charging, computer pricing,  
+illustrative pricing [systems] are also discussed in order to demonstrate the  
+are allocated among the user [community]  one means that is suggested  
+
+
+DocID: CACM-2317
+
+languages, [operating] [systems] programming  
+systems, multiprogramming, history  
+programming [systems] and languages 1965-1975  
+
+
+DocID: CACM-0597
+
+modular data processing [systems] written in cobol  
+
+
+DocID: CACM-2632
+
+of highly secure [systems]  
+operating system, kernel, nucleus, protection, security  
+called an "object".  [mechanisms] are presented  
+
+
+DocID: CACM-1698
+
+statistical models for input-output, operating  
+based on the properties of this community  
+are needed in certain aspects of [operating] system  
+
+
+DocID: CACM-2572
+
+of a [community] information utility  
+group of ultimate users in [systems] design,  
+community information utilities are examined in this  
+
+
+DocID: CACM-2541
+
+new concept for [operating] [systems] separation  
+communication [mechanisms] enabling the construction  
+design of the language, [operating] system,  
+
+
+DocID: CACM-3105
+
+in [operating] [systems] by access control [mechanisms]  this  
+
+
+DocID: CACM-0300
+
+cobol: a sample problem  
+been chosen for presenting [cobol] to users and  
+potential users of computing [systems]  a mythical department  
+
+
+DocID: CACM-2821
+
+cobol under control  
+cobol, structured programming,software development, program standards  
+a sample set of [cobol] programming standards  
+
+
+DocID: CACM-3068
+
+operating [systems] security, protection, program verification  
+here in terms of a general model for [operating] [systems]  
+a model for verification of data security in [operating] systems  
+
+
+DocID: CACM-1461
+
+discussion summary on [operating] systems  
+
+
+DocID: CACM-2626
+
+key [mechanisms] described include access control lists,  
+systems, proprietary programs, protected subsystems, virtual memory, descriptors  
+the design of [mechanisms] to control the sharing  
+
+
+DocID: CACM-2870
+
+of automatic program certification mechanisms  
+of different existing [systems] and facilitate  
+this paper investigates [mechanisms] that guarantee  
+
+
+DocID: CACM-1754
+
+dynamic storage allocation systems  
+storage fragmentation, storage hierarchies, addressing mechanisms  
+systems is included as an appendix.  
+
+
+DocID: CACM-2867
+
+modularization and hierarchy in a family of [operating] systems  
+used in the construction of a family of operating  
+systems. it is shown that the concepts of module and  
+
+
+DocID: CACM-2111
+
+operating [systems] diagnostics, error detection,  
+to compilers and [operating] [systems]  these include the use of syntax  
+misspelling, lexical analysis [systems] programming  
+
+
+DocID: CACM-1728
+
+operating [systems] supervisor simulation, machine  
+behavior, virtual memory [systems] single-level  
+storage, one-level storage, [operating] system simulation,  
+
+
+DocID: CACM-3128
+
+systems, security models, mutual exclusion, semaphores  
+to protection [mechanisms] in the system is explained; in particular,  
+systems.  the mechanism is defined formally, and then several  
+
+
+DocID: CACM-2936
+
+scanning [mechanisms] multilinked lists  
+simulation, time flow [mechanisms] event  
+for general purpose discrete event simulation [systems]  
+
+
+DocID: CACM-1168
+
+across machine lines in cobol  
+program system written in [cobol] is  
+described.  the [cobol] language was used specifically to  
+
+
+DocID: CACM-2151
+
+operating [systems] multiprogramming [systems] time-sharing  
+systems, software measurement, user program  
+software [systems] is followed by a description of  
+
+
+DocID: CACM-1277
+
+the use of [cobol] subroutines in fortran main programs  
+
+
+DocID: CACM-1677
+
+storage organization in programming systems  
+addressing [mechanisms] paging, segmentation, file  
+or programming [systems] simplicity of programmed addressing,  
+
+
+DocID: CACM-0596
+
+floating-point arithmetic in cobol  
+arithmetic are examined and [cobol] procedures  
+
+
+DocID: CACM-1750
+
+operating [systems] control data corporation 6600, [operating] system with ecs  
+multiprogrammed [operating] [systems] multiprocessor  
+multiple computer [systems] extended core storage,  
+
+
+DocID: CACM-3141
+
+decentralized algorithms, distributed [systems] [operating] systems  
+
+
+DocID: CACM-1247
+
+computer programming systems  
+an [operating] environment for dynamic-recursive  
+systems.  the available services include dynamic allocation  
+
+
+DocID: CACM-2198
+
+codasyl [systems] committee  
+generalized data base management [systems]  
+data base management [systems] programming languages,  
+
+
+DocID: CACM-2314
+
+semantics, advanced programming systems  
+data communication [mechanisms]  interactive  
+systems are highlighted: good interactive  
+
+
+DocID: CACM-2390
+
+interactive system, organization of scientific [community]  
+a proposal for a computer-based interactive scientific community  
+
+
+DocID: CACM-2939
+
+abstraction [mechanisms] in clu  
+mechanisms that support the use of data and  
+to the abstraction [mechanisms] in clu.  by  
+
+
+DocID: CACM-2621
+
+operating [systems] time sharing [systems] security, cryptography  
+the protection of time sharing [systems] from  
+
+
+DocID: CACM-1488
+
+programming decision tables in fortran, [cobol] or algol  
+decision tables in fortran or [cobol] is developed  
+or with two [cobol] statements, if the compute verb  
+
+
+DocID: CACM-2887
+
+researchers, which implies that [cobol] misspellings  
+for the learning user of [cobol]  
+errors in programming, error correction, [cobol] programming  
+
+
+DocID: CACM-2372
+
+operating [systems] access management, data banks,  
+system implementation within today's languages and [operating] [systems]  
+management information systems  
+
+
+DocID: CACM-2742
+
+discrete event simulation, simulation, event scanning mechanisms  
+improved event-scanning [mechanisms] for discrete event simulation  
+
+
+DocID: CACM-3028
+
+storage, extra codes, compilers, [operating] [systems]  
+two [systems] stand out: the mark i  developed  
+
+
+DocID: CACM-1485
+
+systems and referencing data.  
+elementary program statement,  2  [mechanisms] for linking  
+
+
+DocID: CACM-2597
+
+monitors, [operating] [systems] scheduling, mutual  
+monitors: an [operating] system structuring concept  
+a monitor as a method of structuring an operating  
+
+
+DocID: CACM-2138
+
+systems programming, data structures  
+bliss: a language for [systems] programming  
+specific machine  the pdp-10 : compilers, operating  
+
+
+DocID: CACM-2080
+
+multiprogramming, [operating] [systems] parallel processes, process concept,  
+that can be extended with a hierarchy of [operating] [systems] to suit diverse  
+
+
+DocID: CACM-2319
+
+operating system performance  
+and computer [systems]  
+computer system, [operating] system, performance  
+
+
+DocID: CACM-2971
+
+programmer education, universities, [community] colleges,  
+
+
+DocID: CACM-3145
+
+in teaching [cobol] programming  
+structured walk-throughs, [cobol] programming, teaching  
+develop student proficiency in writing [cobol] programs.  
+
+
+DocID: CACM-1462
+
+multilevel [operating] systems  
+operating [systems] this implies that all applications-no  
+the [operating] [systems] but at a different level.  
+
+
+DocID: CACM-3025
+
+minicomputer/microcomputer [systems]  
+sharing computing [systems] transferring hardware  
+computer structures, architecture, [operating] system, timesharing  
+
+
+DocID: CACM-1282
+
+by using the proper [cobol] coding techniques and  
+the use of fortran in subroutines with [cobol] main programs  
+be called from [cobol] main programs.  such a technique  
+
+
+DocID: CACM-2069
+
+operating [systems] memory management  
+
+
+DocID: CACM-2358
+
+operating system, multics, virtual memory, segmentation,  
+many contemporary [systems] permit some degree of  
+as experience with use of on-line operating  
+
+
+DocID: CACM-1564
+
+it were developed for [cobol] users, the preprocessor  
+tables into [cobol] code is contained in the  
+simple [cobol] conditional statements.  core storage is  
+
+
+DocID: CACM-1751
+
+multiprogramming, [operating] [systems] program  
+general [operating] system concepts, multiprocessing,  
+in modern computer [systems] is an adequate model for  
+
+
+DocID: CACM-1226
+
+be critical to the system's [operating] efficiency.  
+system.  in many [systems] the selection  
+this paper provides the [systems] designer with an information  
+
+
+DocID: CACM-2377
+
+of protection.  the [mechanisms] for implementing  
+hardware processor [mechanisms] for implementing these rings  
+these rings of protection. the [mechanisms] allow cross-ring  
+
+
+DocID: CACM-2424
+
+operating [systems] data security, fault tolerance,  
+verification, modular computer systems  
+dynamic verification of [operating] system decisions  
+
+
+DocID: CACM-2297
+
+paging machines, demand paging, [operating] systems  
+computer system [operating] under demand paging.  in  
+
+
+DocID: CACM-1747
+
+systems, computer [systems] design, input equipment,  
+input equipment design, [operating] [systems] operating  
+systems design, multiprogramming, multiprogrammed  
+
+
+DocID: CACM-2449
+
+symbol table organization, pl/i and [cobol] structured variables  
+in a nondeterministic manner in pl/i and [cobol] compilers.  
+
+
+DocID: CACM-2629
+
+operating [systems] including:  1  a hierarchical file system  
+operating system for the digital equipment  
+time-sharing, [operating] system, file system, command language, pdp-11  
+
+
+DocID: CACM-3004
+
+techniques for designing and writing [cobol] programs  
+application programming, [cobol] software reliability, program verification  
+verification.  a well-formed [cobol] program is defined.  
+
+
+DocID: CACM-2320
+
+operating [systems] concurrent processes, shared  
+operating [systems] but also within user programs.  
+
+
+DocID: CACM-2522
+
+operating [systems] supervisory systems  
+systems, resource allocation, software evaluation,  
+recent research in time-sharing paging systems  
+
+
+DocID: CACM-2844
+
+mechanisms, priority queues, heaps  
+heaps applied to event driven mechanisms  
+
+
+DocID: CACM-3127
+
+portability, real time, [operating] [systems] minicomputer  
+thoth, a portable real-time [operating] system  
+thoth isa real-time [operating] system which is designed to be portable  
+
+
+DocID: CACM-2721
+
+between the ecological [mechanisms] involved, the  
+river ecosystems, ecological [mechanisms] environmental simulation,  
+
+
+DocID: CACM-2744
+
+cobol display arithmetic, mixed radix arithmetic  
+to [cobol] mix, and hexadecimal sums are discussed.  
+
+
+DocID: CACM-2379
+
+operating [systems] system design, levels of abstraction,  
+the design of the venus [operating] system  
+the venus [operating] system is an experimental  
+
+
+DocID: CACM-1951
+
+operating [systems] optimization models  
+by the exponential distribution are discussed for the [systems] studied.  
+from four operational multiaccess [systems] and the model is shown to  
+
+
+DocID: CACM-0595
+
+guides to teaching cobol  
+the teaching of [cobol] can be divided into  
+for that computer for which he will write [cobol] programs.  
+
+
+DocID: CACM-3064
+
+event simulation, time-flow mechanisms  
+simulation, discrete [systems] simulation, discrete  
+
+
+DocID: CACM-2624
+
+operating system, third generation architecture,  
+virtual machine [systems] have been implemented  
+generation computer [systems] e.g. the dec pdp-10, cannot  
+
+
+DocID: CACM-1680
+
+retrieval [operating] [systems] graphics, displays, man-machine  
+computer-assisted instruction, tutorial [systems]  
+display unit under [operating] system/360.  adept  
+
+
+DocID: CACM-3006
+
+occur in paged virtual memory [operating] systems  
+
+
+DocID: CACM-2482
+
+deadlocks, resource allocation, [operating] [systems]  
+multiprogramming, hierarchical systems  
+based on the concept of the hierarchical operating  
+
+
+DocID: CACM-3026
+
+languages, data management [systems]  
+large-scale main frame computer [systems]  beginning  
+the 1100 series [systems] are sperry univac's  
+
+
+DocID: CACM-2374
+
+and [operating] efficiency over fixed partitioning.  
+systems.  the storage requirement of programs is modeled  
+
+
+DocID: CACM-1236
+
+systems operations and evaluation procedures.  
+operating on the ibm 7094 is described.  the system  
+the system is used not only to simulate an actual operating  
+
+
+DocID: CACM-2036
+
+conditional job control, [operating] systems  
+existing time-sharing [systems] is given.  
+
+
+DocID: CACM-2558
+
+linguistic [mechanisms] which can be used to protect  
+
+
+DocID: CACM-2378
+
+operating [systems] supervisors, multiprogramming,  
+an [operating] system which is organized as a  
+an [operating] system based on the concept of a supervisory computer  
+
+
+DocID: CACM-2950
+
+in real [operating] [systems]  the policy-driven scheduler  
+operating [systems]processor sharing, implementation  
+
+
+DocID: CACM-1892
+
+strategies, [operating] [systems] memory management  
+degree of multiprogramming in page-on-demand systems  
+systems.  the model preserves, as a key feature, the  
+
+
+DocID: CACM-0918
+
+cobol  
+
+
+DocID: CACM-2767
+
+simulation, time flow [mechanisms] event  
+simulation, time flow [mechanisms] event list algorithm,  
+
+
+DocID: CACM-1877
+
+a well-known problem in the design of operating  
+systems is the selection of a resource allocation  
+
+
+DocID: CACM-0602
+
+cobol and compatibility  
+
+
+DocID: CACM-0604
+
+why [cobol]  
+
+
+DocID: CACM-2740
+
+of [operating] [systems]  the project management  
+operating system structure, asynchronous  
+cooperating processes, [operating] system, semaphores,  
+
+
+DocID: CACM-3137
+
+a methodology for the design of distributed information systems  
+various design and [operating] parameters on overall cost per transaction.  
+
+
+DocID: CACM-0322
+
+the problem of [operating] a computer efficiently in  
+view of the growing number of programming systems  
+available.  each of these programming [systems] has been  
+
+
+DocID: CACM-0592
+
+cobol batching problems  
+
+
+DocID: CACM-0483
+
+algol 60 is defined partly by formal mechanisms  
+stated restrictions.  it is shown that no formal mechanisms  
+
+
+DocID: CACM-1324
+
+systems which are programmed and operating  
+into logical calculi.  [systems] are classified  
+about pictures and [systems] which translate from english  
+
+
+DocID: CACM-2972
+
+the method can be applied to large programs, such as [operating] [systems]  
+
+
+DocID: CACM-2184
+
+file, [operating] system, programming language, functions,  
+on the meaning of names in programming systems  
+language and the file names of an [operating] system.  
+
+
+DocID: CACM-0853
+
+the [cobol] sort verb  
+
+
+DocID: CACM-1923
+
+operating [systems] interfaces input-output,  
+
+
+DocID: CACM-1752
+
+time-sharing, [operating] [systems] resource management,  
+resource management for a medium scale time-sharing [operating] system  
+
+
+DocID: CACM-0599
+
+a report writer for cobol  
+

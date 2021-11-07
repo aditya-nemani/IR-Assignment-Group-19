@@ -1,0 +1,410 @@
+LUCENE_NoStopNoStem
+
+Query
+I'd like to find articles describing graph algorithms that are based on
+the eigenvalue decomposition (or singular value decomposition) of the
+ajacency matrix for the graph.  I'm especially interested in any heuristic
+algorithms for graph coloring and graph isomorphism using this method.
+
+Top 100 Results (98 millisecs)
+
+
+DocID: CACM-2177
+
+
+
+DocID: CACM-3139
+
+
+
+DocID: CACM-2289
+
+
+
+DocID: CACM-2368
+
+
+
+DocID: CACM-2630
+
+
+
+DocID: CACM-2883
+
+
+
+DocID: CACM-1145
+
+
+
+DocID: CACM-2484
+
+
+
+DocID: CACM-3156
+
+
+
+DocID: CACM-2490
+
+
+
+DocID: CACM-1847
+
+
+
+DocID: CACM-2619
+
+
+
+DocID: CACM-3018
+
+
+
+DocID: CACM-3040
+
+
+
+DocID: CACM-1563
+
+
+
+DocID: CACM-1504
+
+
+
+DocID: CACM-3164
+
+
+
+DocID: CACM-2980
+
+
+
+DocID: CACM-2408
+
+
+
+DocID: CACM-2877
+
+
+
+DocID: CACM-1727
+
+
+
+DocID: CACM-2155
+
+
+
+DocID: CACM-2697
+
+
+
+DocID: CACM-1721
+
+
+
+DocID: CACM-2178
+
+
+
+DocID: CACM-2524
+
+
+
+DocID: CACM-1961
+
+
+
+DocID: CACM-2015
+
+
+
+DocID: CACM-2695
+
+
+
+DocID: CACM-2986
+
+
+
+DocID: CACM-1905
+
+
+
+DocID: CACM-1172
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-1529
+
+
+
+DocID: CACM-3124
+
+
+
+DocID: CACM-2769
+
+
+
+DocID: CACM-1456
+
+
+
+DocID: CACM-2195
+
+
+
+DocID: CACM-2568
+
+
+
+DocID: CACM-2059
+
+
+
+DocID: CACM-2856
+
+
+
+DocID: CACM-2052
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-2247
+
+
+
+DocID: CACM-3059
+
+
+
+DocID: CACM-2819
+
+
+
+DocID: CACM-2453
+
+
+
+DocID: CACM-2646
+
+
+
+DocID: CACM-1423
+
+
+
+DocID: CACM-3138
+
+
+
+DocID: CACM-1924
+
+
+
+DocID: CACM-3125
+
+
+
+DocID: CACM-2389
+
+
+
+DocID: CACM-1433
+
+
+
+DocID: CACM-2701
+
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-2275
+
+
+
+DocID: CACM-2925
+
+
+
+DocID: CACM-2161
+
+
+
+DocID: CACM-1725
+
+
+
+DocID: CACM-1934
+
+
+
+DocID: CACM-2094
+
+
+
+DocID: CACM-3153
+
+
+
+DocID: CACM-2923
+
+
+
+DocID: CACM-1935
+
+
+
+DocID: CACM-2189
+
+
+
+DocID: CACM-1159
+
+
+
+DocID: CACM-2606
+
+
+
+DocID: CACM-2692
+
+
+
+DocID: CACM-3085
+
+
+
+DocID: CACM-2934
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-3100
+
+
+
+DocID: CACM-2430
+
+
+
+DocID: CACM-1839
+
+
+
+DocID: CACM-1828
+
+
+
+DocID: CACM-3008
+
+
+
+DocID: CACM-1411
+
+
+
+DocID: CACM-1432
+
+
+
+DocID: CACM-2060
+
+
+
+DocID: CACM-2125
+
+
+
+DocID: CACM-1350
+
+
+
+DocID: CACM-1886
+
+
+
+DocID: CACM-3172
+
+
+
+DocID: CACM-2523
+
+
+
+DocID: CACM-2766
+
+
+
+DocID: CACM-1878
+
+
+
+DocID: CACM-2950
+
+
+
+DocID: CACM-2081
+
+
+
+DocID: CACM-2896
+
+
+
+DocID: CACM-3033
+
+
+
+DocID: CACM-2786
+
+
+
+DocID: CACM-2790
+
+
+
+DocID: CACM-2535
+
+
+
+DocID: CACM-2752
+
+
+
+DocID: CACM-2273
+
+
+
+DocID: CACM-2146
+
+
+
+DocID: CACM-2767
+
+
+
+DocID: CACM-1551
+
+
+
+DocID: CACM-1824
+
+

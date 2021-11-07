@@ -1,0 +1,408 @@
+LUCENE_NoStopNoStem
+
+Query
+Security considerations in local networks, network operating systems,
+and distributed systems.
+
+Top 100 Results (110 millisecs)
+
+
+DocID: CACM-2849
+
+
+
+DocID: CACM-2949
+
+
+
+DocID: CACM-2578
+
+
+
+DocID: CACM-2372
+
+
+
+DocID: CACM-3068
+
+
+
+DocID: CACM-1745
+
+
+
+DocID: CACM-3158
+
+
+
+DocID: CACM-3137
+
+
+
+DocID: CACM-3082
+
+
+
+DocID: CACM-3076
+
+
+
+DocID: CACM-2371
+
+
+
+DocID: CACM-2621
+
+
+
+DocID: CACM-2776
+
+
+
+DocID: CACM-3174
+
+
+
+DocID: CACM-3128
+
+
+
+DocID: CACM-1685
+
+
+
+DocID: CACM-2969
+
+
+
+DocID: CACM-1750
+
+
+
+DocID: CACM-2951
+
+
+
+DocID: CACM-2046
+
+
+
+DocID: CACM-1928
+
+
+
+DocID: CACM-3141
+
+
+
+DocID: CACM-2870
+
+
+
+DocID: CACM-3011
+
+
+
+DocID: CACM-3148
+
+
+
+DocID: CACM-1747
+
+
+
+DocID: CACM-1695
+
+
+
+DocID: CACM-2900
+
+
+
+DocID: CACM-1808
+
+
+
+DocID: CACM-2632
+
+
+
+DocID: CACM-2358
+
+
+
+DocID: CACM-2424
+
+
+
+DocID: CACM-3127
+
+
+
+DocID: CACM-2622
+
+
+
+DocID: CACM-2111
+
+
+
+DocID: CACM-0828
+
+
+
+DocID: CACM-2581
+
+
+
+DocID: CACM-2454
+
+
+
+DocID: CACM-3038
+
+
+
+DocID: CACM-3182
+
+
+
+DocID: CACM-1723
+
+
+
+DocID: CACM-3111
+
+
+
+DocID: CACM-0046
+
+
+
+DocID: CACM-2515
+
+
+
+DocID: CACM-2988
+
+
+
+DocID: CACM-1728
+
+
+
+DocID: CACM-3043
+
+
+
+DocID: CACM-2137
+
+
+
+DocID: CACM-2197
+
+
+
+DocID: CACM-2406
+
+
+
+DocID: CACM-1611
+
+
+
+DocID: CACM-1247
+
+
+
+DocID: CACM-2867
+
+
+
+DocID: CACM-2080
+
+
+
+DocID: CACM-2626
+
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-1846
+
+
+
+DocID: CACM-2198
+
+
+
+DocID: CACM-3181
+
+
+
+DocID: CACM-1461
+
+
+
+DocID: CACM-3177
+
+
+
+DocID: CACM-2840
+
+
+
+DocID: CACM-2151
+
+
+
+DocID: CACM-2597
+
+
+
+DocID: CACM-3025
+
+
+
+DocID: CACM-1978
+
+
+
+DocID: CACM-2317
+
+
+
+DocID: CACM-2138
+
+
+
+DocID: CACM-2890
+
+
+
+DocID: CACM-2522
+
+
+
+DocID: CACM-3059
+
+
+
+DocID: CACM-0441
+
+
+
+DocID: CACM-1680
+
+
+
+DocID: CACM-2188
+
+
+
+DocID: CACM-2069
+
+
+
+DocID: CACM-1844
+
+
+
+DocID: CACM-3070
+
+
+
+DocID: CACM-1951
+
+
+
+DocID: CACM-2950
+
+
+
+DocID: CACM-1751
+
+
+
+DocID: CACM-2379
+
+
+
+DocID: CACM-1032
+
+
+
+DocID: CACM-3133
+
+
+
+DocID: CACM-3026
+
+
+
+DocID: CACM-2712
+
+
+
+DocID: CACM-1811
+
+
+
+DocID: CACM-3028
+
+
+
+DocID: CACM-2629
+
+
+
+DocID: CACM-3021
+
+
+
+DocID: CACM-2320
+
+
+
+DocID: CACM-1664
+
+
+
+DocID: CACM-2319
+
+
+
+DocID: CACM-2541
+
+
+
+DocID: CACM-3023
+
+
+
+DocID: CACM-3032
+
+
+
+DocID: CACM-2614
+
+
+
+DocID: CACM-2407
+
+
+
+DocID: CACM-2470
+
+
+
+DocID: CACM-1462
+
+
+
+DocID: CACM-2892
+
+

@@ -1,0 +1,407 @@
+LUCENE_NoStopNoStem
+
+Query
+Modelling and simulation in agricultural ecosystems.
+
+Top 100 Results (18 millisecs)
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-2749
+
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-1870
+
+
+
+DocID: CACM-3070
+
+
+
+DocID: CACM-1928
+
+
+
+DocID: CACM-2902
+
+
+
+DocID: CACM-2767
+
+
+
+DocID: CACM-2218
+
+
+
+DocID: CACM-1912
+
+
+
+DocID: CACM-1890
+
+
+
+DocID: CACM-3064
+
+
+
+DocID: CACM-3048
+
+
+
+DocID: CACM-2798
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-1637
+
+
+
+DocID: CACM-1805
+
+
+
+DocID: CACM-2261
+
+
+
+DocID: CACM-2936
+
+
+
+DocID: CACM-3051
+
+
+
+DocID: CACM-0605
+
+
+
+DocID: CACM-2970
+
+
+
+DocID: CACM-1288
+
+
+
+DocID: CACM-1572
+
+
+
+DocID: CACM-1728
+
+
+
+DocID: CACM-1680
+
+
+
+DocID: CACM-2318
+
+
+
+DocID: CACM-3107
+
+
+
+DocID: CACM-2262
+
+
+
+DocID: CACM-2911
+
+
+
+DocID: CACM-1427
+
+
+
+DocID: CACM-1199
+
+
+
+DocID: CACM-0104
+
+
+
+DocID: CACM-1329
+
+
+
+DocID: CACM-2344
+
+
+
+DocID: CACM-0238
+
+
+
+DocID: CACM-0643
+
+
+
+DocID: CACM-2918
+
+
+
+DocID: CACM-2955
+
+
+
+DocID: CACM-1653
+
+
+
+DocID: CACM-1253
+
+
+
+DocID: CACM-1030
+
+
+
+DocID: CACM-2734
+
+
+
+DocID: CACM-2882
+
+
+
+DocID: CACM-1165
+
+
+
+DocID: CACM-1484
+
+
+
+DocID: CACM-2829
+
+
+
+DocID: CACM-2967
+
+
+
+DocID: CACM-0633
+
+
+
+DocID: CACM-1234
+
+
+
+DocID: CACM-1674
+
+
+
+DocID: CACM-2742
+
+
+
+DocID: CACM-2276
+
+
+
+DocID: CACM-2057
+
+
+
+DocID: CACM-2542
+
+
+
+DocID: CACM-2951
+
+
+
+DocID: CACM-1811
+
+
+
+DocID: CACM-2914
+
+
+
+DocID: CACM-0678
+
+
+
+DocID: CACM-1856
+
+
+
+DocID: CACM-1845
+
+
+
+DocID: CACM-1380
+
+
+
+DocID: CACM-1711
+
+
+
+DocID: CACM-1518
+
+
+
+DocID: CACM-1695
+
+
+
+DocID: CACM-1591
+
+
+
+DocID: CACM-2862
+
+
+
+DocID: CACM-3042
+
+
+
+DocID: CACM-1933
+
+
+
+DocID: CACM-2859
+
+
+
+DocID: CACM-2233
+
+
+
+DocID: CACM-2535
+
+
+
+DocID: CACM-0675
+
+
+
+DocID: CACM-2188
+
+
+
+DocID: CACM-2890
+
+
+
+DocID: CACM-2106
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-2077
+
+
+
+DocID: CACM-1879
+
+
+
+DocID: CACM-2628
+
+
+
+DocID: CACM-1541
+
+
+
+DocID: CACM-2272
+
+
+
+DocID: CACM-1261
+
+
+
+DocID: CACM-1435
+
+
+
+DocID: CACM-2682
+
+
+
+DocID: CACM-0557
+
+
+
+DocID: CACM-1426
+
+
+
+DocID: CACM-2452
+
+
+
+DocID: CACM-1846
+
+
+
+DocID: CACM-1207
+
+
+
+DocID: CACM-0757
+
+
+
+DocID: CACM-1208
+
+
+
+DocID: CACM-2375
+
+
+
+DocID: CACM-2091
+
+
+
+DocID: CACM-2652
+
+
+
+DocID: CACM-2105
+
+
+
+DocID: CACM-1166
+
+
+
+DocID: CACM-3061
+
+
+
+DocID: CACM-2725
+
+
+
+DocID: CACM-1812
+
+

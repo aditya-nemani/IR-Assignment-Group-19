@@ -1,0 +1,411 @@
+LUCENE_NoStopNoStem
+
+Query
+Hardware and software relating to database management systems.
+Database packages, back end computers, special associative hardware
+with microcomputers attached to disk heads or things like RAP, 
+relational or network (CODASYL) or hierarchical models, systems
+like SYSTEM R, IMS, ADABAS, TOTAL, etc.
+
+Top 100 Results (25 millisecs)
+
+
+DocID: CACM-3087
+
+
+
+DocID: CACM-3026
+
+
+
+DocID: CACM-2967
+
+
+
+DocID: CACM-3142
+
+
+
+DocID: CACM-0695
+
+
+
+DocID: CACM-2424
+
+
+
+DocID: CACM-1844
+
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-1572
+
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-2016
+
+
+
+DocID: CACM-1750
+
+
+
+DocID: CACM-2311
+
+
+
+DocID: CACM-1083
+
+
+
+DocID: CACM-2593
+
+
+
+DocID: CACM-3202
+
+
+
+DocID: CACM-2828
+
+
+
+DocID: CACM-2812
+
+
+
+DocID: CACM-2738
+
+
+
+DocID: CACM-3158
+
+
+
+DocID: CACM-1774
+
+
+
+DocID: CACM-2516
+
+
+
+DocID: CACM-0698
+
+
+
+DocID: CACM-1518
+
+
+
+DocID: CACM-2379
+
+
+
+DocID: CACM-3025
+
+
+
+DocID: CACM-2147
+
+
+
+DocID: CACM-2342
+
+
+
+DocID: CACM-2421
+
+
+
+DocID: CACM-1462
+
+
+
+DocID: CACM-3049
+
+
+
+DocID: CACM-2358
+
+
+
+DocID: CACM-3112
+
+
+
+DocID: CACM-2138
+
+
+
+DocID: CACM-2046
+
+
+
+DocID: CACM-1962
+
+
+
+DocID: CACM-3136
+
+
+
+DocID: CACM-2486
+
+
+
+DocID: CACM-2988
+
+
+
+DocID: CACM-1325
+
+
+
+DocID: CACM-3137
+
+
+
+DocID: CACM-2536
+
+
+
+DocID: CACM-2817
+
+
+
+DocID: CACM-3092
+
+
+
+DocID: CACM-3030
+
+
+
+DocID: CACM-2876
+
+
+
+DocID: CACM-2188
+
+
+
+DocID: CACM-1754
+
+
+
+DocID: CACM-3056
+
+
+
+DocID: CACM-2882
+
+
+
+DocID: CACM-2710
+
+
+
+DocID: CACM-1805
+
+
+
+DocID: CACM-2625
+
+
+
+DocID: CACM-0670
+
+
+
+DocID: CACM-2852
+
+
+
+DocID: CACM-2396
+
+
+
+DocID: CACM-3011
+
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-3089
+
+
+
+DocID: CACM-1589
+
+
+
+DocID: CACM-2888
+
+
+
+DocID: CACM-2198
+
+
+
+DocID: CACM-1409
+
+
+
+DocID: CACM-2718
+
+
+
+DocID: CACM-2247
+
+
+
+DocID: CACM-2380
+
+
+
+DocID: CACM-2151
+
+
+
+DocID: CACM-2298
+
+
+
+DocID: CACM-2680
+
+
+
+DocID: CACM-2816
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-2319
+
+
+
+DocID: CACM-2398
+
+
+
+DocID: CACM-1711
+
+
+
+DocID: CACM-2720
+
+
+
+DocID: CACM-2928
+
+
+
+DocID: CACM-2951
+
+
+
+DocID: CACM-3070
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-3127
+
+
+
+DocID: CACM-1698
+
+
+
+DocID: CACM-1602
+
+
+
+DocID: CACM-2715
+
+
+
+DocID: CACM-1264
+
+
+
+DocID: CACM-2786
+
+
+
+DocID: CACM-1747
+
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-2669
+
+
+
+DocID: CACM-2359
+
+
+
+DocID: CACM-2059
+
+
+
+DocID: CACM-2634
+
+
+
+DocID: CACM-2277
+
+
+
+DocID: CACM-2846
+
+
+
+DocID: CACM-1892
+
+
+
+DocID: CACM-2375
+
+
+
+DocID: CACM-1695
+
+
+
+DocID: CACM-0585
+
+
+
+DocID: CACM-1199
+
+
+
+DocID: CACM-1924
+
+
+
+DocID: CACM-1856
+
+

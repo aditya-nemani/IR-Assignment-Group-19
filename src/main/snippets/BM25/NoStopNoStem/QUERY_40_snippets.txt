@@ -1,0 +1,651 @@
+BM25_NoStopNoStem
+
+Query
+list all articles dealing with data trees in the folding left-to-right are received frequently in phrases on the above languages (e.g. company languages with implementing type structures that i might have mseisd).
+
+Top 100 Results (687 millisecs)
+
+
+DocID: CACM-1588
+
+upon the [data] [list] [structures]  these two problems have  
+operate on simple and complex [data] [list] organizations.  
+pl/i [list] processing  
+
+
+DocID: CACM-2406
+
+data bases.  this paper reviews past work in the data  
+data definition language, [data] and storage structure,  
+data translation, [data] base management systems,  
+
+
+DocID: CACM-1485
+
+frequently from [list] processing [languages] illustrate  
+systems and referencing [data]  
+the structure of programming languages  
+
+
+DocID: CACM-2956
+
+data types, generic procedures, programming languages  
+some ideas on [data] types in high-level languages  
+notion that a [data] [type] is a set of values together  
+
+
+DocID: CACM-1098
+
+languages are reviewed: forms of [data] structures  
+a comparison of [list]processing computer languages  
+four [languages] under consideration are detailed:  
+
+
+DocID: CACM-2941
+
+types and [type] coercions, the benefits of the [type] system  
+data [structures] systems programming  
+programming [languages] types, modules,  
+
+
+DocID: CACM-1457
+
+and tree or [list] [structures]  the main data  
+data [structures] including linear text, sparse matrices,  
+data manipulation and programming problems  
+
+
+DocID: CACM-2316
+
+of [languages] are given.  the major [languages] are listed  
+of programming [languages]  = higher level [languages] .  
+programming [languages] higher level [languages]  
+
+
+DocID: CACM-2705
+
+programming [languages] natural [languages] and mathematics  
+artificial auxiliary [languages] literature, style,  
+of the history of artificial, auxiliary [languages] it  
+
+
+DocID: CACM-2295
+
+of programming [languages] [data] structures  
+programming primitives, programming [languages]  
+
+
+DocID: CACM-3105
+
+languages that support the notion of abstract data  
+programming [languages] access control, [data] types,  
+abstract [data] types, [type] checking, capabilities  
+
+
+DocID: CACM-0265
+
+in symbolic [languages] and for use within fortran  
+
+
+DocID: CACM-3198
+
+microprogramming, emulators and programming languages  
+
+
+DocID: CACM-1366
+
+technique and comparison of languages  
+of some computer simulation languages  
+languages and packages can be improved.  
+
+
+DocID: CACM-0628
+
+for use with algorithmic languages  
+
+
+DocID: CACM-1678
+
+science program, automata, formal [languages]  
+automata, formal [languages] abstract switching,  
+describe as automata, formal [languages] abstract  
+
+
+DocID: CACM-2710
+
+database, [data] sublanguages, relations, query [languages]  
+languages, relational completeness  
+the square [data] sublanguage  
+
+
+DocID: CACM-3188
+
+semiotics and programming languages  
+
+
+DocID: CACM-2051
+
+correspondence, regular correspondence, [list] processing  
+the regular sound correspondences between genetically related [languages]  
+use with a small portion of hypothetical [data]  
+
+
+DocID: CACM-2254
+
+data structure, tree structure, programming  
+dynamic partitioning for array languages  
+this consists of dynamic tree structures  
+
+
+DocID: CACM-1703
+
+reliable identification of programming languages  
+programming [languages] standards which accommodate  
+standardization, programming [languages] trac t-64  
+
+
+DocID: CACM-2317
+
+languages, operating systems, programming  
+programming systems and [languages] 1965-1975  
+and cobol remain the [languages] in which most  
+
+
+DocID: CACM-1852
+
+programming [languages] implementation techniques  
+programming [languages] whose implementation is based  
+bootstrapping, of processors for programming [languages] is  
+
+
+DocID: CACM-2699
+
+languages, set-theoretic [languages] data  
+data [structures] becomes possible. the methods employed  
+data flow analysis.  
+
+
+DocID: CACM-1923
+
+high level [languages] command language  
+level [languages] using basic input/output support  
+
+
+DocID: CACM-2078
+
+computer graphic [languages]  four alternative [data] structures  
+automated design, [data] [structures] computer graphics, computer-aided  
+
+
+DocID: CACM-2265
+
+a model for [type] checking  
+programming [languages] syntax, semantics, compiler  
+most current programming [languages] treat computation  
+
+
+DocID: CACM-1612
+
+syntactic [structures] which are in practice  
+essential weakness of the method is in [dealing] with complicated  
+
+
+DocID: CACM-1459
+
+requirements for real-time languages  
+real-time [languages] have different requirements  
+from other programming [languages] because of  
+
+
+DocID: CACM-2252
+
+languages with nested statement structure  
+which applies especially to programming languages  
+on lines;  2  an internal [data] structure  called  
+
+
+DocID: CACM-2704
+
+languages  
+features for [dealing] with exceptions in an orderly  
+
+
+DocID: CACM-1324
+
+languages and searching large tree [structures]  
+dealing with ambiguities, translating into formal  
+
+
+DocID: CACM-2603
+
+languages and deterministic languages  
+context free [languages]  
+reducing transition [languages] syntax controlled  
+
+
+DocID: CACM-1835
+
+languages programming [languages] student programming  
+of [data] types.  several novel and powerful features  
+
+
+DocID: CACM-2148
+
+of programming [languages] [data] structures  
+programming primitives, programming [languages]  
+
+
+DocID: CACM-3073
+
+program [structures] parallel programming,  
+programming, programming [languages] programming primitives,  
+multiple exits, classes, [data] representations, recursion,  
+
+
+DocID: CACM-3148
+
+program of development in advanced programming [languages] and relations  
+languages.  based on primitive notions of module, message,  
+of particular [languages] and machines.  it appears to be useful for  
+
+
+DocID: CACM-2198
+
+data base management systems, programming [languages]  
+data [structures] storage [structures] information  
+with respect to [data] [structures] host language  
+
+
+DocID: CACM-2314
+
+list processing, programming [languages] design of  
+structures, [data] [structures] programming primitives,  
+complex [data] stores.  
+
+
+DocID: CACM-2939
+
+programming [languages] [data] types, [data] abstractions,  
+control, and especially [data] abstractions-are useful  
+languages, through the procedure or subroutine.  
+
+
+DocID: CACM-2470
+
+languages, [data] types, modes, axioms, correctness,  
+formal language definition, formal description, [data] [structures]  
+description [languages] models of computation  
+
+
+DocID: CACM-1470
+
+the [data] itself,  2  by referring to the [data] by  
+list processing [languages] illustrate the forms  
+data.  
+
+
+DocID: CACM-2931
+
+logic and programming languages  
+logic, programming [languages] automata, denotational  
+computability theory.  programming [languages] offer  
+
+
+DocID: CACM-1135
+
+in the [languages] as opposed to emphasizing  
+of other business-oriented [languages] and fully meets  
+the requirements set by codasyl for such [languages]  
+
+
+DocID: CACM-2886
+
+semantic attributes, [left-to-right] parsing,  
+attribute grammars, semantics of programming [languages]  
+use for the definition of programming languages  
+
+
+DocID: CACM-2138
+
+systems programming, [data] structures  
+data [structures] in terms of the access algorithm for elements of the structure.  
+programming [languages] implementation language,  
+
+
+DocID: CACM-1456
+
+other [list] processing [languages] are ideally suited for  
+producing complex associative [structures] they  
+storage and retrieval of aspects of meaning in directed graph structures  
+
+
+DocID: CACM-2651
+
+data types, modes, mode unions, [type] conversion,  
+data [type] definition, [data] description language, compilation  
+programmer-defined [data] types [data] types and generic  
+
+
+DocID: CACM-1902
+
+different [languages] including assembly language.  
+is made for testing with programmer-supplied data  
+and for final runs with system-supplied [data]  exercises  
+
+
+DocID: CACM-0249
+
+specification [languages] for mechanical languages  
+
+
+DocID: CACM-2126
+
+programming [languages] extensible, compiler, bootstrapping, ambiguity  
+
+
+DocID: CACM-1467
+
+well as the use of new graphical [languages]  
+future through the use of interactive graphical [languages]  
+
+
+DocID: CACM-2767
+
+list algorithm, simulation executive, event scheduling  
+a comparison of simulation event [list] algorithms  
+simulation, time flow mechanisms, event [list] algorithm,  
+
+
+DocID: CACM-2940
+
+are extended from simple [data] representation  
+abstraction and representation, abstract [data] types,  
+corresponding constructs in other [languages]  a  
+
+
+DocID: CACM-0463
+
+on ambiguity in phrase structure languages  
+
+
+DocID: CACM-3008
+
+kinds of [list] [structures] is examined.  embeddings  
+proximity, average proximity, trees  
+forced to choose between alternative [structures]  
+
+
+DocID: CACM-1710
+
+list structure, set [languages] modeling, graphics  
+associative, [data] structure, ring structure lists,  
+asp is a general purpose associative data  
+
+
+DocID: CACM-2717
+
+data conversion, [data] restructuring, [data] translation,  
+utility program, programming [languages] nonprocedural languages  
+definition language for [data] conversion  
+
+
+DocID: CACM-1237
+
+the nature of table-oriented programming languages  
+
+
+DocID: CACM-2084
+
+type 2 language, bounded language  
+a note on the complement of inherently ambiguous context-free languages  
+
+
+DocID: CACM-2034
+
+programming [languages] implementation techniques  
+
+
+DocID: CACM-1810
+
+automatic [folding] storage hierarchies, memory  
+paging, automatic paging, demand paging, [folding]  
+the operation of "folding" a program into  
+
+
+DocID: CACM-1466
+
+discussion summary on graphical languages  
+
+
+DocID: CACM-3077
+
+forms, functional forms, programming [languages]  
+conventional programming [languages] are growing  
+functional programs deal with structured [data] are often  
+
+
+DocID: CACM-3150
+
+beyond programming languages  
+programming, programming [languages] programming systems, systems development  
+shortcomings of programming [languages] as they now exist,  
+
+
+DocID: CACM-2411
+
+control [structures] flowcharts, goto statements,  
+semantics of programming [languages] structured programming.  
+
+
+DocID: CACM-2450
+
+in the literature [dealing] with resource allocation, there  
+is a dearth of published [data] on program measurements,  
+
+
+DocID: CACM-1138
+
+formalism in programming [languages]  
+
+
+DocID: CACM-2546
+
+identification in the limit, extensible languages  
+presents a sample of sentences and structures  
+the use of grammatical inference for designing programming languages  
+
+
+DocID: CACM-2645
+
+programming [languages] syntax-directed translation,  
+two [languages] for estimating program efficiency  
+two [languages] enabling their users to estimate  
+
+
+DocID: CACM-2957
+
+data abstraction, relational database, [data] [type]  
+into programming [languages]  
+knowledge representation, [data] definition language  
+
+
+DocID: CACM-0696
+
+flow of [data] transmitted to the [data] processing center.  
+data to a central [data] processing center.  two rca 301  
+a large-scale automatic [data] acquisition  
+
+
+DocID: CACM-3030
+
+software modules, hierarchical structures  
+programming [languages] that ease hierarchical  
+program verification, specification, [data] abstraction,  
+
+
+DocID: CACM-2003
+
+languages, operating at different levels, on which the interaction  
+criteria provide sufficient generality to extend the use of the two languages  
+
+
+DocID: CACM-2081
+
+complete calculus, [data] [structures] linear  
+a matrix calculus is introduced with the intention of developing [data] structures  
+matrix sequences, programming [languages]  
+
+
+DocID: CACM-1769
+
+problem-oriented [languages] [data] communication,  
+time-sharing, education, [data] communication,  
+languages are particularly effective over the entire  
+
+
+DocID: CACM-1549
+
+list is an essential part of any [list] processing  
+garbage collection in various [list] structures  
+algorithm to a number of different [list] structures  
+
+
+DocID: CACM-2647
+
+languages, philosophy of language design  
+
+
+DocID: CACM-0303
+
+mechanical [languages] and their processors  
+
+
+DocID: CACM-1051
+
+of standard [list] [structures] with single-word items, the  
+multiword [list] items  
+the [list] concept as originally proposed by  
+
+
+DocID: CACM-3185
+
+stick to modest and elegant programming [languages] provided that we respect  
+
+
+DocID: CACM-1463
+
+various levels of programming [languages]  
+
+
+DocID: CACM-0616
+
+interested in developing a theoretical approach to data  
+language, at the systems level of [data] processing.  the  
+kendrick, general electric [company]  jean e. sammet, ibm corporation.  
+
+
+DocID: CACM-0435
+
+compiler [languages] multiprogram executive systems,  
+programming problem,that of providing a [data] input  
+a decision matrix as the basis for a simple [data] input routine  
+
+
+DocID: CACM-1937
+
+management [data] processing  
+codas: a [data] display system  
+command [languages] report program generation,  
+
+
+DocID: CACM-0731
+
+a [list] processing system in which each list  
+symmetric [list] processor  
+for imbeding in higher level [languages] capable  
+
+
+DocID: CACM-1102
+
+mechanical [languages] a course specification  
+
+
+DocID: CACM-2929
+
+programming [languages] run-time statistics  
+
+
+DocID: CACM-2838
+
+algorithms for recovering discarded [list] [structures] in  
+parallel processing, real time, [data] [structures] analysis of algorithms  
+garbage collection, storage reclamation, list  
+
+
+DocID: CACM-1306
+
+a class of unambiguous computer languages  
+means of designing computer [languages] which would be completely  
+
+
+DocID: CACM-2305
+
+higher programming [languages] programming,  
+of today's programming languages  
+in today's programming [languages]  the investigation  
+
+
+DocID: CACM-1142
+
+an extension of algol-like languages  
+
+
+DocID: CACM-2455
+
+trees with standard avl [trees] and with balanced  
+avl [trees] balanced [trees] information storage and retrieval  
+a generalization of avl trees  
+
+
+DocID: CACM-2814
+
+roster of programming [languages] for 1974-75  
+
+
+DocID: CACM-3102
+
+incorporation of units into programming languages  
+
+
+DocID: CACM-1869
+
+block [structures] indirect addressing,  
+programming [languages] have included explicit  
+block [structures] indirect addressing, and garbage collection  
+
+
+DocID: CACM-2906
+
+in recent years, very high-level languages  
+data processing, structured programming, modular programming,  
+data flow language, business application, business  
+
+
+DocID: CACM-0651
+
+a survey of [languages] and systems for information retrieval  
+
+
+DocID: CACM-2002
+
+computer graphics, [data] potting, [data] display  
+amesplot-a higher level [data] plotting software system  
+his own [data] markers, alphabetic characters, and transformations, and  
+
+
+DocID: CACM-2253
+
+calculations necessitated by complicated [data] [structures]  
+compilation, [data] [structures] indexing by name,  
+languages, program optimization, range operations, symbolic  
+

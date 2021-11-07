@@ -1,0 +1,413 @@
+LUCENE_NoStopNoStem
+
+Query
+Semantics of programming languages, including abstract specifications
+of data types, denotational semantics, and proofs of correctness.
+
+Hoare, A.
+Dijkstra, E.
+
+ University of Massachusetts, Amherst, MA 01003
+
+Top 100 Results (10 millisecs)
+
+
+DocID: CACM-2940
+
+
+
+DocID: CACM-2732
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-3031
+
+
+
+DocID: CACM-2326
+
+
+
+DocID: CACM-2958
+
+
+
+DocID: CACM-2842
+
+
+
+DocID: CACM-2295
+
+
+
+DocID: CACM-2148
+
+
+
+DocID: CACM-2470
+
+
+
+DocID: CACM-2264
+
+
+
+DocID: CACM-2265
+
+
+
+DocID: CACM-2227
+
+
+
+DocID: CACM-1747
+
+
+
+DocID: CACM-3073
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-3105
+
+
+
+DocID: CACM-3133
+
+
+
+DocID: CACM-3103
+
+
+
+DocID: CACM-2943
+
+
+
+DocID: CACM-2342
+
+
+
+DocID: CACM-2155
+
+
+
+DocID: CACM-3077
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-2178
+
+
+
+DocID: CACM-2112
+
+
+
+DocID: CACM-2411
+
+
+
+DocID: CACM-1323
+
+
+
+DocID: CACM-1902
+
+
+
+DocID: CACM-1471
+
+
+
+DocID: CACM-0949
+
+
+
+DocID: CACM-3104
+
+
+
+DocID: CACM-2865
+
+
+
+DocID: CACM-3188
+
+
+
+DocID: CACM-2941
+
+
+
+DocID: CACM-1496
+
+
+
+DocID: CACM-1834
+
+
+
+DocID: CACM-2651
+
+
+
+DocID: CACM-2886
+
+
+
+DocID: CACM-1781
+
+
+
+DocID: CACM-3198
+
+
+
+DocID: CACM-3185
+
+
+
+DocID: CACM-2972
+
+
+
+DocID: CACM-2851
+
+
+
+DocID: CACM-2945
+
+
+
+DocID: CACM-2703
+
+
+
+DocID: CACM-2895
+
+
+
+DocID: CACM-1358
+
+
+
+DocID: CACM-2956
+
+
+
+DocID: CACM-1213
+
+
+
+DocID: CACM-1098
+
+
+
+DocID: CACM-1198
+
+
+
+DocID: CACM-2341
+
+
+
+DocID: CACM-2254
+
+
+
+DocID: CACM-1421
+
+
+
+DocID: CACM-3039
+
+
+
+DocID: CACM-1457
+
+
+
+DocID: CACM-1749
+
+
+
+DocID: CACM-2887
+
+
+
+DocID: CACM-1835
+
+
+
+DocID: CACM-2700
+
+
+
+DocID: CACM-2111
+
+
+
+DocID: CACM-2616
+
+
+
+DocID: CACM-1135
+
+
+
+DocID: CACM-2204
+
+
+
+DocID: CACM-3055
+
+
+
+DocID: CACM-3014
+
+
+
+DocID: CACM-2316
+
+
+
+DocID: CACM-1678
+
+
+
+DocID: CACM-2021
+
+
+
+DocID: CACM-0068
+
+
+
+DocID: CACM-1470
+
+
+
+DocID: CACM-2870
+
+
+
+DocID: CACM-2718
+
+
+
+DocID: CACM-2192
+
+
+
+DocID: CACM-3081
+
+
+
+DocID: CACM-1484
+
+
+
+DocID: CACM-2406
+
+
+
+DocID: CACM-2733
+
+
+
+DocID: CACM-2939
+
+
+
+DocID: CACM-2594
+
+
+
+DocID: CACM-2896
+
+
+
+DocID: CACM-2634
+
+
+
+DocID: CACM-2684
+
+
+
+DocID: CACM-2632
+
+
+
+DocID: CACM-2946
+
+
+
+DocID: CACM-0689
+
+
+
+DocID: CACM-2701
+
+
+
+DocID: CACM-3170
+
+
+
+DocID: CACM-2597
+
+
+
+DocID: CACM-0409
+
+
+
+DocID: CACM-0990
+
+
+
+DocID: CACM-2710
+
+
+
+DocID: CACM-2046
+
+
+
+DocID: CACM-1604
+
+
+
+DocID: CACM-2814
+
+
+
+DocID: CACM-1247
+
+
+
+DocID: CACM-2092
+
+
+
+DocID: CACM-0822
+
+
+
+DocID: CACM-2787
+
+

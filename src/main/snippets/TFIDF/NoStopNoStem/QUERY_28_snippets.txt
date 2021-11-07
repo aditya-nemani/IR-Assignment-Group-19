@@ -1,0 +1,435 @@
+TFIDF_NoStopNoStem
+
+Query
+any information on packet ratio ntorkews.  of particular interest aggregations for packet routing, and for dantzig with changes interblock thpoagopry.  i am not interested in the hardware used in the
+network.
+
+Top 100 Results (718 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+
+
+DocID: CACM-0994
+
+
+
+DocID: CACM-0995
+
+
+
+DocID: CACM-0996
+
+
+
+DocID: CACM-0990
+
+
+
+DocID: CACM-0991
+
+
+
+DocID: CACM-0992
+
+
+
+DocID: CACM-2703
+
+
+
+DocID: CACM-2702
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-2704
+
+
+
+DocID: CACM-2701
+
+analysis, [information] propagation, flow graph, reducibility,  
+
+
+DocID: CACM-2700
+
+
+
+DocID: CACM-2707
+
+
+
+DocID: CACM-2706
+
+
+
+DocID: CACM-2709
+
+
+
+DocID: CACM-2708
+
+high quality recovery with good diagnostic information  
+
+
+DocID: CACM-0975
+
+standard vocabulary in computers and information  
+
+
+DocID: CACM-0976
+
+
+
+DocID: CACM-0977
+
+
+
+DocID: CACM-0978
+
+
+
+DocID: CACM-0971
+
+
+
+DocID: CACM-0972
+
+to the computer.  the [information] received  
+
+
+DocID: CACM-0973
+
+
+
+DocID: CACM-0974
+
+
+
+DocID: CACM-0970
+
+
+
+DocID: CACM-0979
+
+
+
+DocID: CACM-0986
+
+for [information] processing  
+
+
+DocID: CACM-0987
+
+for [information] processing on automatic data  
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+
+
+DocID: CACM-0983
+
+information interchange  proposed american standard   
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+
+
+DocID: CACM-0981
+
+
+
+DocID: CACM-1405
+
+
+
+DocID: CACM-2736
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1407
+
+confidence interval for a [ratio]  algorithm 289 [g1]   
+
+
+DocID: CACM-2738
+
+a number of examples from [hardware] and software  
+
+
+DocID: CACM-1406
+
+
+
+DocID: CACM-2737
+
+plane curve can be contained.  the method is of interest  
+
+
+DocID: CACM-1401
+
+
+
+DocID: CACM-2732
+
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2731
+
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2734
+
+
+
+DocID: CACM-1402
+
+of additional [information] as in interpolation methods.  
+
+
+DocID: CACM-2733
+
+
+
+DocID: CACM-2730
+
+
+
+DocID: CACM-1409
+
+unusual arrangement of [information] within the 22 mc  
+arithmetic and control registers throughout.  all hardware  
+machine;and  3  to have easily modifiable [hardware] for  
+
+
+DocID: CACM-1408
+
+engineering or [hardware] improvements.  in  
+
+
+DocID: CACM-2739
+
+
+
+DocID: CACM-1416
+
+tape file; the extraction of nonstandard sets of [information]  
+forms design.  a method of [information] extraction involving  
+
+
+DocID: CACM-2747
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-2746
+
+search, [information] retrieval, text-editing,  
+
+
+DocID: CACM-1418
+
+
+
+DocID: CACM-2749
+
+
+
+DocID: CACM-1417
+
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+the banking [information] system concept  
+facilitate cross referencing of account information  
+more complex combinations of [information] for  
+
+
+DocID: CACM-2743
+
+
+
+DocID: CACM-1411
+
+
+
+DocID: CACM-2742
+
+
+
+DocID: CACM-1414
+
+twelve-row punched-card code for information  
+
+
+DocID: CACM-2745
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-1410
+
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-1419
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-2713
+
+
+
+DocID: CACM-2716
+
+
+
+DocID: CACM-2715
+
+
+
+DocID: CACM-2710
+
+
+
+DocID: CACM-2712
+
+grows combinatorially with the size of the network  
+
+
+DocID: CACM-2711
+
+automatic [information] retrieval, automatic  
+
+
+DocID: CACM-2718
+
+network model of databases, data base task group, database  
+
+
+DocID: CACM-2717
+
+
+
+DocID: CACM-2719
+
+
+
+DocID: CACM-2725
+
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+
+
+DocID: CACM-2726
+
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-2720
+
+
+
+DocID: CACM-2723
+
+
+
+DocID: CACM-2722
+
+attribute, [information] retrieval system, nearest  
+information to be retrieved by associative searches.  
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-2728
+
+

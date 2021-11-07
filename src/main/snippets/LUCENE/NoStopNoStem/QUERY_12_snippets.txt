@@ -1,0 +1,407 @@
+LUCENE_NoStopNoStem
+
+Query
+portable operating systems
+
+Top 100 Results (43 millisecs)
+
+
+DocID: CACM-3127
+
+
+
+DocID: CACM-1461
+
+
+
+DocID: CACM-3068
+
+
+
+DocID: CACM-2111
+
+
+
+DocID: CACM-2069
+
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-1728
+
+
+
+DocID: CACM-1462
+
+
+
+DocID: CACM-2597
+
+
+
+DocID: CACM-2246
+
+
+
+DocID: CACM-1750
+
+
+
+DocID: CACM-2372
+
+
+
+DocID: CACM-2867
+
+
+
+DocID: CACM-1247
+
+
+
+DocID: CACM-2482
+
+
+
+DocID: CACM-2080
+
+
+
+DocID: CACM-2379
+
+
+
+DocID: CACM-1680
+
+
+
+DocID: CACM-2319
+
+
+
+DocID: CACM-2840
+
+
+
+DocID: CACM-3025
+
+
+
+DocID: CACM-2621
+
+
+
+DocID: CACM-2541
+
+
+
+DocID: CACM-2629
+
+
+
+DocID: CACM-2632
+
+
+
+DocID: CACM-1747
+
+
+
+DocID: CACM-2317
+
+
+
+DocID: CACM-2424
+
+
+
+DocID: CACM-2138
+
+
+
+DocID: CACM-2151
+
+
+
+DocID: CACM-2320
+
+
+
+DocID: CACM-2950
+
+
+
+DocID: CACM-1751
+
+
+
+DocID: CACM-3196
+
+
+
+DocID: CACM-3174
+
+
+
+DocID: CACM-1923
+
+
+
+DocID: CACM-1930
+
+
+
+DocID: CACM-1226
+
+
+
+DocID: CACM-3141
+
+
+
+DocID: CACM-2522
+
+
+
+DocID: CACM-1324
+
+
+
+DocID: CACM-1951
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-1236
+
+
+
+DocID: CACM-2777
+
+
+
+DocID: CACM-0322
+
+
+
+DocID: CACM-3026
+
+
+
+DocID: CACM-2624
+
+
+
+DocID: CACM-2358
+
+
+
+DocID: CACM-2374
+
+
+
+DocID: CACM-3137
+
+
+
+DocID: CACM-2378
+
+
+
+DocID: CACM-2036
+
+
+
+DocID: CACM-3028
+
+
+
+DocID: CACM-2622
+
+
+
+DocID: CACM-2184
+
+
+
+DocID: CACM-2297
+
+
+
+DocID: CACM-1892
+
+
+
+DocID: CACM-2625
+
+
+
+DocID: CACM-2095
+
+
+
+DocID: CACM-3105
+
+
+
+DocID: CACM-3006
+
+
+
+DocID: CACM-2972
+
+
+
+DocID: CACM-1647
+
+
+
+DocID: CACM-3050
+
+
+
+DocID: CACM-0696
+
+
+
+DocID: CACM-2582
+
+
+
+DocID: CACM-1877
+
+
+
+DocID: CACM-2542
+
+
+
+DocID: CACM-2535
+
+
+
+DocID: CACM-1810
+
+
+
+DocID: CACM-2342
+
+
+
+DocID: CACM-1517
+
+
+
+DocID: CACM-2849
+
+
+
+DocID: CACM-3002
+
+
+
+DocID: CACM-1854
+
+
+
+DocID: CACM-2796
+
+
+
+DocID: CACM-1755
+
+
+
+DocID: CACM-1069
+
+
+
+DocID: CACM-1050
+
+
+
+DocID: CACM-1472
+
+
+
+DocID: CACM-1591
+
+
+
+DocID: CACM-2357
+
+
+
+DocID: CACM-2920
+
+
+
+DocID: CACM-2868
+
+
+
+DocID: CACM-2407
+
+
+
+DocID: CACM-2311
+
+
+
+DocID: CACM-2345
+
+
+
+DocID: CACM-2583
+
+
+
+DocID: CACM-1912
+
+
+
+DocID: CACM-0597
+
+
+
+DocID: CACM-0018
+
+
+
+DocID: CACM-0652
+
+
+
+DocID: CACM-0025
+
+
+
+DocID: CACM-1360
+
+
+
+DocID: CACM-2479
+
+
+
+DocID: CACM-3150
+
+
+
+DocID: CACM-2283
+
+
+
+DocID: CACM-1534
+
+
+
+DocID: CACM-1519
+
+

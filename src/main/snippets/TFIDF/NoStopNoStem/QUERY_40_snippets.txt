@@ -1,0 +1,475 @@
+TFIDF_NoStopNoStem
+
+Query
+list all articles dealing with data trees in the folding left-to-right are received frequently in phrases on the above languages (e.g. company languages with implementing type structures that i might have mseisd).
+
+Top 100 Results (594 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+
+
+DocID: CACM-0994
+
+
+
+DocID: CACM-0995
+
+
+
+DocID: CACM-0996
+
+
+
+DocID: CACM-0990
+
+constraint[type] statements in programming languages  
+
+
+DocID: CACM-0991
+
+
+
+DocID: CACM-0992
+
+
+
+DocID: CACM-2703
+
+
+
+DocID: CACM-2702
+
+
+
+DocID: CACM-2705
+
+programming [languages] natural [languages] and mathematics  
+artificial auxiliary [languages] literature, style,  
+of the history of artificial, auxiliary [languages] it  
+
+
+DocID: CACM-2704
+
+languages  
+features for [dealing] with exceptions in an orderly  
+
+
+DocID: CACM-2701
+
+global flow analysis, [data] flow, code optimization,  
+a restriction to one-entry one-exit control structures  
+
+
+DocID: CACM-2700
+
+
+
+DocID: CACM-2707
+
+
+
+DocID: CACM-2706
+
+
+
+DocID: CACM-2709
+
+structured programming, control [structures]  
+a genealogy of control structures  
+results on control [structures] and explores  
+
+
+DocID: CACM-2708
+
+
+
+DocID: CACM-0975
+
+
+
+DocID: CACM-0976
+
+
+
+DocID: CACM-0977
+
+
+
+DocID: CACM-0978
+
+
+
+DocID: CACM-0971
+
+
+
+DocID: CACM-0972
+
+over the on-line [data] link is used to update the [data] files  
+to the computer.  the information received  
+view replies.  a [data] link permits remote stations  
+
+
+DocID: CACM-0973
+
+
+
+DocID: CACM-0974
+
+
+
+DocID: CACM-0970
+
+
+
+DocID: CACM-0979
+
+
+
+DocID: CACM-0986
+
+
+
+DocID: CACM-0987
+
+for information processing on automatic data  
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+role in the proposed [type] of translator.  experimental  
+
+
+DocID: CACM-0983
+
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+
+
+DocID: CACM-0981
+
+rounding problems in commercial [data] processing  
+a common requirement in commercial [data] processing  
+
+
+DocID: CACM-1405
+
+
+
+DocID: CACM-2736
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1407
+
+
+
+DocID: CACM-2738
+
+
+
+DocID: CACM-1406
+
+
+
+DocID: CACM-2737
+
+
+
+DocID: CACM-1401
+
+
+
+DocID: CACM-2732
+
+programming [languages] sequencing primitives, program  
+
+
+DocID: CACM-1400
+
+it is [frequently] possible to produce a program  
+
+
+DocID: CACM-2731
+
+remark on stably updating mean and standard deviation of data  
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2734
+
+to obtain better [data] on the relative performance of  
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-2733
+
+languages in ways that are more flexible and  
+
+
+DocID: CACM-2730
+
+
+
+DocID: CACM-1409
+
+
+
+DocID: CACM-1408
+
+
+
+DocID: CACM-2739
+
+natural language, parsing, grammar, programming languages  
+set of parse [trees] for a sentence, plus a group of restrictions  
+
+
+DocID: CACM-1416
+
+
+
+DocID: CACM-2747
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-2746
+
+keywords and [phrases] string pattern matching, bibliographic  
+
+
+DocID: CACM-1418
+
+
+
+DocID: CACM-2749
+
+
+
+DocID: CACM-1417
+
+comparisons are made between the [data] developed  
+much of the [data]  sizable economies of scale are  
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+data processing equipment is being sought.  this,  
+of [data] base approach toward a banking information  
+common store of [data] contained in the direct access  
+
+
+DocID: CACM-2743
+
+merge sorting, computational complexity, data  
+
+
+DocID: CACM-1411
+
+systematically generated test [data]  the statistics  
+mean be obtained from a subset of the [data]  
+the need for making two passes on the [data]  
+
+
+DocID: CACM-2742
+
+
+
+DocID: CACM-1414
+
+
+
+DocID: CACM-2745
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-1410
+
+more satisfactory approximation to the [data] can  
+interarrival time distribution.  the [data] obtained  
+the [data] do not appear to justify, except as a very  
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-1419
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-2713
+
+standard deviation of [data]  corrigendum   
+
+
+DocID: CACM-2716
+
+algorithms for [implementing] the operators  
+an approach for [implementing] a "smart" interface  
+data manipulation language, very high level language  
+
+
+DocID: CACM-2715
+
+database, [data] structure, [data] organization  
+sequel is a relational [data] sublanguages intended  
+the relational model of [data] the xrm relational  
+
+
+DocID: CACM-2710
+
+database, [data] sublanguages, relations, query [languages]  
+languages, relational completeness  
+the square [data] sublanguage  
+
+
+DocID: CACM-2712
+
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-2718
+
+structures conforming to the [data] base task group  
+a preliminary system for the design of dbtg [data] structures  
+translation, nonprocedural languages  
+
+
+DocID: CACM-2717
+
+data conversion, [data] restructuring, [data] translation,  
+utility program, programming [languages] nonprocedural languages  
+definition language for [data] conversion  
+
+
+DocID: CACM-2719
+
+manipulation, programming [languages] analysis  
+generating functions, [list] processing, lisp, algebraic  
+
+
+DocID: CACM-2725
+
+a comparison of simulation event [list] algorithms  corrigendum   
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+byte processing, character processing, packed data  
+processing of packed [data] items using only ordinary  
+for processing small [data] items such as alphanumeric  
+
+
+DocID: CACM-2726
+
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-2720
+
+
+
+DocID: CACM-2723
+
+data [structures] gc processor  
+complex cases involving several [list] processors  
+list operations and the other performing  
+
+
+DocID: CACM-2722
+
+associative retrieval, binary search [trees] key,  
+multidimensional binary search [trees] used for associative searching  
+data structure can handle many types of queries  
+
+
+DocID: CACM-2729
+
+data compression, huffman codes, variable length  
+binary coded decimal digits, decimal [data] storage,  
+
+
+DocID: CACM-2728
+
+

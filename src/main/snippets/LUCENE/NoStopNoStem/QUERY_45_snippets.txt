@@ -1,0 +1,409 @@
+LUCENE_NoStopNoStem
+
+Query
+The use of operations research models to optimize information system
+performance.  This includes fine tuning decisions such as secondary index
+selection, file reorganization, and distributed databases.
+
+Top 100 Results (29 millisecs)
+
+
+DocID: CACM-2452
+
+
+
+DocID: CACM-1976
+
+
+
+DocID: CACM-2765
+
+
+
+DocID: CACM-2969
+
+
+
+DocID: CACM-2816
+
+
+
+DocID: CACM-2114
+
+
+
+DocID: CACM-2318
+
+
+
+DocID: CACM-2988
+
+
+
+DocID: CACM-2359
+
+
+
+DocID: CACM-2631
+
+
+
+DocID: CACM-1194
+
+
+
+DocID: CACM-2991
+
+
+
+DocID: CACM-2957
+
+
+
+DocID: CACM-3002
+
+
+
+DocID: CACM-2860
+
+
+
+DocID: CACM-2926
+
+
+
+DocID: CACM-2437
+
+
+
+DocID: CACM-1412
+
+
+
+DocID: CACM-1534
+
+
+
+DocID: CACM-3181
+
+
+
+DocID: CACM-3128
+
+
+
+DocID: CACM-1680
+
+
+
+DocID: CACM-2375
+
+
+
+DocID: CACM-1519
+
+
+
+DocID: CACM-1652
+
+
+
+DocID: CACM-3136
+
+
+
+DocID: CACM-2812
+
+
+
+DocID: CACM-2949
+
+
+
+DocID: CACM-3070
+
+
+
+DocID: CACM-2669
+
+
+
+DocID: CACM-2978
+
+
+
+DocID: CACM-1456
+
+
+
+DocID: CACM-2493
+
+
+
+DocID: CACM-2862
+
+
+
+DocID: CACM-3028
+
+
+
+DocID: CACM-1908
+
+
+
+DocID: CACM-2526
+
+
+
+DocID: CACM-1226
+
+
+
+DocID: CACM-3012
+
+
+
+DocID: CACM-2140
+
+
+
+DocID: CACM-0696
+
+
+
+DocID: CACM-1271
+
+
+
+DocID: CACM-3103
+
+
+
+DocID: CACM-3137
+
+
+
+DocID: CACM-2319
+
+
+
+DocID: CACM-3134
+
+
+
+DocID: CACM-2984
+
+
+
+DocID: CACM-2680
+
+
+
+DocID: CACM-1267
+
+
+
+DocID: CACM-0409
+
+
+
+DocID: CACM-0397
+
+
+
+DocID: CACM-2951
+
+
+
+DocID: CACM-2358
+
+
+
+DocID: CACM-3090
+
+
+
+DocID: CACM-2451
+
+
+
+DocID: CACM-2253
+
+
+
+DocID: CACM-2859
+
+
+
+DocID: CACM-3089
+
+
+
+DocID: CACM-1066
+
+
+
+DocID: CACM-2406
+
+
+
+DocID: CACM-2484
+
+
+
+DocID: CACM-2876
+
+
+
+DocID: CACM-2033
+
+
+
+DocID: CACM-2593
+
+
+
+DocID: CACM-1695
+
+
+
+DocID: CACM-1765
+
+
+
+DocID: CACM-3129
+
+
+
+DocID: CACM-2542
+
+
+
+DocID: CACM-2849
+
+
+
+DocID: CACM-3011
+
+
+
+DocID: CACM-2059
+
+
+
+DocID: CACM-2064
+
+
+
+DocID: CACM-3059
+
+
+
+DocID: CACM-2928
+
+
+
+DocID: CACM-2846
+
+
+
+DocID: CACM-2356
+
+
+
+DocID: CACM-2896
+
+
+
+DocID: CACM-2977
+
+
+
+DocID: CACM-2634
+
+
+
+DocID: CACM-2716
+
+
+
+DocID: CACM-2892
+
+
+
+DocID: CACM-3152
+
+
+
+DocID: CACM-2046
+
+
+
+DocID: CACM-1236
+
+
+
+DocID: CACM-1515
+
+
+
+DocID: CACM-2722
+
+
+
+DocID: CACM-1032
+
+
+
+DocID: CACM-2946
+
+
+
+DocID: CACM-1700
+
+
+
+DocID: CACM-3087
+
+
+
+DocID: CACM-2310
+
+
+
+DocID: CACM-2307
+
+
+
+DocID: CACM-1699
+
+
+
+DocID: CACM-3058
+
+
+
+DocID: CACM-1828
+
+
+
+DocID: CACM-1960
+
+
+
+DocID: CACM-0944
+
+
+
+DocID: CACM-2900
+
+
+
+DocID: CACM-2750
+
+
+
+DocID: CACM-3082
+
+

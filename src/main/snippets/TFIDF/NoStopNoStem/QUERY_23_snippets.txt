@@ -1,0 +1,674 @@
+TFIDF_NoStopNoStem
+
+Query
+digitized computing structures and algorithms
+
+Top 100 Results (47 millisecs)
+
+
+DocID: CACM-1862
+
+of [computing] centers, university [computing] capabilities, university-student  
+programs, university [computing] centers, surveys  
+university education, [computing] science academic  
+
+
+DocID: CACM-2197
+
+remote [computing] shared computing  
+network [computing] regional [computing] networks,  
+curriculum development, educational [computing]  
+
+
+DocID: CACM-2709
+
+structured programming, control [structures]  
+a genealogy of control structures  
+results on control [structures] and explores  
+
+
+DocID: CACM-1525
+
+for [computing] complex fourier transform and  
+on [computing] the fast fourier transform  
+for accurately [computing] the needed trigonometric  
+
+
+DocID: CACM-2125
+
+digitized image, connection tree, minimal polygon,  
+and the corresponding [computing] times are listed.  
+contour from a [digitized] image is illustrated.  
+
+
+DocID: CACM-3011
+
+of [computing] and tends to control [computing] decisions  
+computing, involving the use of relatively unsophisticated  
+computers, county government computers, computer impacts, management computing  
+
+
+DocID: CACM-2198
+
+data [structures] storage [structures] information  
+with respect to data [structures] host language  
+structures is mentioned, followed by a discussion of the  
+
+
+DocID: CACM-2884
+
+permutations, loop-free algorithms  
+classical permutation enumeration [algorithms] encounter  
+permutation enumeration: four new permutation algorithms  
+
+
+DocID: CACM-3166
+
+computing standard deviations: accuracy  
+four [algorithms] for the numerical computation  
+and computational literature; the other two are new algorithms  
+
+
+DocID: CACM-2433
+
+structures, illiac iv fortran  
+control [structures] in illiac iv fortran  
+structures suitable for exploiting illiac iv parallelism.  
+
+
+DocID: CACM-2289
+
+algorithms for distance and spanning tree problems  
+algorithms are presented for the solution of certain  
+these [algorithms] exhibit a computation time that in  
+
+
+DocID: CACM-2950
+
+scheduling [algorithms] scheduling models, priority,  
+of time-invariant [algorithms] which include most  
+algorithms, the dependence of processing rates  
+
+
+DocID: CACM-3035
+
+university [computing] computer planning  
+enhanced the delivery of [computing] services.  
+a strategic planning methodology for the computing  
+
+
+DocID: CACM-3077
+
+computing systems, applicative [computing] systems,  
+classes of programs.  a new class of [computing] systems  
+
+
+DocID: CACM-2314
+
+structures, data [structures] programming primitives,  
+facilities, programmable control [structures] and sophisticated  
+features, since [algorithms] must be not only  
+
+
+DocID: CACM-2810
+
+professionalism in the [computing] field  
+improvements to help the [computing] practitioner  
+definition specified, the [computing] practitioner is,  
+
+
+DocID: CACM-1411
+
+comparison of several [algorithms] for computation  
+several [algorithms] for computation of basic  
+included the usual [computing] formulas, correction  
+
+
+DocID: CACM-2263
+
+algorithms  
+two new [algorithms] for deriving optimal and  
+one of the [algorithms] called the optimum-finding algorithm,  
+
+
+DocID: CACM-2594
+
+structured data structures  
+complicated [structures] without sufficient protection.  
+structured programming, data [structures] data base management system  
+
+
+DocID: CACM-2902
+
+algorithms.  simple [algorithms] operating on memory ordered  
+fragmentation.  [algorithms] main taining separate  
+well.  [algorithms] employing power-of-two block sizes  
+
+
+DocID: CACM-3090
+
+of [computing] management information systems,  
+sociology of [computing] information systems and  
+social impacts of [computing] organizational impacts  
+
+
+DocID: CACM-1745
+
+and free enterprise, [computing] economics,  
+information networks, information systems, computing  
+a position paper on [computing] and communications  
+
+
+DocID: CACM-3006
+
+fault frequency, paging algorithms  
+algorithms, virtual memory, working set, page  
+anomalies with variable partition paging algorithms  
+
+
+DocID: CACM-2283
+
+thinning [algorithms] rectangular, hexagonal,  
+and the relative performances of the algorithms  
+in this report three thinning [algorithms] are  
+
+
+DocID: CACM-1889
+
+regional center, consortium, remote computing  
+introducing [computing] to smaller colleges  
+regional network, introducing [computing] under-graduate  
+
+
+DocID: CACM-2092
+
+structures and the [algorithms] used for question answering.  
+time-sharing system.  the system's data [structures] and their semantic  
+
+
+DocID: CACM-2081
+
+complete calculus, data [structures] linear  
+ended to sequence operators and cumulative operators.  algorithms  
+and utilized for efficient [computing] by saving memory space and  
+
+
+DocID: CACM-2692
+
+these [algorithms] are able to clip polygons  
+clipping window.  the [algorithms] described achieve  
+a new family of clipping [algorithms] is described.  
+
+
+DocID: CACM-1924
+
+matrix [algorithms] array processing, paging [algorithms]  
+multiplication, and inversion [algorithms] shows  
+carefully designed matrix [algorithms] can lead to  
+
+
+DocID: CACM-2146
+
+sorting, polyphase sorting, dispersion [algorithms]  
+new dispersion [algorithms] with more straightforward  
+various dispersion [algorithms] for the polyphase  
+
+
+DocID: CACM-3025
+
+contributions to [computing] technology include:  
+sharing [computing] systems; transferring hardware  
+computer [structures] architecture, operating system, timesharing  
+
+
+DocID: CACM-2754
+
+peak detection, [digitized] waveform, piecewise linear  
+peaks in a [digitized] waveform are detected by an  
+
+
+DocID: CACM-2060
+
+not permitted.  the functional approach to data [structures] and the  
+algorithm for [computing] or accessing its components.  the existence of  
+structures are treated as functions.   4  type declarations are  
+
+
+DocID: CACM-2357
+
+time-sharing, remote [computing] on-line access,  
+on-line [computing] remote file manager, real time,  
+mux, a simple approach to on-line computing  
+
+
+DocID: CACM-2767
+
+a comparison of simulation event list algorithms  
+the advantages and limitations of the [algorithms]  
+four [algorithms] are considered which can be used  
+
+
+DocID: CACM-2273
+
+two [algorithms] for generating computer programs  
+from decision tables are described.  the algorithms  
+entry tables.  the [algorithms] are based on the  
+
+
+DocID: CACM-2903
+
+recursion elimination, pattern matching [algorithms]  
+by using recursion in troduction, algorithms  
+recursive [algorithms] in which no stack operations  
+
+
+DocID: CACM-1946
+
+algorithms for [computing] the resultant of two  
+computing polynomial resultants: bezout's determinant  
+and [computing] speed.  preliminary considerations narrow  
+
+
+DocID: CACM-2155
+
+data [structures] graph, implementation,  
+toward an understanding of data structures  
+for describing the semantics of data [structures]  
+
+
+DocID: CACM-2032
+
+data [structures] tree [structures] file [structures] scatter  
+file [structures] using hashing functions  
+
+
+DocID: CACM-3124
+
+construction of data-driven [algorithms]  
+recursive data [structures] in apl  
+trees, data-driven [algorithms] theory of arrays  
+
+
+DocID: CACM-2832
+
+on previous context tree retrieval [algorithms]  
+the search rapid.  [algorithms] for addition and  
+context trees, frame problem, variable bindings, data structures  
+
+
+DocID: CACM-2438
+
+control [structures] environments, stack allocation,  
+many control and access environment structures  
+functional arguments, multiprocessor systems, extensible control structures  
+
+
+DocID: CACM-2627
+
+algorithms, deterministic scheduling models  
+time, sequencing [algorithms] optimal scheduling  
+which extend and generalize the [algorithms] known for  
+
+
+DocID: CACM-2883
+
+can be solved using well-known graph search [algorithms]  
+method can lead to substantial improvements in computing  
+are used, the [computing] time will depend on the amount  
+
+
+DocID: CACM-1928
+
+large systems simulation, network [structures]  
+of network [structures] other than digital networks.  
+
+
+DocID: CACM-2828
+
+visible surface [algorithms] hidden surface [algorithms]  
+hierarchical data [structures] geometric  
+hierarchical geometric models for visible surface algorithms  
+
+
+DocID: CACM-2406
+
+computer language for specifying data [structures]  
+of logical data [structures] with little  
+concern for how these [structures] are physically realized  
+
+
+DocID: CACM-2325
+
+of computation, [algorithms] continuous algorithms  
+complexity , synthesis and analysis of [algorithms]  
+of continuous [algorithms]  four of the components  
+
+
+DocID: CACM-1658
+
+programming, zero-one variables, algorithms  
+of several existing [algorithms] for the  
+analysis of [algorithms] for the zero-one programming problem  
+
+
+DocID: CACM-2819
+
+codes, n-gram encoding, comparison of algorithms  
+two [algorithms] for encoding a string differ  
+parameters in the [algorithms] are optimized to obtain  
+
+
+DocID: CACM-2484
+
+information [structures] as list, tree, ring,  
+different relations and [algorithms] results in different  
+and formulating [algorithms] under a given set of constraints.  
+
+
+DocID: CACM-3148
+
+distributed [computing] modules, messages, assertions  
+high level programming for distributed computing  
+to distributed [computing] at the level of general purpose programming  
+
+
+DocID: CACM-1747
+
+information security, information privacy, computing  
+the designer of a [computing] system should adopt  
+three criteria for designing [computing] systems to facilitate debugging  
+
+
+DocID: CACM-0409
+
+data and [algorithms] may be expressed in a family  
+as well as [algorithms] defined on these data sets.  both  
+
+
+DocID: CACM-2838
+
+algorithms for recovering discarded list [structures] in  
+parallel processing, real time, data [structures] analysis of algorithms  
+
+
+DocID: CACM-2674
+
+that the noninteractive [algorithms] can significantly  
+scan conversion [algorithms] which have been  
+and the other to interactive applications.  the algorithms  
+
+
+DocID: CACM-2863
+
+realizable variable space [algorithms]  
+page replacement [algorithms] optimal page replacement  
+and the page partitioning replacement algorithms  
+
+
+DocID: CACM-1810
+
+hierarchies, replacement [algorithms] performance, measurement  
+the important troubles which beset [computing] today  
+will probably become a normal part of most [computing] systems.  
+
+
+DocID: CACM-2452
+
+file organization, file [structures] file management,  
+structures and to facilitate as much as possible the process  
+
+
+DocID: CACM-1680
+
+interface, on-line [computing] graphic programming  
+
+
+DocID: CACM-2968
+
+a comparison of tree-balancing algorithms  
+path length, analysis of [algorithms] information  
+
+
+DocID: CACM-2130
+
+automatic segmentation of cyclic program structures  
+automatic segmentation, cyclic program [structures] loops, paging,  
+imposed by the available [computing] equipment.  a generalization of  
+
+
+DocID: CACM-2020
+
+paper the manner in which one would like to allocate [computing] resources  
+the widespread use of complex third generation [computing] systems has led to a  
+
+
+DocID: CACM-3008
+
+forced to choose between alternative [structures]  
+in storing these [structures] preserving logical adjacencies  
+kinds of list [structures] is examined.  embeddings  
+
+
+DocID: CACM-2954
+
+copying, shared subtrees, cyclic structures  
+list [structures] using bounded workspace and  
+a bounded storage algorithm for copying cyclic structures  
+
+
+DocID: CACM-2936
+
+published [algorithms]  first, the new algorithm's  
+recently [algorithms] have been presented for the  
+of commonly used simple linked list [algorithms]  in this  
+
+
+DocID: CACM-2402
+
+digital computers encourages the development of algorithms  
+pattern recognition [algorithms] is hindered by the fact  
+for large [structures]  this is significant, for crystallography  
+
+
+DocID: CACM-3158
+
+secure personal [computing] in an insecure network  
+personal [computing] security, privacy, networks, public-key encryption  
+a method for implementing secure personal [computing] in a network  
+
+
+DocID: CACM-2951
+
+computing applications at some network computing  
+if the ultimate aim of a [computing] network  
+
+
+DocID: CACM-2035
+
+display editing, display oriented system, filing [algorithms] lap6,  
+tape [algorithms] to minimize the limitations of the small memory.  techniques  
+
+
+DocID: CACM-2470
+
+formal language definition, formal description, data [structures]  
+
+
+DocID: CACM-2722
+
+very efficiently.  various utility [algorithms] are developed;  
+far surpass the best currently known [algorithms] for  
+of searches , o  n log n .  search algorithms  
+
+
+DocID: CACM-2679
+
+claims.  of all these [algorithms] quickersort requires  
+for six acm [algorithms] quicksort  no. 64 ,  
+402 .  [algorithms] 271 and 402 are refinements of algorithm  
+
+
+DocID: CACM-1392
+
+of mathematical expression manipulation algorithms  
+formac expand and differentiation [algorithms] a  
+in the design of [algorithms] for manipulating  
+
+
+DocID: CACM-2490
+
+graphs,analysis of [algorithms] graph manipulation  
+efficient [algorithms] are presented for partitioning  
+efficient [algorithms] for graph manipulation [h]  algorithm a447   
+
+
+DocID: CACM-2997
+
+computational complexity, convex hull, optimal [algorithms]  
+proposed [algorithms] is optimal within a multiplicative  
+log n  operations.  the presented [algorithms] use the "divide  
+
+
+DocID: CACM-2834
+
+gray code, combinations, subsets, compositions, combinatorial computing  
+algorithms are presented to generate the n-bit  
+fixed weight in that code.  both [algorithms] are efficient  
+
+
+DocID: CACM-2723
+
+data [structures] gc processor  
+algorithms for a multiprocessing compactifying  
+
+
+DocID: CACM-1869
+
+block [structures] indirect addressing,  
+block [structures] indirect addressing, and garbage collection  
+or implicit block [structures] to provide a naming  
+
+
+DocID: CACM-1878
+
+recovery of reentrant list [structures] in slip  
+collector that recovers abandoned reentrant list structures  
+reentrant list [structures] are not recovered even when  
+
+
+DocID: CACM-2226
+
+the [algorithms] as a suboptimizer is indicated.  
+further evidence for the analysis of algorithms  
+operations research, integer programming, zero-one variables, algorithms  
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-2979
+
+
+
+DocID: CACM-3032
+
+routing procedures and data [structures] already  
+nodes of a network.  [algorithms] for accomplishing  
+this list of [algorithms] we add  6  reverse path  
+
+
+DocID: CACM-2178
+
+terms of its semantics; that is, the data structures  
+these [structures]  graspe may be most easily implemented  
+
+
+DocID: CACM-2766
+
+list [structures] is given.  this algorithm  
+the best previous bounded workspace copying algorithms  
+copying cyclic list [structures] in linear time using bounded workspace  
+
+
+DocID: CACM-1423
+
+algorithms are fairly complicated and require  
+a simple algorithm for [computing] the generalized inverse of a matrix  
+
+
+DocID: CACM-2931
+
+the right abstractions to represent the necessary [structures]  
+
+
+DocID: CACM-3163
+
+more complicated than the corresponding [algorithms] for avl trees.  
+the insertion and deletion [algorithms] for oshb trees appear much  
+ly known insertion [algorithms] of hirschberg and kosaraju, which require  
+
+
+DocID: CACM-2483
+
+programming,chess [algorithms] lasker regions, fischer  
+move selection.  the tree searching algorithms  
+that maps the lasker regions.  specific chess algorithms  
+
+
+DocID: CACM-2454
+
+computational [algorithms] for closed queueing  
+the computational [algorithms] are based on two-dimensional  
+methods are presented for [computing] the equilibrium  
+
+
+DocID: CACM-1431
+
+a structure from the structure's definition.  
+some basic facts about certain data structures  
+on a storage mapping function for data structures  
+
+
+DocID: CACM-3086
+
+analysis of [algorithms] combinatorial problems,  
+the decision tree complexity of [computing] the  
+on the complexity of [computing] the measure of u[ai, bi]  
+
+
+DocID: CACM-1349
+
+computing capabilities at western european universities  
+brief descriptions of [computing] activities at each institution  
+ c  the subordinated organization of the computing  
+
+
+DocID: CACM-1456
+
+producing complex associative [structures] they  
+storage and retrieval of aspects of meaning in directed graph structures  
+
+
+DocID: CACM-1677
+
+representation, data [structures] storage protection,  
+flexibility of data [structures] efficiency  
+
+
+DocID: CACM-3076
+
+of [computing] privacy, social choice, computer  
+
+
+DocID: CACM-2499
+
+algorithms, these are not arbitrary accounting  
+dynamically adjust its allocation [algorithms] to  
+
+
+DocID: CACM-2389
+
+and the search [algorithms] are detailed.  
+according to a variety of constraints.  the algorithms  
+

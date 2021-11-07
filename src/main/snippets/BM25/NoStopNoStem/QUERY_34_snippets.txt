@@ -1,0 +1,483 @@
+BM25_NoStopNoStem
+
+Query
+currently interested in isolation of root of polynomial; there is an outside recent material.
+
+heindel, l.
+
+Top 100 Results (374 millisecs)
+
+
+DocID: CACM-2660
+
+parallelism, [polynomial] [root] finding, real zeros  
+
+
+DocID: CACM-1524
+
+when searching for the [root] of a [polynomial]  
+polynomial.  
+a stopping criterion for [polynomial] [root] finding  
+
+
+DocID: CACM-1999
+
+square [root] newton-raphson iteration, optimal approximants  
+square [root] for slow or no divide  
+approximants is considered, and some optimal [polynomial] initial  
+
+
+DocID: CACM-1763
+
+root finders, [polynomial] equation roots, quadratic  
+equation roots, [polynomial] zeros  
+roots of low-order [polynomial] equations  algorithm 326 [c2]   
+
+
+DocID: CACM-1949
+
+algol vs. fortran, finiteness assumptions, intellectual [isolation]  
+finiteness assumptions and intellectual [isolation] of computer scientists  
+
+
+DocID: CACM-1615
+
+an algorithm for generating [root] locus diagrams  
+draw both ordinary and time-lag [root] locus diagrams  
+
+
+DocID: CACM-0884
+
+orthogonal [polynomial] least squares surface fit  algorithm 164   
+
+
+DocID: CACM-0848
+
+usage for the square [root] and logarithm function  
+a note on range transformations for square [root] and logarithm  
+
+
+DocID: CACM-2345
+
+in universities, at the master's level.  material  
+
+
+DocID: CACM-0334
+
+division and square [root] in the quater-imaginary number system  
+
+
+DocID: CACM-1893
+
+root finders, roots of [polynomial] equations, polynomial  
+
+
+DocID: CACM-1667
+
+root finders, roots of [polynomial] equations, polynomial  
+
+
+DocID: CACM-2808
+
+interesting historical [material]  the acceleration  
+by elementary methods.  this [material] can be used  
+
+
+DocID: CACM-0672
+
+recent developments affecting adp in tax administration  
+
+
+DocID: CACM-1832
+
+logarithmic error, transformed rational approximation, square root  
+
+
+DocID: CACM-1153
+
+
+
+DocID: CACM-1803
+
+complex [root] finding  algorithm 365 [c5]   
+
+
+DocID: CACM-0397
+
+fields-reference [material] field  columns 1-67   
+material includes basically an index, title, source,  
+identification also provides a choice to identify material  
+
+
+DocID: CACM-1440
+
+root routines.  these approximations include  
+root calculation by newton's method are presented  
+starting approximations for square [root] calculation on ibm system/360  
+
+
+DocID: CACM-0435
+
+interested.  a method employing a decision matrix  
+
+
+DocID: CACM-2266
+
+point in the method is [polynomial] deflation used.  
+all zeros of a [polynomial] with only real zeros  
+of a [polynomial] with only real zeros.  the algorithm, which  
+
+
+DocID: CACM-1121
+
+several points in a [recent] paper describing some  
+
+
+DocID: CACM-0819
+
+polynomial evaluation revised  
+
+
+DocID: CACM-0340
+
+legendre [polynomial]  algorithm 13   
+
+
+DocID: CACM-0341
+
+chebyschev [polynomial]  algorithm 10   
+
+
+DocID: CACM-0125
+
+polynomial transformer  algorithm 29   
+
+
+DocID: CACM-0062
+
+multi-dimensional least-squares [polynomial] curve fitting  
+
+
+DocID: CACM-1080
+
+chebyshev [polynomial] coefficients  algorithm 227   
+
+
+DocID: CACM-0765
+
+orthogonal [polynomial] least squares surface fit  algorithm 164   
+
+
+DocID: CACM-1932
+
+square [root] newton's method, relative error, logarithmic  
+maximal error, recurrence relation, integer [root] error curve  
+for the calculation of the square [root] using  
+
+
+DocID: CACM-1620
+
+methods of evaluating [polynomial] approximations  
+approximation polynomials.  new [polynomial] evaluation  
+methods have been developed in [recent] years which  
+
+
+DocID: CACM-1867
+
+one is [interested] in the ratio l j  of the  
+
+
+DocID: CACM-2450
+
+has been proposed in [recent] years as a basis for  
+
+
+DocID: CACM-2693
+
+derivative, [polynomial] smooth surface fitting  
+
+
+DocID: CACM-0024
+
+
+
+DocID: CACM-1816
+
+three-term recurrence, [polynomial] regression,  
+
+
+DocID: CACM-1386
+
+a multi-variate [polynomial] with integer coefficients  
+single-variable instances of the given [polynomial] by  
+factoring of any [polynomial] may be found in a finite number  
+
+
+DocID: CACM-2391
+
+unitary symmetric polynomials, polynomial  
+
+
+DocID: CACM-1573
+
+
+
+DocID: CACM-0656
+
+
+
+DocID: CACM-1046
+
+to the [material] published in the listed references.  
+by j. rohl in their most [recent] paper have presented  
+
+
+DocID: CACM-2779
+
+discrete least squares [polynomial] fits  
+
+
+DocID: CACM-2906
+
+in [recent] years, very high-level languages  
+
+
+DocID: CACM-2407
+
+material necessary for such programs is identified,  
+
+
+DocID: CACM-1644
+
+polynomial is described.  
+of a least squares [polynomial] makes the  
+computed [polynomial] only an approximation to the true least  
+
+
+DocID: CACM-0262
+
+
+
+DocID: CACM-2919
+
+
+
+DocID: CACM-2423
+
+
+
+DocID: CACM-1882
+
+determination of the square [root] of a positive  
+matrix, symmetric matrix, positive definite matrix, matrix square root  
+
+
+DocID: CACM-1608
+
+that depend on fitting a [polynomial] usually will be  
+
+
+DocID: CACM-1869
+
+
+
+DocID: CACM-2840
+
+
+
+DocID: CACM-2615
+
+
+
+DocID: CACM-1931
+
+two [recent] papers, one by hansen and one by  
+
+
+DocID: CACM-0474
+
+
+
+DocID: CACM-3127
+
+
+
+DocID: CACM-1630
+
+
+
+DocID: CACM-0529
+
+
+
+DocID: CACM-2722
+
+the [root] o  n^ k-1 /k ; deletion of a random node,  
+
+
+DocID: CACM-2449
+
+
+
+DocID: CACM-1489
+
+
+
+DocID: CACM-1520
+
+absolute value and square [root] of a complex number  algorithm 312 [a2]   
+
+
+DocID: CACM-1311
+
+
+
+DocID: CACM-1074
+
+
+
+DocID: CACM-2135
+
+is made to approximate l  f  with l  q  where q is a [polynomial]  
+
+
+DocID: CACM-0898
+
+
+
+DocID: CACM-0923
+
+
+
+DocID: CACM-0255
+
+
+
+DocID: CACM-1259
+
+
+
+DocID: CACM-2774
+
+
+
+DocID: CACM-1377
+
+
+
+DocID: CACM-0074
+
+
+
+DocID: CACM-0649
+
+
+
+DocID: CACM-0702
+
+
+
+DocID: CACM-0520
+
+
+
+DocID: CACM-0484
+
+
+
+DocID: CACM-0469
+
+
+
+DocID: CACM-0324
+
+
+
+DocID: CACM-0394
+
+
+
+DocID: CACM-1513
+
+
+
+DocID: CACM-2934
+
+
+
+DocID: CACM-0141
+
+
+
+DocID: CACM-2503
+
+
+
+DocID: CACM-0599
+
+
+
+DocID: CACM-2397
+
+
+
+DocID: CACM-1623
+
+may be [interested] in the problem because it is stated  
+
+
+DocID: CACM-0107
+
+
+
+DocID: CACM-0193
+
+
+
+DocID: CACM-0554
+
+
+
+DocID: CACM-0547
+
+
+
+DocID: CACM-0432
+
+
+
+DocID: CACM-0475
+
+
+
+DocID: CACM-2854
+
+
+
+DocID: CACM-1562
+
+
+
+DocID: CACM-0834
+
+
+
+DocID: CACM-0830
+
+
+
+DocID: CACM-0612
+
+
+
+DocID: CACM-0683
+
+
+
+DocID: CACM-0650
+
+
+
+DocID: CACM-1022
+
+

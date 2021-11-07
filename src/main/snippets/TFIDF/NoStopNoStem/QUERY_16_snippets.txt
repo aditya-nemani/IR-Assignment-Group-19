@@ -1,0 +1,548 @@
+TFIDF_NoStopNoStem
+
+Query
+fed all descriptions of file handling in operating states based online-are persons and measure passing.
+
+Top 100 Results (172 millisecs)
+
+
+DocID: CACM-2452
+
+based on these estimates, an appropriate file  
+
+
+DocID: CACM-3002
+
+library routines' storage at a large scale operating  
+
+
+DocID: CACM-2344
+
+measure of performance, scheduling algorithms  
+algorithm can also have a marked effect on the measure  
+a [measure] of system performance is used to ascertain which  
+
+
+DocID: CACM-2160
+
+canonical structure in attribute [based] file organization  
+a new file structure for attribute [based] retrieval  
+organization being proposed is [based] on the atoms  
+
+
+DocID: CACM-2184
+
+file, [operating] system, programming language, functions,  
+language and the file names of an [operating] system.  
+based upon the first two terms in the equivalent  
+
+
+DocID: CACM-1135
+
+descriptions  which are one-to-one translations  
+a structure, [based] on identifying and incorporating  
+a general business-oriented language [based] on decision expressions*  
+
+
+DocID: CACM-3114
+
+
+
+DocID: CACM-2114
+
+
+
+DocID: CACM-0409
+
+for accepting, storing, and retrieving both descriptions  
+of distinct data [descriptions] and the content and  
+use of such [descriptions] are discussed in some detail.  
+
+
+DocID: CACM-1032
+
+of the file [based] on its history and past  
+
+
+DocID: CACM-0849
+
+
+
+DocID: CACM-1665
+
+mechanisms [based] upon an ordered sequence  
+appropriate actions are taken [based] on the  
+produced by the system are [based] on finite-state machines.  
+
+
+DocID: CACM-1680
+
+retrieval [operating] systems, graphics, displays, man-machine  
+display unit under [operating] system/360.  adept  
+to it, and surrendering control to the operating  
+
+
+DocID: CACM-2002
+
+elements may be combined into a system [based] on simple modules is demonstrated.  
+
+
+DocID: CACM-2317
+
+languages, [operating] systems, programming  
+of [operating] system principles.  important trends  
+in the [operating] system area all major computer  
+
+
+DocID: CACM-2851
+
+distinguish between control and data [states]  the  
+of an infinite set of control [states] by allowing  
+enumeration of the set of all possible control [states]  
+
+
+DocID: CACM-2629
+
+operating system for the digital equipment  
+time-sharing, [operating] system, file system, command language, pdp-11  
+operating systems, including:  1  a hierarchical file system  
+
+
+DocID: CACM-2931
+
+enter in giving [descriptions] of processes.  
+
+
+DocID: CACM-1003
+
+in by [passing] much of the mathematical procedures  
+the program is [based] on a direct statement of  
+the construction of computer programs [based] on the direct  
+
+
+DocID: CACM-1591
+
+operating system to execute functions other than  
+into an [operating] system of a large computer  
+written in any language processed by the [operating] system.  
+
+
+DocID: CACM-2319
+
+operating system performance  
+computer system, [operating] system, performance  
+with respect to [operating] system performance  
+
+
+DocID: CACM-2342
+
+operating systems, parallel processes  
+as questions of inclusion between sets of [states] or  
+set of such rules yields sequences of [states] which  
+
+
+DocID: CACM-1976
+
+
+
+DocID: CACM-2622
+
+operating system security, security, authentication,  
+in many computer [operating] systems a user authenticates  
+by anyone attempting to intrude.  the scheme is based  
+
+
+DocID: CACM-2740
+
+a large semaphore [based] [operating] system  
+operating system structure, asynchronous  
+cooperating processes, [operating] system, semaphores,  
+
+
+DocID: CACM-2358
+
+operating system, multics, virtual memory, segmentation,  
+as experience with use of on-line operating  
+
+
+DocID: CACM-2991
+
+
+
+DocID: CACM-3049
+
+the [descriptions] of graphical entities  
+system containing components for handling  
+manipulating the [descriptions] of graphical entities  
+
+
+DocID: CACM-3160
+
+this report is [based] on the results of an nsf sponsored  
+
+
+DocID: CACM-2378
+
+an [operating] system [based] on the concept of a supervisory computer  
+operating systems, supervisors, multiprogramming,  
+an [operating] system which is organized as a  
+
+
+DocID: CACM-2688
+
+attribute [based] file organization in a paged memory environment  
+
+
+DocID: CACM-1350
+
+grammar gs.  the structural descriptions  
+for normal grammars.  the comparison is based  
+the structural [descriptions] sd g,x  assigned to the  
+
+
+DocID: CACM-0855
+
+
+
+DocID: CACM-0531
+
+and suggestions from [persons] who have had  
+
+
+DocID: CACM-1194
+
+
+
+DocID: CACM-2233
+
+
+
+DocID: CACM-1098
+
+
+
+DocID: CACM-1928
+
+in execution time and space, and a facility for handling  
+
+
+DocID: CACM-1854
+
+computer organization, file [handling] pl360  
+a basis for the construction of [operating] systems,  
+
+
+DocID: CACM-2470
+
+various modes of function calling and parameter passing  
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-1750
+
+operating systems, control data corporation 6600, [operating] system with ecs  
+multiprogrammed [operating] systems, multiprocessor  
+and functions of such a system are [based] on a  
+
+
+DocID: CACM-2920
+
+operating system, multiprogramming, time-sharing,  
+states and to study their properties.  
+priori information about the processes, resources, operating  
+
+
+DocID: CACM-2357
+
+multiplexer, implementation effort, [operating] overhead,  
+user reactions, remote terminals, [operating] system  
+an on-line system [operating] as part of a normal  
+
+
+DocID: CACM-2181
+
+states were held in 1970, at each of which a broad  
+
+
+DocID: CACM-2668
+
+based on memory [states] control [states] and memory  
+probability in a virtual memory system operating  
+
+
+DocID: CACM-3077
+
+
+
+DocID: CACM-2424
+
+dynamic verification of [operating] system decisions  
+operating systems, data security, fault tolerance,  
+of [operating] system decisions is used on the prime system  
+
+
+DocID: CACM-1847
+
+
+
+DocID: CACM-1936
+
+
+
+DocID: CACM-2198
+
+these is that of [handling] existing stored data and  
+
+
+DocID: CACM-2140
+
+
+
+DocID: CACM-1412
+
+
+
+DocID: CACM-3068
+
+operating systems, security, protection, program verification  
+ucla secure [operating] system is also discussed.  
+many of those properties of an [operating] system which  
+
+
+DocID: CACM-2217
+
+written for [passing] data between the learning program  
+
+
+DocID: CACM-2524
+
+
+
+DocID: CACM-2046
+
+a model [based] on n-ary relations, a normal form for data base relations,  
+
+
+DocID: CACM-2297
+
+paging machines, demand paging, [operating] systems  
+computer system [operating] under demand paging.  in  
+
+
+DocID: CACM-2979
+
+
+
+DocID: CACM-0670
+
+diverse.  in some [states] there might be the  
+
+
+DocID: CACM-1381
+
+of mathematics by [persons] who are not professional  
+
+
+DocID: CACM-0796
+
+
+
+DocID: CACM-2947
+
+sitar, a low-cost in teractive text handling  
+
+
+DocID: CACM-2219
+
+scheduler, time-sharing, [operating] system,  
+operating system can be characterized  
+in a general purpose [operating] system, and  
+
+
+DocID: CACM-3134
+
+based information systems, using the normal multiplication table as a directory  
+
+
+DocID: CACM-1264
+
+blnsys-a 1401 [operating] system with braille capabilities  
+blnsys is an [operating] system designed for  
+jobs may be batched, so that card [handling] and lost  
+
+
+DocID: CACM-2451
+
+a novel tree search scheme [based] on a bit vector representation  
+
+
+DocID: CACM-2437
+
+
+
+DocID: CACM-2721
+
+in the columbia river was made [based] on approximations  
+
+
+DocID: CACM-2289
+
+
+
+DocID: CACM-2060
+
+gedanken-a simple typeless language [based] on the  
+
+
+DocID: CACM-1886
+
+
+
+DocID: CACM-1534
+
+dad, the c. [operating] system  
+figures [based] on several months of operation  
+operating system, dad, is described in detail.  
+
+
+DocID: CACM-1728
+
+operating systems, supervisor simulation, machine  
+storage, one-level storage, [operating] system simulation,  
+directed at the measurement of program operating  
+
+
+DocID: CACM-1677
+
+handling  
+
+
+DocID: CACM-2632
+
+operating system, kernel, nucleus, protection, security  
+hydra: the kernel of a multiprocessor [operating] system  
+hydra-the kernel of an [operating] system for c.mmp,  
+
+
+DocID: CACM-1856
+
+
+
+DocID: CACM-2154
+
+in the united [states]  since that initial achievement  
+
+
+DocID: CACM-1747
+
+input equipment design, [operating] systems, operating  
+
+
+DocID: CACM-1827
+
+operating system and user program behavior  
+
+
+DocID: CACM-3081
+
+
+
+DocID: CACM-3147
+
+
+
+DocID: CACM-3087
+
+methods are discussed for [handling] vague or  
+
+
+DocID: CACM-2990
+
+study, retrieval evaluation is [based] on optimizing the  
+ways.  much of the published evaluation work is based  
+
+
+DocID: CACM-2887
+
+potential effectiveness for software [based] correction  
+
+
+DocID: CACM-2525
+
+
+
+DocID: CACM-1769
+
+by this [measure]  education and increased understanding  
+
+
+DocID: CACM-1462
+
+multilevel [operating] systems  
+operating systems. this implies that all applications-no  
+the [operating] systems, but at a different level.  
+
+
+DocID: CACM-2741
+
+into [states] of saturation.  this analysis leads to a  
+systems is proposed.  it is [based] on a technique of variable  
+
+
+DocID: CACM-2390
+
+
+
+DocID: CACM-0892
+
+
+
+DocID: CACM-2307
+
+based on user needs, and for a continuous  
+
+
+DocID: CACM-2623
+
+handling of leading and trailing blanks, and the encoding  
+
+
+DocID: CACM-3064
+
+and problems dealt with include the proper handling  
+capability for [handling]  "time-displaceable" events is desirable and possible.  
+
+
+DocID: CACM-1956
+
+
+
+DocID: CACM-2868
+
+operating system, protection, capabilities,  
+reflections on an [operating] system design  
+operating system developed for the cdc 6400  
+
+
+DocID: CACM-2035
+
+developed for [handling] scroll editing, filing, and the layered system  
+
+
+DocID: CACM-2092
+
+
+
+DocID: CACM-1696
+
+and transient [states] of a stochastic matrix  
+
+
+DocID: CACM-2003
+
+languages, [operating] at different levels, on which the interaction  
+is [based]  the first one is imol, an interactive monitor language,  
+

@@ -1,0 +1,408 @@
+LUCENE_NoStopNoStem
+
+Query
+Articles on text formatting systems, including "what you see is what you
+get" systems.  Examples: t/nroff, scribe, bravo.
+
+Top 100 Results (15 millisecs)
+
+
+DocID: CACM-2876
+
+
+
+DocID: CACM-2341
+
+
+
+DocID: CACM-3142
+
+
+
+DocID: CACM-1926
+
+
+
+DocID: CACM-2871
+
+
+
+DocID: CACM-2572
+
+
+
+DocID: CACM-0195
+
+
+
+DocID: CACM-1908
+
+
+
+DocID: CACM-3011
+
+
+
+DocID: CACM-2864
+
+
+
+DocID: CACM-0248
+
+
+
+DocID: CACM-1248
+
+
+
+DocID: CACM-1470
+
+
+
+DocID: CACM-0084
+
+
+
+DocID: CACM-2312
+
+
+
+DocID: CACM-1112
+
+
+
+DocID: CACM-2541
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-1518
+
+
+
+DocID: CACM-1616
+
+
+
+DocID: CACM-0718
+
+
+
+DocID: CACM-2987
+
+
+
+DocID: CACM-2786
+
+
+
+DocID: CACM-1828
+
+
+
+DocID: CACM-0724
+
+
+
+DocID: CACM-2988
+
+
+
+DocID: CACM-2519
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-3173
+
+
+
+DocID: CACM-2764
+
+
+
+DocID: CACM-2835
+
+
+
+DocID: CACM-2344
+
+
+
+DocID: CACM-2947
+
+
+
+DocID: CACM-3179
+
+
+
+DocID: CACM-2629
+
+
+
+DocID: CACM-1698
+
+
+
+DocID: CACM-2631
+
+
+
+DocID: CACM-2989
+
+
+
+DocID: CACM-1001
+
+
+
+DocID: CACM-0397
+
+
+
+DocID: CACM-2582
+
+
+
+DocID: CACM-1393
+
+
+
+DocID: CACM-1625
+
+
+
+DocID: CACM-2580
+
+
+
+DocID: CACM-3089
+
+
+
+DocID: CACM-1457
+
+
+
+DocID: CACM-0300
+
+
+
+DocID: CACM-2927
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-3065
+
+
+
+DocID: CACM-1267
+
+
+
+DocID: CACM-2479
+
+
+
+DocID: CACM-1383
+
+
+
+DocID: CACM-1324
+
+
+
+DocID: CACM-1196
+
+
+
+DocID: CACM-2165
+
+
+
+DocID: CACM-2375
+
+
+
+DocID: CACM-2882
+
+
+
+DocID: CACM-2356
+
+
+
+DocID: CACM-2859
+
+
+
+DocID: CACM-3150
+
+
+
+DocID: CACM-1739
+
+
+
+DocID: CACM-1644
+
+
+
+DocID: CACM-2622
+
+
+
+DocID: CACM-1435
+
+
+
+DocID: CACM-1097
+
+
+
+DocID: CACM-2343
+
+
+
+DocID: CACM-1461
+
+
+
+DocID: CACM-2396
+
+
+
+DocID: CACM-2909
+
+
+
+DocID: CACM-2501
+
+
+
+DocID: CACM-2739
+
+
+
+DocID: CACM-3112
+
+
+
+DocID: CACM-2852
+
+
+
+DocID: CACM-1341
+
+
+
+DocID: CACM-1711
+
+
+
+DocID: CACM-1099
+
+
+
+DocID: CACM-2390
+
+
+
+DocID: CACM-2358
+
+
+
+DocID: CACM-1164
+
+
+
+DocID: CACM-2203
+
+
+
+DocID: CACM-1652
+
+
+
+DocID: CACM-1046
+
+
+
+DocID: CACM-2372
+
+
+
+DocID: CACM-3128
+
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-1453
+
+
+
+DocID: CACM-1854
+
+
+
+DocID: CACM-1170
+
+
+
+DocID: CACM-1681
+
+
+
+DocID: CACM-2407
+
+
+
+DocID: CACM-2583
+
+
+
+DocID: CACM-1748
+
+
+
+DocID: CACM-2030
+
+
+
+DocID: CACM-2198
+
+
+
+DocID: CACM-2522
+
+
+
+DocID: CACM-1462
+
+
+
+DocID: CACM-2730
+
+
+
+DocID: CACM-2537
+
+
+
+DocID: CACM-1856
+
+

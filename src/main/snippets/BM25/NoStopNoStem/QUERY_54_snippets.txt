@@ -1,0 +1,478 @@
+BM25_NoStopNoStem
+
+Query
+semesantics of progamming leunaggas, including abstract sptoifieacicos
+nf data types, denotational semesantics, and proofs of correctness.
+
+hoare, a.
+dijkstra, e.
+
+ university of mesassachusetts, arehsmt, mesa 01003
+
+Top 100 Results (453 millisecs)
+
+
+DocID: CACM-2192
+
+recursion, induction, [correctness] [proofs] compiler correctness  
+and thus applicable in [proofs] about interpreters  
+
+
+DocID: CACM-1338
+
+additional comments on a problem in concurrent [progamming] control  
+
+
+DocID: CACM-3031
+
+abstract [data] type, [correctness] proof,  
+data type, [data] structure, specification  
+abstract [data] [types] and software validation  
+
+
+DocID: CACM-2941
+
+programming languages, [types] modules,  
+early experience with mesa  
+data structures, systems programming  
+
+
+DocID: CACM-2958
+
+abstract [data] [types] and the development of [data] structures  
+abstract [data] type, [correctness] proof, [data] type,  
+abstract [data] [types] can play a significant role  
+
+
+DocID: CACM-0065
+
+dijkstra, e. w.  
+
+
+DocID: CACM-3186
+
+dijkstra, e. w.  
+
+
+DocID: CACM-2940
+
+languages, programming methodology, [proofs] of [correctness] [types] verification  
+abstraction and representation, [abstract] [data] [types]  
+of [abstract] [data] [types]  in this paper the abstraction techniques  
+
+
+DocID: CACM-3103
+
+abstract [data] [types] automatic programming, data  
+thus the programs produced using [abstract] [types] were  
+for [abstract] [types] from a library of implementations  
+
+
+DocID: CACM-0307
+
+hoare, c. a. r.  
+
+
+DocID: CACM-0308
+
+hoare, c. a. r.  
+
+
+DocID: CACM-0309
+
+hoare, c. a. r.  
+
+
+DocID: CACM-2796
+
+hoare, c. a. r.  
+
+
+DocID: CACM-2743
+
+merge sorting, computational complexity, data  
+
+
+DocID: CACM-2173
+
+stable marriage problem, [university] entrance  
+
+
+DocID: CACM-0529
+
+regression and coded patterns in [data] editing  
+
+
+DocID: CACM-3104
+
+test [data] as an aid in proving program correctness  
+test [data] can be used in proving program [correctness]  
+proofs of program [correctness] tend to be long  
+
+
+DocID: CACM-2815
+
+complex [data] [types] in separately compiled modules.  
+
+
+DocID: CACM-0857
+
+some typical file structures, [including] some  
+
+
+DocID: CACM-3105
+
+abstract [data] [types] type checking, capabilities  
+types.  
+programming languages, access control, [data] [types]  
+
+
+DocID: CACM-0618
+
+main [types] and the markets for each type are  
+
+
+DocID: CACM-2865
+
+hoare has given a set of axioms for partial [correctness]  
+structured multiprogramming [correctness] [proofs] program  
+is in some sense complete for partial [correctness]  
+
+
+DocID: CACM-2558
+
+protection, [types] environments,trademarks, seals,  
+
+
+DocID: CACM-2677
+
+
+
+DocID: CACM-1922
+
+data link, [data] link control procedures, [data] link  establishment/termination  
+data communication, [data] communication control procedures,  
+data communication establishment/termination  
+
+
+DocID: CACM-0795
+
+
+
+DocID: CACM-3039
+
+dijkstra, e.  
+mutual exclusion, program [correctness] for multiprogramming  
+despite frequent manipulations of a large shared data  
+
+
+DocID: CACM-3196
+
+84-character keyboard [including] alphabetical upper and lower case for good  
+
+
+DocID: CACM-1757
+
+date, [data] group identifier  
+data interchange, recording calendar  
+data interchange*  proposed usa standard   
+
+
+DocID: CACM-0155
+
+
+
+DocID: CACM-0110
+
+
+
+DocID: CACM-2237
+
+
+
+DocID: CACM-2975
+
+data structures, directed graphs, uniform insertion  
+remark on uniform insertion in structured [data] structures  
+
+
+DocID: CACM-0739
+
+
+
+DocID: CACM-0745
+
+
+
+DocID: CACM-0746
+
+
+
+DocID: CACM-0844
+
+
+
+DocID: CACM-0562
+
+
+
+DocID: CACM-0422
+
+
+
+DocID: CACM-0420
+
+
+
+DocID: CACM-0775
+
+
+
+DocID: CACM-0641
+
+
+
+DocID: CACM-0684
+
+
+
+DocID: CACM-0169
+
+
+
+DocID: CACM-0197
+
+
+
+DocID: CACM-1321
+
+
+
+DocID: CACM-0009
+
+
+
+DocID: CACM-0766
+
+
+
+DocID: CACM-1296
+
+
+
+DocID: CACM-0649
+
+
+
+DocID: CACM-0614
+
+
+
+DocID: CACM-0680
+
+
+
+DocID: CACM-1138
+
+
+
+DocID: CACM-0725
+
+
+
+DocID: CACM-0410
+
+
+
+DocID: CACM-0152
+
+
+
+DocID: CACM-0140
+
+
+
+DocID: CACM-0885
+
+
+
+DocID: CACM-0901
+
+
+
+DocID: CACM-0909
+
+
+
+DocID: CACM-2573
+
+
+
+DocID: CACM-1140
+
+
+
+DocID: CACM-2238
+
+
+
+DocID: CACM-2026
+
+
+
+DocID: CACM-1104
+
+
+
+DocID: CACM-1005
+
+
+
+DocID: CACM-0357
+
+
+
+DocID: CACM-0363
+
+
+
+DocID: CACM-0270
+
+
+
+DocID: CACM-0129
+
+
+
+DocID: CACM-0018
+
+
+
+DocID: CACM-0612
+
+
+
+DocID: CACM-0650
+
+
+
+DocID: CACM-1022
+
+
+
+DocID: CACM-0608
+
+
+
+DocID: CACM-2442
+
+
+
+DocID: CACM-0168
+
+
+
+DocID: CACM-0047
+
+
+
+DocID: CACM-0945
+
+
+
+DocID: CACM-1778
+
+
+
+DocID: CACM-1418
+
+
+
+DocID: CACM-2613
+
+
+
+DocID: CACM-2578
+
+dijkstra, e. w.  
+
+
+DocID: CACM-2982
+
+
+
+DocID: CACM-2022
+
+
+
+DocID: CACM-0884
+
+
+
+DocID: CACM-2763
+
+
+
+DocID: CACM-0414
+
+the ibm 1440 [data] processing system, announced  
+ibm 1440 [data] processing system features five new units  
+
+
+DocID: CACM-2122
+
+
+
+DocID: CACM-0474
+
+input [data] organization in fortran  
+
+
+DocID: CACM-0394
+
+multiple programming [data] processing  
+
+
+DocID: CACM-1736
+
+data transmission heading format, heading format,  
+message format, [data] transmission, message headings  
+heading format for [data] transmission  a usaai tutorial -- standards   
+
+
+DocID: CACM-0528
+
+fortran for business [data] processing  
+
+
+DocID: CACM-1701
+
+synchronous signaling rates for data  
+
+
+DocID: CACM-2549
+
+
+
+DocID: CACM-2057
+
+
+
+DocID: CACM-1302
+
+parallel signaling speeds for [data] transmission  
+
+
+DocID: CACM-0654
+
+language problems posed by heavily structured data  
+
+
+DocID: CACM-0597
+
+modular [data] processing systems written in cobol  
+
+
+DocID: CACM-2533
+
+

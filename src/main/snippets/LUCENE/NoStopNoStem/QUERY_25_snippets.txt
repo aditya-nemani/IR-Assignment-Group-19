@@ -1,0 +1,407 @@
+LUCENE_NoStopNoStem
+
+Query
+Performance evaluation and modelling of computer systems
+
+Top 100 Results (69 millisecs)
+
+
+DocID: CACM-2318
+
+
+
+DocID: CACM-3119
+
+
+
+DocID: CACM-2984
+
+
+
+DocID: CACM-2812
+
+
+
+DocID: CACM-2634
+
+
+
+DocID: CACM-2268
+
+
+
+DocID: CACM-2319
+
+
+
+DocID: CACM-3089
+
+
+
+DocID: CACM-3070
+
+
+
+DocID: CACM-1938
+
+
+
+DocID: CACM-2894
+
+
+
+DocID: CACM-1653
+
+
+
+DocID: CACM-2542
+
+
+
+DocID: CACM-3136
+
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-2951
+
+
+
+DocID: CACM-2017
+
+
+
+DocID: CACM-2990
+
+
+
+DocID: CACM-2522
+
+
+
+DocID: CACM-1728
+
+
+
+DocID: CACM-2882
+
+
+
+DocID: CACM-2988
+
+
+
+DocID: CACM-1908
+
+
+
+DocID: CACM-2852
+
+
+
+DocID: CACM-1030
+
+
+
+DocID: CACM-1719
+
+
+
+DocID: CACM-2151
+
+
+
+DocID: CACM-1347
+
+
+
+DocID: CACM-2298
+
+
+
+DocID: CACM-2535
+
+
+
+DocID: CACM-3048
+
+
+
+DocID: CACM-1750
+
+
+
+DocID: CACM-3072
+
+
+
+DocID: CACM-2892
+
+
+
+DocID: CACM-2016
+
+
+
+DocID: CACM-1518
+
+
+
+DocID: CACM-3028
+
+
+
+DocID: CACM-1805
+
+
+
+DocID: CACM-1827
+
+
+
+DocID: CACM-1032
+
+
+
+DocID: CACM-2859
+
+
+
+DocID: CACM-2452
+
+
+
+DocID: CACM-2798
+
+
+
+DocID: CACM-0436
+
+
+
+DocID: CACM-2317
+
+
+
+DocID: CACM-3091
+
+
+
+DocID: CACM-1267
+
+
+
+DocID: CACM-2106
+
+
+
+DocID: CACM-2344
+
+
+
+DocID: CACM-3088
+
+
+
+DocID: CACM-1792
+
+
+
+DocID: CACM-2571
+
+
+
+DocID: CACM-1931
+
+
+
+DocID: CACM-2765
+
+
+
+DocID: CACM-2375
+
+
+
+DocID: CACM-3153
+
+
+
+DocID: CACM-0096
+
+
+
+DocID: CACM-0143
+
+
+
+DocID: CACM-0893
+
+
+
+DocID: CACM-2967
+
+
+
+DocID: CACM-1699
+
+
+
+DocID: CACM-2849
+
+
+
+DocID: CACM-1689
+
+
+
+DocID: CACM-1940
+
+
+
+DocID: CACM-1671
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-1912
+
+
+
+DocID: CACM-2902
+
+
+
+DocID: CACM-1341
+
+
+
+DocID: CACM-2479
+
+
+
+DocID: CACM-1270
+
+
+
+DocID: CACM-0417
+
+
+
+DocID: CACM-3150
+
+
+
+DocID: CACM-1747
+
+
+
+DocID: CACM-1951
+
+
+
+DocID: CACM-2936
+
+
+
+DocID: CACM-1071
+
+
+
+DocID: CACM-1196
+
+
+
+DocID: CACM-0591
+
+
+
+DocID: CACM-1670
+
+
+
+DocID: CACM-1844
+
+
+
+DocID: CACM-2985
+
+
+
+DocID: CACM-1572
+
+
+
+DocID: CACM-1620
+
+
+
+DocID: CACM-0040
+
+
+
+DocID: CACM-2669
+
+
+
+DocID: CACM-2863
+
+
+
+DocID: CACM-2217
+
+
+
+DocID: CACM-2262
+
+
+
+DocID: CACM-3035
+
+
+
+DocID: CACM-2325
+
+
+
+DocID: CACM-1754
+
+
+
+DocID: CACM-1926
+
+
+
+DocID: CACM-1526
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-3090
+
+
+
+DocID: CACM-1247
+
+
+
+DocID: CACM-3117
+
+
+
+DocID: CACM-3078
+
+
+
+DocID: CACM-1484
+
+

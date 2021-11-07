@@ -1,0 +1,608 @@
+BM25_NoStopNoStem
+
+Query
+i am inserted in hidden-line and hidden-surface algorithms fre
+ciylrdons, toroids, spheres, and cones.  this is a rather sequential-cyclic in computer graphics.
+
+Top 100 Results (500 millisecs)
+
+
+DocID: CACM-2913
+
+aliasing, [computer] [graphics] convolutional  
+to [hidden-surface] [algorithms] is discussed, and an implementation  
+filtering, [hidden-surface] removal, sampling  
+
+
+DocID: CACM-2473
+
+hidden-line plot, surface plot  
+hidden-line plotting program  algorithm r420   
+
+
+DocID: CACM-2692
+
+computer [graphics] [hidden-surface] clipping  
+for subsequent [hidden-surface] computations.  
+these [algorithms] are able to clip polygons  
+
+
+DocID: CACM-2674
+
+raster scan [computer] [graphics] with "real time"  
+that the noninteractive [algorithms] can significantly  
+scan conversion [algorithms] which have been  
+
+
+DocID: CACM-2924
+
+computer [graphics] three-dimensional surface representation,  
+an interactive [computer] [graphics] approach to surface representation  
+an in teractive [computer] [graphics] method has been  
+
+
+DocID: CACM-1978
+
+interactive [graphics] [computer] [graphics] [graphics] least squares,  
+the use of interactive [graphics] to solve numerical problems  
+with the advent of on-line  time-sharing  [computer] systems  
+
+
+DocID: CACM-1551
+
+on compiling [algorithms] for arithmetic expressions  
+algorithms generate an object code which minimizes  
+this paper deals with [algorithms] concerning arithmetic  
+
+
+DocID: CACM-2384
+
+hidden-line plot, surface plot  
+hidden-line plotting program [j6]  algorithm a420   
+
+
+DocID: CACM-2441
+
+hidden-line plotting program  algorithm r420   
+
+
+DocID: CACM-0266
+
+fitting [spheres] by the method of least squares  
+
+
+DocID: CACM-1742
+
+graphics, graphic terminal, displays, [graphics]  
+display processor design, display system, computer  
+channel for a [computer] display are considered.  
+
+
+DocID: CACM-2402
+
+computer [graphics] systems coupled to powerful  
+x-ray crystallography, interactive graphics  
+digital computers encourages the development of algorithms  
+
+
+DocID: CACM-2146
+
+sorting, polyphase sorting, dispersion [algorithms]  
+new dispersion [algorithms] with more straightforward  
+various dispersion [algorithms] for the polyphase  
+
+
+DocID: CACM-1159
+
+diminished by current trends in [computer] design, and  
+one [computer] to another.  of the methods examined, the  
+
+
+DocID: CACM-2188
+
+an approach to the optimum design of [computer] [graphics] systems  
+of the capabilities of the [graphics] hardware  
+with an optimization, the best [graphics] system configuration,  
+
+
+DocID: CACM-3049
+
+computer [graphics] data structures, graphic display,  
+of [computer] [graphics] is to describe graphical entities,  
+independent graphics  
+
+
+DocID: CACM-1198
+
+a number of mainly independent sequential-cyclic  
+
+
+DocID: CACM-2771
+
+graphics, machined components, polyhedra, shape  
+added together or subtracted.  two [algorithms] to  
+using a [computer]  synthesis begins with primitive solids  
+
+
+DocID: CACM-2638
+
+hidden-line plotting program  algorithm r420   
+
+
+DocID: CACM-3028
+
+in 30 years of [computer] design at manchester university  
+this paper places each [computer] in its his torical  
+
+
+DocID: CACM-0087
+
+uniformly on n-dimensional spheres  
+
+
+DocID: CACM-2809
+
+cones, vector lattice,absolute, monotonic  
+
+
+DocID: CACM-2637
+
+hidden-line plotting program  algorithm r420   
+
+
+DocID: CACM-2564
+
+hidden-line plotting program  algorithm r420   
+
+
+DocID: CACM-2905
+
+
+
+DocID: CACM-3116
+
+presents a [computer] representation for solids and surfaces and algorithms  
+representation, polyhedral representation, [graphics] polygons, surfaces  
+
+
+DocID: CACM-2678
+
+hidden line problem, [computer] [graphics] contour surface  
+
+
+DocID: CACM-2152
+
+computer [graphics] programming languages, display files  
+is widespread in interactive [computer] [graphics]  
+
+
+DocID: CACM-2004
+
+half-toned [computer] [graphics] presentations  
+half-tone [computer] [graphics] line-scan image processing,  
+also on the coordinated science laboratory cdc 1604 computer  
+
+
+DocID: CACM-2520
+
+proof of [algorithms] greatest common divisor,  
+
+
+DocID: CACM-2211
+
+scanned-display [computer] graphics  
+computer [graphics] scanned-display, scan conversion, raster displays  
+computer installation.  the scanned image is stored  
+
+
+DocID: CACM-2751
+
+computer [graphics] graphic display, hidden surface removal.  
+illumination for [computer] generated pictures  
+the quality of [computer] generated images of  
+
+
+DocID: CACM-3141
+
+decentralized [algorithms] distributed systems, operating systems  
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2273
+
+two [algorithms] for generating [computer] programs  
+from decision tables are described.  the algorithms  
+entry tables.  the [algorithms] are based on the  
+
+
+DocID: CACM-1735
+
+computer time that allows the price of computer  
+a futures market in [computer] time  
+periodic fluctuation in [computer] use often associated  
+
+
+DocID: CACM-1237
+
+conversion of decision tables to [computer] programs  
+are valuable as hand-coding guides or as [algorithms] for  
+
+
+DocID: CACM-1741
+
+swept raster [computer] display, swept raster tv computer  
+computer display, [computer] [graphics] [computer] raster  
+display, tv [graphics] terminal, multiconsole computer  
+
+
+DocID: CACM-2973
+
+sorting on a mesh-connected parallel computer  
+parallel [computer] parallel sorting, parallel merge,  
+two [algorithms] are presented for sorting n^2  
+
+
+DocID: CACM-2631
+
+using direct access [computer] files of bibliographic  
+
+
+DocID: CACM-2369
+
+graphics, displays, [graphics] [computer] drawn  
+hidden line problem, display programming, computer  
+
+
+DocID: CACM-1166
+
+assembly language of one [computer] to another  
+this set, [inserted] at the beginning of the  
+
+
+DocID: CACM-1710
+
+list structure, set languages, modeling, graphics  
+
+
+DocID: CACM-2902
+
+algorithms.  simple [algorithms] operating on memory ordered  
+fragmentation.  [algorithms] main taining separate  
+dynamic memory allocation in [computer] simulation  
+
+
+DocID: CACM-2078
+
+automated design, data structures, [computer] [graphics] [computer]aided  
+computer graphic languages.  four alternative data structures  
+
+
+DocID: CACM-1764
+
+panel discussion on [computer] appreciation  
+computer appreciation, students' liberal arts courses,  
+content, [computer] courses dropout rates, college versus  
+
+
+DocID: CACM-1931
+
+mathematical proof by computer  
+
+
+DocID: CACM-2337
+
+algorithms is given.  one new algorithm for  
+
+
+DocID: CACM-2817
+
+
+
+DocID: CACM-2687
+
+raster scan [computer] [graphics] displays with  
+graphics, raster display, line drawing, discrete  
+organization to include general [graphics]  the feasibility  
+
+
+DocID: CACM-2433
+
+this storage method and express parallel [algorithms] are described.  
+
+
+DocID: CACM-1281
+
+a data input scheme for a time-sharing computer  
+format statements to determine the input, the computer  
+time.  the [computer] converses with the user during the  
+
+
+DocID: CACM-2967
+
+memories in the context of [computer] graphics  
+memory, [graphics] information retrieval,  
+were duplicated on the tx-2 [computer] at m.'s  
+
+
+DocID: CACM-2226
+
+the [algorithms] as a suboptimizer is indicated.  
+further evidence for the analysis of algorithms  
+operations research, integer programming, zero-one variables, algorithms  
+
+
+DocID: CACM-2325
+
+of computation, [algorithms] continuous algorithms  
+numerical mathematics and [computer] science  
+numerical mathematics, [computer] science, mathematics  
+
+
+DocID: CACM-1373
+
+gamma function; logarithm of gamma function  algorithms  
+
+
+DocID: CACM-2368
+
+graph [algorithms] graph processing, shannon switching  
+in this tutorial paper a [computer] program  
+to know whether the [computer] is connect or cut.  
+
+
+DocID: CACM-3152
+
+rather than to use the best known [algorithms] which leave the  
+
+
+DocID: CACM-1331
+
+is [inserted] to mark their separations.  since  
+
+
+DocID: CACM-2825
+
+factor analysis, [graphics] outliers, regression, time series, transformations  
+the bmd and bmdp series of statistical [computer] programs  
+
+
+DocID: CACM-3032
+
+computer networks, store-and-forward packet  
+in store-and-forward packet switching [computer] networks.  
+computer network include  1  transmission  
+
+
+DocID: CACM-1506
+
+the laconiq  laboratory [computer] online inquiry   
+computer  an ibm system 360/30 .  therefore techniques  
+
+
+DocID: CACM-2829
+
+computer [graphics] graphic display, shading, hidden surface removal  
+texture and reflection in [computer] generated images  
+
+
+DocID: CACM-2400
+
+
+
+DocID: CACM-2598
+
+a [computer] program.  the [algorithms] considered  
+limited-entry decision tables to computer  
+explore the limitations of [algorithms] used to solve  
+
+
+DocID: CACM-3149
+
+, picture processing, [computer] [graphics] pattern recognition.  
+
+
+DocID: CACM-1473
+
+electronic digital [computer] z22.  
+
+
+DocID: CACM-2959
+
+programming language, [graphics] user in terface,  
+describe and execute their applications on a [computer]  
+
+
+DocID: CACM-0144
+
+present methods are inefficient when [computer] systems  
+
+
+DocID: CACM-2426
+
+of scales on [computer] generated plots  
+algorithms scale1, scale2, and scale3 for determination  
+
+
+DocID: CACM-2984
+
+a method is presented for evaluating computer  
+computer system, performance evaluation, cost/utilization, system balance  
+
+
+DocID: CACM-0188
+
+the department of [computer] mathematics at moscow state university  
+
+
+DocID: CACM-0595
+
+accepted that some knowledge of the hardware and computer  
+for that [computer] for which he will write cobol programs.  
+
+
+DocID: CACM-1658
+
+programming, zero-one variables, algorithms  
+of several existing [algorithms] for the  
+size.  [computer] experiments still provide little hope  
+
+
+DocID: CACM-2845
+
+
+
+DocID: CACM-2421
+
+graphics, scan conversion, raster plotter,  
+format.  published scan conversion algorithms  
+most [graphics] systems using a raster scan output  
+
+
+DocID: CACM-1727
+
+
+
+DocID: CACM-3038
+
+communication in [computer] networks is discussed.  
+and public-key encryption [algorithms] are considered as the basis for protocols.  
+
+
+DocID: CACM-1908
+
+using time-sharing and batch-processing computer  
+who, as nonprogrammers, are using the [computer] as an  
+cost for usage of the two [computer] systems; however,  
+
+
+DocID: CACM-2936
+
+published [algorithms]  first, the new algorithm's  
+recently [algorithms] have been presented for the  
+of commonly used simple linked list [algorithms]  in this  
+
+
+DocID: CACM-2486
+
+computer photocomposition of technical text  
+photocomposition, typesetting, printing, [graphics] text processing  
+in [computer] assisted typesetting by means of  
+
+
+DocID: CACM-2718
+
+way. an operational [computer] program is described  
+
+
+DocID: CACM-2485
+
+computer management, [computer] budget, [computer] expenditures,  
+control, [computer] resource  
+managing the [computer] resource: a stage hypothesis  
+
+
+DocID: CACM-3188
+
+
+
+DocID: CACM-2627
+
+algorithms, deterministic scheduling models  
+time, sequencing [algorithms] optimal scheduling  
+which extend and generalize the [algorithms] known for  
+
+
+DocID: CACM-3153
+
+the context of a paged [computer] system.  two parameterized algorithms  
+alocation parameters on the expected response times under the two [algorithms]  
+
+
+DocID: CACM-1664
+
+are supplied as input, the [computer] will  
+a method is described whereby a digital computer  
+
+
+DocID: CACM-2283
+
+thinning [algorithms] rectangular, hexagonal,  
+and the relative performances of the algorithms  
+in this report three thinning [algorithms] are  
+
+
+DocID: CACM-2201
+
+computer [graphics] [computer] animation, on-line  
+disadvantages associated with conventional [computer] animation  
+animator is a [computer] animation system which  
+
+
+DocID: CACM-1957
+
+the list set generator is defined and algorithms  
+
+
+DocID: CACM-2453
+
+previously published heuristic [algorithms]  compared  
+of decision tables to [computer] programs  
+decision tables, optimum [computer] programs, information measure  
+
+
+DocID: CACM-2003
+
+interaction, [graphics] [computer] [graphics] [computer]aided design, circuit  
+an interface between designer and [computer] during various steps of  
+
+
+DocID: CACM-1200
+
+a [computer] design is describe which permits  
+
+
+DocID: CACM-2826
+
+interactive [graphics] [computer] generated animation,  
+
+
+DocID: CACM-2535
+
+computer communications, time-sharing, multiplexing,  
+scheduling [algorithms] operating systems  
+with a single exponential server  the [computer] .  
+
+
+DocID: CACM-2950
+
+scheduling [algorithms] scheduling models, priority,  
+of time-invariant [algorithms] which include most  
+algorithms, the dependence of processing rates  
+
+
+DocID: CACM-1385
+
+computer technology in communist china, 1956-1965  
+planning, organization and educational aspects of computer  
+for the 1965 period, [computer] technology in china is  
+
+
+DocID: CACM-2267
+
+computer.  
+algorithms to reveal properties of floating-point arithmetic  
+two [algorithms] are presented in the form of  
+
+
+DocID: CACM-1272
+
+expansion of [computer] output in such  
+and improvement of [computer] output, is exemplified  
+
+
+DocID: CACM-0526
+
+

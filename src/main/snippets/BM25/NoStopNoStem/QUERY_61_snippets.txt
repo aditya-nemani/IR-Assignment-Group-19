@@ -1,0 +1,643 @@
+BM25_NoStopNoStem
+
+Query
+information retrieval arises by gerard shown or others about clustering,
+bibliographic colupnig, use of contains or ci-icaottons, the verifiable model, belson search methods using inverted files, fdaeecbk, etc.
+
+shown, g.
+
+Top 100 Results (422 millisecs)
+
+
+DocID: CACM-2711
+
+automatic [information] [retrieval] automatic  
+the usefulness of the [model]  
+typical evaluation results are [shown] demonstrating  
+
+
+DocID: CACM-1488
+
+more table conditions.  it is further [shown] that  
+of conditions are considered.  it is [shown] that  
+is available in the cobol processor.  it is  shown  
+
+
+DocID: CACM-2991
+
+clustering, [information] [retrieval] open addressing, open  
+storage, [search] method, collisions, synonyms,  
+hashing, hashing techniques, hashing [methods] hash  
+
+
+DocID: CACM-2109
+
+occur and linear [search] [methods] are used.  the [search] size, because  
+addressing, hash coding, quadratic [search]  
+random [search] storage layout, searching  
+
+
+DocID: CACM-2114
+
+description, file [search] directory [search] serial processing of  
+a formal system for [information] [retrieval] from files  
+structure, [inverted] file, index-sequential-file, multilist file,  
+
+
+DocID: CACM-2451
+
+tree file, [information] storage and [retrieval] [clustering]  
+a standard [information] [retrieval] operation is  
+can be represented by a tree [search] [model]  this paper  
+
+
+DocID: CACM-3084
+
+interpolation [search] -a log logn search  
+interpolation [search] [retrieval] searching,  
+interpolation [search] is a method of retrieving  
+
+
+DocID: CACM-2986
+
+is [shown] as well as how to compute linear precedence  
+relations in o n^2  steps is [shown] as well as how to  
+
+
+DocID: CACM-2998
+
+observed regularity of list structure.  it is shown  
+information content of a car-cdr pair in the programs  
+
+
+DocID: CACM-2846
+
+information [retrieval] systems.  it has the same underlying  
+retrieval time, storage requirement, keys  
+improvement in storage requirements and [retrieval] time  
+
+
+DocID: CACM-2646
+
+matrix and partial differential equation [methods] are  
+memory.  the [methods] discussed are independent of  
+of programs with predictable behavior.  while the methods  
+
+
+DocID: CACM-1976
+
+file organization, secondary index files, [inverted] files, information  
+multi-attribute [retrieval] with combined indexes  
+retrieval, data management, access method, secondary  
+
+
+DocID: CACM-2267
+
+shown to work on any "reasonable" floating-point  
+by the machine on which it is run.  the [methods] are  
+
+
+DocID: CACM-1483
+
+are [shown]  
+
+
+DocID: CACM-0944
+
+trees.  such trees have [information] storage and retrieval  
+word length and distribution of stored information  
+the storage and [search] properties of a tree-organized  
+
+
+DocID: CACM-1810
+
+are [shown] to arise from, or be aggravated by, this  
+and it is [shown] that given some care in use the  
+
+
+DocID: CACM-1700
+
+on a test [search] of 33,000 subject index entries.  a search  
+retrieval [methods] has been mated with the  
+computer [search] technique  
+
+
+DocID: CACM-2229
+
+methods.  both [methods] are described here, and the relationship  
+some [methods] are described for the generation  
+and it is [shown] how the convergence properties of  
+
+
+DocID: CACM-0849
+
+binary [search] techniques are efficient for searching  
+of the tree.  it is also [shown] that optimizing  
+per cent slower than the binary [search]  the tree  
+
+
+DocID: CACM-1200
+
+replaced with conjugate instructions.  it is shown  
+
+
+DocID: CACM-2018
+
+quadratic [search] only accesses half the table.  it has been shown  
+of the [clustering] experienced with a linear [search] method.  the simple  
+hash code, [clustering] collisions  
+
+
+DocID: CACM-2374
+
+model dynamic storage partitioning is [shown] to  
+justifying this [model] are described.  by means of this  
+a study of storage partitioning using a mathematical [model] of locality  
+
+
+DocID: CACM-1935
+
+retrieval, mathematical [model] partitioning,  
+and offers new potential for [information] [retrieval] systems.  
+randomized binary [search] technique  
+
+
+DocID: CACM-2484
+
+data base, data-base management, [information] [retrieval]  
+information structure, file organization,  
+information structures, as list, tree, ring,  
+
+
+DocID: CACM-2851
+
+a parallel-program [model]  the former [model] does not  
+it is [shown] that assertions-oriented proof  
+are presented: an abstract conceptual [model] and  
+
+
+DocID: CACM-3014
+
+conventional [methods]  the intermittent-assertion method  
+intermittent assertions.  finally, it is shown  
+on the other hand, it is [shown] that a proof of correctness  
+
+
+DocID: CACM-2978
+
+files, [retrieval] main tenance, [search] strategy,  
+alternatives include a choice of [search] strategy,  
+which compare the [retrieval] costs of the alternatives.  
+
+
+DocID: CACM-2140
+
+files, [information] [retrieval] query, multi-attribute  
+retrieval, file update  
+file organization, combined index files, inverted  
+
+
+DocID: CACM-3134
+
+information [retrieval] [inverted] files, multiattribute [retrieval]  
+for [information] storage and retrieval  
+d [retrieval] of [information] are described.  this method is particularly  
+
+
+DocID: CACM-2342
+
+to any of the interference properties.  it is shown  
+proof procedure is [shown] which will either verify  prove  
+
+
+DocID: CACM-2722
+
+associative [retrieval] binary [search] trees, key,  
+attribute, [information] [retrieval] system, nearest  
+information to be retrieved by associative searches.  
+
+
+DocID: CACM-3096
+
+balanced, binary, [search] trees  
+problems of insertion, deletion, and [retrieval]  
+of balancing [information] is required  two bits are  
+
+
+DocID: CACM-3152
+
+multiplication scheme is [shown] to be advantageous for  
+not.  the former scheme is also [shown] to be advantageous even if  
+
+
+DocID: CACM-2787
+
+shown it to be a good basis for a realistic timetabling algorithm.  
+
+
+DocID: CACM-2561
+
+inference, inductive inference, [clustering] fact [retrieval] heuristics  
+are implemented in a [model] fact [retrieval] system  
+data base using nonnumerical [clustering] algorithms.  they  
+
+
+DocID: CACM-2179
+
+also [shown]  these parser-construction techniques  
+this class has been [shown] to include weak precedence  
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2980
+
+either on the basis of semantic [information] or on the  
+editing is equivalent to fast graph operations.  a number of examples are [shown]  
+
+
+DocID: CACM-3129
+
+
+
+DocID: CACM-2888
+
+through a set-theoretic [information] [model]  
+information reference coding  
+analysis, [information] modeling, database  
+
+
+DocID: CACM-2746
+
+search, [information] [retrieval] text-editing,  
+efficient string matching: an aid to [bibliographic] search  
+improve the speed of a library bibliographic  
+
+
+DocID: CACM-2969
+
+model.  a [search] procedure for the file location  
+and a possible application of the [model]  
+
+
+DocID: CACM-2192
+
+is [shown] to be useful for proving partial functions equivalent  
+
+
+DocID: CACM-3072
+
+model studies of some integrated, feedback-driven  
+the [model] studies used both distribution-driven  
+schedulers are [shown] to improve system performance  
+
+
+DocID: CACM-1830
+
+retrieval times for a packed direct access [inverted] file  
+information [retrieval] direct access memory, data base, [inverted] list  
+
+
+DocID: CACM-2570
+
+random variables are analyzed.  it is [shown] that  
+
+
+DocID: CACM-2627
+
+presenting and analyzing new algorithms it is shown  
+tasks.  in this paper a deterministic [model] of independent  
+
+
+DocID: CACM-2278
+
+binary trees, [search] trees, [information] storage, [information] retrieval  
+on foster's [information] storage and [retrieval] using avl trees  
+
+
+DocID: CACM-2913
+
+of a filtering tiler is [shown] accompanied  
+to more effective [methods]  this paper explains  
+
+
+DocID: CACM-1408
+
+accessing for drums so defined.  this is [shown] to  
+specific use, the [methods] underlying it have more general applicability.  
+
+
+DocID: CACM-1923
+
+can provide potentially inexpensive methods  
+facilities is described.  it is [shown] that this technique  
+
+
+DocID: CACM-2258
+
+file [search] scatter storage, [information] retrieval  
+hashing, hashing techniques, hashing [methods] hash  
+
+
+DocID: CACM-2918
+
+organizations are compared and it is [shown] that  
+is [shown] to be particularly suited to certain specialized  
+
+
+DocID: CACM-2885
+
+on self-organizing sequential [search] heuristics  
+"move to front" and "transposition" heuristics are shown  
+to [search] for a specified element, assuming that  
+
+
+DocID: CACM-1846
+
+unfeasible when the additional [information] is provided.  
+the [information] available to the solution technique, but  
+can be found.  in some of the latter cases it is shown  
+
+
+DocID: CACM-2139
+
+compression, [information] [retrieval] searching  
+substring, hashing, subset, signature, information  
+will be satisfied, it is [shown] how the operation  
+
+
+DocID: CACM-0028
+
+request for [methods] or programs  
+
+
+DocID: CACM-1699
+
+information [retrieval] testing,  [information] system  
+of mechanized [information] [retrieval] systems,  
+of the research is that an [information] [retrieval] system  
+
+
+DocID: CACM-2494
+
+by four [methods] of factor analysis and two [methods] of cluster analysis.  
+taxonomy, hierarchical [clustering] factor analysis  
+and to the rearranged matrix after [clustering]  
+
+
+DocID: CACM-1379
+
+statement.  it is [shown] that the syntax equations  
+
+
+DocID: CACM-2905
+
+a refinement of hashing which allows retrieval  
+hashing, hashing [methods] hash coding, direct addressing,  
+directly to small sets.  some [methods] to extend  
+
+
+DocID: CACM-2882
+
+retrieval systems.  these data [retrieval] systems can  
+discusses a simulation [model] of a data retrieval  
+list, [information] [retrieval] database organizations,  
+
+
+DocID: CACM-2525
+
+representations are [shown] to be approximately  
+usual round mode with guard digits is [shown] to be  
+
+
+DocID: CACM-2631
+
+direct access, [information] [retrieval] character  
+text searching, [information] theory, file organization,  
+using direct access computer files of bibliographic  
+
+
+DocID: CACM-0095
+
+methods are applied can sometimes be expanded  
+
+
+DocID: CACM-1675
+
+information [retrieval] relevance, indexing, classification  
+procedure is examined.  it is [shown] that  
+
+
+DocID: CACM-3081
+
+model for shallow binding.  
+finally, the concept of rerooting is shown  
+amount of computation.  an elegant [model] for shallow binding  
+
+
+DocID: CACM-1457
+
+in automatic [information] retrieval  
+automatic [information] [retrieval] programs require  
+facilities to aid in [information] [retrieval]  
+
+
+DocID: CACM-2701
+
+go-to-less programming, depth-first [search]  
+analysis, [information] propagation, flow graph, reducibility,  
+it is also [shown] that in programming terms,  
+
+
+DocID: CACM-2517
+
+work on decision table translation using methods  
+of these [methods] under various possible conventions  
+
+
+DocID: CACM-2838
+
+is [shown] to be very nearly equal to the worst-case  
+are [shown] to require at most twice as much processing  
+
+
+DocID: CACM-1951
+
+model of the user-computer interactive process.  the [model] used is  
+from four operational multiaccess systems, and the [model] is [shown] to  
+decomposed into the elements of this [model]  data were examined  
+
+
+DocID: CACM-2307
+
+automatic indexing, automatic [search] and [retrieval]  
+for [information] [retrieval] and for the control  
+an interactive user-controlled [search] process.  
+
+
+DocID: CACM-1973
+
+address, [search] table, lookup, symbol table, keys  
+is [shown] to possess desirable attributes.  specifically, the algorithm  
+
+
+DocID: CACM-1352
+
+two efficient [methods] for automatic numerical  
+where a is a parameter, it is [shown] that  
+
+
+DocID: CACM-2987
+
+representation, spatial information  
+representation, geographic [information] processing, graphic  
+data [retrieval] in tersection of curves, line-drawing  
+
+
+DocID: CACM-2688
+
+inverted file, multiple key hashing  
+file organization, paging, [retrieval] algorithm,  
+approaches to multi-key [retrieval]  this article  
+
+
+DocID: CACM-1725
+
+ordered lists, ordered [information] [retrieval]  
+access frequency, ordered [retrieval] efficiency,  
+access frequency proof, [retrieval] theorem proof  
+
+
+DocID: CACM-3158
+
+
+
+DocID: CACM-1148
+
+different [methods] of handling the summing process  
+for the geometric series are [shown] to give  
+
+
+DocID: CACM-3069
+
+which [arises] through reference parameters.  the algorithm  
+associates with each procedure in a program information  
+information in a single pass, not requiring a prepass to  
+
+
+DocID: CACM-2927
+
+to the theoretical lower bound for sieve methods  
+complexity.  this upper bound is [shown] to be equivalent  
+
+
+DocID: CACM-1402
+
+of additional [information] as in interpolation [methods]  
+
+
+DocID: CACM-0865
+
+records is presented.  the technique is [shown] to  
+internal sort .  it is [shown] that given n records  
+
+
+DocID: CACM-2526
+
+and it is [shown] that such hierarchies may operate in  
+hierarchies.  in particular, it is [shown] that it may not  
+
+
+DocID: CACM-2981
+
+and, in particular, it is [shown] that subgoal  
+
+
+DocID: CACM-1927
+
+data [retrieval] language analysis, information  
+science, [information] organization, [information] [retrieval]  
+courses,computer science curriculum, information  
+
+
+DocID: CACM-2770
+
+previous work on quadratic hash [methods] is  
+quadratic [search] hash code, scatter storage, table size  
+composite numbers.  it is [shown] that all composite  
+
+
+DocID: CACM-1936
+
+information [retrieval] file searching, tree structures, double chaining  
+average [search] time.  a simple closed expression  
+minimum average [search] time.  then the more  
+
+
+DocID: CACM-0497
+
+a discrete [search]  in this paper, the computational  
+it is [shown] how bellman's method may be applied to the  
+it is further [shown] that an equation for u i  involving  
+
+
+DocID: CACM-1909
+
+it is [shown] to be practical to compute jn x  by  
+
+
+DocID: CACM-1691
+
+over the field of characteristic two, is shown  
+is here empirically [shown] that generators of this type  
+
+
+DocID: CACM-2486
+
+devised in the [information] system of the american institute  
+
+
+DocID: CACM-3110
+
+the problem is [shown] to be np-complete.  
+
+
+DocID: CACM-2939
+
+is illustrated, and it is [shown] how clu programs may  
+
+
+DocID: CACM-1236
+
+and [search] requests.  this feature is used in the retrieval  
+retrieve the wanted [information]  a typical search  
+a fully automatic document [retrieval] system  
+
+
+DocID: CACM-2456
+
+it is also [shown] that if,while, and repeat statements  
+with single-level exit do not suffice.  it is also shown  
+flowchart.  it is [shown] that a program is well formed if  
+
+
+DocID: CACM-2582
+
+over the other [methods] proposed in the  
+of an operating system have [shown] its substantial superiority  
+it is [shown] that, except in some special cases, the  
+
+
+DocID: CACM-3125
+
+information or restrictions on the shape of the program graph.  
+testing this algorithm has [shown] that its execution cost is nearly  
+
+
+DocID: CACM-2976
+
+and measurement, [information] [retrieval]  
+database, [inverted] file organization, database performance  
+

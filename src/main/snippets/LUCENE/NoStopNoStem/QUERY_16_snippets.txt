@@ -1,0 +1,408 @@
+LUCENE_NoStopNoStem
+
+Query
+find all descriptions of file handling in operating systems based on
+multiple processes and message passing.
+
+Top 100 Results (41 millisecs)
+
+
+DocID: CACM-3141
+
+
+
+DocID: CACM-1135
+
+
+
+DocID: CACM-2080
+
+
+
+DocID: CACM-2378
+
+
+
+DocID: CACM-1750
+
+
+
+DocID: CACM-0243
+
+
+
+DocID: CACM-2629
+
+
+
+DocID: CACM-3021
+
+
+
+DocID: CACM-1854
+
+
+
+DocID: CACM-0409
+
+
+
+DocID: CACM-2522
+
+
+
+DocID: CACM-3157
+
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-2184
+
+
+
+DocID: CACM-2217
+
+
+
+DocID: CACM-2688
+
+
+
+DocID: CACM-2438
+
+
+
+DocID: CACM-3148
+
+
+
+DocID: CACM-0696
+
+
+
+DocID: CACM-2320
+
+
+
+DocID: CACM-2622
+
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-2266
+
+
+
+DocID: CACM-1003
+
+
+
+DocID: CACM-2379
+
+
+
+DocID: CACM-2582
+
+
+
+DocID: CACM-1749
+
+
+
+DocID: CACM-1753
+
+
+
+DocID: CACM-2833
+
+
+
+DocID: CACM-2376
+
+
+
+DocID: CACM-1846
+
+
+
+DocID: CACM-3002
+
+
+
+DocID: CACM-1747
+
+
+
+DocID: CACM-1199
+
+
+
+DocID: CACM-2750
+
+
+
+DocID: CACM-3039
+
+
+
+DocID: CACM-2424
+
+
+
+DocID: CACM-2307
+
+
+
+DocID: CACM-3127
+
+
+
+DocID: CACM-2342
+
+
+
+DocID: CACM-2168
+
+
+
+DocID: CACM-1976
+
+
+
+DocID: CACM-2950
+
+
+
+DocID: CACM-1385
+
+
+
+DocID: CACM-2949
+
+
+
+DocID: CACM-1878
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-1844
+
+
+
+DocID: CACM-2524
+
+
+
+DocID: CACM-2358
+
+
+
+DocID: CACM-1032
+
+
+
+DocID: CACM-1462
+
+
+
+DocID: CACM-2357
+
+
+
+DocID: CACM-2890
+
+
+
+DocID: CACM-1680
+
+
+
+DocID: CACM-2482
+
+
+
+DocID: CACM-1677
+
+
+
+DocID: CACM-2542
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-3119
+
+
+
+DocID: CACM-2339
+
+
+
+DocID: CACM-2407
+
+
+
+DocID: CACM-1748
+
+
+
+DocID: CACM-2947
+
+
+
+DocID: CACM-2188
+
+
+
+DocID: CACM-2160
+
+
+
+DocID: CACM-3026
+
+
+
+DocID: CACM-2421
+
+
+
+DocID: CACM-0858
+
+
+
+DocID: CACM-1698
+
+
+
+DocID: CACM-2452
+
+
+
+DocID: CACM-2317
+
+
+
+DocID: CACM-2625
+
+
+
+DocID: CACM-1828
+
+
+
+DocID: CACM-1728
+
+
+
+DocID: CACM-1514
+
+
+
+DocID: CACM-2138
+
+
+
+DocID: CACM-1928
+
+
+
+DocID: CACM-1961
+
+
+
+DocID: CACM-2777
+
+
+
+DocID: CACM-2060
+
+
+
+DocID: CACM-1959
+
+
+
+DocID: CACM-2801
+
+
+
+DocID: CACM-1210
+
+
+
+DocID: CACM-1388
+
+
+
+DocID: CACM-0492
+
+
+
+DocID: CACM-1226
+
+
+
+DocID: CACM-2017
+
+
+
+DocID: CACM-2519
+
+
+
+DocID: CACM-1197
+
+
+
+DocID: CACM-2390
+
+
+
+DocID: CACM-3081
+
+
+
+DocID: CACM-1745
+
+
+
+DocID: CACM-1960
+
+
+
+DocID: CACM-2372
+
+
+
+DocID: CACM-1350
+
+
+
+DocID: CACM-2795
+
+
+
+DocID: CACM-2396
+
+
+
+DocID: CACM-2794
+
+
+
+DocID: CACM-1399
+
+

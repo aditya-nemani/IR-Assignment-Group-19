@@ -1,0 +1,503 @@
+QL_NoStopNoStem
+
+Query
+find all discussions of historical microcode obligation wish science-seminars on obligation of loops and global obligation.
+
+Top 100 Results (406 millisecs)
+
+
+DocID: CACM-0670
+
+with respect to the [obligation] not to disclose information  
+
+
+DocID: CACM-2701
+
+global flow analysis, data flow, code optimization,  
+a new algorithm for [global] flow analysis on  
+number of exits from program [loops]  consequently  
+
+
+DocID: CACM-3125
+
+global optimization by suppression of partial redundancies  
+computations out of [loops] are often done separately, with invariants  
+
+
+DocID: CACM-2877
+
+the [global] data relationships in a program  
+
+
+DocID: CACM-2944
+
+garbage collection, [global] flow analysis, list processing,  
+requires [global] flow analysis to be performed on the  
+used to [find] actions that cancel when the code is executed  
+
+
+DocID: CACM-2174
+
+has been extended to [find] all the stable marriage assignments.  
+
+
+DocID: CACM-3069
+
+data flow analysis, [global] flow analysis, optimization,  
+
+
+DocID: CACM-1961
+
+which uses an exhaustive search to [find] all of the elementary  
+an efficient search algorithm to [find] the elementary circuits of a graph  
+circuits of a graph.  the algorithm can be easily modified to [find] all  
+
+
+DocID: CACM-0319
+
+some [historical] notes on iterative procedures are  
+on a class of iteration formulas and some [historical] notes  
+
+
+DocID: CACM-2181
+
+gives a summary of the [discussions] a condensation  
+
+
+DocID: CACM-3074
+
+marked nodes of differing sizes, one may wish  
+
+
+DocID: CACM-2051
+
+language processing, comparative method, [historical] linguistics, diachronic  
+
+
+DocID: CACM-2541
+
+and machine  via [microcode]  to create an interactive programming  
+
+
+DocID: CACM-1886
+
+applied, and hence [global] optimal results are not  
+
+
+DocID: CACM-2851
+
+and permits shared [global] variables.  correctness  
+
+
+DocID: CACM-3157
+
+are difficult to [find] and are of a complexity out  
+the basic approach is to [find] a termination function  that maps  
+
+
+DocID: CACM-1197
+
+it will usually [find] a majority of them.  
+
+
+DocID: CACM-1878
+
+depend on being able to [find] and mark nodes that  
+
+
+DocID: CACM-3087
+
+also included are [discussions] of important issues  
+
+
+DocID: CACM-2866
+
+monitors, correctness, proof rules, [historical] variables,  
+upper bounds on queue lengths, and historical  
+
+
+DocID: CACM-2940
+
+means of specializing alphard's [loops] to operate  
+cases of these [loops] are essentially identical to the  
+
+
+DocID: CACM-2302
+
+overtones.  we [wish] to delineate some of the issues,  
+
+
+DocID: CACM-3037
+
+it is also easily extended to [find] the prime  
+
+
+DocID: CACM-1807
+
+loops, common subexpressions, invariant calculations  
+invariant calculations from do [loops]  3  to efficiently  
+
+
+DocID: CACM-1768
+
+a [global] parser for context-free phrase structure grammars  
+
+
+DocID: CACM-2150
+
+one of the case where we [wish] minimum delay for  
+the readers; the other for the case where we wish  
+
+
+DocID: CACM-2750
+
+in such a situation, we must [find] a set of assumptions  
+
+
+DocID: CACM-2808
+
+interesting [historical] material.  the acceleration  
+
+
+DocID: CACM-2685
+
+array computers, vector computers, loops  
+the parallel execution of do loops  
+
+
+DocID: CACM-2195
+
+global recognition, parallel processing, dynamic  
+global approach, greater flexibility and adequacy  
+
+
+DocID: CACM-2187
+
+a [global] view which attempts to capture broad  
+
+
+DocID: CACM-2827
+
+this scheme can [find] the coordinates of points  
+
+
+DocID: CACM-2923
+
+and derives new [global] information helpful in solving  
+many familiar [global] flow analysis problems.  an  
+
+
+DocID: CACM-0691
+
+presented also are an [historical] summary of the development  
+
+
+DocID: CACM-3112
+
+it suitable for [microcode]  finally, the system requires  
+
+
+DocID: CACM-2142
+
+and the problem is to [find] the "most representative"  
+
+
+DocID: CACM-3118
+
+bubble memory, memory [loops] permutation algorithm, data block shift  
+loops, connected through another  major  loop.  the problem of obtaining any  
+
+
+DocID: CACM-2478
+
+computer [science-seminars] for undergraduates  
+
+
+DocID: CACM-0396
+
+repetition of [loops] and checkpoint information for each set of data. the  
+
+
+DocID: CACM-2130
+
+automatic segmentation, cyclic program structures, [loops] paging,  
+
+
+DocID: CACM-2339
+
+historical response patterns, word strings,  
+
+
+DocID: CACM-2210
+
+that in order to construct a program with [loops] or with  
+
+
+DocID: CACM-3160
+
+
+
+DocID: CACM-0595
+
+unfortunately, [historical] data concerning  
+
+
+DocID: CACM-2880
+
+useful implemented as [microcode] ona binary machine,  
+
+
+DocID: CACM-2470
+
+questions of local and [global] environments and of  
+
+
+DocID: CACM-2227
+
+proof of a program: find  
+algorithm "find."  first, a informal description  
+
+
+DocID: CACM-1643
+
+find the zeros one at a time require the division  
+
+
+DocID: CACM-1628
+
+
+
+DocID: CACM-3132
+
+experiments with some algorithms that find  
+set.  the traditional methods [find] a hyperplane which separates all  
+
+
+DocID: CACM-1433
+
+find some characteristics of the way a pivot column  
+
+
+DocID: CACM-1674
+
+currently available, may [wish] to consider some of  
+
+
+DocID: CACM-3057
+
+is to [find] a transformed digital picture of  
+
+
+DocID: CACM-3064
+
+in simulated time; that infinite [loops] caused by the concatenation  
+
+
+DocID: CACM-2188
+
+are in turn used to [find] general display system  
+
+
+DocID: CACM-2450
+
+in the hope that workers in the field might [find] experimental  
+
+
+DocID: CACM-2920
+
+future needs by a flowchart of need-defined steps, a global  
+
+
+DocID: CACM-2890
+
+network are constructed, one to find  
+
+
+DocID: CACM-1465
+
+
+
+DocID: CACM-1846
+
+to be possible to [find] a solution by extending  
+problems.  the technique will either [find] a method of  
+
+
+DocID: CACM-2396
+
+semantic intersection procedure to find  
+
+
+DocID: CACM-2305
+
+is of [historical] interest; also, it may provide  
+
+
+DocID: CACM-1915
+
+
+
+DocID: CACM-3139
+
+important part of heuristic procedures to [find] maximal cliques in general  
+
+
+DocID: CACM-1135
+
+
+
+DocID: CACM-2524
+
+a file to [find] a key which is closest to a given  
+
+
+DocID: CACM-2931
+
+can be made mathematically exact if we can find  
+
+
+DocID: CACM-1947
+
+used to do [global] common expression elimination  
+
+
+DocID: CACM-2365
+
+by reversing the order of nested [loops]  such modifications  
+
+
+DocID: CACM-2456
+
+in which [loops] and if statements are properly  
+
+
+DocID: CACM-1154
+
+
+
+DocID: CACM-2943
+
+statements and [loops]  
+
+
+DocID: CACM-2358
+
+
+
+DocID: CACM-1134
+
+
+
+DocID: CACM-2820
+
+him [find] the cause of his error.  most components  
+
+
+DocID: CACM-2390
+
+
+
+DocID: CACM-3188
+
+
+
+DocID: CACM-2819
+
+to [find] an optimal set of codes for representing  
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-1098
+
+
+
+DocID: CACM-3024
+
+innermost do [loops]  compatible with the ansi  
+
+
+DocID: CACM-2137
+
+concept, and that of [global] and local variables,  
+
+
+DocID: CACM-2193
+
+
+
+DocID: CACM-1462
+
+
+
+DocID: CACM-2344
+
+
+
+DocID: CACM-1388
+
+
+
+DocID: CACM-2030
+
+for grammars which contain [loops]  the algorithm is  
+
+
+DocID: CACM-0655
+
+
+
+DocID: CACM-3156
+
+the algorithm can be used to [find] the transitive closure  
+we present a parallel algorithm which uses n2 processors to [find] the connected  
+
+
+DocID: CACM-3085
+
+o n  algorithm to [find] an order of computation which  
+
+
+DocID: CACM-0717
+
+
+
+DocID: CACM-1847
+
+
+
+DocID: CACM-0089
+
+a routine to [find] the solution of simultaneous  
+
+
+DocID: CACM-1072
+
+
+
+DocID: CACM-0776
+
+partition, quicksort, and [find]  algorithm 62, 64, & 65   
+
+
+DocID: CACM-1694
+
+
+
+DocID: CACM-2064
+
+
+
+DocID: CACM-2841
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-2527
+
+

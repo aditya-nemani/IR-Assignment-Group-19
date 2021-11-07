@@ -1,0 +1,569 @@
+QL_NoStopNoStem
+
+Query
+fed all descriptions of file handling in operating states based online-are persons and measure passing.
+
+Top 100 Results (405 millisecs)
+
+
+DocID: CACM-1135
+
+descriptions  which are one-to-one translations  
+a structure, [based] on identifying and incorporating  
+a general business-oriented language [based] on decision expressions*  
+
+
+DocID: CACM-0409
+
+for accepting, storing, and retrieving both descriptions  
+of distinct data [descriptions] and the content and  
+use of such [descriptions] are discussed in some detail.  
+
+
+DocID: CACM-2668
+
+based on memory [states] control [states] and memory  
+probability in a virtual memory system operating  
+
+
+DocID: CACM-2344
+
+measure of performance, scheduling algorithms  
+algorithm can also have a marked effect on the measure  
+a [measure] of system performance is used to ascertain which  
+
+
+DocID: CACM-2184
+
+file, [operating] system, programming language, functions,  
+language and the file names of an [operating] system.  
+based upon the first two terms in the equivalent  
+
+
+DocID: CACM-1854
+
+computer organization, file [handling] pl360  
+a basis for the construction of [operating] systems,  
+
+
+DocID: CACM-1003
+
+in by [passing] much of the mathematical procedures  
+the program is [based] on a direct statement of  
+the construction of computer programs [based] on the direct  
+
+
+DocID: CACM-2741
+
+into [states] of saturation.  this analysis leads to a  
+systems is proposed.  it is [based] on a technique of variable  
+
+
+DocID: CACM-1264
+
+blnsys-a 1401 [operating] system with braille capabilities  
+blnsys is an [operating] system designed for  
+jobs may be batched, so that card [handling] and lost  
+
+
+DocID: CACM-2378
+
+an [operating] system [based] on the concept of a supervisory computer  
+operating systems, supervisors, multiprogramming,  
+an [operating] system which is organized as a  
+
+
+DocID: CACM-1396
+
+batch and [online-are] described.  finally, some  
+
+
+DocID: CACM-2920
+
+operating system, multiprogramming, time-sharing,  
+states and to study their properties.  
+priori information about the processes, resources, operating  
+
+
+DocID: CACM-1350
+
+grammar gs.  the structural descriptions  
+for normal grammars.  the comparison is based  
+the structural [descriptions] sd g,x  assigned to the  
+
+
+DocID: CACM-3074
+
+location, [passing] through the pointing locations,  
+
+
+DocID: CACM-3049
+
+the [descriptions] of graphical entities  
+system containing components for handling  
+manipulating the [descriptions] of graphical entities  
+
+
+DocID: CACM-0086
+
+controller general of the united [states] to the congress of the united states  
+
+
+DocID: CACM-2357
+
+multiplexer, implementation effort, [operating] overhead,  
+user reactions, remote terminals, [operating] system  
+an on-line system [operating] as part of a normal  
+
+
+DocID: CACM-2326
+
+handling, in a uniform manner of various properties  
+
+
+DocID: CACM-2622
+
+operating system security, security, authentication,  
+in many computer [operating] systems a user authenticates  
+by anyone attempting to intrude.  the scheme is based  
+
+
+DocID: CACM-2623
+
+handling of leading and trailing blanks, and the encoding  
+
+
+DocID: CACM-2629
+
+operating system for the digital equipment  
+time-sharing, [operating] system, file system, command language, pdp-11  
+operating systems, including:  1  a hierarchical file system  
+
+
+DocID: CACM-2317
+
+languages, [operating] systems, programming  
+of [operating] system principles.  important trends  
+in the [operating] system area all major computer  
+
+
+DocID: CACM-0531
+
+and suggestions from [persons] who have had  
+
+
+DocID: CACM-2160
+
+canonical structure in attribute [based] file organization  
+a new file structure for attribute [based] retrieval  
+organization being proposed is [based] on the atoms  
+
+
+DocID: CACM-0696
+
+stations which collect and transmit company operating  
+
+
+DocID: CACM-3199
+
+capable of [handling] any number of single letter variables, variable exponents,  
+
+
+DocID: CACM-1381
+
+of mathematics by [persons] who are not professional  
+
+
+DocID: CACM-2342
+
+operating systems, parallel processes  
+as questions of inclusion between sets of [states] or  
+set of such rules yields sequences of [states] which  
+
+
+DocID: CACM-1001
+
+is [fed] into a computer and is indexed, analyzed,  
+
+
+DocID: CACM-2947
+
+sitar, a low-cost in teractive text handling  
+
+
+DocID: CACM-1769
+
+by this [measure]  education and increased understanding  
+
+
+DocID: CACM-1488
+
+more than two mutually exclusive [states] of one, two or  
+
+
+DocID: CACM-3002
+
+library routines' storage at a large scale operating  
+
+
+DocID: CACM-3134
+
+based information systems, using the normal multiplication table as a directory  
+
+
+DocID: CACM-1032
+
+of the file [based] on its history and past  
+
+
+DocID: CACM-1677
+
+handling  
+
+
+DocID: CACM-2339
+
+the feasibility of translating verbal descriptions  
+a reference file of verbal [descriptions] for use by the  
+
+
+DocID: CACM-2358
+
+operating system, multics, virtual memory, segmentation,  
+as experience with use of on-line operating  
+
+
+DocID: CACM-3114
+
+
+
+DocID: CACM-2232
+
+it to the pattern boundary radius vector, and descriptions  
+
+
+DocID: CACM-2542
+
+operating system development, language processing  
+this system is [based] on a simple, high level language  
+
+
+DocID: CACM-1534
+
+dad, the c. [operating] system  
+figures [based] on several months of operation  
+operating system, dad, is described in detail.  
+
+
+DocID: CACM-1750
+
+operating systems, control data corporation 6600, [operating] system with ecs  
+multiprogrammed [operating] systems, multiprocessor  
+and functions of such a system are [based] on a  
+
+
+DocID: CACM-1696
+
+and transient [states] of a stochastic matrix  
+
+
+DocID: CACM-2851
+
+distinguish between control and data [states]  the  
+of an infinite set of control [states] by allowing  
+enumeration of the set of all possible control [states]  
+
+
+DocID: CACM-2452
+
+based on these estimates, an appropriate file  
+
+
+DocID: CACM-1753
+
+of the multics [operating] system are introduced.  
+
+
+DocID: CACM-1315
+
+staff.  the united [states] atomic energy commission  
+amount of bookkeeping is required by the reactor operating  
+
+
+DocID: CACM-3160
+
+this report is [based] on the results of an nsf sponsored  
+
+
+DocID: CACM-2688
+
+attribute [based] file organization in a paged memory environment  
+
+
+DocID: CACM-2950
+
+operating systems,processor sharing, implementation  
+scheduling algorithms [based] on an abstract model  
+in real [operating] systems.  the policy-driven scheduler  
+
+
+DocID: CACM-2003
+
+languages, [operating] at different levels, on which the interaction  
+is [based]  the first one is imol, an interactive monitor language,  
+
+
+DocID: CACM-2582
+
+of an [operating] system have shown its substantial superiority  
+it is [based] on the concept of critical working set, a  
+
+
+DocID: CACM-2776
+
+experiences of these [operating] networks, a number of factors  
+conducted of the latter two nets.  [based] on the  
+
+
+DocID: CACM-2482
+
+based on the concept of the hierarchical operating  
+deadlocks, resource allocation, [operating] systems,  
+
+
+DocID: CACM-2522
+
+operating systems, supervisory systems  
+and are source allocation strategy [based] on  
+implementation of a dispatcher [based] on the working set  
+
+
+DocID: CACM-1752
+
+time-sharing, [operating] systems, resource management,  
+resource management for a medium scale time-sharing [operating] system  
+
+
+DocID: CACM-2984
+
+cost/utilization: a [measure] of system performance  
+factor and a [measure] of imbalance.  these coefficients  
+
+
+DocID: CACM-1072
+
+is presented.  the algorithm is [based] on a tree structure,  
+
+
+DocID: CACM-1765
+
+in institutions of higher education in the united [states]  
+
+
+DocID: CACM-2307
+
+based on user needs, and for a continuous  
+
+
+DocID: CACM-2218
+
+was a simula [based] simulation model reflecting  
+b6500, bulk core usage, [operating] system model, relocation,  
+based upon the use of variable sized segments and a  
+
+
+DocID: CACM-0082
+
+handling identifiers as internal symbols in language processors  
+
+
+DocID: CACM-0858
+
+
+
+DocID: CACM-0492
+
+based on the calculation of an address from  
+
+
+DocID: CACM-1388
+
+generate symbolic solutions.  the procedure is based  
+
+
+DocID: CACM-0068
+
+the united [states] in the fields of computers, data  
+
+
+DocID: CACM-3197
+
+the following organizational [descriptions] have been provided in order to  
+
+
+DocID: CACM-2470
+
+various modes of function calling and parameter passing  
+
+
+DocID: CACM-2377
+
+of [passing] and referencing arguments are the  
+
+
+DocID: CACM-2217
+
+written for [passing] data between the learning program  
+
+
+DocID: CACM-3188
+
+i have [based] my paper on semiotics and its three dimension. i should insert  
+
+
+DocID: CACM-2154
+
+in the united [states]  since that initial achievement  
+
+
+DocID: CACM-1194
+
+
+
+DocID: CACM-1399
+
+descriptions in a context-free grammar by performing  
+
+
+DocID: CACM-3034
+
+the algorithm is [based] on determining whether  
+
+
+DocID: CACM-1680
+
+retrieval [operating] systems, graphics, displays, man-machine  
+display unit under [operating] system/360.  adept  
+to it, and surrendering control to the operating  
+
+
+DocID: CACM-0069
+
+a collection is given of brief descriptions  
+
+
+DocID: CACM-1749
+
+operating system, multiprogramming system, system  
+
+
+DocID: CACM-1465
+
+be [based] on fixed conventions to preserve efficiency  
+
+
+DocID: CACM-2740
+
+a large semaphore [based] [operating] system  
+operating system structure, asynchronous  
+cooperating processes, [operating] system, semaphores,  
+
+
+DocID: CACM-1786
+
+introduced is a hash coding method [based] on  
+method of [handling] collisions is discussed.  known as  
+
+
+DocID: CACM-1412
+
+
+
+DocID: CACM-1462
+
+multilevel [operating] systems  
+operating systems. this implies that all applications-no  
+the [operating] systems, but at a different level.  
+
+
+DocID: CACM-1474
+
+paper is to give precise [descriptions] of certain  
+
+
+DocID: CACM-2266
+
+an algorithm is described [based] on newton's  
+
+
+DocID: CACM-1382
+
+mathematicians in the united [states] through the  
+
+
+DocID: CACM-2138
+
+specific machine  the pdp-10 : compilers, operating  
+
+
+DocID: CACM-1651
+
+an input system more suited for bulk data [handling] than  
+
+
+DocID: CACM-1976
+
+
+
+DocID: CACM-2437
+
+
+
+DocID: CACM-1959
+
+an interrupt [based] organization for management information systems  
+
+
+DocID: CACM-1928
+
+in execution time and space, and a facility for handling  
+
+
+DocID: CACM-2535
+
+scheduling algorithms, [operating] systems  
+based on the model of the computer-communications  
+
+
+DocID: CACM-2273
+
+allow [handling] limited entry, extended entry, and mixed  
+entry tables.  the algorithms are [based] on the  
+
+
+DocID: CACM-2451
+
+a novel tree search scheme [based] on a bit vector representation  
+
+
+DocID: CACM-0595
+
+and, at best, difficult to [measure]  how then  
+
+
+DocID: CACM-1226
+
+be critical to the system's [operating] efficiency.  
+
+
+DocID: CACM-2438
+
+by [passing] control explicitly to one another.  a multiprocessor  
+
+
+DocID: CACM-2704
+
+the requirements exception [handling] language  
+exception [handling] issues and a proposed notation  
+to highlight exception [handling] issues by showing  
+

@@ -1,0 +1,423 @@
+QL_NoStopNoStem
+
+Query
+intermediate languages used in construction of mesh-connected compelris; toll
+
+Top 100 Results (330 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+
+
+DocID: CACM-0994
+
+
+
+DocID: CACM-0995
+
+
+
+DocID: CACM-0996
+
+
+
+DocID: CACM-0990
+
+constraint-type statements in programming languages  
+
+
+DocID: CACM-0991
+
+
+
+DocID: CACM-0992
+
+
+
+DocID: CACM-2703
+
+
+
+DocID: CACM-2702
+
+
+
+DocID: CACM-2705
+
+programming [languages] natural [languages] and mathematics  
+artificial auxiliary [languages] literature, style,  
+of the history of artificial, auxiliary [languages] it  
+
+
+DocID: CACM-2704
+
+languages  
+
+
+DocID: CACM-2701
+
+
+
+DocID: CACM-2700
+
+
+
+DocID: CACM-2707
+
+
+
+DocID: CACM-2706
+
+
+
+DocID: CACM-2709
+
+
+
+DocID: CACM-2708
+
+
+
+DocID: CACM-0975
+
+
+
+DocID: CACM-0976
+
+
+
+DocID: CACM-0977
+
+
+
+DocID: CACM-0978
+
+
+
+DocID: CACM-0971
+
+
+
+DocID: CACM-0972
+
+
+
+DocID: CACM-0973
+
+
+
+DocID: CACM-0974
+
+
+
+DocID: CACM-0970
+
+
+
+DocID: CACM-0979
+
+
+
+DocID: CACM-0986
+
+
+
+DocID: CACM-0987
+
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+
+
+DocID: CACM-0983
+
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+
+
+DocID: CACM-0981
+
+
+
+DocID: CACM-1405
+
+
+
+DocID: CACM-2736
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1407
+
+
+
+DocID: CACM-2738
+
+
+
+DocID: CACM-1406
+
+
+
+DocID: CACM-2737
+
+
+
+DocID: CACM-1401
+
+
+
+DocID: CACM-2732
+
+programming [languages] sequencing primitives, program  
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2731
+
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2734
+
+
+
+DocID: CACM-1402
+
+of obtaining functional values at points intermediate  
+
+
+DocID: CACM-2733
+
+languages in ways that are more flexible and  
+
+
+DocID: CACM-2730
+
+
+
+DocID: CACM-1409
+
+
+
+DocID: CACM-1408
+
+
+
+DocID: CACM-2739
+
+natural language, parsing, grammar, programming languages  
+
+
+DocID: CACM-1416
+
+
+
+DocID: CACM-2747
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-2746
+
+in a single pass.  [construction] of the pattern matching  
+
+
+DocID: CACM-1418
+
+
+
+DocID: CACM-2749
+
+
+
+DocID: CACM-1417
+
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+
+
+DocID: CACM-2743
+
+
+
+DocID: CACM-1411
+
+
+
+DocID: CACM-2742
+
+
+
+DocID: CACM-1414
+
+
+
+DocID: CACM-2745
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-1410
+
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-1419
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-2713
+
+
+
+DocID: CACM-2716
+
+
+
+DocID: CACM-2715
+
+
+
+DocID: CACM-2710
+
+languages, relational completeness  
+database, data sublanguages, relations, query [languages]  
+languages based on the relational calculus.  facilities  
+
+
+DocID: CACM-2712
+
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-2718
+
+translation, nonprocedural languages  
+
+
+DocID: CACM-2717
+
+utility program, programming [languages] nonprocedural languages  
+
+
+DocID: CACM-2719
+
+manipulation, programming [languages] analysis  
+
+
+DocID: CACM-2725
+
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+
+
+DocID: CACM-2726
+
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-2720
+
+
+
+DocID: CACM-2723
+
+
+
+DocID: CACM-2722
+
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-2728
+
+

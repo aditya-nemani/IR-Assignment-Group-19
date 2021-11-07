@@ -1,0 +1,558 @@
+BM25_NoStopNoStem
+
+Query
+actors desiring the relationship between data types and concurrency
+(e.g. wait is the type of a process?  when is a synchronization attempt 
+weteben two processes "type crrceot"?  in a message-passing stem is ternary nonin of the types of messages?--i.e. any way to check that the schuegraf the message and the remember are both treating the bit stem as systems-similar type)
+
+Top 100 Results (2171 millisecs)
+
+
+DocID: CACM-2244
+
+product [type] trapezoidal integration  algorithm a436   
+numerical integration, product [type] quadrature, trapezoidal integration  
+
+
+DocID: CACM-2243
+
+numerical integration, product [type] quadrature, simpson's rule  
+product [type] simpson's integration [d1]  algorithm a437   
+
+
+DocID: CACM-2242
+
+product [type] two-point gauss-legendre-simpson's  
+numerical integration, product [type] quadrature,  
+
+
+DocID: CACM-2241
+
+product [type] three-point gauss-legendre-simpson's  
+numerical integration, product [type] quadrature,  
+
+
+DocID: CACM-2651
+
+data [types] modes, mode unions, [type] conversion,  
+data [type] definition, [data] description language, compilation  
+programmer-defined [data] [types] [data] [types] and generic  
+
+
+DocID: CACM-2957
+
+data abstraction, relational database, [data] [type]  
+suggested that aggregate [types] and other types  
+knowledge representation, [data] definition language  
+
+
+DocID: CACM-0618
+
+main [types] and the markets for each [type] are  
+man-man-machine [processes] are characterized in five  
+
+
+DocID: CACM-3105
+
+abstract [data] [types] [type] checking, capabilities  
+types.  
+programming languages, access control, [data] [types]  
+
+
+DocID: CACM-2956
+
+data [types] generic procedures, programming languages  
+some ideas on [data] [types] in high-level languages  
+notion that a [data] [type] is a set of values together  
+
+
+DocID: CACM-2265
+
+type checking, [types] lambda calculus, models for  
+a model for [type] checking  
+characterizes the [type] relations within the program  
+
+
+DocID: CACM-2941
+
+types and [type] coercions, the benefits of the [type] system  
+programming languages, [types] modules,  
+data structures, systems programming  
+
+
+DocID: CACM-3031
+
+data [type] [data] structure, specification  
+abstract [data] [type] correctness proof,  
+abstract [data] [types] and software validation  
+
+
+DocID: CACM-2958
+
+abstract [data] [types] and the development of [data] structures  
+abstract [data] [type] correctness proof, [data] [type]  
+abstract [data] [types] can play a significant role  
+
+
+DocID: CACM-3103
+
+abstract [data] [types] automatic programming, data  
+data [types] such as sets and lists, programmer  
+purpose implementation for an abstract [type]  
+
+
+DocID: CACM-2558
+
+protection, [types] environments,trademarks, seals,  
+type-tagging schemes are considered.  an attempt  
+
+
+DocID: CACM-0033
+
+a programmed binary counter for the ibm [type] 650 calculator  
+
+
+DocID: CACM-1152
+
+presented which is not limited to the size or type  
+
+
+DocID: CACM-2632
+
+types, specification of new operations applicable  
+type of object.  the mechanisms provide a coherent  
+to a given [type] sharing, and protection of any reference  
+
+
+DocID: CACM-2341
+
+blocks-a new [data] [type] for snobol4  
+snobol4, [data] [types] two-dimensional mathematics, test processing, flowcharting  
+a new [data] [type] called a block, has been implemented  
+
+
+DocID: CACM-1426
+
+maintaining a reasonably full hospital.  there [types] of  
+discharge rates.  the last [type] policy produced more stable  
+
+
+DocID: CACM-0676
+
+on the computation of a certain [type] of incompletebeta functions  
+
+
+DocID: CACM-1398
+
+robot [data] screening: a solution to multivariate  
+termination of the searching [process] are derived  
+of the [type] of multivariate problem that is  
+
+
+DocID: CACM-2084
+
+type 2 language, bounded language  
+
+
+DocID: CACM-3006
+
+five [types] of anomalous behavior which may  
+a redefined.  one [type] of anomaly, for example, concerns  
+
+
+DocID: CACM-0483
+
+of the [type] used are sufficient to define  
+
+
+DocID: CACM-0265
+
+bit manipulation and expanded character set input-output, and visual display.  
+
+
+DocID: CACM-2815
+
+complex [data] [types] in separately compiled modules.  
+
+
+DocID: CACM-2237
+
+schuegraf, e.  
+
+
+DocID: CACM-1200
+
+that using this concept a number of new subroutine types  
+
+
+DocID: CACM-2238
+
+schuegraf, e.  
+
+
+DocID: CACM-1489
+
+data, documentation and decision tables  
+in business [data] processing systems, it is  
+necessary to be able to define and document [data]  
+
+
+DocID: CACM-1181
+
+a [type] originating in many laboratory situation  
+a method has evolved for transmitting [data] of  
+a simple [data] transmission system using the office telephone  
+
+
+DocID: CACM-0024
+
+an improved decimal redundancy check  
+
+
+DocID: CACM-3106
+
+operations to be optimized for each [type]  
+of list cells into nine [types] which enables processing  
+
+
+DocID: CACM-2939
+
+programming languages, [data] [types] [data] abstractions,  
+control, and especially [data] abstractions-are useful  
+with complete [type] checking performed at compile  
+
+
+DocID: CACM-1244
+
+bit manipulation in fortran language  
+
+
+DocID: CACM-2527
+
+detects many [types] of programmer errors.  
+type to another, checks subscripts, and automatically  
+
+
+DocID: CACM-1655
+
+code extension, code table, [bit] pattern  
+shift out, shift in, escape, [data] link  
+
+
+DocID: CACM-0867
+
+for any [type] of closed area.  finally, applications  
+over certain [types] of subareas of the  x,y -space.  
+
+
+DocID: CACM-1923
+
+
+
+DocID: CACM-1736
+
+message format, [data] transmission, [message] headings  
+data transmission heading format, heading format,  
+heading format for [data] transmission  a usaai tutorial -- standards   
+
+
+DocID: CACM-2394
+
+
+
+DocID: CACM-1907
+
+data transmission, error correction, full-duplex,  
+same [type] which has recently been described in  
+
+
+DocID: CACM-2214
+
+
+
+DocID: CACM-3142
+
+average contacts with different [types] of accounts experience one  
+end targets of a computerized [process] is assessed.  how many and  
+from such [data] results show that with the present state of the  
+
+
+DocID: CACM-2937
+
+data [types] experimentation, language  
+an experimental evaluation of [data] [type] conventions  
+the representation of [data]  
+
+
+DocID: CACM-2060
+
+use of references insure that any [process] which accepts some data  
+quasi-parallel [process] typeless language, applicative language,  
+quasi-parallel [processes] and other unorthodox control mechanisms.  
+
+
+DocID: CACM-1626
+
+of virtual memory to allow address arithmetic for type  
+be enough core memory to contain all the data  
+
+
+DocID: CACM-3073
+
+communicating sequential processes  
+multiple exits, classes, [data] representations, recursion,  
+concurrency, input, output, guarded commands, nondeterminacy,  
+
+
+DocID: CACM-0906
+
+
+
+DocID: CACM-0770
+
+
+
+DocID: CACM-2023
+
+data base, [synchronization] locking, deadlock, reference count  
+a note on [data] base deadlocks  
+
+
+DocID: CACM-0785
+
+
+
+DocID: CACM-0977
+
+
+
+DocID: CACM-2192
+
+
+
+DocID: CACM-0183
+
+
+
+DocID: CACM-0560
+
+
+
+DocID: CACM-0251
+
+armament for a particular [type] ammunition.  
+for the rapid calculation of manufacturing data  
+
+
+DocID: CACM-1096
+
+
+
+DocID: CACM-0005
+
+
+
+DocID: CACM-0235
+
+
+
+DocID: CACM-2768
+
+to the buddy [type] storage allocation systems.  
+
+
+DocID: CACM-1757
+
+date, [data] group identifier  
+data interchange, recording calendar  
+data interchange*  proposed usa standard   
+
+
+DocID: CACM-2975
+
+data structures, directed graphs, uniform insertion  
+remark on uniform insertion in structured [data] structures  
+
+
+DocID: CACM-0393
+
+
+
+DocID: CACM-1367
+
+for parallel-by[bit] [data] communication in ascii*  
+
+
+DocID: CACM-0474
+
+input [data] organization in fortran  
+
+
+DocID: CACM-1432
+
+by an otherwise unused output statement type  
+
+
+DocID: CACM-0597
+
+modular [data] processing systems written in cobol  
+
+
+DocID: CACM-2912
+
+one [process] at a time can modify the [data] but concurrent  
+by one [process] and read by other [processes]  
+readers/writers problem, shared data  
+
+
+DocID: CACM-2333
+
+
+
+DocID: CACM-2102
+
+fitting [data] to one exponential  algorithm 375 $e2    
+
+
+DocID: CACM-1787
+
+the [type] of recognizer, used in a number of  
+
+
+DocID: CACM-0394
+
+multiple programming [data] processing  
+
+
+DocID: CACM-0528
+
+fortran for business [data] processing  
+
+
+DocID: CACM-1701
+
+synchronous signaling rates for data  
+
+
+DocID: CACM-1302
+
+parallel signaling speeds for [data] transmission  
+
+
+DocID: CACM-0654
+
+language problems posed by heavily structured data  
+
+
+DocID: CACM-0961
+
+limited [bit] manipulation using fortran ii  
+
+
+DocID: CACM-2529
+
+data compression, picture processing  
+
+
+DocID: CACM-2528
+
+data compression, picture processing  
+
+
+DocID: CACM-1780
+
+distributed [data]  algorithm 320 [c6]   
+
+
+DocID: CACM-2743
+
+merge sorting, computational complexity, data  
+
+
+DocID: CACM-2117
+
+dar date for machine-to-machine [data] interchange*  
+
+
+DocID: CACM-1922
+
+data link, [data] link control procedures, [data] link  establishment/termination  
+procedures, [data] link message  
+data communication, [data] communication control procedures,  
+
+
+DocID: CACM-0583
+
+a redundancy [check] for algol programs  
+
+
+DocID: CACM-2573
+
+
+
+DocID: CACM-1950
+
+efficient handling of binary data  
+binary variables, dummy variables, [bit] strings, cross-tabulations  
+
+
+DocID: CACM-3116
+
+surfaces.  two [types] of interference checking are discussed:  
+are used in an [attempt] to detect such unwanted interferences,  
+
+
+DocID: CACM-2850
+
+of conditional branch [type] statements.  a  
+verifier.  a brief discussion of the relationship  
+
+
+DocID: CACM-2094
+
+type of a general nonlinear algorithm due to osborne and watson  
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0582
+
+one lost bit  
+
+
+DocID: CACM-2866
+
+concurrency, scheduling, bounded buffer,  
+proof rules for their [wait] and signal operations.  
+
+
+DocID: CACM-0605
+
+the national bureau of standards has used data  
+entry and exit, [type] of vehicle, desired speed,  
+and actual speed, in proportions simulating field [data]  
+
+
+DocID: CACM-2867
+
+data [type] address space, virtual memory  
+
+
+DocID: CACM-2835
+
+enumerated [type]  
+
+
+DocID: CACM-1153
+
+
+
+DocID: CACM-0207
+
+
+
+DocID: CACM-1131
+
+

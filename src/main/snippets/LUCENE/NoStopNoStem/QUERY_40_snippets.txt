@@ -1,0 +1,409 @@
+LUCENE_NoStopNoStem
+
+Query
+List all articles dealing with data types in the following languages:
+that are referenced frequently in papers on the above languages (e.g. catch
+any languages with interesting type structures that I might have missed).
+
+Top 100 Results (39 millisecs)
+
+
+DocID: CACM-1588
+
+
+
+DocID: CACM-2956
+
+
+
+DocID: CACM-2265
+
+
+
+DocID: CACM-2060
+
+
+
+DocID: CACM-1098
+
+
+
+DocID: CACM-2941
+
+
+
+DocID: CACM-3105
+
+
+
+DocID: CACM-1485
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-2406
+
+
+
+DocID: CACM-2051
+
+
+
+DocID: CACM-1470
+
+
+
+DocID: CACM-1051
+
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-2470
+
+
+
+DocID: CACM-1456
+
+
+
+DocID: CACM-1324
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-2651
+
+
+
+DocID: CACM-2632
+
+
+
+DocID: CACM-2198
+
+
+
+DocID: CACM-3198
+
+
+
+DocID: CACM-2940
+
+
+
+DocID: CACM-1847
+
+
+
+DocID: CACM-2148
+
+
+
+DocID: CACM-2450
+
+
+
+DocID: CACM-2003
+
+
+
+DocID: CACM-2316
+
+
+
+DocID: CACM-2939
+
+
+
+DocID: CACM-1457
+
+
+
+DocID: CACM-2254
+
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-2078
+
+
+
+DocID: CACM-1350
+
+
+
+DocID: CACM-2295
+
+
+
+DocID: CACM-1678
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-2957
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-2341
+
+
+
+DocID: CACM-2699
+
+
+
+DocID: CACM-1612
+
+
+
+DocID: CACM-1641
+
+
+
+DocID: CACM-1626
+
+
+
+DocID: CACM-2252
+
+
+
+DocID: CACM-3103
+
+
+
+DocID: CACM-2767
+
+
+
+DocID: CACM-2081
+
+
+
+DocID: CACM-1861
+
+
+
+DocID: CACM-2833
+
+
+
+DocID: CACM-1614
+
+
+
+DocID: CACM-2704
+
+
+
+DocID: CACM-2264
+
+
+
+DocID: CACM-2138
+
+
+
+DocID: CACM-3188
+
+
+
+DocID: CACM-3164
+
+
+
+DocID: CACM-1476
+
+
+
+DocID: CACM-1835
+
+
+
+DocID: CACM-1936
+
+
+
+DocID: CACM-2201
+
+
+
+DocID: CACM-2603
+
+
+
+DocID: CACM-1459
+
+
+
+DocID: CACM-3030
+
+
+
+DocID: CACM-2184
+
+
+
+DocID: CACM-1135
+
+
+
+DocID: CACM-1852
+
+
+
+DocID: CACM-1824
+
+
+
+DocID: CACM-2710
+
+
+
+DocID: CACM-2929
+
+
+
+DocID: CACM-2684
+
+
+
+DocID: CACM-1237
+
+
+
+DocID: CACM-1853
+
+
+
+DocID: CACM-1463
+
+
+
+DocID: CACM-2390
+
+
+
+DocID: CACM-0867
+
+
+
+DocID: CACM-1035
+
+
+
+DocID: CACM-2958
+
+
+
+DocID: CACM-1046
+
+
+
+DocID: CACM-1710
+
+
+
+DocID: CACM-2897
+
+
+
+DocID: CACM-2317
+
+
+
+DocID: CACM-1650
+
+
+
+DocID: CACM-1066
+
+
+
+DocID: CACM-1937
+
+
+
+DocID: CACM-1223
+
+
+
+DocID: CACM-2177
+
+
+
+DocID: CACM-2036
+
+
+
+DocID: CACM-2838
+
+
+
+DocID: CACM-2937
+
+
+
+DocID: CACM-2106
+
+
+
+DocID: CACM-3132
+
+
+
+DocID: CACM-0321
+
+
+
+DocID: CACM-2299
+
+
+
+DocID: CACM-1902
+
+
+
+DocID: CACM-1878
+
+
+
+DocID: CACM-3173
+
+
+
+DocID: CACM-1264
+
+
+
+DocID: CACM-0536
+
+
+
+DocID: CACM-1309
+
+
+
+DocID: CACM-2622
+
+

@@ -1,0 +1,639 @@
+BM25_NoStopNoStem
+
+Query
+the application of fuzzy subset theory to clustering and interreference-interval problems.  this induces performance evaluation and analysisscanning cordesinaniots.
+
+Top 100 Results (501 millisecs)
+
+
+DocID: CACM-1653
+
+evaluation and in the development of [evaluation] methods is explored.  
+evaluation is reviewed and [evaluation] goals and  
+system [performance] [evaluation] survey and appraisal  
+
+
+DocID: CACM-2542
+
+feedback, the [problems] which adversely affect performance  
+is proposed.  a system which integrates [performance] evaluation  
+software [evaluation] compilers, system programming,  
+
+
+DocID: CACM-2478
+
+synthesis, [fuzzy] educational structure  
+
+
+DocID: CACM-2318
+
+modeling, [evaluation] [performance] analytic-models,  
+the role of computer system models in [performance] evaluation  
+computer system [performance]  this paper  
+
+
+DocID: CACM-1948
+
+diverse range of [problems] in group [theory]  
+computers in group [theory] a survey  
+group [theory] coset enumeration, subgroup lattices,  
+
+
+DocID: CACM-1938
+
+evaluation.  
+quantitative time-sharing system performance  
+time-sharing [performance] criteria, time-sharing  
+
+
+DocID: CACM-2641
+
+clustering, pattern recognition, feature  
+a minimal spanning tree [clustering] method [z]  algorithm a479   
+
+
+DocID: CACM-1048
+
+dirichlet-type [problems] associated with this  
+approximate solution of axially symmetric problems  
+fields as electrostatic  field [theory] heat  
+
+
+DocID: CACM-2568
+
+school scheduling and exam scheduling [problems]  
+in the terminology of classical network [theory]  
+application of this algorithm to the solution of  
+
+
+DocID: CACM-2059
+
+operation research, network [problems] control [theory] traffic [problems] etc.  
+by means of a syntax-driven compiler.  [application] areas for this language are  
+
+
+DocID: CACM-1792
+
+in programmer [performance]  methodological [problems] encountered  
+performance, debugging effectiveness, time sharing  
+programmer trainee [performance] basic programming  
+
+
+DocID: CACM-2268
+
+rational extrapolation showed the best [performance]  
+procedure is described together with the evaluation  
+for the particular [problems] and criteria used in  
+
+
+DocID: CACM-2094
+
+their solution.  in this paper the [application] to [problems] of this  
+certain nonlinear minimax approximation [problems] are characterize  
+successfully solve [problems] which lead to difficulties  
+
+
+DocID: CACM-2451
+
+tree file, information storage and retrieval, [clustering]  
+performance and that of an intuitively attractive  
+ideal search procedure.  as a practical application  
+
+
+DocID: CACM-2959
+
+within which [application] experts-nonprogrammers-can  
+is a [subset] of the sba programming language.  
+query, data processing, business system specification, [application] programming  
+
+
+DocID: CACM-2107
+
+code eliminating secondary clustering  
+hashing, hash code, scatter storage, calculated address, [clustering]  
+secondary [clustering] as a cause of hash code inefficiency is discussed, and a  
+
+
+DocID: CACM-2984
+
+performance.  
+computer system, [performance] [evaluation] cost/utilization, system balance  
+cost/utilization: a measure of system performance  
+
+
+DocID: CACM-1934
+
+evaluation of an arithmetic expression  
+arithmetic expression, compiler design, graph [theory]  
+to a specific problem under the [theory] of graphs.  
+
+
+DocID: CACM-2789
+
+a minimal spanning tree [clustering] method  algorithm r479   
+
+
+DocID: CACM-2842
+
+by d. scott and c. strachey.  the [application] of the theory  
+environment, store, continuation, theory  
+theory of programming language semantics developed  
+
+
+DocID: CACM-3089
+
+and system [performance] evaluation  
+principal [performance] measures, including availability,  
+performance of rollback recovery systems under intermittent failures  
+
+
+DocID: CACM-3048
+
+performance [evaluation] deterministic simulation,  
+for [performance] [evaluation] of alternative  
+performance [evaluation] of highly concurrent  
+
+
+DocID: CACM-2452
+
+file organization [performance] file organization  
+of data base structure design and [evaluation]  
+affect file  data base  organization [performance]  
+
+
+DocID: CACM-2631
+
+text searching, information [theory] file organization,  
+one of the [problems] often associated with information  
+of this [subset] are then used as index keys for retrieval.  
+
+
+DocID: CACM-3119
+
+performance [evaluation] queueing models  
+simple queueing models are used to study the [performance] tradeoffs of  
+
+
+DocID: CACM-2991
+
+clustering, information retrieval, open addressing, open  
+lead to improved file [performance] for secondary  
+clustering in the key set is decreased by  
+
+
+DocID: CACM-2265
+
+notions of abstraction and [application] of functions.  
+program or the constant "error".  an application  
+problems faced for any notion of type checking  
+
+
+DocID: CACM-2643
+
+parsing, lexical analysis,scanning,  
+
+
+DocID: CACM-1931
+
+i. for determinant [evaluation]  an [application] using  
+interval arithmetic determinant evaluation  
+determinant [evaluation] chebyshev system,  
+
+
+DocID: CACM-2741
+
+multiprogramming, paging, [performance] [evaluation]  
+behavior and evaluate the [performance] of computing  
+
+
+DocID: CACM-2974
+
+hash address, primary [clustering] index,  
+
+
+DocID: CACM-1992
+
+clustering, search, symbol table, keys, table look-up  
+
+
+DocID: CACM-3059
+
+application to cpu:i/o and i/o:i/o overlap  
+the percentage [performance] improvement from cpu:i/o  
+and applied to the analysis of these [problems]  
+
+
+DocID: CACM-0985
+
+report on [subset] algol 60  ifip   
+
+
+DocID: CACM-2494
+
+taxonomy, hierarchical [clustering] factor analysis  
+and to the rearranged matrix after [clustering]  
+the plots, applied to a data matrix before clustering  
+
+
+DocID: CACM-2616
+
+semantics, [theory] of programming, systems analysis  
+the [problems] of converting programs to decision  
+in practice.  extensions to the [theory] of computation  
+
+
+DocID: CACM-3100
+
+the proposed method, interference matching, [induces] abstractions  
+are presented.  several [problems] concerning the description  
+
+
+DocID: CACM-2906
+
+data flow language, business [application] business  
+application development today is too labor-in tensive.  
+problems.  the concepts in bdl mimic those  
+
+
+DocID: CACM-2575
+
+document retrieval, best match, [clustering] file  
+
+
+DocID: CACM-0020
+
+the iteration converges and [induces] convergence if  
+
+
+DocID: CACM-2571
+
+hasp, os/360, dispatching, scheduling, modeling, [performance] evaluation  
+of the monitor in improving system [performance]  a  
+
+
+DocID: CACM-2592
+
+lp program [evaluation] lp program validation  
+for generating linear programming test problems  
+of test [problems] that are of arbitrary size  
+
+
+DocID: CACM-2319
+
+evaluation, [performance] measurement, measurement,  
+operating system performance  
+computer system, operating system, performance  
+
+
+DocID: CACM-1032
+
+performance, and the second is a self-generating subset  
+strategy, a linear model for an [evaluation] function  
+
+
+DocID: CACM-0727
+
+and mathematical [theory] are suppliedxtension of the  
+method in a natural way to n-dimensional problems  
+three-dimensional dirichlet [problems] for delta u =f u ,  
+
+
+DocID: CACM-2352
+
+minimax approximation, nonlinear approximation, subset  
+
+
+DocID: CACM-1572
+
+implemented in a limited fortran [subset] that is  
+in the analysis of [performance] characteristics.  the  
+systems has raised a number of [problems] for  
+
+
+DocID: CACM-3099
+
+integer programming and their application  
+programming [problems] with known optimal solutions.  these  
+problems may then be used to test and/or "benchmark"  
+
+
+DocID: CACM-2251
+
+storage, hash table, key, hash address, [clustering]  
+practically eliminates primary [clustering] at a very low cost.  
+
+
+DocID: CACM-2932
+
+in tractable [problems] probabilistic algorithms  
+the in terrelation between seemingly diverse problems  
+the framework for research in the [theory] of complexity  
+
+
+DocID: CACM-2990
+
+the [performance] of information retrieval systems  
+study, retrieval [evaluation] is based on optimizing the  
+on measuring the retrieval [performance] of an average  
+
+
+DocID: CACM-2926
+
+trees with fast access times.  the performance  
+of this strategy in an [application] is presented, compared  
+
+
+DocID: CACM-1827
+
+performance, software measurement, time-sharing [performance]  
+performance monitoring, [performance] measurement,  
+program behavior, [performance] data, multiprogramming  
+
+
+DocID: CACM-2217
+
+performance on [problems] in a specific domain and  
+improvements in the solutions to problems  
+evaluation functions for pp.  a multiple regression  
+
+
+DocID: CACM-1602
+
+solve difficult computational [problems]  like the  
+pose: a language for posing [problems] to a computer  
+ and actually contains fortran vi as a [subset] .  
+
+
+DocID: CACM-2894
+
+performance, external measurement, methodology,  
+evaluation of results, is included.  
+of computer [performance] instead of the more  
+
+
+DocID: CACM-2712
+
+evaluation of multinomial sums, load-dependent  
+queueing networks, queueing [theory] horner's rule,  
+requires the [evaluation] of homogeneous multinomial  
+
+
+DocID: CACM-1658
+
+operations research, optimization [theory] integer  
+of solving [problems] with over 100 variables with  
+over several test [problems] of small and intermediate  
+
+
+DocID: CACM-3092
+
+maintenance and enhancement of application  
+characteristics of [application] software maintenance  
+than new [application] software development;  
+
+
+DocID: CACM-0723
+
+ecma [subset] of algol 60  
+
+
+DocID: CACM-2327
+
+automata [theory] brain [theory] network complexity,  
+toward an automata [theory] of brains  
+in which automata [theory] might evolve over the  
+
+
+DocID: CACM-2598
+
+theory, noiseless channel, sorting  
+extending the information [theory] approach to converting  
+the two [problems] is also used to develop improvements  
+
+
+DocID: CACM-2346
+
+information [theory] coding [theory] hu-tucker  
+
+
+DocID: CACM-2654
+
+partitions, [subset] generation, permutations  
+
+
+DocID: CACM-2048
+
+definite integral [evaluation] adaptive numerical in tegration, newton-cotes  
+this report compares the [performance] of five different adaptive quadrature  
+
+
+DocID: CACM-2353
+
+fast finite-difference solution of biharmonic problems  
+an [application] is made to a crack-type problem.  
+biharmonic [problems]  the equation is treated as  
+
+
+DocID: CACM-0185
+
+multiprogram scheduling parts 1 and 2.  introduction and [theory]  
+ or any [subset] of it , subject to external constraints  
+
+
+DocID: CACM-2017
+
+performance [evaluation] memory management  
+the experimental sort programs and analysis of the performance  
+
+
+DocID: CACM-1258
+
+the general [problems] associated with the design  
+theory, arithmetic must be carried out to a degree  
+
+
+DocID: CACM-1610
+
+shows it to be very fast and efficient.  application  
+a method for the solution of transportation [problems] with tall matrices  
+
+
+DocID: CACM-2454
+
+queueing [theory] queueing networks, equilibrium  
+order of [evaluation] are examined in some detail.  
+
+
+DocID: CACM-2437
+
+randomization [performance] analysis  
+general [performance] analysis of key-to-address  
+of [performance] of the various key-to-address  
+
+
+DocID: CACM-3017
+
+one problem is a possible [performance] penalty.  
+three potential [problems] which must be dealt with  
+
+
+DocID: CACM-0944
+
+properties applicable to [problems] involving  
+is the [application] where a symbol table, dictionary  
+large quantities of data or to [problems] where the quantity,  
+
+
+DocID: CACM-0329
+
+as is its [application] to [problems] of automatic  
+and linguistic techniques for the solution of [problems] of automatic analysis.  
+
+
+DocID: CACM-2882
+
+database architecture, database [performance] and  
+evaluation, invented list, threaded list, cellular  
+a stochastic [evaluation] model for database  
+
+
+DocID: CACM-2518
+
+an existing [application] is described.  
+for a significant class of large scale [problems]  
+programming by using decision tables to construct an application  
+
+
+DocID: CACM-2373
+
+the missing-page rate, and the interreference-interval  
+
+
+DocID: CACM-2720
+
+modeling, queueing [theory] balancing,  
+disk drive hierarchies, system [evaluation] input/output,  
+theory, each disk drive is characterized by a queueing  
+
+
+DocID: CACM-2165
+
+algebra systems to [problems] of general relativity  
+general relativity and the [application] of algebraic manipulative systems  
+
+
+DocID: CACM-2561
+
+inference, inductive inference, [clustering] fact retrieval, heuristics  
+data base using nonnumerical [clustering] algorithms.  they  
+
+
+DocID: CACM-2837
+
+selection problem, algorithms, comparison [problems]  
+much wider range of [application]  this generalization  
+
+
+DocID: CACM-1719
+
+system cost [performance] ratio  
+optimizing real-time system performance  
+real-time system [performance] criteria, real-time  
+
+
+DocID: CACM-2109
+
+clustering, scatter storage, file searching, file  
+to avoid the [clustering] usually encountered when hash address collisions  
+
+
+DocID: CACM-2684
+
+more detailed presentation, as well as the application  
+a small but significant [subset] of pl/i is considered.  a  
+
+
+DocID: CACM-3070
+
+performance [evaluation] simulation, queueing  
+
+
+DocID: CACM-1967
+
+number [theory] prime numbers, complex numbers  
+
+
+DocID: CACM-2971
+
+subsets called sp/1, sp/2,..p/8.  each subset  
+each [subset] is precisely defined and can be learned  
+sp/k is a compatible [subset] of the pl/i  language  
+
+
+DocID: CACM-2634
+
+an [evaluation] of statistical software in the social sciences  
+and the results are summarized as to cost and [performance]  
+
+
+DocID: CACM-2809
+
+of [application] to operator norms is given concerning  
+methods in the [theory] of norms is demonstrated.  new results  
+
+
+DocID: CACM-0893
+
+solution, determinant [evaluation] and matrix  
+examples include power series [evaluation] linear equations  
+
+
+DocID: CACM-0819
+
+polynomial [evaluation] revised  
+
+
+DocID: CACM-0462
+
+comparisons between machine and human performance  
+the background for the [application] of this method.  
+
+
+DocID: CACM-1374
+
+evaluation of determinant; determinant  
+evaluation  algorithms 41[f3]; 269[f3]   
+
+
+DocID: CACM-2121
+
+partitions,number theory  
+
+
+DocID: CACM-0945
+
+arithmetizing declarations: an [application] to cobol  
+
+
+DocID: CACM-1622
+
+s j  must also be a member of the [subset]"  the  
+of the form: "if s i  is a member of the [subset] then  
+
+
+DocID: CACM-1177
+
+determinant [evaluation]  algorithm 269 [f3]   
+
+
+DocID: CACM-1908
+
+on-line vs off-line [performance] decision-making [performance]  
+time-sharing vs batch-processing, user [performance]  
+a [performance] level equal to that of the batch  
+
+
+DocID: CACM-2476
+
+language [theory] context-free grammars  
+

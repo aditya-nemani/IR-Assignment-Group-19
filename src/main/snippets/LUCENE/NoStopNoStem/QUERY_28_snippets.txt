@@ -1,0 +1,410 @@
+LUCENE_NoStopNoStem
+
+Query
+Any information on packet radio networks.  Of particular interest are
+algorithms for packet routing, and for dealing with changes in
+network topography.  I am not interested in the hardware used in the
+network.
+
+Top 100 Results (25 millisecs)
+
+
+DocID: CACM-3032
+
+
+
+DocID: CACM-2949
+
+
+
+DocID: CACM-2890
+
+
+
+DocID: CACM-2892
+
+
+
+DocID: CACM-1685
+
+
+
+DocID: CACM-3158
+
+
+
+DocID: CACM-2849
+
+
+
+DocID: CACM-2515
+
+
+
+DocID: CACM-2776
+
+
+
+DocID: CACM-2046
+
+
+
+DocID: CACM-1928
+
+
+
+DocID: CACM-1846
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-0441
+
+
+
+DocID: CACM-2401
+
+
+
+DocID: CACM-1989
+
+
+
+DocID: CACM-2969
+
+
+
+DocID: CACM-2289
+
+
+
+DocID: CACM-1695
+
+
+
+DocID: CACM-2371
+
+
+
+DocID: CACM-2951
+
+
+
+DocID: CACM-0828
+
+
+
+DocID: CACM-1723
+
+
+
+DocID: CACM-1611
+
+
+
+DocID: CACM-2274
+
+
+
+DocID: CACM-3040
+
+
+
+DocID: CACM-2712
+
+
+
+DocID: CACM-2197
+
+
+
+DocID: CACM-1458
+
+
+
+DocID: CACM-3164
+
+
+
+DocID: CACM-1728
+
+
+
+DocID: CACM-2572
+
+
+
+DocID: CACM-2900
+
+
+
+DocID: CACM-1181
+
+
+
+DocID: CACM-1572
+
+
+
+DocID: CACM-2454
+
+
+
+DocID: CACM-1906
+
+
+
+DocID: CACM-3059
+
+
+
+DocID: CACM-2973
+
+
+
+DocID: CACM-1165
+
+
+
+DocID: CACM-2450
+
+
+
+DocID: CACM-2630
+
+
+
+DocID: CACM-1890
+
+
+
+DocID: CACM-1844
+
+
+
+DocID: CACM-1601
+
+
+
+DocID: CACM-1551
+
+
+
+DocID: CACM-3133
+
+
+
+DocID: CACM-3076
+
+
+
+DocID: CACM-1397
+
+
+
+DocID: CACM-1199
+
+
+
+DocID: CACM-2916
+
+
+
+DocID: CACM-2833
+
+
+
+DocID: CACM-2598
+
+
+
+DocID: CACM-1421
+
+
+
+DocID: CACM-2060
+
+
+
+DocID: CACM-1516
+
+
+
+DocID: CACM-2625
+
+
+
+DocID: CACM-1034
+
+
+
+DocID: CACM-0367
+
+
+
+DocID: CACM-2092
+
+
+
+DocID: CACM-2380
+
+
+
+DocID: CACM-1456
+
+
+
+DocID: CACM-2828
+
+
+
+DocID: CACM-1770
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-1159
+
+
+
+DocID: CACM-1135
+
+
+
+DocID: CACM-2581
+
+
+
+DocID: CACM-2887
+
+
+
+DocID: CACM-2342
+
+
+
+DocID: CACM-1856
+
+
+
+DocID: CACM-3038
+
+
+
+DocID: CACM-2968
+
+
+
+DocID: CACM-2424
+
+
+
+DocID: CACM-1889
+
+
+
+DocID: CACM-1612
+
+
+
+DocID: CACM-2988
+
+
+
+DocID: CACM-3070
+
+
+
+DocID: CACM-2196
+
+
+
+DocID: CACM-1768
+
+
+
+DocID: CACM-3148
+
+
+
+DocID: CACM-2786
+
+
+
+DocID: CACM-1423
+
+
+
+DocID: CACM-2178
+
+
+
+DocID: CACM-1665
+
+
+
+DocID: CACM-1623
+
+
+
+DocID: CACM-2033
+
+
+
+DocID: CACM-2923
+
+
+
+DocID: CACM-1867
+
+
+
+DocID: CACM-2967
+
+
+
+DocID: CACM-2344
+
+
+
+DocID: CACM-2198
+
+
+
+DocID: CACM-2902
+
+
+
+DocID: CACM-2894
+
+
+
+DocID: CACM-1696
+
+
+
+DocID: CACM-1206
+
+
+
+DocID: CACM-2948
+
+
+
+DocID: CACM-1769
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-0531
+
+

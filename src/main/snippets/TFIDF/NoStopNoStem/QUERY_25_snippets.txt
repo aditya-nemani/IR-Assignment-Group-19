@@ -1,0 +1,691 @@
+TFIDF_NoStopNoStem
+
+Query
+preference evaluation and modeling of computer systems
+
+Top 100 Results (156 millisecs)
+
+
+DocID: CACM-1844
+
+conversational [systems] general purpose time-sharing [systems]  
+systems, modular [computer]sharing [systems] graphics,  
+multiple terminal [systems] terminal oriented [systems]  
+
+
+DocID: CACM-1695
+
+simulation, library [systems] [modeling] network  
+biological [modeling] data analysis, discrete system  
+plexus-an on-line system for [modeling] neural networks  
+
+
+DocID: CACM-1771
+
+computer science undergraduate programs, computer  
+computer science education, [computer] science  
+computer science courses, [computer] science curriculum,  
+
+
+DocID: CACM-1747
+
+computer design, [computer] design criteria, computer  
+systems, [computer] [systems] design, input equipment,  
+systems design, multiprogramming, multiprogrammed  
+
+
+DocID: CACM-2812
+
+accurately defined [systems] [systems] optimization  
+computer-aided analysis, information [systems] logical  
+of applications software design, [computer] selection  
+
+
+DocID: CACM-1653
+
+evaluation and in the development of [evaluation] methods is explored.  
+evaluation is reviewed and [evaluation] goals and  
+system performance [evaluation] survey and appraisal  
+
+
+DocID: CACM-1366
+
+computer simulation-discussion of the  
+of some [computer] simulation languages  
+available for [computer] simulation offer features  
+
+
+DocID: CACM-2314
+
+semantics, advanced programming systems  
+systems are highlighted: good interactive  
+programming languages, interactive [systems] control  
+
+
+DocID: CACM-3077
+
+computing [systems] applicative computing [systems]  
+applicative state transition [systems] program transformation,  
+von neumann [computer] their close coupling off  
+
+
+DocID: CACM-2198
+
+codasyl [systems] committee  
+generalized data base management [systems]  
+data base management [systems] programming languages,  
+
+
+DocID: CACM-2882
+
+retrieval [systems]  these data retrieval [systems] can  
+organization in data retrieval systems  
+evaluation, invented list, threaded list, cellular  
+
+
+DocID: CACM-2886
+
+evaluation scheme are discussed.  
+semantic [evaluation] from left to right  
+multipass compilers, semantic [evaluation] semantic conditions  
+
+
+DocID: CACM-2985
+
+for [computer] services  chargeout [systems]  and  
+computer management, [computer] budget,  
+information [systems] is investigated. evidence is  
+
+
+DocID: CACM-2751
+
+illumination for [computer] generated pictures  
+the quality of [computer] generated images of  
+computer graphics, graphic display, hidden surface removal.  
+
+
+DocID: CACM-2522
+
+systems, resource allocation, software [evaluation]  
+operating [systems] supervisory systems  
+recent research in time-sharing paging systems  
+
+
+DocID: CACM-2852
+
+in [computer] science or in information systems  
+education, information [systems] administration, computer  
+programs in [computer] science.  
+
+
+DocID: CACM-3150
+
+systems and components.  in order to develop such [systems] we need  
+as [computer] technology matures, our growing ability to create large [systems] is  
+programming, programming languages, programming [systems] [systems] development  
+
+
+DocID: CACM-1699
+
+experimental [evaluation] of information  
+evaluation, experimental document retrieval,  
+of mechanized information retrieval [systems]  
+
+
+DocID: CACM-2479
+
+systems administration, information systems  
+management, [computer] management  
+education, management information [systems] information  
+
+
+DocID: CACM-3048
+
+performance [evaluation] deterministic simulation,  
+for performance [evaluation] of alternative  
+performance [evaluation] of highly concurrent  
+
+
+DocID: CACM-2542
+
+modeling, system integration, simulation  
+supervisory [systems] debugging, program maintenance,  
+software [evaluation] compilers, system programming,  
+
+
+DocID: CACM-1680
+
+computer-assisted instruction, tutorial [systems]  
+programming, simulation, [modeling] information  
+automatically, relinquishing [computer] resources allocated  
+
+
+DocID: CACM-1543
+
+for the following coordinate [systems] cylindrical  
+prepared for this purpose the [computer] will  
+and a [computer] language designed to facilitate  
+
+
+DocID: CACM-2951
+
+systems, comparative response time, arpa  
+evaluation tools are employed to investigate  
+response time monitor, [computer] networks, time-sharing  
+
+
+DocID: CACM-2181
+
+for improving [computer] education for management,  
+the acm committee on [computer] education for management,  
+improving [computer] education for management.  to provide  
+
+
+DocID: CACM-2318
+
+the role of [computer] system models in performance evaluation  
+modeling, [evaluation] performance, analytic-models,  
+systems and establishes circumstances under  
+
+
+DocID: CACM-3130
+
+computer sciences courses, [computer] science curriculum, computer  
+undergraduate program in [computer] science  
+science education, [computer] science undergraduate degree  
+
+
+DocID: CACM-2317
+
+systems, multiprogramming, history  
+languages, operating [systems] programming  
+programming [systems] and languages 1965-1975  
+
+
+DocID: CACM-2002
+
+computer graphics, data potting, data display  
+systems or other attributes of the plot.  this enables plots of any  
+
+
+DocID: CACM-3076
+
+electronic funds transfer [systems] social impacts  
+of computing, privacy, social choice, computer  
+systems which automate the transfer and recording  
+
+
+DocID: CACM-2233
+
+for whatever reasons.  modern [computer] technology could  
+
+
+DocID: CACM-1951
+
+computer communications, time-sharing,  
+operating [systems] optimization models  
+for certain [computer] communications traffic models  
+
+
+DocID: CACM-1003
+
+a [computer] analysis method for thermal diffusion in biochemical systems  
+layers, a [computer] program was developed  
+way that the [computer] continually stores the heat  
+
+
+DocID: CACM-2106
+
+design and [evaluation] of management information [systems] requires  
+management information [systems] interpreters  
+computer education in a graduate school of management  
+
+
+DocID: CACM-1931
+
+interval arithmetic determinant evaluation  
+mathematical proof by computer  
+determinant [evaluation] chebyshev system,  
+
+
+DocID: CACM-2485
+
+computer management, [computer] budget, [computer] expenditures,  
+control, [computer] resource  
+managing the [computer] resource: a stage hypothesis  
+
+
+DocID: CACM-2020
+
+allocation mechanisms, charging, [computer] pricing,  
+the allocation of [computer] resources-is pricing the answer?  
+illustrative pricing [systems] are also discussed in order to demonstrate the  
+
+
+DocID: CACM-3117
+
+and control, [computer] aided dispatch,  
+computer technology, innovation, police resource allocation, police command  
+early 1970's.  further, when [computer] applications extend  
+
+
+DocID: CACM-2864
+
+modeling of program behavior and memory management in virtual memory [systems]  
+
+
+DocID: CACM-1741
+
+swept raster [computer] display, swept raster tv computer  
+computer display, [computer] graphics, [computer] raster  
+a multiconsole [computer] display system has  
+
+
+DocID: CACM-2990
+
+the performance of information retrieval systems  
+study, retrieval [evaluation] is based on optimizing the  
+given user query of a number of automatic indexing systems  
+
+
+DocID: CACM-2245
+
+trace-driven [modeling] and analysis of  
+called trace-driven [modeling] provides an accurate  
+computer system.  the cpu scheduling algorithm of  
+
+
+DocID: CACM-2721
+
+modeling ecosystems, pollution, environmental  
+digital simulation, mathematical [modeling] plankton  
+
+
+DocID: CACM-2188
+
+an approach to the optimum design of [computer] graphics systems  
+design guidelines, graphic display [systems] mathematical  
+means of a mathematical model of a [computer] driven  
+
+
+DocID: CACM-1928
+
+large [systems] simulation, network structures,  
+networks of large and active digital systems  
+and [systems] to be simulated may be combinations of synchronous  
+
+
+DocID: CACM-1805
+
+equipment  [evaluation] hardware, [evaluation]  
+a mode of [computer] operation in which two or more  
+
+
+DocID: CACM-1572
+
+the simulation of time sharing systems  
+for these [systems] but appropriate software adjustments  
+must be made.  unfortunately, these [systems] often  
+
+
+DocID: CACM-2372
+
+management information systems  
+operating [systems] access management, data banks,  
+system implementation within today's languages and operating [systems]  
+
+
+DocID: CACM-2967
+
+data structures, software [evaluation] hardware [evaluation]  
+memories in the context of [computer] graphics  
+were duplicated on the tx-2 [computer] at m.'s  
+
+
+DocID: CACM-2298
+
+microprogramming, emulation, [computer] [systems] language  
+project management, hardware evaluation  
+processors, input-output [systems] nano-program,  
+
+
+DocID: CACM-1541
+
+a language for [modeling] and simulating dynamic systems  
+systems containing highly interactive processes  
+to facilitate both the [modeling] and experimental  
+
+
+DocID: CACM-1032
+
+theoretical considerations in information retrieval systems  
+information storage and retrieval [systems] are composed  
+strategy, a linear model for an [evaluation] function  
+
+
+DocID: CACM-3160
+
+rejuvenating experimental [computer] science  
+computer science departments in the nation were asked  
+position paper on the crisis in experimental computer  
+
+
+DocID: CACM-3090
+
+service integration, urban information systems  
+of computing, management information [systems]  
+sociology of computing, information [systems] and  
+
+
+DocID: CACM-1066
+
+for direct [computer] entry, data file at the [computer] center,  
+such a variety of situations that the respective computer  
+systems must be based.  these viewpoints are influenced  
+
+
+DocID: CACM-1978
+
+with the advent of on-line  time-sharing  [computer] systems  
+interactive graphics, [computer] graphics, graphics, least squares,  
+on-line [systems] for general purpose mathematical problem solving  
+
+
+DocID: CACM-1959
+
+supervisors, interrupts monitoring [systems] supervisory  
+systems, interrupt scheduling, parallel processing  
+management information [systems] integrated data processing,  
+
+
+DocID: CACM-1908
+
+cost for usage of the two [computer] [systems] however,  
+using time-sharing and batch-processing computer  
+who, as nonprogrammers, are using the [computer] as an  
+
+
+DocID: CACM-2151
+
+operating [systems] multiprogramming [systems] time-sharing  
+systems, software measurement, user program  
+measurement, measurement technology, tx-2 [computer]  
+
+
+DocID: CACM-0695
+
+considered for both recovery from [computer] malfunction  
+separately for problem programs and for [systems] programs  
+for the storage of [systems] programs and the  
+
+
+DocID: CACM-1748
+
+systems  
+design and analysis of multiprocessing [systems]  
+a scheduling philosophy for multiprocessing systems  
+
+
+DocID: CACM-2358
+
+many contemporary [systems] permit some degree of  
+systems has grown, the need to share information  
+since the size of main memory on contemporary systems  
+
+
+DocID: CACM-1892
+
+multiprogrammed, time-shared computer  
+markovian [computer] models, scheduling  
+strategies, operating [systems] memory management  
+
+
+DocID: CACM-1620
+
+in function [evaluation] routines  
+approximation polynomials.  new polynomial evaluation  
+used in function [evaluation] routines to evaluate  
+
+
+DocID: CACM-2893
+
+computer adoption, american local government,  
+innovation, technological innovation, [computer] utilization,  
+of [computer] innovation.  somewhat unexpected  
+
+
+DocID: CACM-3136
+
+price/performance patterns of u. [computer] systems  
+for small business [computer] [systems] a market which is relatively  
+purpose [computer] [systems]  the other market is the developing one  
+
+
+DocID: CACM-1750
+
+multiple [computer] [systems] extended core storage,  
+multiprogrammed operating [systems] multiprocessor  
+computer system with extended core storage  
+
+
+DocID: CACM-1552
+
+software [systems] involving elaborate,  
+package of the aed-1 compiler [systems] allows blocks  
+for flexible problem [modeling]  the free storage  
+
+
+DocID: CACM-1728
+
+behavior, virtual memory [systems] single-level  
+operating [systems] supervisor simulation, machine  
+paging [systems] paging, dynamic program behavior, program  
+
+
+DocID: CACM-2988
+
+network models, in teractive [computer] systems  
+in queueing network models of [computer] [systems]  
+of in teractive [computer] [systems] which use nonpaged memories.  
+
+
+DocID: CACM-2979
+
+learning, large scale programming [systems] and novel  
+
+
+DocID: CACM-1324
+
+systems which are programmed and operating  
+into logical calculi.  [systems] are classified  
+answering english questions by [computer] a survey  
+
+
+DocID: CACM-3070
+
+hybrid simulation models of [computer] systems  
+performance [evaluation] simulation, queueing  
+computer system, discrete-event simulation is used  
+
+
+DocID: CACM-2127
+
+language question-answering [systems] are reviewed  
+natural language question-answering [systems] 1969  
+systems based on dictionaries with thousands of entries-with  
+
+
+DocID: CACM-1385
+
+computer technology in communist china, 1956-1965  
+planning, organization and educational aspects of computer  
+for the 1965 period, [computer] technology in china is  
+
+
+DocID: CACM-1029
+
+a simple automatic derivative [evaluation] program  
+for the automatic [evaluation] and differentiation  
+a procedure for automatic [evaluation] of total/partial  
+
+
+DocID: CACM-2111
+
+misspelling, lexical analysis [systems] programming  
+operating [systems] diagnostics, error detection,  
+spelling correction in [systems] programs  
+
+
+DocID: CACM-3182
+
+efts, [computer] abuse, crime, security, errors,  
+manual depository and other financial service [systems] - for example,  
+electronic funds transfer [systems]  efts  is discussed in light  
+
+
+DocID: CACM-2342
+
+operating [systems] parallel processes  
+dictate the system's behavior.  the mutual exclusion problem  
+
+
+DocID: CACM-2383
+
+music and [computer] composition  
+computer composition, music theory  
+previous [computer] compositions are discussed,  
+
+
+DocID: CACM-3092
+
+systems and programming resources consumed range  
+much of the total resources of [systems] and programming  
+
+
+DocID: CACM-2470
+
+semantics, formal [systems] lambda-calculus, extensible  
+
+
+DocID: CACM-1341
+
+levels of [computer] systems  
+in building current [computer] [systems] we tend  
+programming, and, eventually, [systems] which learn.  
+
+
+DocID: CACM-1030
+
+systems.  the [evaluation] of the boolean functions which  
+characterize the [computer] being simulated constitutes  
+techniques for the simulation of [computer] logic  
+
+
+DocID: CACM-1196
+
+computer processing can be formulated in terms  
+ease of debugging, and minimization of [computer] time.  
+routine for the solution of such [systems] furnishes  
+
+
+DocID: CACM-1856
+
+teachable [computer] program, psychological  
+simulation, human memory simulation, computer  
+
+
+DocID: CACM-2390
+
+readers, writers, commentators, computer  
+terminology be maintained in a multiterminal [computer] system.  
+users of the system can store in the computer  
+
+
+DocID: CACM-3026
+
+1100 [computer] series, [computer] architecture, multiprocessing  
+large-scale main frame [computer] [systems]  beginning  
+languages, data management [systems]  
+
+
+DocID: CACM-2525
+
+computations.  the arithmetic [systems] studied are 6-digit  
+digits.  in a certain sense, arithmetic systems  
+systems in evaluating sums, products and inner products,  
+
+
+DocID: CACM-0417
+
+of [computer] [systems] involved in legal situations.  
+legal implications of [computer] use  
+systems used in business and industry can  
+
+
+DocID: CACM-1261
+
+common [modeling] technique applicable to combinational  
+modeling and simulation of digital networks  
+computer provides the engineer with an effective  
+
+
+DocID: CACM-2344
+
+nonpreemptive time-sharing [systems]  the comparison  
+on the optimization of performance of time-sharing [systems] by simulation  
+
+
+DocID: CACM-3025
+
+minicomputer/microcomputer [systems]  
+sharing computing [systems] transferring hardware  
+computer structures, architecture, operating system, timesharing  
+
+
+DocID: CACM-3078
+
+systems using [computer] aided algebra  
+on-line [computer] system.  
+analysis of the availability of computer  
+
+
+DocID: CACM-1764
+
+panel discussion on [computer] appreciation  
+computer appreciation, students' liberal arts courses,  
+content, [computer] courses dropout rates, college versus  
+
+
+DocID: CACM-1099
+
+developments in [computer] technology have opened  
+various occupations through [computer] use including  
+professional [computer] work for the blind  
+
+
+DocID: CACM-1540
+
+an algorithm for class scheduling with section preference  
+to give a [preference] for sections within courses is given.  
+
+
+DocID: CACM-2741
+
+saturation in multiprogramming systems  
+multiprogramming, paging, performance [evaluation]  
+paging [systems]  i  unstable regimes of operations and  ii   
+
+
+DocID: CACM-3072
+
+computer [systems] are presented.  the basic control variables  
+multiprogramming [systems] i/o system scheduling  
+scheduling [systems] for multiprogrammed- multiprocessor  
+
+
+DocID: CACM-2538
+
+computer science education, course proposals, small  
+to make recommendations regarding [computer] science programs  
+a [computer] science course program for small colleges  
+

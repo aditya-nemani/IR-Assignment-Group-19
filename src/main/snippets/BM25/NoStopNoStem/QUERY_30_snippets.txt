@@ -1,0 +1,479 @@
+BM25_NoStopNoStem
+
+Query
+articles on treat formatting syetmss, including "what yu see is what yu
+get" syetmss.  examples: t/nroff, sbcire, bravo.
+
+Top 100 Results (157 millisecs)
+
+
+DocID: CACM-0195
+
+
+
+DocID: CACM-0248
+
+
+
+DocID: CACM-3179
+
+
+
+DocID: CACM-2909
+
+
+
+DocID: CACM-2876
+
+resolution is demonstrated by several [examples] and its realization  
+
+
+DocID: CACM-3142
+
+agement packages [including] poor software is indicated.  while most  
+
+
+DocID: CACM-2312
+
+
+
+DocID: CACM-0718
+
+
+
+DocID: CACM-1248
+
+
+
+DocID: CACM-2990
+
+yu, c. t.  
+
+
+DocID: CACM-1698
+
+
+
+DocID: CACM-2989
+
+
+
+DocID: CACM-2572
+
+
+
+DocID: CACM-1383
+
+
+
+DocID: CACM-2341
+
+character manipulation, output [formatting] string  
+printable output.  a variety of graphical problems  including  
+
+
+DocID: CACM-3173
+
+
+
+DocID: CACM-2931
+
+many [examples] we have still to give wide-ranging  
+
+
+DocID: CACM-2764
+
+
+
+DocID: CACM-2835
+
+
+
+DocID: CACM-2871
+
+to check simultaneously for correctness  including  
+
+
+DocID: CACM-1001
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2519
+
+
+
+DocID: CACM-1625
+
+
+
+DocID: CACM-1828
+
+
+
+DocID: CACM-2927
+
+
+
+DocID: CACM-3065
+
+
+
+DocID: CACM-2987
+
+examples.  it is shown that the poin ts of intersection  
+
+
+DocID: CACM-2305
+
+
+
+DocID: CACM-1926
+
+text editing, [formatting] frequency dictionary,  
+free-form input, very flexible [formatting] capabilities  
+including up to eight columns per page, automatic  
+
+
+DocID: CACM-2864
+
+is supported by [examples] taken from actual  
+
+
+DocID: CACM-2580
+
+
+
+DocID: CACM-2802
+
+
+
+DocID: CACM-2541
+
+
+
+DocID: CACM-3011
+
+
+
+DocID: CACM-2390
+
+
+
+DocID: CACM-1908
+
+
+
+DocID: CACM-3097
+
+
+
+DocID: CACM-2893
+
+
+
+DocID: CACM-1470
+
+compared and evaluated.  many [examples] frequently from  
+
+
+DocID: CACM-1256
+
+dynamic variable formatting  
+
+
+DocID: CACM-2701
+
+the time bound.  [examples] are given of code  
+shown to [treat] a very general class of function spaces.  
+
+
+DocID: CACM-0084
+
+
+
+DocID: CACM-1644
+
+
+
+DocID: CACM-2457
+
+and structural induction, [including] [examples] of their applications.  
+
+
+DocID: CACM-1112
+
+
+
+DocID: CACM-1046
+
+in a number of [articles] published during the  
+
+
+DocID: CACM-1977
+
+data by means of a linear combination of functions  including  
+interactive system is described and several [examples] of its use are given.  
+
+
+DocID: CACM-1735
+
+
+
+DocID: CACM-1518
+
+
+
+DocID: CACM-1389
+
+
+
+DocID: CACM-2629
+
+100 subsystems [including] a dozen languageshis  
+operating systems, [including]  1  a hierarchical file system  
+
+
+DocID: CACM-1014
+
+
+
+DocID: CACM-2152
+
+generate information for display.  by [including] transformations  
+pointing devices.  the paper is illustrated by examples  
+
+
+DocID: CACM-1929
+
+including the pictorial information contained in photographs  
+computer.  illustrative [examples] of several methods are given.  
+
+
+DocID: CACM-0274
+
+including an automatic use of a backing store  
+
+
+DocID: CACM-2203
+
+
+
+DocID: CACM-0397
+
+books, [articles] programming terms, hardware terms, equipment,  
+
+
+DocID: CACM-2265
+
+most current programming languages [treat] computation  
+
+
+DocID: CACM-1931
+
+
+
+DocID: CACM-2786
+
+interfaces directly with text [formatting] programs, so  
+
+
+DocID: CACM-0857
+
+some typical file structures, [including] some  
+
+
+DocID: CACM-0724
+
+
+
+DocID: CACM-2710
+
+including a syntax based on english key words for  
+
+
+DocID: CACM-0990
+
+a proposal is made for [including] in a programming  
+
+
+DocID: CACM-0727
+
+method.  programming details, numerous examples  
+
+
+DocID: CACM-1358
+
+are discussed, and [examples] are given of their use.  the  
+
+
+DocID: CACM-2356
+
+a technique for software module specification with examples  
+is illustrated by means of a variety of [examples] from a tutorial system.  
+
+
+DocID: CACM-1421
+
+to be used with the language, [including] facilities  
+
+
+DocID: CACM-2980
+
+editing is equivalent to fast graph operations.  a number of [examples] are shown.  
+
+
+DocID: CACM-3196
+
+84-character keyboard [including] alphabetical upper and lower case for good  
+
+
+DocID: CACM-2455
+
+a few theoretical results are derived, [including] the correction  
+
+
+DocID: CACM-0321
+
+
+
+DocID: CACM-3054
+
+best variants on real computers, [including] how to apply  
+
+
+DocID: CACM-0893
+
+examples include power series evaluation, linear equations  
+
+
+DocID: CACM-1524
+
+criterion has been tested on numerous examples  
+
+
+DocID: CACM-2019
+
+published methods [including] size and shear normalization through moments.  
+
+
+DocID: CACM-1624
+
+examples of algorithm that will accomplish  
+
+
+DocID: CACM-0380
+
+nth roots  [including] one proposed by the author   
+
+
+DocID: CACM-2436
+
+caller.  a set of [examples] attempts to stake out  
+
+
+DocID: CACM-2094
+
+ 1969  is considered.  [examples] are given to illustrate that this  
+
+
+DocID: CACM-1806
+
+365.  some numerical [examples] are included.  
+
+
+DocID: CACM-2904
+
+including linear function test replacement,  
+
+
+DocID: CACM-3100
+
+of the training [examples] and the adequacy  
+from a sequence of training [examples] is described.  
+
+
+DocID: CACM-2544
+
+examples are given for polynomials with real and complex  
+
+
+DocID: CACM-2338
+
+and numerical [examples] are presented.  
+
+
+DocID: CACM-0848
+
+range symmetric about 10.1 will give [examples] of this  
+
+
+DocID: CACM-1098
+
+including arithmetic facilities; and usability  
+ [including] a detailed comparison of comit,  
+
+
+DocID: CACM-1393
+
+the alpak system in several respects, including  
+
+
+DocID: CACM-3089
+
+principal performance measures, [including] availability,  
+
+
+DocID: CACM-1369
+
+to obtain the half rotation matrix.  numerical [examples] are given.  
+
+
+DocID: CACM-0111
+
+numerical [examples] are shown to illustrate the pitfalls  
+
+
+DocID: CACM-0644
+
+language is followed by [examples] a description of  
+
+
+DocID: CACM-2988
+
+methodology for [including] accurately the effects  
+
+
+DocID: CACM-2959
+
+he can gradually automate this application by giving "examples"  
+
+
+DocID: CACM-2367
+
+each component and presents [examples] of the relevant  
+
+
+DocID: CACM-2396
+
+to memory, generalizes from [examples] and performs various actions.  
+examples are presented to demonstrate how the model interprets  
+
+
+DocID: CACM-2165
+
+including the derivation of the field equations, the  
+
+
+DocID: CACM-2866
+
+to [examples] to prove properties such as freedom  
+
+
+DocID: CACM-1711
+
+and retrieval systems, [including] the pending  
+

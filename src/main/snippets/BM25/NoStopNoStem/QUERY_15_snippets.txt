@@ -1,0 +1,468 @@
+BM25_NoStopNoStem
+
+Query
+find all discussions of historical microcode obligation wish science-seminars on obligation of loops and global obligation.
+
+Top 100 Results (297 millisecs)
+
+
+DocID: CACM-0670
+
+with respect to the [obligation] not to disclose information  
+
+
+DocID: CACM-2478
+
+computer [science-seminars] for undergraduates  
+
+
+DocID: CACM-0820
+
+checking for [loops] in networks  
+
+
+DocID: CACM-1737
+
+a [global] parser for context-free phrase structure grammars  
+
+
+DocID: CACM-2944
+
+garbage collection, [global] flow analysis, list processing,  
+requires [global] flow analysis to be performed on the  
+used to [find] actions that cancel when the code is executed  
+
+
+DocID: CACM-3132
+
+experiments with some algorithms that find  
+set.  the traditional methods [find] a hyperplane which separates all  
+
+
+DocID: CACM-0307
+
+find  algorithm 65   
+
+
+DocID: CACM-1191
+
+find precedence functions  algorithm 265 [l2]   
+
+
+DocID: CACM-2477
+
+multiple exits from [loops] exit statement  
+
+
+DocID: CACM-0507
+
+partition, quicksort, [find]  algorithm 63, 64, 65   
+
+
+DocID: CACM-2574
+
+multiple exists from [loops] exit statement  
+
+
+DocID: CACM-2866
+
+monitors, correctness, proof rules, [historical] variables,  
+upper bounds on queue lengths, and historical  
+
+
+DocID: CACM-0776
+
+partition, quicksort, and [find]  algorithm 62, 64, & 65   
+
+
+DocID: CACM-2701
+
+global flow analysis, data flow, code optimization,  
+a new algorithm for [global] flow analysis on  
+number of exits from program [loops]  consequently  
+
+
+DocID: CACM-2174
+
+has been extended to [find] all the stable marriage assignments.  
+
+
+DocID: CACM-2877
+
+the [global] data relationships in a program  
+
+
+DocID: CACM-3069
+
+data flow analysis, [global] flow analysis, optimization,  
+
+
+DocID: CACM-1961
+
+which uses an exhaustive search to [find] all of the elementary  
+an efficient search algorithm to [find] the elementary circuits of a graph  
+circuits of a graph.  the algorithm can be easily modified to [find] all  
+
+
+DocID: CACM-2880
+
+useful implemented as [microcode] ona binary machine,  
+
+
+DocID: CACM-3037
+
+it is also easily extended to [find] the prime  
+
+
+DocID: CACM-0319
+
+some [historical] notes on iterative procedures are  
+on a class of iteration formulas and some [historical] notes  
+
+
+DocID: CACM-2150
+
+one of the case where we [wish] minimum delay for  
+the readers; the other for the case where we wish  
+
+
+DocID: CACM-0457
+
+
+
+DocID: CACM-3125
+
+global optimization by suppression of partial redundancies  
+computations out of [loops] are often done separately, with invariants  
+
+
+DocID: CACM-3156
+
+the algorithm can be used to [find] the transitive closure  
+we present a parallel algorithm which uses n2 processors to [find] the connected  
+
+
+DocID: CACM-2685
+
+array computers, vector computers, loops  
+the parallel execution of do loops  
+
+
+DocID: CACM-3189
+
+
+
+DocID: CACM-1197
+
+it will usually [find] a majority of them.  
+
+
+DocID: CACM-1878
+
+depend on being able to [find] and mark nodes that  
+
+
+DocID: CACM-0089
+
+a routine to [find] the solution of simultaneous  
+
+
+DocID: CACM-2456
+
+in which [loops] and if statements are properly  
+
+
+DocID: CACM-3074
+
+marked nodes of differing sizes, one may wish  
+
+
+DocID: CACM-3157
+
+are difficult to [find] and are of a complexity out  
+the basic approach is to [find] a termination function  that maps  
+
+
+DocID: CACM-1674
+
+currently available, may [wish] to consider some of  
+
+
+DocID: CACM-2051
+
+language processing, comparative method, [historical] linguistics, diachronic  
+
+
+DocID: CACM-2339
+
+historical response patterns, word strings,  
+
+
+DocID: CACM-0691
+
+presented also are an [historical] summary of the development  
+
+
+DocID: CACM-3118
+
+bubble memory, memory [loops] permutation algorithm, data block shift  
+loops, connected through another  major  loop.  the problem of obtaining any  
+
+
+DocID: CACM-2450
+
+in the hope that workers in the field might [find] experimental  
+
+
+DocID: CACM-2923
+
+and derives new [global] information helpful in solving  
+many familiar [global] flow analysis problems.  an  
+
+
+DocID: CACM-2365
+
+by reversing the order of nested [loops]  such modifications  
+
+
+DocID: CACM-0392
+
+
+
+DocID: CACM-3112
+
+it suitable for [microcode]  finally, the system requires  
+
+
+DocID: CACM-0087
+
+
+
+DocID: CACM-2068
+
+
+
+DocID: CACM-0052
+
+
+
+DocID: CACM-1807
+
+loops, common subexpressions, invariant calculations  
+invariant calculations from do [loops]  3  to efficiently  
+
+
+DocID: CACM-2919
+
+
+
+DocID: CACM-0064
+
+
+
+DocID: CACM-2940
+
+means of specializing alphard's [loops] to operate  
+cases of these [loops] are essentially identical to the  
+
+
+DocID: CACM-1131
+
+
+
+DocID: CACM-2079
+
+
+
+DocID: CACM-1466
+
+
+
+DocID: CACM-1461
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0866
+
+
+
+DocID: CACM-3188
+
+
+
+DocID: CACM-0119
+
+
+
+DocID: CACM-2774
+
+
+
+DocID: CACM-0109
+
+
+
+DocID: CACM-1301
+
+
+
+DocID: CACM-1105
+
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0141
+
+
+
+DocID: CACM-1328
+
+
+
+DocID: CACM-2503
+
+
+
+DocID: CACM-0312
+
+
+
+DocID: CACM-0269
+
+
+
+DocID: CACM-0371
+
+
+
+DocID: CACM-0118
+
+
+
+DocID: CACM-0163
+
+
+
+DocID: CACM-0003
+
+
+
+DocID: CACM-0044
+
+
+
+DocID: CACM-3029
+
+
+
+DocID: CACM-0635
+
+
+
+DocID: CACM-0629
+
+
+
+DocID: CACM-0581
+
+
+
+DocID: CACM-1005
+
+
+
+DocID: CACM-1702
+
+
+
+DocID: CACM-0476
+
+
+
+DocID: CACM-0463
+
+
+
+DocID: CACM-0363
+
+
+
+DocID: CACM-0023
+
+
+
+DocID: CACM-0142
+
+
+
+DocID: CACM-1330
+
+
+
+DocID: CACM-0041
+
+
+
+DocID: CACM-0821
+
+
+
+DocID: CACM-1151
+
+
+
+DocID: CACM-1187
+
+
+
+DocID: CACM-0584
+
+
+
+DocID: CACM-0477
+
+
+
+DocID: CACM-0361
+
+
+
+DocID: CACM-2750
+
+in such a situation, we must [find] a set of assumptions  
+
+
+DocID: CACM-1096
+
+
+
+DocID: CACM-2258
+
+
+
+DocID: CACM-0170
+
+
+
+DocID: CACM-0196
+
+
+
+DocID: CACM-0826
+
+
+
+DocID: CACM-3159
+
+
+
+DocID: CACM-2532
+
+

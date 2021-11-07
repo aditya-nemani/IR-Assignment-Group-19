@@ -1,0 +1,409 @@
+LUCENE_NoStopNoStem
+
+Query
+The application of fuzzy subset theory to clustering and information
+retrieval problems.  This includes performance evaluation and automatic
+indexing considerations.
+
+Top 100 Results (43 millisecs)
+
+
+DocID: CACM-2990
+
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-1032
+
+
+
+DocID: CACM-0329
+
+
+
+DocID: CACM-1457
+
+
+
+DocID: CACM-2451
+
+
+
+DocID: CACM-2631
+
+
+
+DocID: CACM-1653
+
+
+
+DocID: CACM-1976
+
+
+
+DocID: CACM-1236
+
+
+
+DocID: CACM-2140
+
+
+
+DocID: CACM-2991
+
+
+
+DocID: CACM-2307
+
+
+
+DocID: CACM-2984
+
+
+
+DocID: CACM-2882
+
+
+
+DocID: CACM-1675
+
+
+
+DocID: CACM-2542
+
+
+
+DocID: CACM-0944
+
+
+
+DocID: CACM-2568
+
+
+
+DocID: CACM-2265
+
+
+
+DocID: CACM-2959
+
+
+
+DocID: CACM-2561
+
+
+
+DocID: CACM-0891
+
+
+
+DocID: CACM-1627
+
+
+
+DocID: CACM-1267
+
+
+
+DocID: CACM-2217
+
+
+
+DocID: CACM-1665
+
+
+
+DocID: CACM-1652
+
+
+
+DocID: CACM-1935
+
+
+
+DocID: CACM-2454
+
+
+
+DocID: CACM-1948
+
+
+
+DocID: CACM-1926
+
+
+
+DocID: CACM-2835
+
+
+
+DocID: CACM-1699
+
+
+
+DocID: CACM-0675
+
+
+
+DocID: CACM-2318
+
+
+
+DocID: CACM-1194
+
+
+
+DocID: CACM-2598
+
+
+
+DocID: CACM-0696
+
+
+
+DocID: CACM-1272
+
+
+
+DocID: CACM-1108
+
+
+
+DocID: CACM-3089
+
+
+
+DocID: CACM-2437
+
+
+
+DocID: CACM-2699
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-2389
+
+
+
+DocID: CACM-2033
+
+
+
+DocID: CACM-2842
+
+
+
+DocID: CACM-1516
+
+
+
+DocID: CACM-2669
+
+
+
+DocID: CACM-1029
+
+
+
+DocID: CACM-2094
+
+
+
+DocID: CACM-2812
+
+
+
+DocID: CACM-1911
+
+
+
+DocID: CACM-2059
+
+
+
+DocID: CACM-3134
+
+
+
+DocID: CACM-2253
+
+
+
+DocID: CACM-3059
+
+
+
+DocID: CACM-2050
+
+
+
+DocID: CACM-1048
+
+
+
+DocID: CACM-1827
+
+
+
+DocID: CACM-2765
+
+
+
+DocID: CACM-3119
+
+
+
+DocID: CACM-1572
+
+
+
+DocID: CACM-1934
+
+
+
+DocID: CACM-2518
+
+
+
+DocID: CACM-2547
+
+
+
+DocID: CACM-2484
+
+
+
+DocID: CACM-2046
+
+
+
+DocID: CACM-3041
+
+
+
+DocID: CACM-2722
+
+
+
+DocID: CACM-1855
+
+
+
+DocID: CACM-2452
+
+
+
+DocID: CACM-2198
+
+
+
+DocID: CACM-1087
+
+
+
+DocID: CACM-2092
+
+
+
+DocID: CACM-2082
+
+
+
+DocID: CACM-1527
+
+
+
+DocID: CACM-1856
+
+
+
+DocID: CACM-2889
+
+
+
+DocID: CACM-2453
+
+
+
+DocID: CACM-1651
+
+
+
+DocID: CACM-1858
+
+
+
+DocID: CACM-1792
+
+
+
+DocID: CACM-2684
+
+
+
+DocID: CACM-2494
+
+
+
+DocID: CACM-3093
+
+
+
+DocID: CACM-2288
+
+
+
+DocID: CACM-2870
+
+
+
+DocID: CACM-2592
+
+
+
+DocID: CACM-2319
+
+
+
+DocID: CACM-1398
+
+
+
+DocID: CACM-2616
+
+
+
+DocID: CACM-3012
+
+
+
+DocID: CACM-1681
+
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-0661
+
+
+
+DocID: CACM-1769
+
+
+
+DocID: CACM-0619
+
+
+
+DocID: CACM-1602
+
+

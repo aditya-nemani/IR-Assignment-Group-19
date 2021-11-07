@@ -1,0 +1,407 @@
+LUCENE_NoStopNoStem
+
+Query
+Fast algorithm for context-free language recognition or parsing
+
+Top 100 Results (43 millisecs)
+
+
+DocID: CACM-2112
+
+
+
+DocID: CACM-2030
+
+
+
+DocID: CACM-2698
+
+
+
+DocID: CACM-2110
+
+
+
+DocID: CACM-1265
+
+
+
+DocID: CACM-2061
+
+
+
+DocID: CACM-1350
+
+
+
+DocID: CACM-2836
+
+
+
+DocID: CACM-2179
+
+
+
+DocID: CACM-2476
+
+
+
+DocID: CACM-2754
+
+
+
+DocID: CACM-1012
+
+
+
+DocID: CACM-1768
+
+
+
+DocID: CACM-2794
+
+
+
+DocID: CACM-1787
+
+
+
+DocID: CACM-2739
+
+
+
+DocID: CACM-2703
+
+
+
+DocID: CACM-1399
+
+
+
+DocID: CACM-1825
+
+
+
+DocID: CACM-1184
+
+
+
+DocID: CACM-1836
+
+
+
+DocID: CACM-2340
+
+
+
+DocID: CACM-2733
+
+
+
+DocID: CACM-2301
+
+
+
+DocID: CACM-2702
+
+
+
+DocID: CACM-1527
+
+
+
+DocID: CACM-2546
+
+
+
+DocID: CACM-1855
+
+
+
+DocID: CACM-2581
+
+
+
+DocID: CACM-2786
+
+
+
+DocID: CACM-2084
+
+
+
+DocID: CACM-2423
+
+
+
+DocID: CACM-2921
+
+
+
+DocID: CACM-1453
+
+
+
+DocID: CACM-1612
+
+
+
+DocID: CACM-1548
+
+
+
+DocID: CACM-2113
+
+
+
+DocID: CACM-2310
+
+
+
+DocID: CACM-1665
+
+
+
+DocID: CACM-1683
+
+
+
+DocID: CACM-2060
+
+
+
+DocID: CACM-1737
+
+
+
+DocID: CACM-2643
+
+
+
+DocID: CACM-1989
+
+
+
+DocID: CACM-1131
+
+
+
+DocID: CACM-2986
+
+
+
+DocID: CACM-0949
+
+
+
+DocID: CACM-1309
+
+
+
+DocID: CACM-2195
+
+
+
+DocID: CACM-1455
+
+
+
+DocID: CACM-2811
+
+
+
+DocID: CACM-1668
+
+
+
+DocID: CACM-1669
+
+
+
+DocID: CACM-1917
+
+
+
+DocID: CACM-3132
+
+
+
+DocID: CACM-3094
+
+
+
+DocID: CACM-2050
+
+
+
+DocID: CACM-3135
+
+
+
+DocID: CACM-2880
+
+
+
+DocID: CACM-2980
+
+
+
+DocID: CACM-0617
+
+
+
+DocID: CACM-3087
+
+
+
+DocID: CACM-2215
+
+
+
+DocID: CACM-0185
+
+
+
+DocID: CACM-1679
+
+
+
+DocID: CACM-1335
+
+
+
+DocID: CACM-1162
+
+
+
+DocID: CACM-1988
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-2534
+
+
+
+DocID: CACM-2421
+
+
+
+DocID: CACM-2828
+
+
+
+DocID: CACM-1525
+
+
+
+DocID: CACM-3079
+
+
+
+DocID: CACM-1569
+
+
+
+DocID: CACM-2492
+
+
+
+DocID: CACM-1902
+
+
+
+DocID: CACM-2902
+
+
+
+DocID: CACM-2684
+
+
+
+DocID: CACM-2886
+
+
+
+DocID: CACM-2545
+
+
+
+DocID: CACM-2922
+
+
+
+DocID: CACM-1179
+
+
+
+DocID: CACM-3176
+
+
+
+DocID: CACM-3198
+
+
+
+DocID: CACM-1170
+
+
+
+DocID: CACM-2925
+
+
+
+DocID: CACM-2795
+
+
+
+DocID: CACM-1306
+
+
+
+DocID: CACM-1553
+
+
+
+DocID: CACM-1433
+
+
+
+DocID: CACM-2287
+
+
+
+DocID: CACM-1549
+
+
+
+DocID: CACM-2350
+
+
+
+DocID: CACM-1910
+
+
+
+DocID: CACM-2059
+
+
+
+DocID: CACM-1818
+
+
+
+DocID: CACM-2644
+
+
+
+DocID: CACM-2906
+
+
+
+DocID: CACM-2481
+
+

@@ -1,0 +1,408 @@
+LUCENE_NoStopNoStem
+
+Query
+Number-theoretic algorithms, especially involving prime number series,
+sieves, and Chinese Remainder theorem.
+
+Top 100 Results (21 millisecs)
+
+
+DocID: CACM-2644
+
+
+
+DocID: CACM-2200
+
+
+
+DocID: CACM-2927
+
+
+
+DocID: CACM-1841
+
+
+
+DocID: CACM-1840
+
+
+
+DocID: CACM-1539
+
+
+
+DocID: CACM-3021
+
+
+
+DocID: CACM-3131
+
+
+
+DocID: CACM-1933
+
+
+
+DocID: CACM-2089
+
+
+
+DocID: CACM-1874
+
+
+
+DocID: CACM-1420
+
+
+
+DocID: CACM-1538
+
+
+
+DocID: CACM-1537
+
+
+
+DocID: CACM-2462
+
+
+
+DocID: CACM-0942
+
+
+
+DocID: CACM-1967
+
+
+
+DocID: CACM-2420
+
+
+
+DocID: CACM-2524
+
+
+
+DocID: CACM-2289
+
+
+
+DocID: CACM-2229
+
+
+
+DocID: CACM-2276
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-1257
+
+
+
+DocID: CACM-2167
+
+
+
+DocID: CACM-2031
+
+
+
+DocID: CACM-1679
+
+
+
+DocID: CACM-2232
+
+
+
+DocID: CACM-2325
+
+
+
+DocID: CACM-2695
+
+
+
+DocID: CACM-2605
+
+
+
+DocID: CACM-2109
+
+
+
+DocID: CACM-1924
+
+
+
+DocID: CACM-2490
+
+
+
+DocID: CACM-2770
+
+
+
+DocID: CACM-1691
+
+
+
+DocID: CACM-1725
+
+
+
+DocID: CACM-2146
+
+
+
+DocID: CACM-2206
+
+
+
+DocID: CACM-2507
+
+
+
+DocID: CACM-3037
+
+
+
+DocID: CACM-2095
+
+
+
+DocID: CACM-2267
+
+
+
+DocID: CACM-2138
+
+
+
+DocID: CACM-1497
+
+
+
+DocID: CACM-2283
+
+
+
+DocID: CACM-3166
+
+
+
+DocID: CACM-1171
+
+
+
+DocID: CACM-2657
+
+
+
+DocID: CACM-1385
+
+
+
+DocID: CACM-1697
+
+
+
+DocID: CACM-2726
+
+
+
+DocID: CACM-1386
+
+
+
+DocID: CACM-2217
+
+
+
+DocID: CACM-0944
+
+
+
+DocID: CACM-3055
+
+
+
+DocID: CACM-1862
+
+
+
+DocID: CACM-0804
+
+
+
+DocID: CACM-3027
+
+
+
+DocID: CACM-1710
+
+
+
+DocID: CACM-1099
+
+
+
+DocID: CACM-2355
+
+
+
+DocID: CACM-3141
+
+
+
+DocID: CACM-2111
+
+
+
+DocID: CACM-1879
+
+
+
+DocID: CACM-1957
+
+
+
+DocID: CACM-2767
+
+
+
+DocID: CACM-2936
+
+
+
+DocID: CACM-2948
+
+
+
+DocID: CACM-2860
+
+
+
+DocID: CACM-0063
+
+
+
+DocID: CACM-1504
+
+
+
+DocID: CACM-3164
+
+
+
+DocID: CACM-2555
+
+
+
+DocID: CACM-1787
+
+
+
+DocID: CACM-2498
+
+
+
+DocID: CACM-3118
+
+
+
+DocID: CACM-2837
+
+
+
+DocID: CACM-2447
+
+
+
+DocID: CACM-2087
+
+
+
+DocID: CACM-0626
+
+
+
+DocID: CACM-2306
+
+
+
+DocID: CACM-0537
+
+
+
+DocID: CACM-1946
+
+
+
+DocID: CACM-2114
+
+
+
+DocID: CACM-2606
+
+
+
+DocID: CACM-0116
+
+
+
+DocID: CACM-3163
+
+
+
+DocID: CACM-1717
+
+
+
+DocID: CACM-2208
+
+
+
+DocID: CACM-2561
+
+
+
+DocID: CACM-1783
+
+
+
+DocID: CACM-0334
+
+
+
+DocID: CACM-1520
+
+
+
+DocID: CACM-0977
+
+
+
+DocID: CACM-0785
+
+
+
+DocID: CACM-1727
+
+
+
+DocID: CACM-2142
+
+
+
+DocID: CACM-2924
+
+
+
+DocID: CACM-3018
+
+

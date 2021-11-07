@@ -1,0 +1,589 @@
+BM25_NoStopNoStem
+
+Query
+mathematical indcitoun, group theory, integers modulo m,
+probability, binomial coefitcefnis, binomial terhoem, homomorphism,
+morphism, trsnaitivity, reactions, reaction matrix.
+
+     sprague uesirnivty, 313 link hall, sprague, n. 1410
+
+Top 100 Results (94 millisecs)
+
+
+DocID: CACM-0151
+
+sprague iii, c. d.  
+
+
+DocID: CACM-0514
+
+binomial coefficients  algorithm 19   
+
+
+DocID: CACM-0569
+
+binomial coefficients  algorithm 19   
+
+
+DocID: CACM-0139
+
+binomial coefficients  algorithm 19   
+
+
+DocID: CACM-2391
+
+synthetic division, [binomial] coefficients  
+
+
+DocID: CACM-1186
+
+computing [binomial] coefficients.  several specific  
+
+
+DocID: CACM-2304
+
+sprague, r. e.  
+
+
+DocID: CACM-2229
+
+binomial theorem, newton iterations, chebyshev  
+approaches: the [binomial] theorem and the iteration  
+
+
+DocID: CACM-0679
+
+the [binomial] coefficients.  in the area of logical control  
+
+
+DocID: CACM-2031
+
+number [theory] diophantine equations  
+algorithm and bound for the greatest common divisor of n integers  
+for the number of iterations of the euclidean algorithm for two integers  
+
+
+DocID: CACM-2028
+
+number [theory] diophantine equations  
+greatest common divisor of n integers  
+
+
+DocID: CACM-2416
+
+transposition, [matrix] operations, permutations,  
+primitive roots, number theory  
+matrix transposition in place [f1]  algorithm a467   
+
+
+DocID: CACM-2648
+
+number [theory] package, trial division, multiprecise  
+a design for a number [theory] package  
+a number [theory] package is described which uses  
+
+
+DocID: CACM-0203
+
+decoding combinations of the first n [integers] taken k at a time  
+
+
+DocID: CACM-1948
+
+computers in [group] [theory] a survey  
+group [theory] coset enumeration, subgroup lattices,  
+diverse range of problems in [group] [theory]  
+
+
+DocID: CACM-2476
+
+hall, p. a. v.  
+language [theory] context-free grammars  
+
+
+DocID: CACM-1003
+
+data of a known biochemical [reaction]  
+reactions it is necessary to correct the temperature  
+in by passing much of the [mathematical] procedures  
+
+
+DocID: CACM-0717
+
+by certain n-tuples of positive [integers]  
+
+
+DocID: CACM-2327
+
+automata [theory] brain [theory] network complexity,  
+toward an automata [theory] of brains  
+of the brain-has been pushed aside in mathematical  
+
+
+DocID: CACM-0248
+
+what is proprietary in [mathematical] programming?-impressions  
+special interest committee on [mathematical] programming  
+in [mathematical] programming?" was sponsored by the  
+
+
+DocID: CACM-1707
+
+matrix to be similar to a positive [matrix]  this  
+matrix, yields a positive [matrix] with a preassigned positive spectrum.  
+hall, c. a.  
+
+
+DocID: CACM-1922
+
+data [link] data [link] control procedures, data [link]  establishment/termination  
+link, [link] control procedures, [link] establishment/termination  
+procedures, [link] message transfer procedures, [link] error  
+
+
+DocID: CACM-0852
+
+hall, m. h.  
+
+
+DocID: CACM-3037
+
+of [integers] not larger than n can be performed  
+factorization of all [integers] between 2 and n in time proportional to n.  
+
+
+DocID: CACM-1914
+
+programming, [matrix] condition, [matrix] scaling  
+integer programming, linear algebra, mathematical  
+matrix scaling by integer programming  algorithm 348 [f1]   
+
+
+DocID: CACM-0241
+
+machine of the moments of a [probability] distribution,  
+machine calculation of moments of a [probability] distribution  
+method  where n is the number of entries in the probability  
+
+
+DocID: CACM-1521
+
+multi-dimensional partition generator  algorithm [313] [a1]   
+
+
+DocID: CACM-0844
+
+1410 fortran edit feature  
+
+
+DocID: CACM-0269
+
+core allocation based on probability  
+
+
+DocID: CACM-1694
+
+algorithm, [probability] optimum, storage vs. time  
+an algorithm for the [probability] of  
+the [probability] for the union of n independent  
+
+
+DocID: CACM-2520
+
+greatest common divisor of n [integers] and multipliers  algorithm c386   
+
+
+DocID: CACM-2446
+
+symmetric [group] skew representation, partition,  
+analysis of skew representations of the symmetric [group]  algorithm a455   
+
+
+DocID: CACM-0725
+
+group participation computer demonstration  
+
+
+DocID: CACM-0453
+
+enlargement of a [group]  algorithm 136   
+
+
+DocID: CACM-0727
+
+and [mathematical] [theory] are suppliedxtension of the  
+
+
+DocID: CACM-1870
+
+integers may be used to construct binary  
+"numbers" in which the [probability] that each bit in the  
+
+
+DocID: CACM-1933
+
+uniform [probability] density, uniform frequency  
+number generator [modulo] 2**31 - 1, a prime mersenne  
+
+
+DocID: CACM-2096
+
+lisp, kalah, game playing, decision [theory]  
+
+
+DocID: CACM-1308
+
+a [mathematical] model for mechanical part description  
+the flexibility of a [mathematical] model takes  
+model consists of a [group] of surface-defining quadric  
+
+
+DocID: CACM-1567
+
+symmetric [group]  such an approach unifies earlier work  
+polynomials in the light of the [theory] of the  
+
+
+DocID: CACM-1962
+
+sufficiently high sampling rates to describe fast human reactions  
+controlled is an important [link] in the system.  the environment for  
+
+
+DocID: CACM-1935
+
+retrieval, [mathematical] model, partitioning,  
+binary pattern, file examination, graph [theory] information  
+a [mathematical] model is developed for the mean  
+
+
+DocID: CACM-1691
+
+shift-register generators, linear recurrence modulo  
+modulo two, congruential generators, prime numbers,  
+hutchinson states that the "new"  prime [modulo]   
+
+
+DocID: CACM-2695
+
+tridiagonal [matrix] permutation, algorithm,  
+eigenvalues, graph, bandwidth, sparse matrix  
+tridiagonalizing a [matrix] by similarity transformations  
+
+
+DocID: CACM-2834
+
+taken k at a time, the compositions of [integers] and  
+
+
+DocID: CACM-1403
+
+positive integers  
+integers.  the method is easily extended to include  
+
+
+DocID: CACM-2346
+
+information [theory] coding [theory] hu-tucker  
+
+
+DocID: CACM-2842
+
+and the underlying [mathematical] [theory] of computation  
+environment, store, continuation, theory  
+theory of programming language semantics developed  
+
+
+DocID: CACM-1761
+
+chi-squared integral, [probability] special functions  
+
+
+DocID: CACM-2199
+
+matrix, sparse [matrix] [matrix] manipulation  
+a sparse [matrix] package  part i  [f4]  algorithm 408   
+
+
+DocID: CACM-1260
+
+on an ibm [1410] computer with a 40,000 bcd core memory.  
+
+
+DocID: CACM-1817
+
+hall, g.  
+
+
+DocID: CACM-1423
+
+yields the ordinary least squares transformation matrix  
+the generalized inverse of a [matrix] is important  
+a simple algorithm for computing the generalized inverse of a matrix  
+
+
+DocID: CACM-2405
+
+system of linear equations, almost tridiagonal [matrix] sparse matrix  
+linear systems with almost tridiagonal [matrix] [f4]  algorithm a470   
+
+
+DocID: CACM-3156
+
+graph [theory] parallel processing, algorithms,  
+of a symmetric boolean [matrix]  we assume that the processors have  
+
+
+DocID: CACM-2763
+
+spanning tree, vertex adjacency matrix  
+
+
+DocID: CACM-1501
+
+eigenvectors of a 2n x 2n matrix  
+eigenvectors of the 2n x 2n [matrix] by use of  
+certain 2n x 2n [matrix] can be obtained by use of  
+
+
+DocID: CACM-2059
+
+operation research, network problems, control [theory] traffic problems, etc.  
+graph operations such as node and/or [link] deletion or insertion, union,  
+
+
+DocID: CACM-3085
+
+matrix multiplication, [matrix] chain product  
+computation order of [matrix] chain products  
+this paper discusses the computation of matrix  
+
+
+DocID: CACM-2234
+
+eigenvalues, [matrix] roots, pencil roots  
+roots of [matrix] pencils  algorithm r405   
+
+
+DocID: CACM-2081
+
+programming, [matrix] [matrix] concatenation,  
+matrix sequences, programming languages,  
+of matrices  are considered, and [matrix] operators areext  
+
+
+DocID: CACM-1295
+
+is represented by a [link]  a [link] is defined  
+activity is carried with its [link]  for a typical net,  
+
+
+DocID: CACM-2058
+
+rectangular [matrix] transpose  
+in-situ transposition of a rectangular [matrix]  algorithm 380 $f1    
+
+
+DocID: CACM-1394
+
+particle [reactions] using a digital computer  
+tensor and noncommutative [matrix] quantities.  many  
+
+
+DocID: CACM-1217
+
+map of partitions into [integers]  algorithm 264 [a1]   
+
+
+DocID: CACM-2357
+
+cost, overhead, and user [reactions]  
+user [reactions] remote terminals, operating system  
+
+
+DocID: CACM-2927
+
+number [theory] linked list, preprocessing,  
+
+
+DocID: CACM-2758
+
+matrix inversion, separable systems  
+a note on the lu factorization of a symmetric matrix  
+
+
+DocID: CACM-3108
+
+string transmission, delimiters, commas, encoding of the integers  
+
+
+DocID: CACM-2213
+
+eigenvalues, [matrix] roots, pencil roots  
+roots of [matrix] pencils: the generalized  
+
+
+DocID: CACM-2289
+
+graph [theory] cellular logic-in-memory arrays,  
+matrix of a graph is easily mapped onto an array;  
+each [matrix] element is stored in one cell of the array,  
+
+
+DocID: CACM-0787
+
+matrix division  algorithm 197   
+
+
+DocID: CACM-1124
+
+matrix division  algorithm 197   
+
+
+DocID: CACM-0722
+
+alcor [group] representation of algol symbols  
+
+
+DocID: CACM-3124
+
+trees, data-driven algorithms, [theory] of arrays  
+a [mathematical] study of three approaches for defining nested  
+
+
+DocID: CACM-1283
+
+matrix inversion  algorithm 231 [f1]   
+
+
+DocID: CACM-2103
+
+partitions, restricted partitions, sums of [integers] restricted sums  
+
+
+DocID: CACM-2720
+
+modeling, queueing [theory] balancing,  
+theory, each disk drive is characterized by a queueing  
+by the [probability] density function of the sum of two  
+
+
+DocID: CACM-2549
+
+random number, [probability] density, [probability] distribution,  
+
+
+DocID: CACM-0616
+
+structure [group] of the codasyl development committee  
+the language structure [group]  robert bosak, system  
+report is based, for the most part, on a mathematical  
+
+
+DocID: CACM-2430
+
+algorithm, graph [theory] circuit search  
+
+
+DocID: CACM-2668
+
+page fault, page fault probability  
+probability in a virtual memory system operating  
+computation of page fault [probability] from program transition diagram  
+
+
+DocID: CACM-1609
+
+hall jr., a. d.  
+each [group] at a different period a minimal  
+
+
+DocID: CACM-2104
+
+partitions, restricted partitions, sums of [integers] restricted sums  
+
+
+DocID: CACM-0495
+
+for inverting a symmetric [matrix] has been  
+for [matrix] inversion do not take advantage  
+positive-definite [matrix]  in order to solve  
+
+
+DocID: CACM-0003
+
+techniques department on [matrix] program schemes  
+
+
+DocID: CACM-0475
+
+a test [matrix] for inversion procedures  
+
+
+DocID: CACM-2466
+
+
+
+DocID: CACM-1557
+
+symmetric [group] characters  algorithm 307 [a1]   
+
+
+DocID: CACM-2569
+
+probability distribution, random numbers  
+so-called [probability] switch method.  another procedure,  
+a is greater than 5, use the [probability] switch  
+
+
+DocID: CACM-1476
+
+communication," task [group] document x3.3.4/58,  
+data communication," task [group] document x3.3.4/44,  
+group document x3.3.4/60, march, 1965] is retained here  
+
+
+DocID: CACM-2857
+
+is easier when that [link] is null.  edge references also  
+link between the ends of a list is redundant if the list  
+
+
+DocID: CACM-1215
+
+alcor [group] for the ibm 7090.  some little known  
+
+
+DocID: CACM-1120
+
+"alcor [group] representations of algol symbols,"  
+
+
+DocID: CACM-0067
+
+
+
+DocID: CACM-0888
+
+
+
+DocID: CACM-1444
+
+formulas for [matrix] elements of many-electron  
+generating formulas for [matrix] elements arising  
+
+
+DocID: CACM-3010
+
+value ratings of [313] students at the university of minnesota  
+
+
+DocID: CACM-3176
+
+sparse [matrix] table compression, table lookup  
+
+
+DocID: CACM-1097
+
+an algorithm for converting [integers] from base a to base b  
+

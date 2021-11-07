@@ -1,0 +1,588 @@
+BM25_NoStopNoStem
+
+Query
+find all discussions of oneil implementations of sort algorithms format-free management applications
+
+Top 100 Results (234 millisecs)
+
+
+DocID: CACM-0720
+
+format-free input in fortran  
+
+
+DocID: CACM-0280
+
+o'neil, r. w.  
+
+
+DocID: CACM-2679
+
+algorithm, general-purpose [sort] algorithm, sorting  
+qsort, shellsort, stringsort, treesort3,utility sort  
+the fewest comparisons to [sort] random arrays.  
+
+
+DocID: CACM-3132
+
+experiments with some [algorithms] that find  
+than a noncentral hyperplane.  six [algorithms] for finding central  
+set.  the traditional methods [find] a hyperplane which separates all  
+
+
+DocID: CACM-2674
+
+and the other to interactive [applications]  the algorithms  
+that the noninteractive [algorithms] can significantly  
+scan conversion [algorithms] which have been  
+
+
+DocID: CACM-3131
+
+speed with hardware arithmetic for many [applications]  algorithms  
+speed, computational accuracy, microcomputer applications  
+signal processing [applications]  focus has the wide-ranging  
+
+
+DocID: CACM-2348
+
+sort, merge  
+merge [sort] algorithm [m1]  algorithm a426   
+
+
+DocID: CACM-0132
+
+math [sort]  algorithm 23   
+
+
+DocID: CACM-2563
+
+merge [sort] algorithm  r426   
+
+
+DocID: CACM-0853
+
+the cobol [sort] verb  
+
+
+DocID: CACM-0662
+
+shuttle [sort]  algorithm 175   
+
+
+DocID: CACM-0701
+
+shuttle [sort]  algorithm 175   
+
+
+DocID: CACM-2397
+
+optimizing the polyphase [sort]  corrigendum   
+
+
+DocID: CACM-0307
+
+find  algorithm 65   
+
+
+DocID: CACM-0862
+
+string distribution for the polyphase sort  
+
+
+DocID: CACM-0841
+
+shuttle [sort]  algorithm 175   
+
+
+DocID: CACM-1191
+
+find precedence functions  algorithm 265 [l2]   
+
+
+DocID: CACM-0507
+
+partition, quicksort, [find]  algorithm 63, 64, 65   
+
+
+DocID: CACM-3037
+
+primes, [algorithms] data structures  
+it is also easily extended to [find] the prime  
+
+
+DocID: CACM-0776
+
+partition, quicksort, and [find]  algorithm 62, 64, & 65   
+
+
+DocID: CACM-1752
+
+memory [management] virtual memories  
+time-sharing, operating systems, resource [management]  
+are given by tracing the development of the algorithms  
+
+
+DocID: CACM-2577
+
+site data [management] retrieval systems  
+an on-site data [management] system application in field archaeology  
+
+
+DocID: CACM-2902
+
+algorithms.  simple [algorithms] operating on memory ordered  
+memory [management] programming techniques, simulation,  
+simulation memory [management] simulation techniques,  
+
+
+DocID: CACM-0857
+
+methods used in fact to [sort] such files are discussed.  
+
+
+DocID: CACM-2174
+
+has been extended to [find] all the stable marriage assignments.  
+
+
+DocID: CACM-3112
+
+many [applications]  
+virtual memory, file or database [management]  
+classical [implementations] of list processing systems  
+
+
+DocID: CACM-1873
+
+phase of lp [algorithms]  other lp [applications] are indicated.  
+accelerating lp algorithms  
+
+
+DocID: CACM-3075
+
+parallel processing, sorting, [algorithms] bucket sort  
+fast parallel sorting algorithms  
+is also presented to [sort] n numbers in time o k log  
+
+
+DocID: CACM-0049
+
+scientific and business [applications]  oracle curve plotter   
+
+
+DocID: CACM-2689
+
+report generation, automated systems design, data processing, management  
+
+
+DocID: CACM-3011
+
+management practices where top [management] is supportive  
+computer utilization, [management] information system,  
+applications.  despite the unsophisticated  
+
+
+DocID: CACM-3156
+
+graph theory, parallel processing, [algorithms]  
+the algorithm can be used to [find] the transitive closure  
+we present a parallel algorithm which uses n2 processors to [find] the connected  
+
+
+DocID: CACM-2289
+
+cellular [implementations] of the well-known  
+steps, and noncellular [implementations] require from  
+algorithms for distance and spanning tree problems  
+
+
+DocID: CACM-2345
+
+education, [management] systems, systems analysis,  
+management information systems, information systems  
+
+
+DocID: CACM-1961
+
+which uses an exhaustive search to [find] all of the elementary  
+an efficient search algorithm to [find] the elementary circuits of a graph  
+circuits of a graph.  the algorithm can be easily modified to [find] all  
+
+
+DocID: CACM-0371
+
+remarks on [algorithms] 2 and 3, algorithm 15 and [algorithms] 25 and 26  
+
+
+DocID: CACM-2583
+
+humanization, social implication, [management] information  
+
+
+DocID: CACM-2069
+
+operating systems, memory management  
+
+
+DocID: CACM-1796
+
+index by subject to [algorithms] 1969  
+index by subject to [algorithms] 1960 1968  comm.  
+
+
+DocID: CACM-1724
+
+sort by nagler. the power of the [sort] is tabulated for  
+block [sort] partial pass [sort] direct access devices,  
+sort, amphisbaenic  
+
+
+DocID: CACM-0457
+
+
+
+DocID: CACM-2007
+
+algorithms policy/revised august 1970  
+
+
+DocID: CACM-0860
+
+sort techniques is developed for computer  
+a comparison between the polyphase and oscillating [sort] techniques  
+
+
+DocID: CACM-1952
+
+index by subject to [algorithms] 1970  
+
+
+DocID: CACM-1660
+
+index by subject to [algorithms] 1960-1968  
+
+
+DocID: CACM-1342
+
+transportation problem  [algorithms] 293 [h]   
+
+
+DocID: CACM-2142
+
+and the problem is to [find] the "most representative"  
+picture.  three [algorithms] are described  all using  
+this problem.  the [algorithms] are applicable in a large  
+
+
+DocID: CACM-0856
+
+sort, applicable to a variety of record statements.  
+using random access drum memory.  the [sort] program  
+
+
+DocID: CACM-0270
+
+techniques for storage allocation algorithms  
+
+
+DocID: CACM-2417
+
+four combinatorial [algorithms] [g6]  algorithm a466   
+
+
+DocID: CACM-2830
+
+a practitioner's guide to addressing [algorithms]  corrigendum   
+
+
+DocID: CACM-2146
+
+optimizing the polyphase sort  
+sorting, polyphase sorting, dispersion [algorithms]  
+new dispersion [algorithms] with more straightforward  
+
+
+DocID: CACM-1953
+
+exponential integral ei x   [algorithms] 385 $s13    
+
+
+DocID: CACM-2505
+
+and adjacent transposition algorithms  
+
+
+DocID: CACM-2181
+
+university programs, [management] education, curriculum  
+for improving computer education for [management]  
+the acm committee on computer education for [management]  
+
+
+DocID: CACM-2833
+
+storage [management] garbage collection, lisp  
+algorithms are designed to work well in systems  
+
+
+DocID: CACM-2362
+
+matrix [algorithms] linear equations, fortran,  
+
+
+DocID: CACM-2593
+
+data base [management] information retrieval, computer  
+a back-end computer for data base management  
+data [management] system, xdms, is described and certain  
+
+
+DocID: CACM-2748
+
+amenable to machine independent [implementations]  
+
+
+DocID: CACM-2944
+
+management  
+used to [find] actions that cancel when the code is executed  
+
+
+DocID: CACM-3177
+
+cryptography, key [management] interpolation  
+of robust key [management] schemes for cryptographic systems  
+
+
+DocID: CACM-2272
+
+implications and further [applications] are discussed.  
+a family of sorting [algorithms] is proposed,  
+algorithms, sorting by replacement selection, expected string length  
+
+
+DocID: CACM-2450
+
+the design of scheduling and paging [algorithms]  although  
+in the hope that workers in the field might [find] experimental  
+
+
+DocID: CACM-2017
+
+performance evaluation, memory management  
+the experimental [sort] programs and analysis of the performance  
+broad guidelines for writing [sort] programs for a paging environment.  
+
+
+DocID: CACM-2324
+
+programming, [management] science, operations research, algorithms  
+management science: a view from nonlinear programming  
+algorithms to demonstrate which techniques are best for specific problems.  
+
+
+DocID: CACM-3017
+
+structure for multiuser database [applications]  here,  
+
+
+DocID: CACM-2819
+
+codes, n-gram encoding, comparison of algorithms  
+two [algorithms] for encoding a string differ  
+parameters in the [algorithms] are optimized to obtain  
+
+
+DocID: CACM-2834
+
+reflected gray code and its applications  
+algorithms are presented to generate the n-bit  
+element from the current one is constant.  applications  
+
+
+DocID: CACM-3006
+
+fault frequency, paging algorithms  
+algorithms, virtual memory, working set, page  
+anomalies with variable partition paging algorithms  
+
+
+DocID: CACM-1412
+
+applications already existing within the bank.  
+the  point where their major accounting applications  
+management use.  both kinds of processing draw upon a  
+
+
+DocID: CACM-3189
+
+
+
+DocID: CACM-1619
+
+by some [algorithms] used to compute various  
+
+
+DocID: CACM-0677
+
+first  internal [sort]  phase of a merge [sort] onto tapes.  
+length of strings for a merge sort  
+
+
+DocID: CACM-0089
+
+a routine to [find] the solution of simultaneous  
+
+
+DocID: CACM-2266
+
+parallel numerical [algorithms] real polynomials,  
+
+
+DocID: CACM-0717
+
+partitioning [algorithms] for finite sets  
+
+
+DocID: CACM-0865
+
+be applicable for the first stage of a generalized sort  
+internal [sort] .  it is shown that given n records  
+
+
+DocID: CACM-2406
+
+data translation, data base [management] systems,  
+as in advanced data [management] systems and distributed  
+and physical aspects of data.  [applications] of these  
+
+
+DocID: CACM-3058
+
+jump searching, sequential files, file [management]  
+size jump strategies are explored, appropriate applications  
+
+
+DocID: CACM-2852
+
+center [management] computer system performance  
+on computer education for [management] for graduate  
+the technology of computer center [management] a  
+
+
+DocID: CACM-2906
+
+a very high level programming language for data processing applications  
+
+
+DocID: CACM-1905
+
+standard computer [implementations] of dantzig's  
+these [implementations] have bad round-off error properties.  
+
+
+DocID: CACM-3166
+
+four [algorithms] for the numerical computation  
+and computational literature; the other two are new algorithms  
+algorithms will provide accurate answers for many problems, but two  
+
+
+DocID: CACM-1594
+
+in this manner, [applications] of the algorithm will generate  
+
+
+DocID: CACM-3103
+
+a system for automatically choosing efficient implementations  
+for abstract types from a library of implementations  
+
+
+DocID: CACM-2650
+
+in a.  the method should [find] [applications] in information  
+
+
+DocID: CACM-3171
+
+to be used for [implementations] of high level languages.  under suitable  
+
+
+DocID: CACM-1462
+
+system.  large [applications] require supervisory  
+
+
+DocID: CACM-1197
+
+it will usually [find] a majority of them.  
+
+
+DocID: CACM-2877
+
+flow graphs, [algorithms] compilers  
+
+
+DocID: CACM-2106
+
+management information systems, interpreters  
+computer education in a graduate school of management  
+design and evaluation of [management] information systems requires  
+
+
+DocID: CACM-1957
+
+the list set generator is defined and algorithms  
+
+
+DocID: CACM-1810
+
+hierarchies, replacement [algorithms] performance, measurement  
+o'neil, and others, permitting its quality to be  
+
+
+DocID: CACM-2924
+
+routines for structural, medical and graphical [applications]  
+of spline theory and [algorithms] an in teractive  
+this method are [algorithms] which enable in teractive  
+
+
+DocID: CACM-2308
+
+data [management] engineering analysis, information  
+urban systems, urban [applications] data acquisition,  
+found in any city.  the future scope of [applications] is  
+
+
+DocID: CACM-2863
+
+realizable variable space [algorithms]  
+page replacement [algorithms] optimal page replacement  
+and the page partitioning replacement algorithms  
+
+
+DocID: CACM-0655
+
+and an examination of some of its [applications]  
+
+
+DocID: CACM-1878
+
+depend on being able to [find] and mark nodes that  
+
+
+DocID: CACM-1098
+
+applications.  
+languages for use in particular problem [applications]  
+
+
+DocID: CACM-2740
+
+semaphore [applications] queue semaphores,  
+management, time schedule, debugging, project planning,  
+of operating systems.  the project management  
+

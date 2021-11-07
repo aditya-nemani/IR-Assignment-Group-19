@@ -1,0 +1,413 @@
+LUCENE_NoStopNoStem
+
+Query
+Theory of distributed systems and databases.  Subtopics of special
+interest include reliability and fault-tolerance in distributed systems,
+atomicity, distributed transactions, synchronization algorithms, 
+resource allocation; lower bounds and models for asynchronous parallel
+systems.  Also theory of communicating processes and protocols.   
+
+     P. Box 2158 Yale Station, New Haven, Conn.  06520
+
+Top 100 Results (95 millisecs)
+
+
+DocID: CACM-3128
+
+
+
+DocID: CACM-3148
+
+
+
+DocID: CACM-3043
+
+
+
+DocID: CACM-3082
+
+
+
+DocID: CACM-2578
+
+
+
+DocID: CACM-3141
+
+
+
+DocID: CACM-3137
+
+
+
+DocID: CACM-2969
+
+
+
+DocID: CACM-1747
+
+
+
+DocID: CACM-2080
+
+
+
+DocID: CACM-2371
+
+
+
+DocID: CACM-1751
+
+
+
+DocID: CACM-2342
+
+
+
+DocID: CACM-2128
+
+
+
+DocID: CACM-2522
+
+
+
+DocID: CACM-2849
+
+
+
+DocID: CACM-2406
+
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-2276
+
+
+
+DocID: CACM-2424
+
+
+
+DocID: CACM-2895
+
+
+
+DocID: CACM-2912
+
+
+
+DocID: CACM-2596
+
+
+
+DocID: CACM-2597
+
+
+
+DocID: CACM-2949
+
+
+
+DocID: CACM-2541
+
+
+
+DocID: CACM-3076
+
+
+
+DocID: CACM-2376
+
+
+
+DocID: CACM-3072
+
+
+
+DocID: CACM-1745
+
+
+
+DocID: CACM-3153
+
+
+
+DocID: CACM-1960
+
+
+
+DocID: CACM-2482
+
+
+
+DocID: CACM-2950
+
+
+
+DocID: CACM-2504
+
+
+
+DocID: CACM-1951
+
+
+
+DocID: CACM-2111
+
+
+
+DocID: CACM-1928
+
+
+
+DocID: CACM-1924
+
+
+
+DocID: CACM-3119
+
+
+
+DocID: CACM-1935
+
+
+
+DocID: CACM-2454
+
+
+
+DocID: CACM-1828
+
+
+
+DocID: CACM-2470
+
+
+
+DocID: CACM-3124
+
+
+
+DocID: CACM-3006
+
+
+
+DocID: CACM-2955
+
+
+
+DocID: CACM-2016
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-2030
+
+
+
+DocID: CACM-2900
+
+
+
+DocID: CACM-3000
+
+
+
+DocID: CACM-3059
+
+
+
+DocID: CACM-2198
+
+
+
+DocID: CACM-2255
+
+
+
+DocID: CACM-1948
+
+
+
+DocID: CACM-2616
+
+
+
+DocID: CACM-2697
+
+
+
+DocID: CACM-2932
+
+
+
+DocID: CACM-2738
+
+
+
+DocID: CACM-2777
+
+
+
+DocID: CACM-3086
+
+
+
+DocID: CACM-1247
+
+
+
+DocID: CACM-2890
+
+
+
+DocID: CACM-2318
+
+
+
+DocID: CACM-3038
+
+
+
+DocID: CACM-1552
+
+
+
+DocID: CACM-2519
+
+
+
+DocID: CACM-1959
+
+
+
+DocID: CACM-2020
+
+
+
+DocID: CACM-2373
+
+
+
+DocID: CACM-3025
+
+
+
+DocID: CACM-1484
+
+
+
+DocID: CACM-2816
+
+
+
+DocID: CACM-3117
+
+
+
+DocID: CACM-2323
+
+
+
+DocID: CACM-2320
+
+
+
+DocID: CACM-2927
+
+
+
+DocID: CACM-2979
+
+
+
+DocID: CACM-2317
+
+
+
+DocID: CACM-2784
+
+
+
+DocID: CACM-1341
+
+
+
+DocID: CACM-1854
+
+
+
+DocID: CACM-1572
+
+
+
+DocID: CACM-1748
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-3181
+
+
+
+DocID: CACM-2926
+
+
+
+DocID: CACM-2499
+
+
+
+DocID: CACM-1754
+
+
+
+DocID: CACM-2289
+
+
+
+DocID: CACM-2535
+
+
+
+DocID: CACM-2629
+
+
+
+DocID: CACM-1978
+
+
+
+DocID: CACM-2644
+
+
+
+DocID: CACM-2851
+
+
+
+DocID: CACM-1774
+
+
+
+DocID: CACM-1206
+
+
+
+DocID: CACM-2095
+
+

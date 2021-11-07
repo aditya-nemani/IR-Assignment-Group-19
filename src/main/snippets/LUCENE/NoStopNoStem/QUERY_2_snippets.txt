@@ -1,0 +1,410 @@
+LUCENE_NoStopNoStem
+
+Query
+I am interested in articles written either by Prieve or Udo Pooch
+
+Prieve, B.
+Pooch, U.
+
+Top 100 Results (112 millisecs)
+
+
+DocID: CACM-2434
+
+
+
+DocID: CACM-3078
+
+
+
+DocID: CACM-3129
+
+
+
+DocID: CACM-2786
+
+
+
+DocID: CACM-2863
+
+
+
+DocID: CACM-1977
+
+
+
+DocID: CACM-2534
+
+
+
+DocID: CACM-0497
+
+
+
+DocID: CACM-3202
+
+
+
+DocID: CACM-2177
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-3144
+
+
+
+DocID: CACM-1379
+
+
+
+DocID: CACM-1046
+
+
+
+DocID: CACM-2342
+
+
+
+DocID: CACM-1264
+
+
+
+DocID: CACM-1010
+
+
+
+DocID: CACM-0727
+
+
+
+DocID: CACM-1364
+
+
+
+DocID: CACM-1674
+
+
+
+DocID: CACM-1652
+
+
+
+DocID: CACM-2939
+
+
+
+DocID: CACM-3117
+
+
+
+DocID: CACM-1931
+
+
+
+DocID: CACM-3171
+
+
+
+DocID: CACM-1012
+
+
+
+DocID: CACM-2971
+
+
+
+DocID: CACM-1062
+
+
+
+DocID: CACM-0282
+
+
+
+DocID: CACM-2439
+
+
+
+DocID: CACM-1272
+
+
+
+DocID: CACM-2215
+
+
+
+DocID: CACM-2572
+
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-1553
+
+
+
+DocID: CACM-2980
+
+
+
+DocID: CACM-2905
+
+
+
+DocID: CACM-1861
+
+
+
+DocID: CACM-0531
+
+
+
+DocID: CACM-1705
+
+
+
+DocID: CACM-1877
+
+
+
+DocID: CACM-2047
+
+
+
+DocID: CACM-1593
+
+
+
+DocID: CACM-2194
+
+
+
+DocID: CACM-1975
+
+
+
+DocID: CACM-1519
+
+
+
+DocID: CACM-2451
+
+
+
+DocID: CACM-1867
+
+
+
+DocID: CACM-1154
+
+
+
+DocID: CACM-1924
+
+
+
+DocID: CACM-2852
+
+
+
+DocID: CACM-1741
+
+
+
+DocID: CACM-0335
+
+
+
+DocID: CACM-1651
+
+
+
+DocID: CACM-1764
+
+
+
+DocID: CACM-1486
+
+
+
+DocID: CACM-2233
+
+
+
+DocID: CACM-1542
+
+
+
+DocID: CACM-1315
+
+
+
+DocID: CACM-1588
+
+
+
+DocID: CACM-2519
+
+
+
+DocID: CACM-1334
+
+
+
+DocID: CACM-2924
+
+
+
+DocID: CACM-0242
+
+
+
+DocID: CACM-2250
+
+
+
+DocID: CACM-2900
+
+
+
+DocID: CACM-1397
+
+
+
+DocID: CACM-3059
+
+
+
+DocID: CACM-0670
+
+
+
+DocID: CACM-2423
+
+
+
+DocID: CACM-3072
+
+
+
+DocID: CACM-1886
+
+
+
+DocID: CACM-2304
+
+
+
+DocID: CACM-1623
+
+
+
+DocID: CACM-3201
+
+
+
+DocID: CACM-2421
+
+
+
+DocID: CACM-3110
+
+
+
+DocID: CACM-1464
+
+
+
+DocID: CACM-3033
+
+
+
+DocID: CACM-1846
+
+
+
+DocID: CACM-0397
+
+
+
+DocID: CACM-1638
+
+
+
+DocID: CACM-2039
+
+
+
+DocID: CACM-2354
+
+
+
+DocID: CACM-1930
+
+
+
+DocID: CACM-3199
+
+
+
+DocID: CACM-2981
+
+
+
+DocID: CACM-2356
+
+
+
+DocID: CACM-1527
+
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-2986
+
+
+
+DocID: CACM-1564
+
+
+
+DocID: CACM-1166
+
+
+
+DocID: CACM-3047
+
+
+
+DocID: CACM-2486
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-2916
+
+
+
+DocID: CACM-2684
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-1259
+
+

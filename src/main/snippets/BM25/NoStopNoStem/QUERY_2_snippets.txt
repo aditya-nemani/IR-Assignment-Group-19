@@ -1,0 +1,458 @@
+BM25_NoStopNoStem
+
+Query
+i am invented in armies written easier by prieve or udo pioche
+vr
+ope, b.
+pooch, u.
+
+Top 100 Results (361 millisecs)
+
+
+DocID: CACM-3078
+
+pooch, u.  
+
+
+DocID: CACM-0497
+
+
+
+DocID: CACM-0727
+
+
+
+DocID: CACM-2434
+
+prieve, b. g.  
+
+
+DocID: CACM-1364
+
+
+
+DocID: CACM-1727
+
+s ij , the estimation of p ij  is [easier] because  
+the s ij .  it is [easier] to estimate not s ij  but  
+
+
+DocID: CACM-3202
+
+manipulating character sequences. programs which resulted were [written] in  
+a mathematical expression to be operated upon is [written] in fortran-like  
+
+
+DocID: CACM-1931
+
+
+
+DocID: CACM-3129
+
+
+
+DocID: CACM-0335
+
+
+
+DocID: CACM-2863
+
+prieve, b. g.  
+
+
+DocID: CACM-2039
+
+
+
+DocID: CACM-2657
+
+a modified variable tracing mechanism [invented] by green  
+
+
+DocID: CACM-2250
+
+
+
+DocID: CACM-1012
+
+
+
+DocID: CACM-2233
+
+far without success, attempting tode code them; vast armies  
+is then [written] down as the final code.  while  
+
+
+DocID: CACM-1264
+
+or braille.  even though this system was [written] for  
+
+
+DocID: CACM-2939
+
+be [written] to use and implement abstractions.  the  
+
+
+DocID: CACM-1821
+
+
+
+DocID: CACM-1334
+
+a computer program has been [written] to generate  
+
+
+DocID: CACM-1977
+
+
+
+DocID: CACM-1764
+
+
+
+DocID: CACM-0047
+
+
+
+DocID: CACM-3117
+
+
+
+DocID: CACM-2439
+
+be [written] using standard input and output instructions  
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-2905
+
+
+
+DocID: CACM-3136
+
+
+
+DocID: CACM-2002
+
+and it should be fully integrable with user's program written  
+
+
+DocID: CACM-1062
+
+
+
+DocID: CACM-1519
+
+
+
+DocID: CACM-2177
+
+
+
+DocID: CACM-2857
+
+is [easier] when that link is null.  edge references also  
+
+
+DocID: CACM-3057
+
+
+
+DocID: CACM-1861
+
+written. some conclusions are drawn about future  
+
+
+DocID: CACM-1238
+
+easier to debug, easy to maintain, efficient in production  
+
+
+DocID: CACM-1676
+
+written in a high level language, which minimizes machine  
+
+
+DocID: CACM-0204
+
+
+
+DocID: CACM-2882
+
+evaluation, [invented] list, threaded list, cellular  
+
+
+DocID: CACM-1486
+
+rules are given for transforming programs written  
+
+
+DocID: CACM-1634
+
+
+
+DocID: CACM-0002
+
+
+
+DocID: CACM-0626
+
+
+
+DocID: CACM-1464
+
+using the chain feature of ibsys, links [written] in  
+
+
+DocID: CACM-0847
+
+written for the csx-1 is described.  
+
+
+DocID: CACM-0210
+
+
+
+DocID: CACM-2352
+
+
+
+DocID: CACM-1523
+
+majority of the code being [written] in fortran.  
+
+
+DocID: CACM-2304
+
+
+
+DocID: CACM-1117
+
+should be considered whenever a sort is written  
+
+
+DocID: CACM-1705
+
+written as a derived procedure; it outputs using  
+and rounds properly.  variants can easily be written  
+
+
+DocID: CACM-1214
+
+on the ibm 7094 computer has been written  
+
+
+DocID: CACM-3180
+
+
+
+DocID: CACM-2367
+
+it [easier] to initiate courses on this subject.  
+
+
+DocID: CACM-1606
+
+
+
+DocID: CACM-2100
+
+
+
+DocID: CACM-0597
+
+modular data processing systems [written] in cobol  
+
+
+DocID: CACM-1391
+
+a medium-scale programming system is written  
+
+
+DocID: CACM-2845
+
+
+
+DocID: CACM-2713
+
+
+
+DocID: CACM-1930
+
+
+
+DocID: CACM-2143
+
+
+
+DocID: CACM-1625
+
+automatically to programs [written] in an algol-like  
+a program [written] in jovial and outputs an equivalent  
+
+
+DocID: CACM-1197
+
+
+
+DocID: CACM-0276
+
+
+
+DocID: CACM-3047
+
+
+
+DocID: CACM-1258
+
+
+
+DocID: CACM-3028
+
+
+
+DocID: CACM-2473
+
+
+
+DocID: CACM-2392
+
+
+
+DocID: CACM-0282
+
+critically on the number of times the tape being written  
+
+
+DocID: CACM-1215
+
+an algol compiler has been [written] by the  
+
+
+DocID: CACM-2125
+
+
+
+DocID: CACM-1305
+
+program [written] in the fortran cep language into  
+an object program [written] in the language of the cep  
+
+
+DocID: CACM-2519
+
+is described.  these include ways of augmenting written  
+
+
+DocID: CACM-2986
+
+
+
+DocID: CACM-1881
+
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-1469
+
+parts.  one is the choice of [written] appearances  
+
+
+DocID: CACM-3201
+
+set of formal subroutines [written] partially in the ibm 7094 machine language,  
+
+
+DocID: CACM-1272
+
+
+
+DocID: CACM-2786
+
+
+
+DocID: CACM-1145
+
+along fruitless lines.  git has been written  
+
+
+DocID: CACM-2219
+
+
+
+DocID: CACM-1307
+
+
+
+DocID: CACM-1564
+
+was [written] in a modular form in required cobol-61.  
+
+
+DocID: CACM-1010
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-3188
+
+
+
+DocID: CACM-1183
+
+a special purpose compiler was [written] with  
+
+
+DocID: CACM-2812
+
+was [written] in ads  accurately defined systems   
+
+
+DocID: CACM-3127
+
+programs which use it are [written] in a high-level language.  
+
+
+DocID: CACM-0408
+
+
+
+DocID: CACM-0942
+
+written to perform these.  the main purpose of this  
+
+
+DocID: CACM-1427
+
+written  for a pdp-1 computer with auxiliary disk  
+
+
+DocID: CACM-1943
+
+
+
+DocID: CACM-0058
+
+
+
+DocID: CACM-1671
+
+the system is [written] in bbn lisp on the scientific  
+
+
+DocID: CACM-1470
+
+
+
+DocID: CACM-0246
+
+

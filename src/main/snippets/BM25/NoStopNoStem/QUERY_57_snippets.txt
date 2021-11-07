@@ -1,0 +1,570 @@
+BM25_NoStopNoStem
+
+Query
+abstracts of articles:
+    j. buakcs, "can performing be liberated from the von neumann style?
+               a fenichel style and its alberga of poamrgrs", cacm 21
+    role mllio, r. loiptn, a. pilers, loeser to acm fuorm, cacm 22
+	       (1979), 629-630
+
+buakcs, joyce mllio, r.
+loiptn, r.
+pilers, a.
+
+Top 100 Results (1298 millisecs)
+
+
+DocID: CACM-3077
+
+style?  a functional [style] and its algebra  
+can programming be [liberated] from the [von] neumann  
+von [neumann] computers, [von] [neumann] languages, models of  
+
+
+DocID: CACM-1705
+
+decompose real, [style] berkeley [style] procedures relationship,  
+cacm august, 1968  
+ca680809 jb february [22] 1978  10:32 am  
+
+
+DocID: CACM-2705
+
+cacm december, 1975  
+related to program [style]  
+artificial auxiliary languages, literature, [style]  
+
+
+DocID: CACM-2922
+
+cacm october, 1977  
+proper attitude and programming [style] for language allowing  
+according to the proposed programming [style] a generative  
+
+
+DocID: CACM-2679
+
+loeser, r.  
+cacm march, 1974  
+for six [acm] algorithms: quicksort  no. 64 ,  
+
+
+DocID: CACM-1931
+
+cacm february, 1969  
+
+
+DocID: CACM-1890
+
+
+
+DocID: CACM-3008
+
+cacm march, 1978  
+
+
+DocID: CACM-3130
+
+cacm march, 1979  
+ca790301 dh april 12, [1979]  11:02 am  
+for computing machinery  [acm] .   the core curriculum common to all  
+
+
+DocID: CACM-3140
+
+cacm may, 1979  
+ca790501 dh june 5, [1979]  2:23 pm  
+same key [role] in the development of computer science and software  
+
+
+DocID: CACM-2541
+
+cacm february, 1973  
+performing the scheduling decisions .  
+
+
+DocID: CACM-2610
+
+cacm august, 1974  
+
+
+DocID: CACM-2092
+
+cacm march, 1970  
+
+
+DocID: CACM-1691
+
+cacm september, 1968  
+ca680910 jb february [21] 1978  4:44 pm  
+
+
+DocID: CACM-1733
+
+fenichel, r. r.  
+cacm june, 1968  
+ca680612 jb february [22] 1978  3:58 pm  
+
+
+DocID: CACM-2201
+
+cacm april, 1971  
+
+
+DocID: CACM-2156
+
+fenichel, r. r.  
+cacm september, 1971  
+
+
+DocID: CACM-2215
+
+cacm february, 1971  
+
+
+DocID: CACM-3076
+
+cacm august, 1978  
+ca780802 dh february 7, [1979]  2:25 pm  
+
+
+DocID: CACM-2097
+
+fenichel, r. r.  
+cacm march, 1970  
+
+
+DocID: CACM-2850
+
+cacm july, 1976  
+in a simple pl/i [style] programming language.  
+
+
+DocID: CACM-1365
+
+cacm october, 1966  
+performing mathematical analysis.  it is an extension  
+
+
+DocID: CACM-1278
+
+cacm april, 1965  
+of the [acm] r. wengert suggested a technique for  
+
+
+DocID: CACM-3152
+
+cacm july, 1979  
+ca790703 dh august [22] [1979]  2:29 pm  
+
+
+DocID: CACM-2534
+
+cacm march, 1973  
+
+
+DocID: CACM-2298
+
+cacm august, 1972  
+
+
+DocID: CACM-2849
+
+cacm july, 1976  
+
+
+DocID: CACM-2971
+
+cacm may, 1977  
+
+
+DocID: CACM-3154
+
+cacm july, 1979  
+ca790705 dh september 24, [1979]  5:08 pm  
+
+
+DocID: CACM-1722
+
+cacm july, 1968  
+ca680707 jb february [22] 1978  11:58 am  
+
+
+DocID: CACM-3101
+
+cacm may, 1978  
+ca780506 dh february 26, [1979]  1:36 pm  
+
+
+DocID: CACM-2470
+
+cacm august, 1973  
+a formal system is presented which abstracts  
+
+
+DocID: CACM-1194
+
+cacm october, 1965  
+as guides in mechanizing the [acm] repository.  
+establishment of the [acm] repository and principles  
+
+
+DocID: CACM-1170
+
+cacm november, 1965  
+
+
+DocID: CACM-2593
+
+cacm october, 1974  
+
+
+DocID: CACM-1856
+
+cacm august,1969  
+
+
+DocID: CACM-2020
+
+cacm august, 1970  
+
+
+DocID: CACM-1155
+
+cacm december, 1965  
+
+
+DocID: CACM-3149
+
+cacm june, 1979  
+ca790605 dh august [22] [1979]  1:36 pm  
+
+
+DocID: CACM-2300
+
+cacm august, 1972  
+
+
+DocID: CACM-0796
+
+cacm august, 1963  
+
+
+DocID: CACM-2905
+
+cacm november, 1977  
+
+
+DocID: CACM-2400
+
+cacm january, 1972  
+
+
+DocID: CACM-1826
+
+fenichel, r. r.  
+cacm november, 1969  
+
+
+DocID: CACM-2851
+
+cacm july, 1976  
+
+
+DocID: CACM-3024
+
+cacm january, 1978  
+
+
+DocID: CACM-3116
+
+cacm january, 1979  
+ca790101 dh april 10, [1979]  10:50 am  
+
+
+DocID: CACM-2657
+
+cacm april, 1974  
+
+
+DocID: CACM-2902
+
+cacm november, 1977  
+
+
+DocID: CACM-2197
+
+cacm may, 1971  
+were found to play a key [role] in the effectiveness  
+
+
+DocID: CACM-3128
+
+cacm february, 1979  
+ca790207 dh april 12, [1979]  10:03 am  
+
+
+DocID: CACM-2344
+
+cacm june, 1972  
+
+
+DocID: CACM-3052
+
+cacm october, 1978  
+ca781009 dh january 29, [1979]  5:16 pm  
+
+
+DocID: CACM-3097
+
+cacm may,1978  
+ca780510 dh february 26, [1979]  1:05 pm  
+
+
+DocID: CACM-1741
+
+cacm june, 1968  
+ca680604 jb february [22] 1978  4:35 pm  
+
+
+DocID: CACM-2947
+
+cacm july, 1977  
+
+
+DocID: CACM-3038
+
+ca781201 dh january [22] [1979]  11:18 am  
+cacm december, 1978  
+
+
+DocID: CACM-3032
+
+cacm december, 1978  
+ca781207 dh  january 18, [1979]  3:10 pm  
+
+
+DocID: CACM-3021
+
+cacm february, 1978  
+
+
+DocID: CACM-1835
+
+cacm october, 1969  
+
+
+DocID: CACM-3138
+
+cacm april, 1979  
+ca790404 dh may [21] [1979]  2:06 pm  
+
+
+DocID: CACM-1766
+
+cacm april, 1968  
+
+
+DocID: CACM-3178
+
+cacm december, 1979  
+ca791201 db february [21] 1980  5:02 pm  
+
+
+DocID: CACM-1046
+
+cacm july, 1964  
+in a number of [articles] published during the  
+
+
+DocID: CACM-2542
+
+cacm february, 1973  
+
+
+DocID: CACM-2217
+
+cacm february, 1971  
+
+
+DocID: CACM-3099
+
+cacm may, 1978  
+ca780508 dh february 26, [1979]  1:19 pm  
+
+
+DocID: CACM-1636
+
+cacm february, 1967  
+
+
+DocID: CACM-3142
+
+cacm may, 1979  
+ca790503 dh june 5, [1979]  3[21] pm  
+organizations and their public.  also the [role] of poor man  
+
+
+DocID: CACM-1668
+
+cacm november, 1968  
+ca681111 jb february [21] 1978  2:26 pm  
+
+
+DocID: CACM-3072
+
+cacm august, 1978  
+ca780806 dh february 5, [1979]  4:01 pm  
+
+
+DocID: CACM-1605
+
+cacm may, 1967  
+
+
+DocID: CACM-2358
+
+cacm may, 1972  
+
+
+DocID: CACM-1946
+
+cacm january, 1969  
+
+
+DocID: CACM-1669
+
+cacm november, 1968  
+ca681110 jb february [21] 1978  2:29 pm  
+
+
+DocID: CACM-1923
+
+cacm march, 1969  
+
+
+DocID: CACM-2921
+
+cacm october, 1977  
+
+
+DocID: CACM-1717
+
+cacm july, 1968  
+ca680712 jb february [22] 1978  11:30 am  
+
+
+DocID: CACM-2106
+
+cacm february, 1970  
+
+
+DocID: CACM-3197
+
+cacm june, 1966  
+in line with the [acm]s policy statement [comm. [acm] 5  nov. 1962 , 547-549],  
+
+
+DocID: CACM-2421
+
+cacm november, 1973  
+
+
+DocID: CACM-2233
+
+cacm january, 1971  
+
+
+DocID: CACM-2479
+
+cacm july, 1973  
+an addendum to the report of the [acm] curriculum  
+
+
+DocID: CACM-1962
+
+cacm december, 1970  
+
+
+DocID: CACM-2127
+
+cacm january, 1970  
+
+
+DocID: CACM-1844
+
+cacm october, 1969  
+
+
+DocID: CACM-2396
+
+cacm january, 1972  
+
+
+DocID: CACM-1280
+
+cacm april, 1965  
+
+
+DocID: CACM-1350
+
+cacm november, 1966  
+a technique for [performing] the sd gs,x  to sd g,x   
+
+
+DocID: CACM-2674
+
+cacm march, 1974  
+
+
+DocID: CACM-0616
+
+cacm april, 1962  
+
+
+DocID: CACM-2096
+
+cacm march, 1970  
+
+
+DocID: CACM-3056
+
+cacm october, 1978  
+ca781005 dh january 29, [1979]  5:52 pm  
+
+
+DocID: CACM-3078
+
+cacm july, 1978  
+ca780710 dh february 7, [1979] 3:37 pm  
+
+
+DocID: CACM-2931
+
+cacm september, 1977  
+
+
+DocID: CACM-2963
+
+cacm may, 1977  
+
+
+DocID: CACM-2499
+
+cacm june, 1973  
+
+
+DocID: CACM-2901
+
+cacm november, 1977  
+
+
+DocID: CACM-0670
+
+cacm december, 1963  
+
+
+DocID: CACM-2887
+
+cacm january, 1976  
+

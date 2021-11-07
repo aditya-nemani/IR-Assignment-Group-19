@@ -1,0 +1,625 @@
+BM25_NoStopNoStem
+
+Query
+probabilistic algorithms especially those dealing with algebraic asymptotic mtnipaluaion.  some examples:
+rabiin, "probabilistic algorithm on finite field", si
+tcmazwah, "probabilistic testing of polynomial idetnities", siam
+
+rabin,m.
+
+Top 100 Results (296 millisecs)
+
+
+DocID: CACM-1474
+
+probabilistic models for roundoff error, and then to  
+describe a series of experiments for [testing] the  
+tests of [probabilistic] models for propagation of roundoff errors  
+
+
+DocID: CACM-2836
+
+involving [probabilistic] parsing or combinatorial  
+derivation tree, parse tree, [probabilistic] grammar,  
+in addition, the correctness of the algorithm  
+
+
+DocID: CACM-2932
+
+in tractable problems, [probabilistic] algorithms  
+complexity of computations, [algebraic] complexity,  
+and methods.  illustrative [examples] of practical  
+
+
+DocID: CACM-3175
+
+probabilistic classification, relaxation  
+breaking substitution ciphers using a relaxation algorithm  
+ciphers is represented as a [probabilistic] labeling problem.  
+
+
+DocID: CACM-2681
+
+probabilistic model, central processor productivity,  
+a [probabilistic] model of a multiprogramming system  
+
+
+DocID: CACM-1935
+
+probabilistic method, random sequencing, search techniques, tree structures  
+
+
+DocID: CACM-2560
+
+a [probabilistic] model of a multiprogrammed computer  
+
+
+DocID: CACM-2516
+
+a [probabilistic] analysis is employed to determine  
+
+
+DocID: CACM-2580
+
+computer composition, music theory, formal languages, [probabilistic] grammars  
+
+
+DocID: CACM-2437
+
+in accordance with the [algorithm] and the  
+key space according to a certain [probabilistic] selection  
+algorithm.  all files with the same number of  
+
+
+DocID: CACM-2090
+
+algebraic multiplication, distribution [algorithm]  
+algorithm, [polynomial] distribution, [polynomial] expansion  
+symbolic expansion of [algebraic] expressions  [algorithm] 377 $r2    
+
+
+DocID: CACM-2165
+
+relativity, [algebraic] manipulation, equation  
+algebraic difficulties encountered in this work.  
+including the derivation of the [field] equations, the  
+
+
+DocID: CACM-2414
+
+arithmetic overa [finite] [field] [a1]  [algorithm] a469   
+
+
+DocID: CACM-2450
+
+in the literature [dealing] with resource allocation, there  
+the design of scheduling and paging [algorithms]  although  
+in the hope that workers in the [field] might find experimental  
+
+
+DocID: CACM-1386
+
+factoring of any [polynomial] may be found in a [finite] number  
+algorithm and several [examples] are discussed.  
+a multi-variate [polynomial] with integer coefficients  
+
+
+DocID: CACM-2166
+
+of automated [algebraic] manipulation which  
+automated [algebraic] manipulation in celestial mechanics  
+algorithm required in celestial mechanics, a typical  
+
+
+DocID: CACM-1893
+
+root finders, roots of [polynomial] equations, polynomial  
+testing of roots, acceptance criteria  
+and resultant routine  [algorithm] 340 [c2]   
+
+
+DocID: CACM-1667
+
+root finders, roots of [polynomial] equations, polynomial  
+testing of roots, acceptance criteria  
+and resultant routine  [algorithm] 340 [c2]   
+
+
+DocID: CACM-2167
+
+algebraic manipulation, [algebraic] simplification,  
+capabilities in an [algebraic] manipulation  
+algebraic simplification is examined first from  
+
+
+DocID: CACM-2266
+
+of a [polynomial] with only real zeros.  the [algorithm] which  
+parallel numerical [algorithms] real polynomials,  
+a highly parallel [algorithm] for approximating  
+
+
+DocID: CACM-2704
+
+features for [dealing] with exceptions in an orderly  
+
+
+DocID: CACM-1619
+
+by some [algorithms] used to compute various  
+
+
+DocID: CACM-1696
+
+an [algorithm] for identifying the ergodic subchains  
+codes are reviewed, and an updating procedure for dealing  
+
+
+DocID: CACM-1524
+
+polynomial.  
+criterion has been tested on numerous examples  
+a stopping criterion for [polynomial] root finding  
+
+
+DocID: CACM-2323
+
+algebraic manipulation, special functions, algebraic  
+for the [field] of [algebraic] manipulation is given.  
+simplification, symbolic integration, algebraic  
+
+
+DocID: CACM-2956
+
+over the elements of any [finite] set  instead of the  
+
+
+DocID: CACM-1862
+
+over-come.  universities, [especially] those with  
+
+
+DocID: CACM-2767
+
+immediate replacement for the algorithm  
+list [algorithm] simulation executive, event scheduling  
+scheduling distributions [especially] chosen to show  
+
+
+DocID: CACM-2567
+
+in nature but to be [especially] efficient when dealing  
+
+
+DocID: CACM-0111
+
+on programming the numerical solution of [polynomial] equations  
+numerical [examples] are shown to illustrate the pitfalls  
+the roots of [polynomial] equations.  by applying  
+
+
+DocID: CACM-2283
+
+thinning [algorithms] rectangular, hexagonal,  
+and the relative performances of the algorithms  
+in this report three thinning [algorithms] are  
+
+
+DocID: CACM-3071
+
+contains [examples] illustrating the use of the [algorithm]  
+symbolic calculation of certain [algebraic] invariants  
+an [algorithm] using symbolic techniques for the  
+
+
+DocID: CACM-1214
+
+some experiments in [algebraic] manipulation by computer  
+a set of subroutines to allow [algebraic] manipulations  
+
+
+DocID: CACM-1806
+
+complex equation, [algebraic] complex equation  
+365.  some numerical [examples] are included.  
+based on the modified method is given in algorithm  
+
+
+DocID: CACM-0200
+
+bessel function i, [asymptotic] expansion  [algorithm] 6   
+
+
+DocID: CACM-0719
+
+character addressable, variable [field] computers  
+the basis of compiler decoding [algorithms] the proper  
+push variable [field] items down into such stacks  
+
+
+DocID: CACM-1397
+
+the acm symposium on symbolic and algebraic  
+for manipulation of [algebraic] formulas and symbol  
+and [algebraic] manipulation.  the program committee consisted  
+
+
+DocID: CACM-1986
+
+student's t-statistic, quantile, [asymptotic] approximation  
+student's t-quantiles $s14   [algorithm] 396   
+
+
+DocID: CACM-1391
+
+computer experiments in [finite] algebra  
+of the objects of modern algebra: [finite] groups, maps  
+
+
+DocID: CACM-1987
+
+approximation, [asymptotic] expansion  
+student's t-distribution $s14   [algorithm] 395   
+
+
+DocID: CACM-1154
+
+than [finite] automata and less powerful than general  
+of memory available in the same manner.  examples  
+digital computers as either the [finite] automata or the  
+
+
+DocID: CACM-1049
+
+this paper gives [examples] and discusses the [finite] difference  
+boundary problems by [finite] difference methods  
+these fail, the more difficult method of [finite] differences  
+
+
+DocID: CACM-1946
+
+resultant [algorithm] g.c.d. [algorithm] polynomial  
+algorithm, multivariate [polynomial] equations  
+computing [polynomial] resultants: bezout's determinant  
+
+
+DocID: CACM-1628
+
+toward a distinct professional [field] but that the  
+
+
+DocID: CACM-2410
+
+for summing any [finite] series whose terms satisfy  
+converting a [polynomial] pn x  into a chebyshev  
+
+
+DocID: CACM-2094
+
+on an [algorithm] for nonlinear minimax approximation  
+algorithm can give satisfactory results and, in particular, can  
+d by properties which permit the application of special [algorithms]  
+
+
+DocID: CACM-2273
+
+tested  [algorithm] 2 .  the new [algorithms] combine to a  
+two [algorithms] for generating computer programs  
+from decision tables are described.  the algorithms  
+
+
+DocID: CACM-3189
+
+an [algebraic] compiler for the fortran assembly program  
+assembly program. this compiler will expand all [algebraic] statements with the  
+an [algebraic] compiler has been written which may be added to the fortran  
+
+
+DocID: CACM-2645
+
+analysis of algorithms  
+procedures for [algebraic] manipulation which can be  
+by the first processor.  [examples] of the usage  
+
+
+DocID: CACM-2325
+
+of computation, [algorithms] continuous algorithms  
+ [finite] precision number systems, computational  
+complexity , synthesis and analysis of [algorithms]  
+
+
+DocID: CACM-0591
+
+evaluation of [asymptotic] expression for the  
+fresnel sine and cosine integrals  [algorithm] 88   
+
+
+DocID: CACM-1999
+
+approximants is considered, and some optimal [polynomial] initial  
+
+
+DocID: CACM-3131
+
+algorithms [especially] useful for microcomputer control and other  
+speed with hardware arithmetic for many applications.  algorithms  
+
+
+DocID: CACM-2268
+
+ both [polynomial] and rational .  the testing  
+
+
+DocID: CACM-2402
+
+autocorrelation or patterson function, especially  
+digital computers encourages the development of algorithms  
+pattern recognition [algorithms] is hindered by the fact  
+
+
+DocID: CACM-3006
+
+fault frequency, paging algorithms  
+anomaly potential, and reference string examples  
+algorithms, virtual memory, working set, page  
+
+
+DocID: CACM-0319
+
+to the "euler [polynomial] and shows how a number of known  
+
+
+DocID: CACM-1393
+
+algorithm for [polynomial] greatest common divisor  
+pm, a system for [polynomial] manipulation  
+
+
+DocID: CACM-2467
+
+chi-square, [asymptotic] approximation, normal  
+chi-square quantiles [g1]  [algorithm] a451   
+
+
+DocID: CACM-2997
+
+computational complexity, convex hull, optimal [algorithms]  
+proposed [algorithms] is optimal within a multiplicative  
+since any convex hull [algorithm] requires at  
+
+
+DocID: CACM-1433
+
+to design more efficient [algorithms]  this paper is  
+function of the number of repetitions is found.  asymptotic  
+a note on linear programming [algorithm] design: a combinatorial problem  
+
+
+DocID: CACM-1396
+
+the [field] of formula manipulation is surveyed,  
+
+
+DocID: CACM-3203
+
+grad assistant - a program for symbolic [algebraic] manipulation and  
+abd differentiate [algebraic] expressions. it is designed for use with problemms  
+
+
+DocID: CACM-2532
+
+on harrison's substring [testing] technique  
+
+
+DocID: CACM-0393
+
+two subroutines for symbol manipulation with an [algebraic] compiler  
+
+
+DocID: CACM-1197
+
+finding zeros of a [polynomial] by the q-d algorithm  
+of a [polynomial] developed by h. rutishauser,  
+quotient-difference  q-d  [algorithm]  provides starting  
+
+
+DocID: CACM-3031
+
+the use of [algebraic] axiomatizations can simplify  
+allows for limited [testing] of programs at design  
+using [algebraic] axioms.  the virtue of these  
+
+
+DocID: CACM-0717
+
+partitioning [algorithms] for [finite] sets  
+algorithm are described which generate without repetitions  
+
+
+DocID: CACM-2454
+
+computational [algorithms] for closed queueing  
+the computational [algorithms] are based on two-dimensional  
+
+
+DocID: CACM-2224
+
+asymptotic series, recursion formula, reflection  
+complex gamma function [s14]  [algorithm] 404   
+
+
+DocID: CACM-1020
+
+free [field] read  [algorithm] 239 [i5]   
+
+
+DocID: CACM-1392
+
+of mathematical expression manipulation algorithms  
+experience with formac [algorithm] design  
+formac expand and differentiation [algorithms] a  
+
+
+DocID: CACM-3132
+
+experiments with some [algorithms] that find  
+linearly separable, relaxation [algorithm] accelerated relaxation  
+technique to have an [algorithm] finding hyperplanes  
+
+
+DocID: CACM-1612
+
+of the top-to-bottom parsing [algorithm] as used in  
+essential weakness of the method is in [dealing] with complicated  
+
+
+DocID: CACM-1846
+
+rules.  following this, the problem of [dealing] with simultaneous  
+
+
+DocID: CACM-1941
+
+field, j. b. f.  
+f-distribution  [algorithm] 322 [s14]   
+
+
+DocID: CACM-2240
+
+pseudo-random numbers [g5]  [algorithm] c266   
+pseudo-random numbers, [testing] random number generators  
+
+
+DocID: CACM-2135
+
+approximating f.  [algorithms] are developed  
+is made to approximate l  f  with l  q  where q is a [polynomial]  
+
+
+DocID: CACM-1644
+
+polynomial is described.  
+of a least squares [polynomial] makes the  
+computed [polynomial] only an approximation to the true least  
+
+
+DocID: CACM-2693
+
+derivative, [polynomial] smooth surface fitting  
+based on local procedures [e2]  algorithm  
+
+
+DocID: CACM-1589
+
+dialog is an [algebraic] language for online  
+
+
+DocID: CACM-2487
+
+approximation is shown to be simply related to a finite  
+
+
+DocID: CACM-0371
+
+remarks on [algorithms] 2 and 3, [algorithm] 15 and [algorithms] 25 and 26  
+
+
+DocID: CACM-1122
+
+a note on some compiling algorithms  
+
+
+DocID: CACM-2958
+
+involved in constructing [algebraic] specifications  
+the application of an [algebraic] technique  
+the [examples] presented is a top-down development  
+
+
+DocID: CACM-2679
+
+402 .  [algorithms] 271 and 402 are refinements of algorithm  
+algorithm, general-purpose sort [algorithm] sorting  
+algorithm documentation  
+
+
+DocID: CACM-2946
+
+streams sharing a [finite] buffer pool.  
+two [examples] are presented: the readers and  
+
+
+DocID: CACM-0842
+
+a posteriori bounds on a zero of a [polynomial]  [algorithm] 174   
+
+
+DocID: CACM-1763
+
+roots of low-order [polynomial] equations  [algorithm] 326 [c2]   
+equation roots, [polynomial] zeros  
+root finders, [polynomial] equation roots, quadratic  
+
+
+DocID: CACM-1253
+
+simscript and programmed entirely in an algebraic  
+to the reader familiar with [algebraic] languages.  
+
+
+DocID: CACM-2415
+
+over a [finite] interval [d1]  [algorithm] a468   
+algorithm for automatic numerical integration  
+
+
+DocID: CACM-2644
+
+a language [especially] oriented toward automated  
+
+
+DocID: CACM-2217
+
+for linear [polynomial] functions in terms of the features.  
+
+
+DocID: CACM-1595
+
+leading to an [algorithm] for enumerating [finite] topologies,  
+on the computer enumeration of [finite] topologies  
+which can be formed from a [finite] point  
+
+
+DocID: CACM-0055
+
+an [algebraic] translator  
+
+
+DocID: CACM-0340
+
+legendre [polynomial]  [algorithm] 13   
+
+
+DocID: CACM-0341
+
+chebyschev [polynomial]  [algorithm] 10   
+
+
+DocID: CACM-2187
+
+characteristics of the [field] and its relationships to  
+which is guided by the structure of the [field]  
+the inner structure of the [field]  this structure is presented  
+
+
+DocID: CACM-2809
+
+s. householder, the character and use of algebraic  
+
+
+DocID: CACM-2147
+
+goals, [testing] laboratory, educational technology  
+programs, and a national [testing] laboratory  
+

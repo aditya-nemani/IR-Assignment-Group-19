@@ -1,0 +1,470 @@
+TFIDF_NoStopNoStem
+
+Query
+hardware and scidmore retaining to debate mcdermott systems.
+debate packages, back end cpeuomtrs, societal anticipate hardware
+with microcomputers adapted to disk heads or twins like rap, 
+lertoanail or network (codasyl) or hierarchical models, system-the system r, ims, adabas, total, etc.
+
+Top 100 Results (359 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+
+
+DocID: CACM-0994
+
+
+
+DocID: CACM-0995
+
+
+
+DocID: CACM-0996
+
+
+
+DocID: CACM-0990
+
+
+
+DocID: CACM-0991
+
+
+
+DocID: CACM-0992
+
+
+
+DocID: CACM-2703
+
+
+
+DocID: CACM-2702
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-2704
+
+
+
+DocID: CACM-2701
+
+
+
+DocID: CACM-2700
+
+system can often be greatly simplified.  
+
+
+DocID: CACM-2707
+
+
+
+DocID: CACM-2706
+
+
+
+DocID: CACM-2709
+
+
+
+DocID: CACM-2708
+
+
+
+DocID: CACM-0975
+
+
+
+DocID: CACM-0976
+
+
+
+DocID: CACM-0977
+
+
+
+DocID: CACM-0978
+
+
+
+DocID: CACM-0971
+
+the toronto traffic signal control [system] consists  
+the real-time [system]  in this paper the more interesting  
+
+
+DocID: CACM-0972
+
+system components. the major emphasis of the  
+an executive [system] implemented as a finite-state automaton  
+the 473l command and control [system] used by  
+
+
+DocID: CACM-0973
+
+
+
+DocID: CACM-0974
+
+
+
+DocID: CACM-0970
+
+
+
+DocID: CACM-0979
+
+
+
+DocID: CACM-0986
+
+
+
+DocID: CACM-0987
+
+processing [systems]   
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+
+
+DocID: CACM-0983
+
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+described in this paper is a [system] of general-purpose  
+
+
+DocID: CACM-0981
+
+
+
+DocID: CACM-1405
+
+
+
+DocID: CACM-2736
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-2735
+
+programmers, [systems] analysis, keypunch operators,  
+
+
+DocID: CACM-1407
+
+
+
+DocID: CACM-2738
+
+hierarchical [systems] bottom up design, levels  
+design of hierarchically structured systems  
+structured programming [systems]  it develops  
+
+
+DocID: CACM-1406
+
+
+
+DocID: CACM-2737
+
+
+
+DocID: CACM-1401
+
+several eigenvalue problems for [systems] of  
+
+
+DocID: CACM-2732
+
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2731
+
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2734
+
+allocating toward one [end] of memory, encourages large blocks  
+to grow at the other [end]  sufficient contiguous  
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-2733
+
+translator writing [systems] syntax analysis,  
+
+
+DocID: CACM-2730
+
+interactive programming, time-sharing [systems] natural  
+interactive programming [systems] often contain  
+it into a natural language [system] consultant.  
+
+
+DocID: CACM-1409
+
+basic research in computer [systems] design.  an  
+arithmetic and control registers throughout.  all hardware  
+machine;and  3  to have easily modifiable [hardware] for  
+
+
+DocID: CACM-1408
+
+engineering or [hardware] improvements.  in  
+enable a [system] to perform a job by employing fewer or  
+
+
+DocID: CACM-2739
+
+over the past few years, a number of systems  
+
+
+DocID: CACM-1416
+
+
+
+DocID: CACM-2747
+
+fibonacci buddy [system] dynamic storage allocation, buddy system  
+buddy [system] which requires neither tables  
+a simplified recombination scheme for the fibonacci buddy system  
+
+
+DocID: CACM-1415
+
+value in man-machine [systems] using human monitors  
+message retrieval [systems] they may have practical  
+
+
+DocID: CACM-2746
+
+
+
+DocID: CACM-1418
+
+
+
+DocID: CACM-2749
+
+in the simulation of some [systems] when computational  
+as examples two automobile traffic [models]  the  
+than the clock pulse method at low levels of system  
+
+
+DocID: CACM-1417
+
+cost functions among five [system]360 models  
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+system.  the banking information [system] now serves the  
+the banking information [system] concept  
+generally, this [system] must interface with other computer  
+
+
+DocID: CACM-2743
+
+modeling, computing [models] binary comparisons  
+
+
+DocID: CACM-1411
+
+
+
+DocID: CACM-2742
+
+simulation [models] of large, complex "real-world"  
+there [models] are presented, all of which improve in effectiveness  
+
+
+DocID: CACM-1414
+
+
+
+DocID: CACM-2745
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-1410
+
+interarrival statistics for time sharing systems  
+the optimization of time-shared [system] performance  
+time-sharing [system]  tss .  the input process  
+
+
+DocID: CACM-2741
+
+saturation in multiprogramming systems  
+system levels, hierarchy,networks of queues  
+critical computing loads which bring the system  
+
+
+DocID: CACM-2740
+
+multiprogramming [system]  
+operating [system] structure, asynchronous  
+cooperating processes, operating [system] semaphores,  
+
+
+DocID: CACM-1419
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-2713
+
+
+
+DocID: CACM-2716
+
+
+
+DocID: CACM-2715
+
+memory [system] and the sequel language have  
+
+
+DocID: CACM-2710
+
+
+
+DocID: CACM-2712
+
+grows combinatorially with the size of the network  
+
+
+DocID: CACM-2711
+
+the value of an indexing [system] may be expressible  
+
+
+DocID: CACM-2718
+
+network model of databases, data base task group, database  
+a structure which [models] the business" in some other  
+a preliminary [system] for the design of dbtg data structures  
+
+
+DocID: CACM-2717
+
+
+
+DocID: CACM-2719
+
+of such analysis, and describes a [system]  
+
+
+DocID: CACM-2725
+
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+
+
+DocID: CACM-2726
+
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-2720
+
+disk drive hierarchies, [system] evaluation, input/output,  
+set of [disk] [models] is then minimized under varying  
+uniform distributions. [total] response time of the  
+
+
+DocID: CACM-2723
+
+
+
+DocID: CACM-2722
+
+attribute, information retrieval [system] nearest  
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-2728
+
+

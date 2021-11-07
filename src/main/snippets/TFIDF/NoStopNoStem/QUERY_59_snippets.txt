@@ -1,0 +1,464 @@
+TFIDF_NoStopNoStem
+
+Query
+dictionary construction and accessing methods for fast re
+itovalref words or lexical items or mathematically raised information-processing or inducing methods are usually applied to english spelling original language problems.
+
+Top 100 Results (359 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+
+
+DocID: CACM-0994
+
+
+
+DocID: CACM-0995
+
+
+
+DocID: CACM-0996
+
+
+
+DocID: CACM-0990
+
+language statements which imply relations  
+
+
+DocID: CACM-0991
+
+
+
+DocID: CACM-0992
+
+
+
+DocID: CACM-2703
+
+for including the semantics of a context-free language  
+with the syntax of the [language]  the circularity  
+
+
+DocID: CACM-2702
+
+parsing, lr k  grammars, np-complete problems  
+
+
+DocID: CACM-2705
+
+mathematics, [language] quality, [language] development,  
+flexion less, word-order based [language] types  
+pure and [applied] mathematics is found similarly  
+
+
+DocID: CACM-2704
+
+the requirements exception handling language  
+features must satisfy, and proposes some new language  
+and reliable way.  the proposed [language] features serve  
+
+
+DocID: CACM-2701
+
+a [fast] and usually linear algorithm for global  
+improvement [problems] which can be solved using the algorithm.  
+
+
+DocID: CACM-2700
+
+
+
+DocID: CACM-2707
+
+tiling [problems] squaring the square  
+problems, the computation of new terms in a well-known  
+
+
+DocID: CACM-2706
+
+
+
+DocID: CACM-2709
+
+goto statements, [language] design, pascal  
+
+
+DocID: CACM-2708
+
+
+
+DocID: CACM-0975
+
+
+
+DocID: CACM-0976
+
+
+
+DocID: CACM-0977
+
+
+
+DocID: CACM-0978
+
+
+
+DocID: CACM-0971
+
+
+
+DocID: CACM-0972
+
+
+
+DocID: CACM-0973
+
+
+
+DocID: CACM-0974
+
+
+
+DocID: CACM-0970
+
+
+
+DocID: CACM-0979
+
+
+
+DocID: CACM-0986
+
+
+
+DocID: CACM-0987
+
+fortran vs. basic fortran  a programming language  
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+an inductive approach to [language] translation  
+the possibility of natural [language] translation  
+
+
+DocID: CACM-0983
+
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+
+
+DocID: CACM-0981
+
+rounding [problems] in commercial data processing  
+
+
+DocID: CACM-1405
+
+
+
+DocID: CACM-2736
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1407
+
+
+
+DocID: CACM-2738
+
+
+
+DocID: CACM-1406
+
+
+
+DocID: CACM-2737
+
+in certain packing and optimum layout [problems]  
+
+
+DocID: CACM-1401
+
+several eigenvalue [problems] for systems of  
+
+
+DocID: CACM-2732
+
+semantics, programming [language] semantics,  
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2731
+
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2734
+
+
+
+DocID: CACM-1402
+
+of additional information as in interpolation [methods]  
+
+
+DocID: CACM-2733
+
+programming [language] specification, parser generation,  
+these [methods] involve the use of ambiguous  
+methods of describing the syntax of programming  
+
+
+DocID: CACM-2730
+
+interactive consulting via natural language  
+language processing, computer assisted instruction  
+it into a natural [language] system consultant.  
+
+
+DocID: CACM-1409
+
+
+
+DocID: CACM-1408
+
+accessing for drums so defined.  this is shown to  
+specific use, the [methods] underlying it have more general applicability.  
+of the efficacy of the drum scheme is then [raised]  to  
+
+
+DocID: CACM-2739
+
+the restriction [language] for computer grammars of natural language  
+natural [language] parsing, grammar, programming languages  
+presents a programming [language] designed specifically  
+
+
+DocID: CACM-1416
+
+
+
+DocID: CACM-2747
+
+
+
+DocID: CACM-1415
+
+the decomposition of long complex [english] sentences  
+language messages.  to explore the prospects of such  
+
+
+DocID: CACM-2746
+
+in a single pass.  [construction] of the pattern matching  
+
+
+DocID: CACM-1418
+
+
+
+DocID: CACM-2749
+
+methods for a particular experiment.  it is concluded  
+relative running time of the two [methods] is developed.  
+
+
+DocID: CACM-1417
+
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+
+
+DocID: CACM-2743
+
+
+
+DocID: CACM-1411
+
+
+
+DocID: CACM-2742
+
+
+
+DocID: CACM-1414
+
+
+
+DocID: CACM-2745
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-1410
+
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-1419
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-2713
+
+
+
+DocID: CACM-2716
+
+data manipulation [language] very high level language  
+file, automatic programming, query [language]  
+
+
+DocID: CACM-2715
+
+relational model, query [language] nonprocedural [language]  
+implementation of a structured [english] query language  
+memory system, and the sequel [language] have  
+
+
+DocID: CACM-2710
+
+including a syntax based on [english] key [words] for  
+
+
+DocID: CACM-2712
+
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-2718
+
+
+
+DocID: CACM-2717
+
+translation definition [language] convert,  
+definition [language] for data conversion  
+other [language] or program bearing the same name.  
+
+
+DocID: CACM-2719
+
+
+
+DocID: CACM-2725
+
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+processing of packed data [items] using only ordinary  
+for processing small data [items] such as alphanumeric  
+
+
+DocID: CACM-2726
+
+are [applied] to the simplification of decision  
+ 3  and  4  can be furthered with the above [methods]  
+ 1 ,  3 , and  4  in deciding whether to use the above [methods]  
+
+
+DocID: CACM-2721
+
+of the accuracy of the simulation [methods] a simulation  
+
+
+DocID: CACM-2720
+
+
+
+DocID: CACM-2723
+
+attention is given to the [problems] of marking and relocating  
+
+
+DocID: CACM-2722
+
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-2728
+
+

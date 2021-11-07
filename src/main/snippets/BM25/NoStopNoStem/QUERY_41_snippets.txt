@@ -1,0 +1,557 @@
+BM25_NoStopNoStem
+
+Query
+teory of distorted sheets and databases.  simulators of simulationevent include reliability and function-large in distorted sheets,
+atomicity, distorted tsarocatinns, synchronization algorithms, 
+rcsuroee allocation; lower bounds and modes for asynchronous parallel
+sheets.  also teory of communicating processes and ptooorlcs.   
+
+     p. box 2:58 ye soittan, new haven, conn.  06520
+
+Top 100 Results (875 millisecs)
+
+
+DocID: CACM-0237
+
+computer production of peek-a-boo sheets  
+
+
+DocID: CACM-2734
+
+by first-fit and best-fit [allocation] strategies  
+storage fragmentation, dynamic memory [allocation] first-fit, best-fit  
+and for exponential distributions [distorted] in various  
+
+
+DocID: CACM-3088
+
+teory, t.  
+resource [allocation] throughput, timesharing  
+
+
+DocID: CACM-2912
+
+asynchronous multiprocessing, multiprocess [synchronization]  
+the problem of sharing data among asynchronous  
+two techniques for transmitting messages between [processes]  
+
+
+DocID: CACM-2376
+
+synchronization of [communicating] processes  
+formalization of a well-defined synchronization  
+parallel programming, multiprogramming, program correctness,  
+
+
+DocID: CACM-0754
+
+ye indiscreet monitor  
+
+
+DocID: CACM-2895
+
+of [communicating] [parallel] [processes] is described.  
+processing, [synchronization] readers/writers  
+formal specifications,program correctness, parallel  
+
+
+DocID: CACM-1158
+
+program structures for [parallel] processing  
+constructs for organizing and explicating parallel  
+
+
+DocID: CACM-0836
+
+error [function-large] x  algorithm 180   
+
+
+DocID: CACM-0835
+
+complementary error [function-large] x  algorithm 181   
+
+
+DocID: CACM-3132
+
+experiments with some [algorithms] that find  
+than a noncentral hyperplane.  six [algorithms] for finding central  
+a [lower] error rate in classifying new points and is therefore better  
+
+
+DocID: CACM-1580
+
+error [function-large] x  algorithm 180 [s15]   
+
+
+DocID: CACM-2843
+
+the tools [include] programs such as [simulators]  
+software education, [simulators] grading programs, student assignments  
+
+
+DocID: CACM-1581
+
+complementary error [function-large] x  algorithm 181 [s15]   
+
+
+DocID: CACM-2661
+
+education, programming languages, simulators  
+
+
+DocID: CACM-2740
+
+sequential [processes]  the [processes] synchronize by  
+structuring, buffering, [parallel] [processes] synchronizing  
+semaphores .  the number of [parallel] [processes] is carefully  
+
+
+DocID: CACM-0668
+
+ca631206 jb march 13, 1978  [2:58] pm  
+
+
+DocID: CACM-0270
+
+techniques for storage [allocation] algorithms  
+
+
+DocID: CACM-1828
+
+parallel accessing, [parallel] search, file search,  
+data base, [synchronization] locking, deadlock  
+processes are examined; their validity is  
+
+
+DocID: CACM-2342
+
+processes as well as to software [processes] and  
+interference between [communicating] [parallel] processes  
+operating systems, [parallel] processes  
+
+
+DocID: CACM-2973
+
+parallel computer, [parallel] sorting, [parallel] merge,  
+sorting on a mesh-connected [parallel] computer  
+two [algorithms] are presented for sorting n^2  
+
+
+DocID: CACM-3196
+
+84-character keyboard including alphabetical upper and [lower] case for good  
+readability. if the machine is restricted to only a single case, the [lower] case  
+
+
+DocID: CACM-3073
+
+communicating sequential processes  
+composition of [communicating] sequential [processes] is  
+program structures, [parallel] programming,  
+
+
+DocID: CACM-0271
+
+a semi-automatic storage [allocation] system at loading time  
+
+
+DocID: CACM-2969
+
+databases, optimal file location  
+computer networks, [databases] distributed  
+an optimization procedure for the allocation  
+
+
+DocID: CACM-1960
+
+include the ability given to any user to schedule his own parallel  
+time-sharing, multiprogramming, process scheduling, resource allocation  
+processes using system primitive operations, the file-memory relationship,  
+
+
+DocID: CACM-2784
+
+expected time [bounds] for selection  
+is n+min i,n-i +o n .  a [lower] bound within 9  
+
+
+DocID: CACM-3128
+
+synchronization of concurrent [processes] requires controlling the relative  
+process [synchronization] interprocess communication, distributed  
+synchronization with eventcounts and sequencers  
+
+
+DocID: CACM-2023
+
+data base, [synchronization] locking, deadlock, reference count  
+
+
+DocID: CACM-1747
+
+parallel processing, [parallel] programming,  
+a time-of-day clock,  the [synchronization] of parallel  
+processes, protection in multiprogrammed systems,  
+
+
+DocID: CACM-0027
+
+note on empirical [bounds] for generating bessel functions  
+
+
+DocID: CACM-1957
+
+in [parallel] rather than evaluating subexpressions and  
+the list set generator is defined and algorithms  
+
+
+DocID: CACM-3043
+
+concurrent programming, distributed [processes]  
+a language concept for concurrent processes  
+distributed [processes] a concurrent programming concept  
+
+
+DocID: CACM-2128
+
+time sharing, resource [allocation] scheduling [algorithms]  
+monitors, dynamic [allocation] processor  
+allocation, multiprogramming, multiprocessing, time  
+
+
+DocID: CACM-0412
+
+recursive [processes] and algol translation  
+
+
+DocID: CACM-2519
+
+psychological and information-processing [processes] and  
+information we are [communicating] and a sophisticated  
+on the problem of [communicating] complex information  
+
+
+DocID: CACM-2723
+
+storage [allocation] multiprocessing, [synchronization]  
+semaphores, [parallel] processing, compactification, relocation,  
+algorithms for a multiprocessing compactifying  
+
+
+DocID: CACM-0618
+
+man-man-machine [processes] are characterized in five  
+
+
+DocID: CACM-0371
+
+remarks on [algorithms] 2 and 3, algorithm 15 and [algorithms] 25 and 26  
+
+
+DocID: CACM-1302
+
+parallel signaling speeds for data transmission  
+
+
+DocID: CACM-0141
+
+some thoughts on [parallel] processing  
+
+
+DocID: CACM-1006
+
+a storage [allocation] and reference structure  
+
+
+DocID: CACM-0392
+
+comment on a paper on [parallel] processing  
+
+
+DocID: CACM-0273
+
+experience in automatic storage allocation  
+
+
+DocID: CACM-2182
+
+interrupts, supervisors, monitors, debugging, parallel  
+
+
+DocID: CACM-2080
+
+multiprogramming, operating systems, [parallel] [processes] process concept,  
+are handled uniformly as [parallel] cooperating process  
+requirements of program scheduling and resource [allocation]  the system  
+
+
+DocID: CACM-2454
+
+computational [algorithms] for closed queueing  
+such as storage [allocation] strategies and  
+the computational [algorithms] are based on two-dimensional  
+
+
+DocID: CACM-0279
+
+the case for dynamic storage allocation  
+
+
+DocID: CACM-0275
+
+dynamic storage [allocation] for an information retrieval system  
+
+
+DocID: CACM-0269
+
+core [allocation] based on probability  
+
+
+DocID: CACM-2773
+
+a weighted buddy method for dynamic storage [allocation]  corrigendum   
+
+
+DocID: CACM-2957
+
+update operations on such [databases] must  
+aggregation abstractions.  relational [databases] defined  
+
+
+DocID: CACM-2417
+
+four combinatorial [algorithms] [g6]  algorithm a466   
+
+
+DocID: CACM-2747
+
+fibonacci buddy system, dynamic storage [allocation] buddy system  
+
+
+DocID: CACM-2077
+
+ca700407 jb february 13, 1978  [2:58] pm  
+
+
+DocID: CACM-2156
+
+list processing, storage allocation  
+
+
+DocID: CACM-2271
+
+
+
+DocID: CACM-2505
+
+and adjacent transposition algorithms  
+
+
+DocID: CACM-2995
+
+
+
+DocID: CACM-2714
+
+parallel processing, [parallel] merging, [parallel] binary insertion  
+merging with [parallel] processors  
+the previous best [parallel] merging algorithm,  
+
+
+DocID: CACM-2280
+
+allocation, deadlock, interlock, lockout,  
+
+
+DocID: CACM-2579
+
+register [allocation] compilers, programming  
+register [allocation] via usage counts  
+algorithms that eliminate redundant computations, and  
+
+
+DocID: CACM-1796
+
+index by subject to [algorithms] 1969  
+index by subject to [algorithms] 1960 1968  comm.  
+
+
+DocID: CACM-0775
+
+
+
+DocID: CACM-0813
+
+
+
+DocID: CACM-0641
+
+
+
+DocID: CACM-0684
+
+
+
+DocID: CACM-0173
+
+
+
+DocID: CACM-1619
+
+by some [algorithms] used to compute various  
+
+
+DocID: CACM-0720
+
+
+
+DocID: CACM-1319
+
+
+
+DocID: CACM-2627
+
+algorithms, deterministic scheduling models  
+time, sequencing [algorithms] optimal scheduling  
+which extend and generalize the [algorithms] known for  
+
+
+DocID: CACM-1303
+
+
+
+DocID: CACM-0780
+
+
+
+DocID: CACM-0265
+
+
+
+DocID: CACM-0792
+
+
+
+DocID: CACM-2007
+
+algorithms policy/revised august 1970  
+
+
+DocID: CACM-2685
+
+parallel computing, multiprocessor computers,  
+the [parallel] execution of do loops  
+asynchronous multiprocessor computers and array computers  
+
+
+DocID: CACM-2704
+
+
+
+DocID: CACM-1952
+
+index by subject to [algorithms] 1970  
+
+
+DocID: CACM-1660
+
+index by subject to [algorithms] 1960-1968  
+
+
+DocID: CACM-2456
+
+node splitting, software reliability  
+
+
+DocID: CACM-2865
+
+verification, concurrent [processes] [synchronization]  
+of properties of [parallel] programs is presented.  
+which are added to a [parallel] program as  
+
+
+DocID: CACM-1342
+
+transportation problem  [algorithms] 293 [h]   
+
+
+DocID: CACM-3086
+
+decision tree programs, [lower] bounds  
+analysis of [algorithms] combinatorial problems,  
+are allowed.  the existence of an    n log n  [lower] bound  
+
+
+DocID: CACM-2902
+
+space [allocation] storage allocation  
+algorithms.  simple [algorithms] operating on memory ordered  
+35 dynamic memory [allocation] [algorithms] when used  
+
+
+DocID: CACM-2434
+
+
+
+DocID: CACM-3051
+
+simulation,event set, heaps, tl structure  
+
+
+DocID: CACM-2837
+
+selection problem, [algorithms] comparison problems,  
+concrete computational complexity, upper [bounds]  
+new upper [bounds] for selection  
+
+
+DocID: CACM-2476
+
+
+
+DocID: CACM-2662
+
+
+
+DocID: CACM-2830
+
+a practitioner's guide to addressing [algorithms]  corrigendum   
+
+
+DocID: CACM-2581
+
+structures are used as "islands of [reliability]  
+speech recognizer.  lpars [processes] a string of phonemes  
+
+
+DocID: CACM-1121
+
+
+
+DocID: CACM-0192
+
+
+
+DocID: CACM-3009
+
+
+
+DocID: CACM-1953
+
+exponential integral ei x   [algorithms] 385 $s13    
+
+
+DocID: CACM-1431
+
+
+
+DocID: CACM-0090
+
+
+
+DocID: CACM-3156
+
+graph theory, [parallel] processing, [algorithms]  
+computing connected components on [parallel] computers  
+we present a [parallel] algorithm which uses n2 processors to find the connected  
+

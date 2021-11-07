@@ -1,0 +1,410 @@
+LUCENE_NoStopNoStem
+
+Query
+Dictionary construction and accessing methods for fast retrieval
+of words or lexical items or morphologically related information.
+Hashing or indexing methods are usually applied to English spelling or
+natural language problems.
+
+Top 100 Results (28 millisecs)
+
+
+DocID: CACM-1456
+
+
+
+DocID: CACM-3087
+
+
+
+DocID: CACM-0144
+
+
+
+DocID: CACM-1700
+
+
+
+DocID: CACM-1665
+
+
+
+DocID: CACM-2127
+
+
+
+DocID: CACM-2753
+
+
+
+DocID: CACM-1235
+
+
+
+DocID: CACM-1112
+
+
+
+DocID: CACM-2905
+
+
+
+DocID: CACM-1051
+
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-1855
+
+
+
+DocID: CACM-1725
+
+
+
+DocID: CACM-3041
+
+
+
+DocID: CACM-2046
+
+
+
+DocID: CACM-0944
+
+
+
+DocID: CACM-1486
+
+
+
+DocID: CACM-2111
+
+
+
+DocID: CACM-2484
+
+
+
+DocID: CACM-2688
+
+
+
+DocID: CACM-1359
+
+
+
+DocID: CACM-2091
+
+
+
+DocID: CACM-1888
+
+
+
+DocID: CACM-2437
+
+
+
+DocID: CACM-1681
+
+
+
+DocID: CACM-1703
+
+
+
+DocID: CACM-1457
+
+
+
+DocID: CACM-1856
+
+
+
+DocID: CACM-1527
+
+
+
+DocID: CACM-2307
+
+
+
+DocID: CACM-2846
+
+
+
+DocID: CACM-2423
+
+
+
+DocID: CACM-1886
+
+
+
+DocID: CACM-2203
+
+
+
+DocID: CACM-2523
+
+
+
+DocID: CACM-2060
+
+
+
+DocID: CACM-2265
+
+
+
+DocID: CACM-2233
+
+
+
+DocID: CACM-0095
+
+
+
+DocID: CACM-0719
+
+
+
+DocID: CACM-1699
+
+
+
+DocID: CACM-2267
+
+
+
+DocID: CACM-3101
+
+
+
+DocID: CACM-1602
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-1976
+
+
+
+DocID: CACM-2050
+
+
+
+DocID: CACM-2998
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-2991
+
+
+
+DocID: CACM-3046
+
+
+
+DocID: CACM-0028
+
+
+
+DocID: CACM-1926
+
+
+
+DocID: CACM-2953
+
+
+
+DocID: CACM-2646
+
+
+
+DocID: CACM-1483
+
+
+
+DocID: CACM-2059
+
+
+
+DocID: CACM-2494
+
+
+
+DocID: CACM-3138
+
+
+
+DocID: CACM-2210
+
+
+
+DocID: CACM-2989
+
+
+
+DocID: CACM-3099
+
+
+
+DocID: CACM-2906
+
+
+
+DocID: CACM-1272
+
+
+
+DocID: CACM-2572
+
+
+
+DocID: CACM-1711
+
+
+
+DocID: CACM-3065
+
+
+
+DocID: CACM-2828
+
+
+
+DocID: CACM-2486
+
+
+
+DocID: CACM-2795
+
+
+
+DocID: CACM-0078
+
+
+
+DocID: CACM-1930
+
+
+
+DocID: CACM-1929
+
+
+
+DocID: CACM-1307
+
+
+
+DocID: CACM-2310
+
+
+
+DocID: CACM-3100
+
+
+
+DocID: CACM-2153
+
+
+
+DocID: CACM-1184
+
+
+
+DocID: CACM-0185
+
+
+
+DocID: CACM-2229
+
+
+
+DocID: CACM-1629
+
+
+
+DocID: CACM-2032
+
+
+
+DocID: CACM-0096
+
+
+
+DocID: CACM-2683
+
+
+
+DocID: CACM-3053
+
+
+
+DocID: CACM-1408
+
+
+
+DocID: CACM-1197
+
+
+
+DocID: CACM-1470
+
+
+
+DocID: CACM-2787
+
+
+
+DocID: CACM-1331
+
+
+
+DocID: CACM-2258
+
+
+
+DocID: CACM-2990
+
+
+
+DocID: CACM-0070
+
+
+
+DocID: CACM-3002
+
+
+
+DocID: CACM-2196
+
+
+
+DocID: CACM-2517
+
+
+
+DocID: CACM-0695
+
+
+
+DocID: CACM-1487
+
+

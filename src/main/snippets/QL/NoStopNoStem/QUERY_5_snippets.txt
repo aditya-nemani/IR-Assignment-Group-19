@@ -1,0 +1,443 @@
+QL_NoStopNoStem
+
+Query
+id lie papers on design and implementation of editing instances,
+window-managers, command itreprretens, etc.  the essential issues archimedian instance design, wish views on improvements to user efficiency,
+effectiveness and staaofictsin.
+
+Top 100 Results (767 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+
+
+DocID: CACM-0994
+
+
+
+DocID: CACM-0995
+
+
+
+DocID: CACM-0996
+
+
+
+DocID: CACM-0990
+
+
+
+DocID: CACM-0991
+
+
+
+DocID: CACM-0992
+
+
+
+DocID: CACM-2703
+
+
+
+DocID: CACM-2702
+
+
+
+DocID: CACM-2705
+
+speaks for programming language [design] based on general,  
+
+
+DocID: CACM-2704
+
+exception handling: [issues] and a proposed notation  
+to highlight exception handling [issues] by showing  
+
+
+DocID: CACM-2701
+
+
+
+DocID: CACM-2700
+
+
+
+DocID: CACM-2707
+
+
+
+DocID: CACM-2706
+
+
+
+DocID: CACM-2709
+
+goto statements, language [design] pascal  
+
+
+DocID: CACM-2708
+
+
+
+DocID: CACM-0975
+
+
+
+DocID: CACM-0976
+
+
+
+DocID: CACM-0977
+
+
+
+DocID: CACM-0978
+
+
+
+DocID: CACM-0971
+
+
+
+DocID: CACM-0972
+
+the 473l [command] and control system used by  
+
+
+DocID: CACM-0973
+
+
+
+DocID: CACM-0974
+
+
+
+DocID: CACM-0970
+
+
+
+DocID: CACM-0979
+
+
+
+DocID: CACM-0986
+
+
+
+DocID: CACM-0987
+
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+
+
+DocID: CACM-0983
+
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+
+
+DocID: CACM-0981
+
+
+
+DocID: CACM-1405
+
+
+
+DocID: CACM-2736
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1407
+
+
+
+DocID: CACM-2738
+
+design of hierarchically structured systems  
+hierarchical systems, bottom up [design] levels  
+this paper deals with the [design] of hierarchically  
+
+
+DocID: CACM-1406
+
+
+
+DocID: CACM-2737
+
+
+
+DocID: CACM-1401
+
+
+
+DocID: CACM-2732
+
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2731
+
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2734
+
+efficiency.  for exponential and hyperexponential  
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-2733
+
+
+
+DocID: CACM-2730
+
+
+
+DocID: CACM-1409
+
+the [design] objectives as originally conceived  
+basic research in computer systems [design]  an  
+memory.  the arithmetic unit has a [command] structure similar  
+
+
+DocID: CACM-1408
+
+engineering or hardware [improvements]  in  
+deal with this, a standard of [efficiency] is developed  
+definition.  then a simple [design] scheme  eschenbach   
+
+
+DocID: CACM-2739
+
+implementation of the linguistic string parser.  
+becomes [essential] for further development.  this paper  
+
+
+DocID: CACM-1416
+
+forms [design]  a method of information extraction involving  
+
+
+DocID: CACM-2747
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-2746
+
+
+
+DocID: CACM-1418
+
+
+
+DocID: CACM-2749
+
+efficiency is of sufficient importance.  
+
+
+DocID: CACM-1417
+
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+
+
+DocID: CACM-2743
+
+
+
+DocID: CACM-1411
+
+
+
+DocID: CACM-2742
+
+there models are presented, all of which improve in effectiveness  
+
+
+DocID: CACM-1414
+
+
+
+DocID: CACM-2745
+
+subsequence, longest common subsequence, string correction, editing  
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-1410
+
+of the [user] input process in the sdc-arpa general-purpose  
+processes governing the [user] inputs and the program activity.  
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-2740
+
+embrace"  deadlock .  the [design] principle  
+
+
+DocID: CACM-1419
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-2713
+
+
+
+DocID: CACM-2716
+
+performance of a particular [user] query is described.  
+the [user]  a relational algebra interface, called  
+
+
+DocID: CACM-2715
+
+implementation of a structured english query language  
+been covered in previous [papers] and are reviewed.  
+
+
+DocID: CACM-2710
+
+casual [user] relational data model, tabular  
+
+
+DocID: CACM-2712
+
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-2718
+
+design, data structure, automatic programming,  
+the functional approach to database [design] is  
+which utilizers the functional approach to [design] data  
+
+
+DocID: CACM-2717
+
+restructuring capabilities. its [design] is based  
+
+
+DocID: CACM-2719
+
+its [implementation] and discusses its limitations.  
+
+
+DocID: CACM-2725
+
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+
+
+DocID: CACM-2726
+
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-2720
+
+
+
+DocID: CACM-2723
+
+
+
+DocID: CACM-2722
+
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-2728
+
+

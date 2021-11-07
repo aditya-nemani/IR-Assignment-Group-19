@@ -1,0 +1,412 @@
+LUCENE_NoStopNoStem
+
+Query
+Articles describing the relationship between data types and concurrency
+(e.g. what is the type of a process?  when is a synchronization attempt 
+between two processes "type correct"?  in a message-passing system is there
+any notion of the types of messages?--i.e. any way to check that the sender
+of the message and the receiver are both treating the bit stream as some
+particular type)
+
+Top 100 Results (91 millisecs)
+
+
+DocID: CACM-2265
+
+
+
+DocID: CACM-2956
+
+
+
+DocID: CACM-2632
+
+
+
+DocID: CACM-3105
+
+
+
+DocID: CACM-2060
+
+
+
+DocID: CACM-3142
+
+
+
+DocID: CACM-2560
+
+
+
+DocID: CACM-3031
+
+
+
+DocID: CACM-2341
+
+
+
+DocID: CACM-2651
+
+
+
+DocID: CACM-2342
+
+
+
+DocID: CACM-2912
+
+
+
+DocID: CACM-3021
+
+
+
+DocID: CACM-3103
+
+
+
+DocID: CACM-2184
+
+
+
+DocID: CACM-2957
+
+
+
+DocID: CACM-2850
+
+
+
+DocID: CACM-1828
+
+
+
+DocID: CACM-2321
+
+
+
+DocID: CACM-2958
+
+
+
+DocID: CACM-2233
+
+
+
+DocID: CACM-2941
+
+
+
+DocID: CACM-2003
+
+
+
+DocID: CACM-3128
+
+
+
+DocID: CACM-2376
+
+
+
+DocID: CACM-1847
+
+
+
+DocID: CACM-2794
+
+
+
+DocID: CACM-2369
+
+
+
+DocID: CACM-1003
+
+
+
+DocID: CACM-0867
+
+
+
+DocID: CACM-1455
+
+
+
+DocID: CACM-1844
+
+
+
+DocID: CACM-1626
+
+
+
+DocID: CACM-1474
+
+
+
+DocID: CACM-2194
+
+
+
+DocID: CACM-2229
+
+
+
+DocID: CACM-0243
+
+
+
+DocID: CACM-3153
+
+
+
+DocID: CACM-1135
+
+
+
+DocID: CACM-2911
+
+
+
+DocID: CACM-1591
+
+
+
+DocID: CACM-1625
+
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-3048
+
+
+
+DocID: CACM-1768
+
+
+
+DocID: CACM-2513
+
+
+
+DocID: CACM-1398
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-2080
+
+
+
+DocID: CACM-1748
+
+
+
+DocID: CACM-2470
+
+
+
+DocID: CACM-1426
+
+
+
+DocID: CACM-2033
+
+
+
+DocID: CACM-1646
+
+
+
+DocID: CACM-1543
+
+
+
+DocID: CACM-1589
+
+
+
+DocID: CACM-2051
+
+
+
+DocID: CACM-2178
+
+
+
+DocID: CACM-3164
+
+
+
+DocID: CACM-0409
+
+
+
+DocID: CACM-1637
+
+
+
+DocID: CACM-2083
+
+
+
+DocID: CACM-1719
+
+
+
+DocID: CACM-1062
+
+
+
+DocID: CACM-2749
+
+
+
+DocID: CACM-3002
+
+
+
+DocID: CACM-2289
+
+
+
+DocID: CACM-1143
+
+
+
+DocID: CACM-1698
+
+
+
+DocID: CACM-2046
+
+
+
+DocID: CACM-3039
+
+
+
+DocID: CACM-2939
+
+
+
+DocID: CACM-1410
+
+
+
+DocID: CACM-0695
+
+
+
+DocID: CACM-2113
+
+
+
+DocID: CACM-2519
+
+
+
+DocID: CACM-1827
+
+
+
+DocID: CACM-3015
+
+
+
+DocID: CACM-1614
+
+
+
+DocID: CACM-1630
+
+
+
+DocID: CACM-2218
+
+
+
+DocID: CACM-1482
+
+
+
+DocID: CACM-1571
+
+
+
+DocID: CACM-1488
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-2622
+
+
+
+DocID: CACM-2177
+
+
+
+DocID: CACM-1198
+
+
+
+DocID: CACM-1181
+
+
+
+DocID: CACM-1908
+
+
+
+DocID: CACM-1856
+
+
+
+DocID: CACM-2032
+
+
+
+DocID: CACM-2859
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-2864
+
+
+
+DocID: CACM-2868
+
+
+
+DocID: CACM-2371
+
+
+
+DocID: CACM-1098
+
+
+
+DocID: CACM-2353
+
+
+
+DocID: CACM-2379
+
+

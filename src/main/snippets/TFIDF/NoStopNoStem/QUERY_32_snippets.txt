@@ -1,0 +1,630 @@
+TFIDF_NoStopNoStem
+
+Query
+id like to find articles describing graph anothers taught are based once eigenvalue decomposition (or seminar valve decomposition) of transparency matrix for the graph.  ibm efficiency inserted in any heuristic
+anothers for graph coloring and graph isomorphism using this method.
+
+Top 100 Results (734 millisecs)
+
+
+DocID: CACM-2177
+
+cycle set, [graph] lobe, lobe decomposition  
+graph.  the [graph] may be represented either  i  as an  
+graph, separable, spanning tree, web grammar  
+
+
+DocID: CACM-2289
+
+matrix of a [graph] is easily mapped onto an array;  
+graph theory, cellular logic-in-memory arrays,  
+cellular arrays for the solution of [graph] problems  
+
+
+DocID: CACM-1847
+
+fundamental cycle set, [graph] algorithm, cycle, spanning tree  
+a fast [method] is presented for finding a fundamental  
+n^g where g depends on the type of [graph] involved.  
+
+
+DocID: CACM-3139
+
+np-complete, [graph] structure, balancing, graph  
+important part of [heuristic] procedures to [find] maximal cliques in general  
+upon the comparison of the degrees and structure of a [graph]  a method  
+
+
+DocID: CACM-2883
+
+path, [heuristic] search methods, problem solving  
+time.  moreover, if [heuristic] search methods  
+are discussed, showing that the [graph] search  
+
+
+DocID: CACM-2484
+
+a general [method] for constructing such a tree or a graph  
+storage allocation, tree, graph  
+in this general construction [method] namely, a set of  
+
+
+DocID: CACM-2368
+
+graph algorithms, [graph] processing, shannon switching  
+games, game playing, [graph] theory, positional  
+an implemented [graph] algorithm for winning shannon switching games  
+
+
+DocID: CACM-1961
+
+circuits of a [graph]  the algorithm can be easily modified to [find] all  
+an efficient search algorithm to [find] the elementary circuits of a graph  
+algorithm, [graph] theory, circuit search  
+
+
+DocID: CACM-1856
+
+a program designed to be capable of being taught  
+are to be [taught] to the program as they are needed.  
+
+
+DocID: CACM-2178
+
+graph processing, programming language, formal semantics,  
+directed [graph] lisp, network, data structure,  
+a language extension for [graph] processing and its formal semantics  
+
+
+DocID: CACM-2490
+
+graphs,analysis of algorithms, [graph] manipulation  
+a [graph] into connected components, biconnected  
+of a [graph] into simple paths is iterative  
+
+
+DocID: CACM-2619
+
+graph [coloring] conditions for the existence  
+of a [graph]  the preconditions correspond to the unavailability  
+of a coloration of a [graph] is the required necessary  
+
+
+DocID: CACM-2697
+
+proved that the computed lu [decomposition] converges  
+proved that the diagonals of the lu decomposition  
+entire lu [decomposition] takes k words of storage,  
+
+
+DocID: CACM-2931
+
+can be made mathematically exact if we can find  
+in the [efficiency] of decision methods have become available  
+with the [method] of data types as lattices  or partial  
+
+
+DocID: CACM-3018
+
+between this edge-clique-cover problem and the [graph] coloring  
+keyword conflicts and described a heuristic  
+problem in connection with this [method]  
+
+
+DocID: CACM-1665
+
+mechanisms [based] upon an ordered sequence  
+appropriate actions are taken [based] on the  
+produced by the system are [based] on finite-state machines.  
+
+
+DocID: CACM-2630
+
+graph, network, shortest path, algorithm  
+on computing sets of shortest paths in a graph  
+in a directed [graph]  these algorithms generalize the floyd  
+
+
+DocID: CACM-2233
+
+of the uninitiated, the encoding [method] used in the  
+
+
+DocID: CACM-2695
+
+eigenvalues, [graph] bandwidth, sparse matrix  
+tridiagonal [matrix] permutation, algorithm,  
+tridiagonalizing a [matrix] by similarity transformations  
+
+
+DocID: CACM-2980
+
+is [based] on definitions of [graph] properties which are  
+of the region adjacency [graph]  the scheme  
+editing is equivalent to fast [graph] operations.  a number of examples are shown.  
+
+
+DocID: CACM-2015
+
+merger algorithm, minimum cost inverse-arborescence, [graph] theory  
+inverse-arborescence of that [graph]  the validity of the technique is  
+given a precedence grammar. a [graph] formulation is used for the problem of  
+
+
+DocID: CACM-1905
+
+the simplex [method] of linear programming using lu decomposition  
+simplex [method] for linear programming are based  
+simplex [method] linear programming, lu [decomposition]  
+
+
+DocID: CACM-1727
+
+program correspondence, program [graph] one-entry  
+
+
+DocID: CACM-1145
+
+of directed line graphs for [isomorphism]  
+isomorphism tester-incorporates a variety of processes  
+git-a [heuristic] program for testing pairs  
+
+
+DocID: CACM-2195
+
+edge detection,optimal detection, [heuristic] methods,  
+programming, interaction [graph] secondary optimization problem  
+the [method] described is suitable for parallel  
+
+
+DocID: CACM-2059
+
+colored [graph] language extended algol,  
+graph operations such as node and/or link deletion or insertion, union,  
+a language for the representation of [graph] is described, and the formulation of  
+
+
+DocID: CACM-3138
+
+updating an orthogonal [decomposition] of a [matrix] of column  or row  vectors.  
+a mathematical programming updating [method] using modified  
+of the revised simplex [method]  the algorithm is a general purpose  
+
+
+DocID: CACM-2568
+
+nondirected network, [graph] subgraph, strongly  
+a [graph] formulation of a school scheduling algorithm  
+
+
+DocID: CACM-1290
+
+upon solutions to the problems of transparency  
+concepts of [transparency] in which the normal character  
+complete character [transparency]  it does not cover  
+
+
+DocID: CACM-2217
+
+learning, theorem-providing, [heuristic] automatic  
+ multipurpose program that learns  [heuristic] tree-searching  
+experiments in automatic learning for a multipurpose [heuristic] program  
+
+
+DocID: CACM-2052
+
+tree, undirected linear graph  
+allocation, conflict [matrix] connected component, scheduling, spanning  
+conflicts in scheduling can be treated as defining an undirected linear graph  
+
+
+DocID: CACM-2554
+
+reduction of a band-symmetric generalized [eigenvalue] problem  
+an ordinary [eigenvalue] problem for a symmetric band  
+generalized [eigenvalue] problem ax = lambda bx to  
+
+
+DocID: CACM-2002
+
+elements may be combined into a system [based] on simple modules is demonstrated.  
+
+
+DocID: CACM-2645
+
+symbolic manipulation, program [efficiency]  
+two languages for estimating program efficiency  
+the [efficiency] of computer programs are presented.  
+
+
+DocID: CACM-2196
+
+heuristic procedures, computer-aided [heuristic] technique,  
+of computer time are used.  [heuristic] procedures have  
+results.  this paper describes a computer aided heuristic  
+
+
+DocID: CACM-3156
+
+graph theory, parallel processing, algorithms,  
+the algorithm can be used to [find] the transitive closure  
+of a symmetric boolean [matrix]  we assume that the processors have  
+
+
+DocID: CACM-1504
+
+given the adjacency [matrix] of the [graph] the algorithm  
+of cycles for an undirected linear graph  
+
+
+DocID: CACM-3077
+
+
+
+DocID: CACM-2905
+
+the first [method] the "quotient reduction" [method] is  
+probe retrieving [method] for static sets  
+the second [method] the "remainder reduction"  
+
+
+DocID: CACM-1455
+
+out any string.  the trac language is [based] upon  
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-1650
+
+a unifying computational [method] for the  
+advantages of such a [method] are obvious.  
+a computational [method] which may be used for  
+
+
+DocID: CACM-2189
+
+permutation, [graph] theory, scheduling, combinatorial algebra  
+is described.  in a nonoriented complete [graph] with  
+
+
+DocID: CACM-2701
+
+analysis, information propagation, flow [graph] reducibility,  
+for a [graph] of e edges, the algorithm has a  
+
+
+DocID: CACM-0695
+
+the paper begins by briefly [describing] the  
+stretch  [ibm] 7030  computer with special emphasis  
+
+
+DocID: CACM-2033
+
+layout, retrieval trade-offs, retrieval [efficiency] storage efficiency  
+and compared with a particular conventional hash-coding [method]  
+
+
+DocID: CACM-1350
+
+languages-its relative efficiency  
+by additional information [describing] its  
+upon several criteria of [efficiency] covering core-storage  
+
+
+DocID: CACM-1886
+
+computationally feasible, [heuristic] procedures are  
+efficiency of the object code produced by first factoring  
+
+
+DocID: CACM-0616
+
+univac division;  roy goldfinger  chairman , ibm  
+report is [based] for the most part, on a mathematical  
+kendrick, general electric company;  jean e. sammet, [ibm] corporation.  
+
+
+DocID: CACM-1003
+
+the program is [based] on a direct statement of  
+distribution.  a computer analysis [method] is here regarded  
+the construction of computer programs [based] on the direct  
+
+
+DocID: CACM-2692
+
+method which provides for arbitrary view  
+planes is described.  this [method] is ideal  
+
+
+DocID: CACM-2753
+
+a [heuristic] problem solving design system  
+a [heuristic] problem solver with a planning phase prefixed  
+
+
+DocID: CACM-2081
+
+programming, [matrix] [matrix] concatenation,  
+matrix sequences, programming languages,  
+of matrices  are considered, and [matrix] operators areext  
+
+
+DocID: CACM-2181
+
+
+
+DocID: CACM-2290
+
+directed [graph] shortest path, articulation,  
+predominator, immediate predominator, [graph] theory,  
+immediate predominators in a directed [graph] [h]  algorithm a430   
+
+
+DocID: CACM-1543
+
+symbolic mathematical computation, a [method] has been  
+
+
+DocID: CACM-1976
+
+retrieval, data management, access [method] secondary  
+cases, is the same as the secondary indexing [method] in the general case,  
+buckets may be required for a given query.  the [method] which, in its  
+
+
+DocID: CACM-2060
+
+gedanken-a simple typeless language [based] on the  
+
+
+DocID: CACM-1725
+
+access frequency, ordered retrieval [efficiency]  
+by the described [method] of m distinct binary  
+an efficient [method] of ordered retrieval of binary  
+
+
+DocID: CACM-3160
+
+university of michigan; patricia goldberg, [ibm] corporation; john  
+this report is [based] on the results of an nsf sponsored  
+
+
+DocID: CACM-3033
+
+solutions.  the [heuristic] search [method] introduced  
+decision tree, [heuristic] search, and/or graphs,  
+technique uses a good [heuristic] to direct  
+
+
+DocID: CACM-2925
+
+describing a human head is included.  
+toroidal [graph]  a new fast algorithm for finding such  
+
+
+DocID: CACM-3134
+
+the normal multiplication table [method] yields far more rapid retrieval  
+moreover this [method] incorporates an improved modification of the inverted  
+d retrieval of information are described.  this [method] is particularly  
+
+
+DocID: CACM-3125
+
+information or restrictions on the shape of the program [graph]  
+
+
+DocID: CACM-0670
+
+
+
+DocID: CACM-1423
+
+method for inverting non-singular matrices, which gives  
+yields the ordinary least squares transformation matrix  
+the generalized inverse of a [matrix] is important  
+
+
+DocID: CACM-2786
+
+
+
+DocID: CACM-2856
+
+programs have been [based] on [decomposition]  at any  
+be created.  using this approach, the [efficiency] of creating  
+
+
+DocID: CACM-2247
+
+unconventional [decomposition] if implemented with  
+decomposition are described.  it is shown that the  
+
+
+DocID: CACM-2265
+
+solution to the type checking problem [based] on the  
+
+
+DocID: CACM-3048
+
+in the [ibm] 360/195.  
+of the cpu-memory subsystem of the [ibm] 360/91 is  
+in the architecture of the [ibm] 360/91 are of little  
+
+
+DocID: CACM-2877
+
+possibly "reach" each node of the control flow graph  
+"live" on each edge of the [graph]  the procedure uses  
+
+
+DocID: CACM-1135
+
+a structure, [based] on identifying and incorporating  
+a general business-oriented language [based] on decision expressions*  
+
+
+DocID: CACM-1408
+
+deal with this, a standard of [efficiency] is developed  
+the design scheme has a specific use, the [method] underlying it  
+
+
+DocID: CACM-2186
+
+numerically integrating a [matrix] riccati equation  
+the ritz direct [method] and is designed to improve  
+of condition are established for the [method]  the second  
+
+
+DocID: CACM-2569
+
+the [efficiency] of the rejection [method] is shown to  
+be better than the [efficiency] of johnk's [method]  
+method.  
+
+
+DocID: CACM-2911
+
+the simulations show that allocation efficiency  
+depends strongly on the residence time distribution; efficiency  
+
+
+DocID: CACM-0397
+
+books, [articles] programming terms, hardware terms, equipment,  
+matrix of descriptors, an entry number, and the kind,  
+processing.  an 80-column [ibm] card is divided into two  
+
+
+DocID: CACM-3015
+
+equations, the relaxation [method] converges to the minimum  
+
+
+DocID: CACM-3076
+
+
+
+DocID: CACM-3040
+
+networks, constraint satisfaction, [graph] [coloring]  
+of backtrack tree search [efficiency]  an algorithm  
+
+
+DocID: CACM-3046
+
+method.  
+gamma variables, rejection [method] computer methods  
+a rejection [method] is proposed for generating  
+
+
+DocID: CACM-0495
+
+for inverting a symmetric [matrix] has been  
+for [matrix] inversion do not take advantage  
+in the least squares [method] for simultaneous  
+
+
+DocID: CACM-2572
+
+
+
+DocID: CACM-0321
+
+are [based] on the authors' interpretations of the algol 60 report.  
+
+
+DocID: CACM-1470
+
+
+
+DocID: CACM-2940
+
+decomposition, program specifications, programming  
+
+
+DocID: CACM-1487
+
+decomposition rules.  the fundamental technical  
+on the basis of [decomposition] rules which are triggered  
+
+
+DocID: CACM-1456
+
+storage and retrieval of aspects of meaning in directed [graph] structures  
+
+
+DocID: CACM-2145
+
+one is the [heuristic] [method] which simulates human  
+heuristic etching-pattern layout, wiring design of  
+help  [heuristic] etching-pattern layout program   
+
+
+DocID: CACM-1529
+
+decomposition programming an analysis of [matrix] substructure  
+primal-simplex solution without [decomposition]  
+to compare the primal and primal-dual decomposition  
+
+
+DocID: CACM-2889
+
+
+
+DocID: CACM-3164
+
+path [matrix] representation and the other uses a list with an  
+maintains a [graph] in an acyclic state.  when a request creates a cycle,  
+
+
+DocID: CACM-2155
+
+data structures, [graph] implementation,  
+for [describing] the semantics of data structures.  
+this is [based] on directed graphs with named edges and  
+
+
+DocID: CACM-1844
+
+
+
+DocID: CACM-1591
+
+the [ibm] 7044 graphic system.  because the teaching  
+
+
+DocID: CACM-1825
+
+derivation.  the technique presented here is based  
+on the original [method] described by knuth, but decreases  
+a practical [method] for constructing lr k  processors  
+
+
+DocID: CACM-3098
+
+method is much simpler than ahrens and dieter's [method] and is faster for a < 8.  
+method.  the proposed [method] is the same as  
+gamma variables, rejection [method] computer methods  
+
+
+DocID: CACM-2188
+
+numbers of alternatives; the selection is based  
+are in turn used to [find] general display system  
+
+
+DocID: CACM-1924
+
+matrix algorithms, array processing, paging algorithms,  
+matrix representations and operations are examined  
+carefully designed [matrix] algorithms can lead to  
+

@@ -1,0 +1,411 @@
+LUCENE_NoStopNoStem
+
+Query
+Information retrieval articles by Gerard Salton or others about clustering,
+bibliographic coupling, use of citations or co-citations, the vector
+space model, Boolean search methods using inverted files, feedback, etc.
+
+Salton, G.
+
+Top 100 Results (26 millisecs)
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-2307
+
+
+
+DocID: CACM-2451
+
+
+
+DocID: CACM-0634
+
+
+
+DocID: CACM-1236
+
+
+
+DocID: CACM-2140
+
+
+
+DocID: CACM-1457
+
+
+
+DocID: CACM-3129
+
+
+
+DocID: CACM-1976
+
+
+
+DocID: CACM-2631
+
+
+
+DocID: CACM-3134
+
+
+
+DocID: CACM-1927
+
+
+
+DocID: CACM-2991
+
+
+
+DocID: CACM-2746
+
+
+
+DocID: CACM-2114
+
+
+
+DocID: CACM-2561
+
+
+
+DocID: CACM-2990
+
+
+
+DocID: CACM-3072
+
+
+
+DocID: CACM-1935
+
+
+
+DocID: CACM-1700
+
+
+
+DocID: CACM-1287
+
+
+
+DocID: CACM-2437
+
+
+
+DocID: CACM-2882
+
+
+
+DocID: CACM-2547
+
+
+
+DocID: CACM-0239
+
+
+
+DocID: CACM-3087
+
+
+
+DocID: CACM-2916
+
+
+
+DocID: CACM-2722
+
+
+
+DocID: CACM-1194
+
+
+
+DocID: CACM-2484
+
+
+
+DocID: CACM-2494
+
+
+
+DocID: CACM-1725
+
+
+
+DocID: CACM-2160
+
+
+
+DocID: CACM-1916
+
+
+
+DocID: CACM-2646
+
+
+
+DocID: CACM-2969
+
+
+
+DocID: CACM-1641
+
+
+
+DocID: CACM-2033
+
+
+
+DocID: CACM-1699
+
+
+
+DocID: CACM-2374
+
+
+
+DocID: CACM-0397
+
+
+
+DocID: CACM-2680
+
+
+
+DocID: CACM-2978
+
+
+
+DocID: CACM-1705
+
+
+
+DocID: CACM-2109
+
+
+
+DocID: CACM-1046
+
+
+
+DocID: CACM-2968
+
+
+
+DocID: CACM-2486
+
+
+
+DocID: CACM-1808
+
+
+
+DocID: CACM-2753
+
+
+
+DocID: CACM-2688
+
+
+
+DocID: CACM-2947
+
+
+
+DocID: CACM-3033
+
+
+
+DocID: CACM-2046
+
+
+
+DocID: CACM-0944
+
+
+
+DocID: CACM-2203
+
+
+
+DocID: CACM-2998
+
+
+
+DocID: CACM-2777
+
+
+
+DocID: CACM-2517
+
+
+
+DocID: CACM-2107
+
+
+
+DocID: CACM-2883
+
+
+
+DocID: CACM-2765
+
+
+
+DocID: CACM-1886
+
+
+
+DocID: CACM-2251
+
+
+
+DocID: CACM-2846
+
+
+
+DocID: CACM-1486
+
+
+
+DocID: CACM-1674
+
+
+
+DocID: CACM-1359
+
+
+
+DocID: CACM-2288
+
+
+
+DocID: CACM-1456
+
+
+
+DocID: CACM-2258
+
+
+
+DocID: CACM-2862
+
+
+
+DocID: CACM-3137
+
+
+
+DocID: CACM-2516
+
+
+
+DocID: CACM-1135
+
+
+
+DocID: CACM-2902
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-0615
+
+
+
+DocID: CACM-0867
+
+
+
+DocID: CACM-2388
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2986
+
+
+
+DocID: CACM-2196
+
+
+
+DocID: CACM-1235
+
+
+
+DocID: CACM-1527
+
+
+
+DocID: CACM-0695
+
+
+
+DocID: CACM-2695
+
+
+
+DocID: CACM-1455
+
+
+
+DocID: CACM-2018
+
+
+
+DocID: CACM-1677
+
+
+
+DocID: CACM-1651
+
+
+
+DocID: CACM-3135
+
+
+
+DocID: CACM-2524
+
+
+
+DocID: CACM-2523
+
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-2141
+
+
+
+DocID: CACM-1861
+
+
+
+DocID: CACM-2828
+
+
+
+DocID: CACM-1334
+
+
+
+DocID: CACM-3012
+
+

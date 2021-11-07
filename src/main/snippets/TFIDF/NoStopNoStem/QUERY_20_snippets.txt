@@ -1,0 +1,637 @@
+TFIDF_NoStopNoStem
+
+Query
+graph theoretic algorithms appraise to sparse markets
+
+Top 100 Results (46 millisecs)
+
+
+DocID: CACM-2289
+
+solution of [graph] problems is the determination of algorithms  
+graph theory, cellular logic-in-memory arrays,  
+algorithms for distance and spanning tree problems  
+
+
+DocID: CACM-2177
+
+graph.  the [graph] may be represented either  i  as an  
+graph, separable, spanning tree, web grammar  
+cycle set, [graph] lobe, lobe decomposition  
+
+
+DocID: CACM-1847
+
+fundamental cycle set, [graph] algorithm, cycle, spanning tree  
+n^g where g depends on the type of [graph] involved.  
+graph.  a spanning tree is grown and the vertices examined  
+
+
+DocID: CACM-2695
+
+eigenvalues, [graph] bandwidth, [sparse] matrix  
+a [graph] [theoretic] algorithm which examines an arbitrary  
+in numerical linear algebra. consider the class of sparse  
+
+
+DocID: CACM-2368
+
+graph [algorithms] [graph] processing, shannon switching  
+games, game playing, [graph] theory, positional  
+an implemented [graph] algorithm for winning shannon switching games  
+
+
+DocID: CACM-2986
+
+operations on [sparse] relations  
+matrix, directed [graph] wirth-weber precedence  
+computational complexity, [sparse] relation, boolean  
+
+
+DocID: CACM-2490
+
+efficient [algorithms] for [graph] manipulation [h]  algorithm a447   
+graphs,analysis of [algorithms] [graph] manipulation  
+a [graph] into connected components, biconnected  
+
+
+DocID: CACM-2484
+
+storage allocation, tree, graph  
+different relations and [algorithms] results in different  
+and formulating [algorithms] under a given set of constraints.  
+
+
+DocID: CACM-3139
+
+np-complete, [graph] structure, balancing, graph  
+new methods to color the vertices of a graph  
+methods to color the vertices of a [graph] which rely  
+
+
+DocID: CACM-1961
+
+algorithm, [graph] theory, circuit search  
+in the [graph] to give a relation between speed and complexity.  
+an efficient search algorithm to find the elementary circuits of a graph  
+
+
+DocID: CACM-2630
+
+in a directed [graph]  these [algorithms] generalize the floyd  
+graph, network, shortest path, algorithm  
+two [algorithms] are presented that construct  
+
+
+DocID: CACM-2884
+
+permutations, loop-free algorithms  
+classical permutation enumeration [algorithms] encounter  
+permutation enumeration: four new permutation algorithms  
+
+
+DocID: CACM-2692
+
+these [algorithms] are able to clip polygons  
+clipping window.  the [algorithms] described achieve  
+a new family of clipping [algorithms] is described.  
+
+
+DocID: CACM-2263
+
+algorithms  
+two new [algorithms] for deriving optimal and  
+one of the [algorithms] called the optimum-finding algorithm,  
+
+
+DocID: CACM-2950
+
+scheduling [algorithms] scheduling models, priority,  
+of time-invariant [algorithms] which include most  
+algorithms, the dependence of processing rates  
+
+
+DocID: CACM-2902
+
+algorithms.  simple [algorithms] operating on memory ordered  
+fragmentation.  [algorithms] main taining separate  
+well.  [algorithms] employing power-of-two block sizes  
+
+
+DocID: CACM-3018
+
+algorithms which always produce solutions  
+problem is established which allows algorithms  
+between this edge-clique-cover problem and the [graph] coloring  
+
+
+DocID: CACM-3176
+
+storing a [sparse] table  
+sparse matrix, table compression, table lookup  
+the problem of storing and searching large [sparse] tables is ubiquitous in  
+
+
+DocID: CACM-2178
+
+graph processing, programming language, formal semantics,  
+directed [graph] lisp, network, data structure,  
+a language extension for [graph] processing and its formal semantics  
+
+
+DocID: CACM-2627
+
+algorithms, deterministic scheduling models  
+time, sequencing [algorithms] optimal scheduling  
+which extend and generalize the [algorithms] known for  
+
+
+DocID: CACM-2883
+
+can be solved using well-known [graph] search [algorithms]  
+are discussed, showing that the [graph] search  
+as a shortest path problem on a [graph] and  
+
+
+DocID: CACM-3166
+
+four [algorithms] for the numerical computation  
+and computational literature; the other two are new algorithms  
+algorithms will provide accurate answers for many problems, but two  
+
+
+DocID: CACM-2767
+
+a comparison of simulation event list algorithms  
+the advantages and limitations of the [algorithms]  
+four [algorithms] are considered which can be used  
+
+
+DocID: CACM-2903
+
+recursion elimination, pattern matching [algorithms]  
+by using recursion in troduction, algorithms  
+recursive [algorithms] in which no stack operations  
+
+
+DocID: CACM-2619
+
+graph coloring conditions for the existence  
+of a [graph]  the preconditions correspond to the unavailability  
+of a coloration of a [graph] is the required necessary  
+
+
+DocID: CACM-1924
+
+matrix [algorithms] array processing, paging [algorithms]  
+multiplication, and inversion [algorithms] shows  
+carefully designed matrix [algorithms] can lead to  
+
+
+DocID: CACM-2283
+
+thinning [algorithms] rectangular, hexagonal,  
+and the relative performances of the algorithms  
+in this report three thinning [algorithms] are  
+
+
+DocID: CACM-2146
+
+sorting, polyphase sorting, dispersion [algorithms]  
+new dispersion [algorithms] with more straightforward  
+various dispersion [algorithms] for the polyphase  
+
+
+DocID: CACM-2674
+
+that the noninteractive [algorithms] can significantly  
+scan conversion [algorithms] which have been  
+and the other to interactive applications.  the algorithms  
+
+
+DocID: CACM-2819
+
+codes, n-gram encoding, comparison of algorithms  
+two [algorithms] for encoding a string differ  
+parameters in the [algorithms] are optimized to obtain  
+
+
+DocID: CACM-2052
+
+tree, undirected linear graph  
+conflicts in scheduling can be treated as defining an undirected linear graph  
+constraints of time and space.  each connected component of such a [graph]  
+
+
+DocID: CACM-2273
+
+two [algorithms] for generating computer programs  
+from decision tables are described.  the algorithms  
+entry tables.  the [algorithms] are based on the  
+
+
+DocID: CACM-2936
+
+published [algorithms]  first, the new algorithm's  
+recently [algorithms] have been presented for the  
+of commonly used simple linked list [algorithms]  in this  
+
+
+DocID: CACM-3156
+
+graph theory, parallel processing, [algorithms]  
+components of an undirected [graph] with n vertices in time o log2n .  an  
+
+
+DocID: CACM-2189
+
+permutation, [graph] theory, scheduling, combinatorial algebra  
+is described.  in a nonoriented complete [graph] with  
+the permutation is determined by {e[k]}.  two algorithms  
+
+
+DocID: CACM-3124
+
+construction of data-driven [algorithms]  
+trees, data-driven [algorithms] theory of arrays  
+between the definitional systems are given and illustrated through graph  
+
+
+DocID: CACM-3006
+
+fault frequency, paging algorithms  
+algorithms, virtual memory, working set, page  
+anomalies with variable partition paging algorithms  
+
+
+DocID: CACM-1856
+
+
+
+DocID: CACM-2863
+
+realizable variable space [algorithms]  
+page replacement [algorithms] optimal page replacement  
+and the page partitioning replacement algorithms  
+
+
+DocID: CACM-2568
+
+nondirected network, [graph] subgraph, strongly  
+a [graph] formulation of a school scheduling algorithm  
+
+
+DocID: CACM-2598
+
+a computer program.  the [algorithms] considered  
+explore the limitations of [algorithms] used to solve  
+
+
+DocID: CACM-2980
+
+of the region adjacency [graph]  the scheme  
+is based on definitions of [graph] properties which are  
+editing is equivalent to fast [graph] operations.  a number of examples are shown.  
+
+
+DocID: CACM-2015
+
+merger algorithm, minimum cost inverse-arborescence, [graph] theory  
+inverse-arborescence of that [graph]  the validity of the technique is  
+given a precedence grammar. a [graph] formulation is used for the problem of  
+
+
+DocID: CACM-2059
+
+colored [graph] language extended algol,  
+graph operations such as node and/or link deletion or insertion, union,  
+a language for the representation of [graph] is described, and the formulation of  
+
+
+DocID: CACM-2226
+
+the [algorithms] as a suboptimizer is indicated.  
+further evidence for the analysis of algorithms  
+operations research, integer programming, zero-one variables, algorithms  
+
+
+DocID: CACM-2828
+
+visible surface [algorithms] hidden surface [algorithms]  
+hierarchical geometric models for visible surface algorithms  
+
+
+DocID: CACM-2181
+
+grant, is established to [appraise] the state of the art  
+
+
+DocID: CACM-2402
+
+digital computers encourages the development of algorithms  
+pattern recognition [algorithms] is hindered by the fact  
+
+
+DocID: CACM-2290
+
+directed [graph] shortest path, articulation,  
+predominator, immediate predominator, [graph] theory,  
+immediate predominators in a directed [graph] [h]  algorithm a430   
+
+
+DocID: CACM-0321
+
+algol and to write [algorithms] in it.  the language  
+
+
+DocID: CACM-1504
+
+algorithms for finding a fundamental set  
+of cycles for an undirected linear graph  
+given the adjacency matrix of the [graph] the algorithm  
+
+
+DocID: CACM-2483
+
+programming,chess [algorithms] lasker regions, fischer  
+move selection.  the tree searching algorithms  
+that maps the lasker regions.  specific chess algorithms  
+
+
+DocID: CACM-2701
+
+analysis, information propagation, flow [graph] reducibility,  
+for a [graph] of e edges, the algorithm has a  
+
+
+DocID: CACM-2167
+
+algorithms and the number[theoretic] conjectures on which  
+algorithms for certain classes of expressions are included.  
+
+
+DocID: CACM-2780
+
+sparse matrices, triangular factorization, elements  
+on computing certain elements of the inverse of a [sparse] matrix  
+
+
+DocID: CACM-2506
+
+a [sparse] matrix package  algorithm r408   
+matrix, [sparse] matrix, matrix manipulation, fortran standards  
+
+
+DocID: CACM-2199
+
+matrix, [sparse] matrix, matrix manipulation  
+a [sparse] matrix package  part i  [f4]  algorithm 408   
+
+
+DocID: CACM-3040
+
+backtrack, combinatorial [algorithms] constraint  
+networks, constraint satisfaction, [graph] coloring,  
+
+
+DocID: CACM-2325
+
+of computation, [algorithms] continuous algorithms  
+complexity , synthesis and analysis of [algorithms]  
+of continuous [algorithms]  four of the components  
+
+
+DocID: CACM-1658
+
+programming, zero-one variables, algorithms  
+of several existing [algorithms] for the  
+analysis of [algorithms] for the zero-one programming problem  
+
+
+DocID: CACM-2877
+
+flow graphs, [algorithms] compilers  
+possibly "reach" each node of the control flow graph  
+"live" on each edge of the [graph]  the procedure uses  
+
+
+DocID: CACM-2722
+
+very efficiently.  various utility [algorithms] are developed;  
+far surpass the best currently known [algorithms] for  
+of searches , o  n log n .  search algorithms  
+
+
+DocID: CACM-1392
+
+of mathematical expression manipulation algorithms  
+formac expand and differentiation [algorithms] a  
+in the design of [algorithms] for manipulating  
+
+
+DocID: CACM-2645
+
+analysis of algorithms  
+on the analysis of [algorithms] and some of the directions  
+
+
+DocID: CACM-2499
+
+algorithms, these are not arbitrary accounting  
+dynamically adjust its allocation [algorithms] to  
+
+
+DocID: CACM-2769
+
+matrix, directed [graph] digraph, boolean  
+although it executes faster for [sparse] matrices  
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-3132
+
+experiments with some [algorithms] that find  
+than a noncentral hyperplane.  six [algorithms] for finding central  
+three [algorithms] which are defined in the paper are found to be  
+
+
+DocID: CACM-3163
+
+more complicated than the corresponding [algorithms] for avl trees.  
+the insertion and deletion [algorithms] for oshb trees appear much  
+ly known insertion [algorithms] of hirschberg and kosaraju, which require  
+
+
+DocID: CACM-1877
+
+the [algorithms] are both necessary and sufficient  
+which could have been safely granted.  algorithms  
+to prevent deadlock.  the [algorithms] have been successfully used in the the system.  
+
+
+DocID: CACM-2905
+
+distributed sets, this method can give rather [sparse] tables.  
+
+
+DocID: CACM-3153
+
+the context of a paged computer system.  two parameterized algorithms  
+alocation parameters on the expected response times under the two [algorithms]  
+
+
+DocID: CACM-1886
+
+factorization [algorithms] code optimization, sequencing  
+necessarily generated.  the factorization algorithms  
+
+
+DocID: CACM-2324
+
+programming, management science, operations research, algorithms  
+algorithms to demonstrate which techniques are best for specific problems.  
+
+
+DocID: CACM-2389
+
+and the search [algorithms] are detailed.  
+according to a variety of constraints.  the algorithms  
+
+
+DocID: CACM-2838
+
+algorithms for recovering discarded list structures in  
+parallel processing, real time, data structures, analysis of algorithms  
+
+
+DocID: CACM-2053
+
+two [algorithms] for programming decision tables whose merits  
+resulting in storage economy.  a comparison of the [algorithms] and others  
+
+
+DocID: CACM-2035
+
+display editing, display oriented system, filing [algorithms] lap6,  
+tape [algorithms] to minimize the limitations of the small memory.  techniques  
+
+
+DocID: CACM-2925
+
+toroidal [graph]  a new fast algorithm for finding such  
+
+
+DocID: CACM-2195
+
+programming, interaction [graph] secondary optimization problem  
+
+
+DocID: CACM-2679
+
+claims.  of all these [algorithms] quickersort requires  
+for six acm [algorithms] quicksort  no. 64 ,  
+402 .  [algorithms] 271 and 402 are refinements of algorithm  
+
+
+DocID: CACM-0618
+
+main types, and the [markets] for each type are  
+
+
+DocID: CACM-2832
+
+on previous context tree retrieval [algorithms]  
+the search rapid.  [algorithms] for addition and  
+
+
+DocID: CACM-2094
+
+d by properties which permit the application of special [algorithms]  
+mainly based on the exchange [algorithms] of remes  1934, 1935 , for  
+
+
+DocID: CACM-3152
+
+rather than to use the best known [algorithms] which leave the  
+
+
+DocID: CACM-3094
+
+analyses of deterministic parsing algorithms  
+
+
+DocID: CACM-2453
+
+previously published heuristic [algorithms]  compared  
+
+
+DocID: CACM-2753
+
+
+
+DocID: CACM-0670
+
+
+
+DocID: CACM-2480
+
+
+
+DocID: CACM-1671
+
+
+
+DocID: CACM-2020
+
+
+
+DocID: CACM-1727
+
+program correspondence, program [graph] one-entry  
+
+
+DocID: CACM-2997
+
+computational complexity, convex hull, optimal [algorithms]  
+proposed [algorithms] is optimal within a multiplicative  
+log n  operations.  the presented [algorithms] use the "divide  
+
+
+DocID: CACM-1551
+
+on compiling [algorithms] for arithmetic expressions  
+algorithms generate an object code which minimizes  
+this paper deals with [algorithms] concerning arithmetic  
+
+
+DocID: CACM-1457
+
+data structures, including linear text, [sparse] matrices,  
+
+
+DocID: CACM-2752
+
+basic cycle, cycle, graph  
+generation of all the cycles of a [graph] from  
+
+
+DocID: CACM-2430
+
+algorithm, [graph] theory, circuit search  
+the elementary circuits of a [graph] [h]  algorithm a459   
+
+
+DocID: CACM-2934
+
+graph, network, shortest path, algorithm, ranking  
+comment on computing the k shortest paths in a graph  
+
+
+DocID: CACM-2172
+
+plot, [graph] line printer plot  
+graph plotter [j6]  algorithm 412   
+

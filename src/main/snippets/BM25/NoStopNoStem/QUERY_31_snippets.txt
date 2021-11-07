@@ -1,0 +1,539 @@
+BM25_NoStopNoStem
+
+Query
+id lie to find abilities describing the use of singular value discrimination digital image processing.  applications include finding applications-no the original image and rounding images taught are secret to noise. adaptive on the secret is h. address and c. patterson "outer programmingchess and tiler uses in digital image processing", american mthtemadicaln
+a
+arews, h.
+patterson, c.
+
+Top 100 Results (1171 millisecs)
+
+
+DocID: CACM-3047
+
+image transformation, [image] matching, shaded images  
+image with a synthetic [image] obtained from a surface  
+image registration, synthetic [images] surface models,  
+
+
+DocID: CACM-1686
+
+of the [images] reconstructed from [digital] holograms are presented.  
+mathematics, [image] processing  
+applications, display device, photography, physics,  
+
+
+DocID: CACM-2065
+
+image [processing] biomedical [image] [processing] on-line [image] [processing]  
+processing, semiautomatic picture [processing] semiautomatic  
+picture [processing] biomedical picture [processing] on-line picture  
+
+
+DocID: CACM-2370
+
+recognition,and [image] [processing] are presented.  
+terminal, [image] [processing] pattern recognition  
+digital computer, dot-mode and vector displays,  
+
+
+DocID: CACM-2529
+
+pattern reconstruction, [image] reconstruction,  
+data compression, picture processing  
+
+
+DocID: CACM-2528
+
+pattern reconstruction, [image] reconstruction,  
+data compression, picture processing  
+
+
+DocID: CACM-1327
+
+is based on the creation of a binary image  
+the decision table [image] to arrive at the proper  
+a binary [image] of a given set of input conditions  
+
+
+DocID: CACM-2283
+
+to [image] irregularities and [noise] yet it will yield  
+triangular arrays, [image] [processing] skeleton  
+a thinned [image] with an overall reduced number of  
+
+
+DocID: CACM-2142
+
+encoding, [image] [processing] linear programming,  
+approximation, biomedical [image] [processing] efficient  
+picture [processing] stereology, x-ray analysis  
+
+
+DocID: CACM-1144
+
+manipulation of the [digital] [image] of the nuclear  
+digital computer determination of alpha source activity  
+has many uses and [applications] in the field  
+
+
+DocID: CACM-2125
+
+digitized [image] connection tree, minimal polygon,  
+contour from a digitized [image] is illustrated.  
+image scan.  a minimal perimeter polygon subjected to specified constraints  
+
+
+DocID: CACM-3013
+
+image [processing] pattern recognition, edge detection  
+the standard [digital] laplacian and gradient.  a third  
+to one of the standard [digital] approximations to the gradient.  
+
+
+DocID: CACM-2826
+
+image sequence that require enhancement.  
+the simplicity of the stick figure [image] encourages  
+to drive an [image] sequence through the same movement.  
+
+
+DocID: CACM-3015
+
+biomedical [image] [processing] [image] reconstruction,  
+relaxation methods for [image] reconstruction  
+practical consequences for [image] reconstruction of the  
+
+
+DocID: CACM-2421
+
+line drawing, discrete [image] dot generation  
+the next portion.  because of the list processing  
+memory buffer area is used to accumulate the binary image  
+
+
+DocID: CACM-1891
+
+the projected video [images] of an object,  
+separation is achieved by viewing the image  
+thus creating a superimposed [image] on the screen.  optical  
+
+
+DocID: CACM-2211
+
+fast graphical interaction.  a scanned [image] of  
+computer installation.  the scanned [image] is stored  
+
+
+DocID: CACM-1741
+
+display, tv display console, [digital] tv display,  
+generating a binary [image] of the desired display in a  
+computer.  the [image] is written on a rotating drum  
+
+
+DocID: CACM-2674
+
+is most suitable to non-interactive applications  
+drawing, discrete [image] dot generation, matrix  
+to [include] general graphics.  two fundamentally different  
+
+
+DocID: CACM-0195
+
+patterson, g. w.  
+
+
+DocID: CACM-2004
+
+half-tone computer graphics, line-scan [image] [processing]  
+
+
+DocID: CACM-2687
+
+image, dot generation, matrix displays  
+organization to [include] general graphics.  the feasibility  
+
+
+DocID: CACM-2231
+
+pattern reconstruction, [image] reconstruction, data  
+the [original] pattern f?  in this paper we give a characterization  
+
+
+DocID: CACM-1424
+
+automatic analysis of electronic [digital] circuits using list processing  
+a mapping from black diagrams of [digital] circuits  
+with a list [processing] program written for the control  
+
+
+DocID: CACM-2415
+
+patterson, t. n. l.  
+
+
+DocID: CACM-1929
+
+computer [images] half tone pictures, microfilm plotters; processing  
+images from computers and microfilm plotters  
+digital computers are widely used for the  
+
+
+DocID: CACM-2689
+
+report generation, automated systems design, data [processing] management  
+
+
+DocID: CACM-0931
+
+systematic mistake analysis of [digital] computer programs  
+
+
+DocID: CACM-3021
+
+digital signatures, public-key cryptosystems,  
+has obvious [applications] in "electronic mail" and "electronic  
+specified product, n, of two large [secret] prime  
+
+
+DocID: CACM-0606
+
+to signal coincidence in [digital] design  
+
+
+DocID: CACM-2622
+
+himself by entering a [secret] password  
+keeping the table [secret]  in this paper a password  
+
+
+DocID: CACM-2041
+
+sorting, minimal storage sorting, [digital] computer sorting  
+
+
+DocID: CACM-0415
+
+the use of [digital] computers in western germany  
+
+
+DocID: CACM-1919
+
+sorting, minimal storage sorting, [digital] computer sorting  
+
+
+DocID: CACM-2788
+
+finding circles by an array of accumulators  
+picture [processing] pattern recognition, curve detection,line fitting  
+
+
+DocID: CACM-0104
+
+digital simulation of discrete flow systems*  
+items along interacting channels.  programing a digital  
+storage capacities and [processing] rates.  in the other,  
+
+
+DocID: CACM-0533
+
+digital synthesis of correlated stationary noise  
+strict-sense stationary [noise] which agrees  
+stationary [noise] with a prescribed auto-covariance  
+
+
+DocID: CACM-1108
+
+digital computer that extracts the measurements and  
+an optical sensor, [digital] computer and tracker  
+processing considerations have on the design of  
+
+
+DocID: CACM-1543
+
+of application of [digital] computers beyond the  
+numerical data [processing] stage.  moreover, this particular  
+techniques involved, a [digital] computer has been used  
+
+
+DocID: CACM-0973
+
+and high-speed [digital] computers, is  
+
+
+DocID: CACM-0597
+
+modular data [processing] systems written in cobol  
+
+
+DocID: CACM-1261
+
+the simulation of [digital] networks on a digital  
+describing the input-output relationship  
+modeling and simulation of [digital] networks  
+
+
+DocID: CACM-0175
+
+equations using a general purpose digital  
+
+
+DocID: CACM-1839
+
+singular values, matrix decomposition,  
+singular value decomposition of a complex  
+
+
+DocID: CACM-1428
+
+shock iii, an online [digital] computer system  
+
+
+DocID: CACM-1711
+
+for data [processing] services, in automating record  
+trade [secret] protection for programs, and the problem  
+
+
+DocID: CACM-0657
+
+information structures for [processing] and retrieving  
+
+
+DocID: CACM-1196
+
+computer [processing] can be formulated in terms  
+a large class of problems leading to digital  
+applications of differential equations in general problem solving  
+
+
+DocID: CACM-2910
+
+picture [processing] pattern recognition, curve  
+
+
+DocID: CACM-2663
+
+
+
+DocID: CACM-2402
+
+autocorrelation or [patterson] function, especially  
+digital computers encourages the development of algorithms  
+
+
+DocID: CACM-2362
+
+paged memory, virtual memory, array processing  
+
+
+DocID: CACM-0178
+
+
+
+DocID: CACM-0922
+
+
+
+DocID: CACM-0159
+
+
+
+DocID: CACM-0871
+
+
+
+DocID: CACM-0900
+
+
+
+DocID: CACM-0687
+
+
+
+DocID: CACM-1837
+
+digital filtering, permutation  
+
+
+DocID: CACM-1921
+
+digital filtering, permutation  
+
+
+DocID: CACM-1091
+
+
+
+DocID: CACM-0158
+
+
+
+DocID: CACM-0160
+
+
+
+DocID: CACM-1492
+
+
+
+DocID: CACM-0876
+
+
+
+DocID: CACM-0621
+
+
+
+DocID: CACM-0685
+
+
+
+DocID: CACM-0512
+
+
+
+DocID: CACM-0419
+
+
+
+DocID: CACM-1451
+
+
+
+DocID: CACM-0883
+
+
+
+DocID: CACM-0836
+
+
+
+DocID: CACM-1040
+
+
+
+DocID: CACM-0369
+
+
+
+DocID: CACM-2614
+
+
+
+DocID: CACM-0986
+
+for information processing  
+proposed amendment to proposed [american] standard  
+
+
+DocID: CACM-0835
+
+
+
+DocID: CACM-0831
+
+
+
+DocID: CACM-0510
+
+
+
+DocID: CACM-0358
+
+
+
+DocID: CACM-0515
+
+
+
+DocID: CACM-0733
+
+
+
+DocID: CACM-0734
+
+
+
+DocID: CACM-0339
+
+
+
+DocID: CACM-0390
+
+
+
+DocID: CACM-1571
+
+biological scientist and the [digital] computer.  
+with a highly sophisticated [digital] computing  
+the data [processing] laboratory of the brain  
+
+
+DocID: CACM-0493
+
+the property classification method of file design and processing  
+
+
+DocID: CACM-0583
+
+
+
+DocID: CACM-0333
+
+design of an improved* transmission/data [processing] code  
+
+
+DocID: CACM-1105
+
+on introducing [digital] computing  
+
+
+DocID: CACM-0804
+
+
+
+DocID: CACM-0659
+
+
+
+DocID: CACM-0735
+
+
+
+DocID: CACM-1039
+
+
+
+DocID: CACM-2643
+
+string [processing] spatial multiplexing  
+character sets in a [digital] computer while retaining  
+
+
+DocID: CACM-2824
+
+
+
+DocID: CACM-1146
+
+is presented.  all but one of the points [lie] on the  
+
+
+DocID: CACM-1957
+
+generation, sets, lists, file processing  
+set manipulating, list [processing] set  
+a construct which may be added to a list [processing] system or any  
+
+
+DocID: CACM-0135
+
+digital computers in universities-iv  
+
+
+DocID: CACM-0148
+
+digital computers in universities-iii  
+

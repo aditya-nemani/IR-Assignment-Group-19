@@ -1,0 +1,408 @@
+LUCENE_NoStopNoStem
+
+Query
+What articles exist which deal with TSS (Time Sharing System), an
+operating system for IBM computers?
+
+Top 100 Results (101 millisecs)
+
+
+DocID: CACM-1657
+
+
+
+DocID: CACM-1410
+
+
+
+DocID: CACM-2319
+
+
+
+DocID: CACM-1938
+
+
+
+DocID: CACM-1827
+
+
+
+DocID: CACM-2218
+
+
+
+DocID: CACM-2054
+
+
+
+DocID: CACM-1844
+
+
+
+DocID: CACM-2629
+
+
+
+DocID: CACM-1605
+
+
+
+DocID: CACM-2357
+
+
+
+DocID: CACM-1591
+
+
+
+DocID: CACM-1161
+
+
+
+DocID: CACM-1033
+
+
+
+DocID: CACM-2378
+
+
+
+DocID: CACM-2379
+
+
+
+DocID: CACM-1749
+
+
+
+DocID: CACM-2535
+
+
+
+DocID: CACM-1698
+
+
+
+DocID: CACM-1487
+
+
+
+DocID: CACM-2371
+
+
+
+DocID: CACM-2541
+
+
+
+DocID: CACM-2947
+
+
+
+DocID: CACM-2950
+
+
+
+DocID: CACM-1506
+
+
+
+DocID: CACM-1519
+
+
+
+DocID: CACM-2151
+
+
+
+DocID: CACM-2501
+
+
+
+DocID: CACM-2424
+
+
+
+DocID: CACM-1572
+
+
+
+DocID: CACM-2946
+
+
+
+DocID: CACM-1908
+
+
+
+DocID: CACM-2632
+
+
+
+DocID: CACM-2219
+
+
+
+DocID: CACM-2344
+
+
+
+DocID: CACM-1805
+
+
+
+DocID: CACM-0637
+
+
+
+DocID: CACM-1225
+
+
+
+DocID: CACM-1544
+
+
+
+DocID: CACM-1408
+
+
+
+DocID: CACM-1523
+
+
+
+DocID: CACM-1391
+
+
+
+DocID: CACM-1752
+
+
+
+DocID: CACM-2003
+
+
+
+DocID: CACM-1647
+
+
+
+DocID: CACM-2380
+
+
+
+DocID: CACM-0585
+
+
+
+DocID: CACM-1071
+
+
+
+DocID: CACM-1226
+
+
+
+DocID: CACM-2764
+
+
+
+DocID: CACM-1393
+
+
+
+DocID: CACM-2948
+
+
+
+DocID: CACM-1680
+
+
+
+DocID: CACM-0698
+
+
+
+DocID: CACM-1685
+
+
+
+DocID: CACM-1462
+
+
+
+DocID: CACM-1854
+
+
+
+DocID: CACM-1464
+
+
+
+DocID: CACM-2500
+
+
+
+DocID: CACM-2920
+
+
+
+DocID: CACM-1750
+
+
+
+DocID: CACM-3068
+
+
+
+DocID: CACM-3127
+
+
+
+DocID: CACM-1264
+
+
+
+DocID: CACM-3023
+
+
+
+DocID: CACM-2522
+
+
+
+DocID: CACM-1315
+
+
+
+DocID: CACM-1747
+
+
+
+DocID: CACM-3025
+
+
+
+DocID: CACM-2365
+
+
+
+DocID: CACM-2439
+
+
+
+DocID: CACM-2317
+
+
+
+DocID: CACM-2838
+
+
+
+DocID: CACM-1440
+
+
+
+DocID: CACM-1542
+
+
+
+DocID: CACM-3011
+
+
+
+DocID: CACM-2358
+
+
+
+DocID: CACM-2917
+
+
+
+DocID: CACM-2201
+
+
+
+DocID: CACM-1590
+
+
+
+DocID: CACM-2841
+
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-2080
+
+
+
+DocID: CACM-1046
+
+
+
+DocID: CACM-3069
+
+
+
+DocID: CACM-3174
+
+
+
+DocID: CACM-0971
+
+
+
+DocID: CACM-2092
+
+
+
+DocID: CACM-2681
+
+
+
+DocID: CACM-1885
+
+
+
+DocID: CACM-1828
+
+
+
+DocID: CACM-1626
+
+
+
+DocID: CACM-1892
+
+
+
+DocID: CACM-1753
+
+
+
+DocID: CACM-2390
+
+
+
+DocID: CACM-1179
+
+
+
+DocID: CACM-1173
+
+
+
+DocID: CACM-2560
+
+
+
+DocID: CACM-1960
+
+
+
+DocID: CACM-3065
+
+

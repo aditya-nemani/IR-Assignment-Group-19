@@ -1,0 +1,519 @@
+TFIDF_NoStopNoStem
+
+Query
+the use of couger science principles (e.g. data surceutrts, 
+numerical motehds) in generating optimization (e.g. linear programming)
+aimhltrogs.  this induces issues of the keplerian (russian, ellipsoidal)
+algorithm and complexity of such aimhltrogs.
+
+Top 100 Results (671 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+kutta merson  [algorithm] 218 [d2]   
+
+
+DocID: CACM-0994
+
+stringsort  [algorithm] 207 [m1]   
+
+
+DocID: CACM-0995
+
+steep1  [algorithm] 203 [e4]   
+
+
+DocID: CACM-0996
+
+permutations of a set with repetitions  [algorithm] 242 [g6]   
+
+
+DocID: CACM-0990
+
+constraint-type statements in [programming] languages  
+a proposal is made for including in a programming  
+
+
+DocID: CACM-0991
+
+gamma function with controller accuracy  [algorithm] 225 [s14]   
+
+
+DocID: CACM-0992
+
+gamma function  [algorithm] 221 [s14]   
+
+
+DocID: CACM-2703
+
+grammars, computational [complexity] exponential  
+the intrinsically exponential [complexity] of  
+version of knuth's circularity testing algorithm  
+
+
+DocID: CACM-2702
+
+computational [complexity] context-free grammars,  
+on the [complexity] of lr k  testing  
+the [complexity] of the problem depends very strongly  
+
+
+DocID: CACM-2705
+
+programming languages, natural languages, and mathematics  
+some social aspects of [programming] are illuminated  
+speaks for [programming] language design based on general,  
+
+
+DocID: CACM-2704
+
+structured [programming] on conditions, programming  
+exception handling: [issues] and a proposed notation  
+to highlight exception handling [issues] by showing  
+
+
+DocID: CACM-2701
+
+global flow analysis, [data] flow, code [optimization]  
+a fast and usually [linear] [algorithm] for global  
+go-to-less [programming] depth-first search,  
+
+
+DocID: CACM-2700
+
+
+
+DocID: CACM-2707
+
+backtrack [programming] techniques  
+
+
+DocID: CACM-2706
+
+computational [complexity] polynomial completeness,  
+
+
+DocID: CACM-2709
+
+structured [programming] control structures,  
+
+
+DocID: CACM-2708
+
+
+
+DocID: CACM-0975
+
+
+
+DocID: CACM-0976
+
+fresnel integrals  [algorithm] 213 [s20]   
+
+
+DocID: CACM-0977
+
+julian day number  [algorithm] 199 [z]   
+
+
+DocID: CACM-0978
+
+fresnel integrals  [algorithm] 244 [s20]   
+
+
+DocID: CACM-0971
+
+
+
+DocID: CACM-0972
+
+over the on-line [data] link is used to update the [data] files  
+the orderly transitions of control among the programming  
+view replies.  a [data] link permits remote stations  
+
+
+DocID: CACM-0973
+
+
+
+DocID: CACM-0974
+
+
+
+DocID: CACM-0970
+
+treesort 3  [algorithm] [m1]   
+
+
+DocID: CACM-0979
+
+logarithm of a complex number  [algorithm] 243 [b3]   
+
+
+DocID: CACM-0986
+
+
+
+DocID: CACM-0987
+
+for information processing on automatic data  
+fortran vs. basic fortran  a [programming] language  
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+
+
+DocID: CACM-0983
+
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+
+
+DocID: CACM-0981
+
+rounding problems in commercial [data] processing  
+a common requirement in commercial [data] processing  
+
+
+DocID: CACM-1405
+
+matrix triangulation with integer arithmetic  [algorithm] 287 [f1]   
+
+
+DocID: CACM-2736
+
+
+
+DocID: CACM-1404
+
+operator calculus developed by hartly for programming  
+results are illustrated by a [numerical] example for  
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1407
+
+confidence interval for a ratio  [algorithm] 289 [g1]   
+
+
+DocID: CACM-2738
+
+structured [programming] systems.  it develops  
+
+
+DocID: CACM-1406
+
+solution of simultaneous [linear] diophantine  
+equations  [algorithm] 288 [f4]   
+
+
+DocID: CACM-2737
+
+
+
+DocID: CACM-1401
+
+
+
+DocID: CACM-2732
+
+programming methodology  
+semantics, [programming] language semantics,  
+programming languages, sequencing primitives, program  
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2731
+
+remark on stably updating mean and standard deviation of data  
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2734
+
+to obtain better [data] on the relative performance of  
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-2733
+
+programming language specification, parser generation,  
+methods of describing the syntax of programming  
+
+
+DocID: CACM-2730
+
+interactive [programming] time-sharing systems, natural  
+interactive [programming] systems often contain  
+
+
+DocID: CACM-1409
+
+
+
+DocID: CACM-1408
+
+
+
+DocID: CACM-2739
+
+natural language, parsing, grammar, [programming] languages  
+presents a [programming] language designed specifically  
+
+
+DocID: CACM-1416
+
+
+
+DocID: CACM-2747
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-2746
+
+finite state machines, computational [complexity]  
+this paper describes a simple, efficient algorithm  
+of keywords.  the [algorithm] has been used to  
+
+
+DocID: CACM-1418
+
+examination scheduling  [algorithm] 286 [zh]   
+
+
+DocID: CACM-2749
+
+
+
+DocID: CACM-1417
+
+comparisons are made between the [data] developed  
+much of the [data]  sizable economies of scale are  
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+data processing equipment is being sought.  this,  
+of [data] base approach toward a banking information  
+common store of [data] contained in the direct access  
+
+
+DocID: CACM-2743
+
+merge sorting, computational [complexity] data  
+
+
+DocID: CACM-1411
+
+systematically generated test [data]  the statistics  
+correlation coefficient.  for each statistic, the algorithm  
+mean be obtained from a subset of the [data]  
+
+
+DocID: CACM-2742
+
+
+
+DocID: CACM-1414
+
+
+
+DocID: CACM-2745
+
+a [linear] space [algorithm] for computing maximal common subsequences  
+solve this problem in quadratic time and in linear  
+time and space.  an [algorithm] is presented which will  
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2744
+
+old [programming] technique; using it,one may add  
+
+
+DocID: CACM-1410
+
+the [optimization] of time-shared system performance  
+more satisfactory approximation to the [data] can  
+interarrival time distribution.  the [data] obtained  
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-1419
+
+chebyshev quadrature  [algorithm] 279 [d1]   
+
+
+DocID: CACM-2714
+
+the previous best parallel merging [algorithm]  
+working synchronously.  the paper presents an algorithm  
+the [algorithm] requires 2[log2  m+1 ] + [m/p] 3+k   
+
+
+DocID: CACM-2713
+
+standard deviation of [data]  corrigendum   
+
+
+DocID: CACM-2716
+
+file, automatic [programming] query language,  
+relational database, database [optimization] inverted  
+data manipulation language, very high level language  
+
+
+DocID: CACM-2715
+
+database, [data] structure, [data] organization  
+query.  the [optimization] algorithms designed  
+sequel is a relational [data] sublanguages intended  
+
+
+DocID: CACM-2710
+
+the square [data] sublanguage  
+data, interactive problem solving, nonprocedural  
+database, [data] sublanguages, relations, query languages,  
+
+
+DocID: CACM-2712
+
+algorithm is given which does not show a combinatorial  
+operation count.  the [algorithm] is based on a generalization  
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-2718
+
+design, [data] structure, automatic [programming]  
+specifications.  the automatic [programming] technology  
+structures conforming to the [data] base task group  
+
+
+DocID: CACM-2717
+
+data conversion, [data] restructuring, [data] translation,  
+definition language for [data] conversion  
+utility program, [programming] languages, nonprocedural languages  
+
+
+DocID: CACM-2719
+
+manipulation, [programming] languages, analysis  
+generating functions, list processing, lisp, algebraic  
+
+
+DocID: CACM-2725
+
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+byte processing, character processing, packed data  
+processing of packed [data] items using only ordinary  
+for processing small [data] items such as alphanumeric  
+
+
+DocID: CACM-2726
+
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-2720
+
+
+
+DocID: CACM-2723
+
+data structures, gc processor  
+
+
+DocID: CACM-2722
+
+data structure can handle many types of queries  
+these tasks.  an [algorithm] is presented to handle  
+o  log n ; and [optimization]  guarantees logarithmic performance  
+
+
+DocID: CACM-2729
+
+data compression, huffman codes, variable length  
+binary coded decimal digits, decimal [data] storage,  
+
+
+DocID: CACM-2728
+
+

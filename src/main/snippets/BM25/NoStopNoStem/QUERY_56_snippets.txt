@@ -1,0 +1,525 @@
+BM25_NoStopNoStem
+
+Query
+across relation the algebraic theory of sessions and mendicino the study of automata and reader laeaugngs.
+
+Top 100 Results (453 millisecs)
+
+
+DocID: CACM-2327
+
+automata [theory] brain [theory] network complexity,  
+a source of ideas for [automata] [theory]the study  
+toward an [automata] [theory] of brains  
+
+
+DocID: CACM-1678
+
+switching [theory] [theory] of computability  
+science program, [automata] formal languages,  
+automata, formal languages, abstract switching,  
+
+
+DocID: CACM-0055
+
+an [algebraic] translator  
+
+
+DocID: CACM-1253
+
+to the [reader] familiar with [algebraic] languages.  
+simscript and programmed entirely in an algebraic  
+
+
+DocID: CACM-2323
+
+algebraic manipulation, special functions, algebraic  
+simplification, symbolic integration, algebraic  
+toward a general [theory] of special functions  
+
+
+DocID: CACM-0001
+
+preliminary report-international [algebraic] language  
+
+
+DocID: CACM-2346
+
+information [theory] coding [theory] hu-tucker  
+
+
+DocID: CACM-2974
+
+sequence, complementary [relation] search  
+
+
+DocID: CACM-2449
+
+of structured variables based on simple automata  
+theory is presented. the technique offers a deterministic  
+
+
+DocID: CACM-0393
+
+two subroutines for symbol manipulation with an [algebraic] compiler  
+
+
+DocID: CACM-0054
+
+sale, a simple [algebraic] language for engineers  
+
+
+DocID: CACM-1803
+
+complex equation, [algebraic] complex equation  
+
+
+DocID: CACM-3189
+
+an [algebraic] compiler for the fortran assembly program  
+assembly program. this compiler will expand all [algebraic] statements with the  
+an [algebraic] compiler has been written which may be added to the fortran  
+
+
+DocID: CACM-0093
+
+to translate simple [algebraic] formulas into a  
+
+
+DocID: CACM-2121
+
+partitions,number theory  
+
+
+DocID: CACM-2476
+
+language [theory] context-free grammars  
+
+
+DocID: CACM-1840
+
+prime numbers, factoring, number theory  
+
+
+DocID: CACM-1967
+
+number [theory] prime numbers, complex numbers  
+
+
+DocID: CACM-2416
+
+primitive roots, number theory  
+
+
+DocID: CACM-0099
+
+possible modifications to the international [algebraic] language  
+
+
+DocID: CACM-2290
+
+predominator, immediate predominator, graph [theory]  
+
+
+DocID: CACM-1991
+
+automata, finite [automata] singly generated [automata] automorphisms,  
+
+
+DocID: CACM-2090
+
+multiplication, [algebraic] distribution,  
+algebraic multiplication, distribution algorithm,  
+symbolic expansion of [algebraic] expressions  algorithm 377 $r2    
+
+
+DocID: CACM-2258
+
+techniques: a fundamental performance [study] on  
+
+
+DocID: CACM-0850
+
+in [relation] to  1  their conversion from input formats,  
+
+
+DocID: CACM-1841
+
+prime numbers, number [theory] sorting  
+
+
+DocID: CACM-2133
+
+operations research, optimization [theory]  
+
+
+DocID: CACM-1168
+
+
+
+DocID: CACM-2931
+
+we have a unified [theory]  
+logic, programming languages, [automata] denotational  
+computability [theory]  programming languages offer  
+
+
+DocID: CACM-2112
+
+directed compilers, finite state automata  
+automata, turing machines, regular expression, transduction  
+the translator consists of mealy form finite-state [automata] interacting  
+
+
+DocID: CACM-1048
+
+fields as electrostatic  field [theory] heat  
+and ideal fluid flow, and stress concentration theory  
+to the [study] of an elliptic partial differential equation.  
+
+
+DocID: CACM-2061
+
+context-free grammars, formal languages, pushdown automata  
+pushdown [automata] which generate the different reduction classes  
+runs of the pushdown [automata] generating the reduction classes.  
+
+
+DocID: CACM-2779
+
+recurrence [relation] between orthogonal polynomials,  
+the recurrence [relation] between orthogonal polynomials  
+
+
+DocID: CACM-0021
+
+algebraic formulation of flow diagrams  
+
+
+DocID: CACM-2932
+
+complexity of computations, [algebraic] complexity,  
+the framework for research in the [theory] of complexity  
+
+
+DocID: CACM-2166
+
+of automated [algebraic] manipulation which  
+automated [algebraic] manipulation in celestial mechanics  
+a typical problem in perturbation [theory] is described.  
+
+
+DocID: CACM-2134
+
+operations research, optimization [theory] assignment  
+algol procedure are discussed, and a [relation] between  
+
+
+DocID: CACM-2813
+
+research, national research study  
+organization, and schedule for this nsf supported study  
+the computer science and engineering research [study]  cosers   
+
+
+DocID: CACM-1008
+
+any meeting with parallel [sessions]  
+
+
+DocID: CACM-1334
+
+newcomb operators of planetary theory  
+to perform the [algebraic] operations.  formulas for over  
+of planetary [theory]  the newcomb operators are expressed  
+
+
+DocID: CACM-1211
+
+completely dynamic.  its [relation] to similar schemes is discussed.  
+
+
+DocID: CACM-0164
+
+a short [study] of notation efficiency  
+
+
+DocID: CACM-0864
+
+an empirical [study] of minimal storage sorting  
+
+
+DocID: CACM-1676
+
+mendicino, s. f.  
+
+
+DocID: CACM-2028
+
+number [theory] diophantine equations  
+
+
+DocID: CACM-2504
+
+computer composition,music theory  
+
+
+DocID: CACM-2255
+
+computer composition, music theory  
+
+
+DocID: CACM-0438
+
+mechanical pragmatics: a time-motion study  
+
+
+DocID: CACM-1258
+
+in many fields, for example [algebraic] number  
+theory, arithmetic must be carried out to a degree  
+
+
+DocID: CACM-1887
+
+a recursive [relation] relating leading principal  
+a recursive [relation] for the determinant of a pentadiagonal matrix  
+
+
+DocID: CACM-1154
+
+multi-tape and infinite-state [automata] -- a survey  
+than finite [automata] and less powerful than general  
+digital computers as either the finite [automata] or the  
+
+
+DocID: CACM-2672
+
+composition, music theory  
+
+
+DocID: CACM-2986
+
+grammar, t-canonical precedence relation  
+relation, linear precedence function, slr  
+computational complexity, sparse [relation] boolean  
+
+
+DocID: CACM-2809
+
+s. householder, the character and use of algebraic  
+methods in the [theory] of norms is demonstrated.  new results  
+
+
+DocID: CACM-1397
+
+the acm symposium on symbolic and algebraic  
+for manipulation of [algebraic] formulas and symbol  
+and [algebraic] manipulation.  the program committee consisted  
+
+
+DocID: CACM-1948
+
+computers in group [theory] a survey  
+group [theory] coset enumeration, subgroup lattices,  
+diverse range of problems in group [theory]  
+
+
+DocID: CACM-2650
+
+automata  
+finite state [automata] compiler error recovery,  
+
+
+DocID: CACM-1867
+
+asymptotic expected length, recursion [relation]  
+using complex-variable [theory] it is shown that l j   
+
+
+DocID: CACM-3203
+
+grad assistant - a program for symbolic [algebraic] manipulation and  
+abd differentiate [algebraic] expressions. it is designed for use with problemms  
+
+
+DocID: CACM-1214
+
+some experiments in [algebraic] manipulation by computer  
+a set of subroutines to allow [algebraic] manipulations  
+
+
+DocID: CACM-2648
+
+number [theory] package, trial division, multiprecise  
+a design for a number [theory] package  
+a number [theory] package is described which uses  
+
+
+DocID: CACM-1806
+
+complex equation, [algebraic] complex equation  
+presented.  although in [theory] the method always  
+
+
+DocID: CACM-1136
+
+beginnings of a [theory] of information handling*  
+
+
+DocID: CACM-2769
+
+matrix, binary relation  
+closure of a binary [relation] that is represented  
+
+
+DocID: CACM-0124
+
+solution is presented in algol code.  an empirical relation  
+
+
+DocID: CACM-2663
+
+a [study] of computer use in a graduate school of business  
+
+
+DocID: CACM-1726
+
+operator-controlled [reader] online [reader]  
+design of a general purpose page [reader] such as  
+
+
+DocID: CACM-2167
+
+algebraic manipulation, [algebraic] simplification,  
+capabilities in an [algebraic] manipulation  
+algebraic simplification is examined first from  
+
+
+DocID: CACM-1489
+
+
+
+DocID: CACM-0371
+
+
+
+DocID: CACM-1016
+
+
+
+DocID: CACM-0168
+
+
+
+DocID: CACM-0265
+
+
+
+DocID: CACM-1970
+
+
+
+DocID: CACM-0057
+
+
+
+DocID: CACM-0602
+
+
+
+DocID: CACM-1153
+
+
+
+DocID: CACM-1312
+
+
+
+DocID: CACM-1107
+
+
+
+DocID: CACM-0121
+
+
+
+DocID: CACM-0914
+
+
+
+DocID: CACM-0064
+
+
+
+DocID: CACM-0412
+
+
+
+DocID: CACM-0959
+
+
+
+DocID: CACM-0775
+
+
+
+DocID: CACM-0845
+
+
+
+DocID: CACM-0813
+
+
+
+DocID: CACM-0641
+
+
+
+DocID: CACM-0684
+
+
+
+DocID: CACM-1131
+
+
+
+DocID: CACM-0207
+
+
+
+DocID: CACM-2079
+
+
+
+DocID: CACM-2558
+
+
+
+DocID: CACM-1447
+
+
+
+DocID: CACM-0100
+
+
+
+DocID: CACM-0889
+
+
+
+DocID: CACM-0049
+
+
+
+DocID: CACM-0786
+
+
+
+DocID: CACM-1250
+
+
+
+DocID: CACM-2386
+
+

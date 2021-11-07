@@ -1,0 +1,408 @@
+LUCENE_NoStopNoStem
+
+Query
+Anything dealing with star height of regular languages or regular
+expressions or regular events.
+
+Top 100 Results (21 millisecs)
+
+
+DocID: CACM-1665
+
+
+
+DocID: CACM-2112
+
+
+
+DocID: CACM-2650
+
+
+
+DocID: CACM-2921
+
+
+
+DocID: CACM-1898
+
+
+
+DocID: CACM-1896
+
+
+
+DocID: CACM-1739
+
+
+
+DocID: CACM-1993
+
+
+
+DocID: CACM-1355
+
+
+
+DocID: CACM-2051
+
+
+
+DocID: CACM-2838
+
+
+
+DocID: CACM-1846
+
+
+
+DocID: CACM-1453
+
+
+
+DocID: CACM-1906
+
+
+
+DocID: CACM-3056
+
+
+
+DocID: CACM-3096
+
+
+
+DocID: CACM-1470
+
+
+
+DocID: CACM-1962
+
+
+
+DocID: CACM-1612
+
+
+
+DocID: CACM-3034
+
+
+
+DocID: CACM-3198
+
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-1469
+
+
+
+DocID: CACM-2078
+
+
+
+DocID: CACM-3064
+
+
+
+DocID: CACM-1886
+
+
+
+DocID: CACM-1379
+
+
+
+DocID: CACM-1235
+
+
+
+DocID: CACM-3044
+
+
+
+DocID: CACM-3065
+
+
+
+DocID: CACM-2398
+
+
+
+DocID: CACM-1324
+
+
+
+DocID: CACM-2253
+
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-2644
+
+
+
+DocID: CACM-1237
+
+
+
+DocID: CACM-2704
+
+
+
+DocID: CACM-2175
+
+
+
+DocID: CACM-3110
+
+
+
+DocID: CACM-1259
+
+
+
+DocID: CACM-3043
+
+
+
+DocID: CACM-2684
+
+
+
+DocID: CACM-1084
+
+
+
+DocID: CACM-1988
+
+
+
+DocID: CACM-2786
+
+
+
+DocID: CACM-2717
+
+
+
+DocID: CACM-3171
+
+
+
+DocID: CACM-1588
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-2320
+
+
+
+DocID: CACM-1488
+
+
+
+DocID: CACM-1035
+
+
+
+DocID: CACM-1152
+
+
+
+DocID: CACM-1456
+
+
+
+DocID: CACM-1223
+
+
+
+DocID: CACM-3040
+
+
+
+DocID: CACM-1216
+
+
+
+DocID: CACM-2710
+
+
+
+DocID: CACM-2267
+
+
+
+DocID: CACM-3128
+
+
+
+DocID: CACM-3026
+
+
+
+DocID: CACM-2470
+
+
+
+DocID: CACM-2939
+
+
+
+DocID: CACM-3113
+
+
+
+DocID: CACM-3082
+
+
+
+DocID: CACM-3158
+
+
+
+DocID: CACM-0944
+
+
+
+DocID: CACM-1696
+
+
+
+DocID: CACM-1999
+
+
+
+DocID: CACM-1551
+
+
+
+DocID: CACM-0719
+
+
+
+DocID: CACM-2889
+
+
+
+DocID: CACM-2767
+
+
+
+DocID: CACM-1641
+
+
+
+DocID: CACM-1309
+
+
+
+DocID: CACM-2081
+
+
+
+DocID: CACM-1162
+
+
+
+DocID: CACM-2839
+
+
+
+DocID: CACM-3030
+
+
+
+DocID: CACM-3138
+
+
+
+DocID: CACM-2450
+
+
+
+DocID: CACM-1264
+
+
+
+DocID: CACM-2514
+
+
+
+DocID: CACM-1457
+
+
+
+DocID: CACM-1523
+
+
+
+DocID: CACM-1861
+
+
+
+DocID: CACM-2304
+
+
+
+DocID: CACM-1818
+
+
+
+DocID: CACM-2534
+
+
+
+DocID: CACM-1975
+
+
+
+DocID: CACM-1694
+
+
+
+DocID: CACM-2265
+
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-2632
+
+
+
+DocID: CACM-2998
+
+
+
+DocID: CACM-1727
+
+
+
+DocID: CACM-2316
+
+
+
+DocID: CACM-1650
+
+
+
+DocID: CACM-3077
+
+
+
+DocID: CACM-2439
+
+

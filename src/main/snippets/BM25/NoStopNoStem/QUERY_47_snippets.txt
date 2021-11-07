@@ -1,0 +1,619 @@
+BM25_NoStopNoStem
+
+Query
+the use of braden decision models to on-site information rlvrtetaeesys
+im prefrncaome.  this interlocks stopping roles to determine when after should chase scanning the output of a retrieval search.
+
+Top 100 Results (640 millisecs)
+
+
+DocID: CACM-2278
+
+binary trees, [search] trees, [information] storage, [information] retrieval  
+on foster's [information] storage and [retrieval] using avl trees  
+
+
+DocID: CACM-2577
+
+site data management, [retrieval] systems  
+an [on-site] data management system application in field archaeology  
+
+
+DocID: CACM-2598
+
+coding, [decision] tables, flowcharting, information  
+limited-entry [decision] tables to computer  
+converting [decision] tables into flowcharts which  
+
+
+DocID: CACM-1489
+
+data, documentation and [decision] tables  
+represents both  1  their changing information  
+files, programs and [decision] rules in a way that adequately  
+
+
+DocID: CACM-2552
+
+hash code, open hash, chaining, [information] [retrieval] collision  
+
+
+DocID: CACM-1699
+
+information [retrieval] testing,  [information] system  
+of mechanized [information] [retrieval] systems,  
+of the research is that an [information] [retrieval] system  
+
+
+DocID: CACM-2293
+
+searching, binary searching, record retrieval  
+comment on average binary [search] length  
+
+
+DocID: CACM-2970
+
+stopping rule, variance reduction  
+achieving specific accuracy in simulation [output] analysis  
+of simulation [output]  in particular, it describes a  
+
+
+DocID: CACM-2157
+
+searching, binary searching, record retrieval  
+average binary [search] length for dense ordered lists  
+
+
+DocID: CACM-2258
+
+file [search] scatter storage, [information] retrieval  
+
+
+DocID: CACM-1524
+
+a [stopping] criterion for polynomial root finding  
+which occurs in evaluating the polynomial.  this stopping  
+
+
+DocID: CACM-2288
+
+retrieval system with a minimal [search] time  
+retrieval, [information] [retrieval] record organization,  
+retrieval property is also discussed.  
+
+
+DocID: CACM-2795
+
+the program employs both the [information] [retrieval] and  
+language generation, [models] of cognitive  
+ 2  [information] relating conceptual to syntactic  
+
+
+DocID: CACM-2451
+
+tree file, [information] storage and [retrieval] clustering,  
+a standard [information] [retrieval] operation is  
+search, data structure, data management,  
+
+
+DocID: CACM-1857
+
+chase, s. m.  
+
+
+DocID: CACM-0275
+
+dynamic storage allocation for an [information] [retrieval] system  
+
+
+DocID: CACM-3033
+
+the [search] but is cluttered up by an enormous search  
+optimizing [decision] trees through heuristically guided search  
+decision tree, heuristic [search] and/or graphs,  
+
+
+DocID: CACM-0953
+
+scanning text with a 1401  
+
+
+DocID: CACM-1935
+
+and offers new potential for [information] [retrieval] systems.  
+randomized binary [search] technique  
+retrieval, mathematical model, partitioning,  
+
+
+DocID: CACM-2742
+
+simulation [models] of large, complex "real-world"  
+discrete event simulation, simulation, event [scanning] mechanisms  
+a method for significantly reducing the time spent scanning  
+
+
+DocID: CACM-1994
+
+decision table, [decision] table translation  
+decision table translation $h   algorithm 394   
+
+
+DocID: CACM-2235
+
+decision table, [decision] table translation  
+decision table translation  algorithm r394   
+
+
+DocID: CACM-1830
+
+information [retrieval] direct access memory, data base, inverted list  
+retrieval times for a packed direct access inverted file  
+
+
+DocID: CACM-2394
+
+ordering, storage, [retrieval] positive functions,  
+
+
+DocID: CACM-0292
+
+an [information] [retrieval] language for legal studies  
+
+
+DocID: CACM-2976
+
+and measurement, [information] [retrieval]  
+
+
+DocID: CACM-2070
+
+a formal system for [information] [retrieval] from files  
+
+
+DocID: CACM-0683
+
+a serial technique to [determine] minimum paths  
+
+
+DocID: CACM-2537
+
+optimization problem: [determine] how each message should  
+
+
+DocID: CACM-1236
+
+and [search] requests.  this feature is used in the retrieval  
+retrieve the wanted [information]  a typical search  
+a fully automatic document [retrieval] system  
+
+
+DocID: CACM-2532
+
+string, substring, hashing, [information] storage and retrieval  
+
+
+DocID: CACM-2516
+
+information [retrieval] hierarchical storage  
+hierarchical storage in [information] retrieval  
+on [information] [retrieval] operations.  the data storage  
+
+
+DocID: CACM-1831
+
+information [retrieval] file searching, tree structures, double chaining  
+
+
+DocID: CACM-2220
+
+coding, [decision] table, entropy, information  
+decision tables into flowcharts which minimize  
+conversion of limited-entry [decision] tables to computer  
+
+
+DocID: CACM-1705
+
+of providing [information] on the form of output  
+input [output] transput, input [output] procedures,  
+provide [information] for simultaneous [output] to several  
+
+
+DocID: CACM-2453
+
+decision tables, optimum computer programs, [information] measure  
+of [decision] tables to computer programs  
+information theory applied to the conversion  
+
+
+DocID: CACM-2691
+
+decision table, flowcharting, preprocessor, optimal programs, search  
+conversion of limited-entry [decision] tables to  
+
+
+DocID: CACM-2781
+
+method, randomizing [information] retrieval  
+
+
+DocID: CACM-2530
+
+information [retrieval] coding, text compression  
+
+
+DocID: CACM-1715
+
+function minimization, [search] direct search  
+direct [search]  algorithm 178 [e4]   
+
+
+DocID: CACM-1814
+
+function minimization, [search] direct search  
+direct [search]  algorithm 178 [e4]   
+
+
+DocID: CACM-2388
+
+retrieving [information] from binary trees, global  
+the average [retrieval] time by restructuring the tree to  
+
+
+DocID: CACM-2412
+
+hashing, [information] storage and [retrieval]  
+
+
+DocID: CACM-1815
+
+function minimization, [search] direct search  
+direct [search]  algorithm 178 [e4]   
+
+
+DocID: CACM-2547
+
+representation to handling terrain information  
+data [retrieval] graphic language, two-dimensional  
+intersection of two closed boundaries; and determine  
+
+
+DocID: CACM-2176
+
+distribution function.  an optimum [output] buffer size  
+input data are not random, and that this [output] buffer  
+
+
+DocID: CACM-0118
+
+character [scanning] on the ibm 7070  
+
+
+DocID: CACM-3134
+
+information [retrieval] inverted files, multiattribute [retrieval]  
+for [information] storage and retrieval  
+d [retrieval] of [information] are described.  this method is particularly  
+
+
+DocID: CACM-1359
+
+data filtering applied to [information] storage and [retrieval] applications  
+processing function in [information] storage  
+and [retrieval] applications.  data string manipulation  
+
+
+DocID: CACM-1032
+
+of [information] and tagging it for effective [retrieval]  
+information storage and [retrieval] systems are composed  
+theoretical considerations in [information] [retrieval] systems  
+
+
+DocID: CACM-3086
+
+computational complexity, computational [models]  
+decision tree programs, lower bounds  
+the [decision] tree complexity of computing the  
+
+
+DocID: CACM-0490
+
+programmed methods for printer graphical output  
+
+
+DocID: CACM-2046
+
+models of the data.  in section 1, inadequacies of these [models] are discussed.  
+redundancy, consistency, composition, join, retrieval  
+service which supplies such [information] is not a satisfactory  
+
+
+DocID: CACM-2974
+
+sequence, complementary relation, search  
+comment on weighted increment linear [search] for scatter tables  
+
+
+DocID: CACM-0075
+
+parameter estimation for simple nonlinear models  
+
+
+DocID: CACM-2263
+
+decision table, flowcharting, preprocessor, optimal programs, search  
+the conversion of limited-entry [decision] tables  
+near-optimal flowcharts from limited entry decision  
+
+
+DocID: CACM-2517
+
+decision tables, systems analysis, programming  
+work on [decision] table translation using methods  
+some comments on the use of ambiguous decision  
+
+
+DocID: CACM-2158
+
+formulas, newton-raphson method, [stopping] criterion  
+a [stopping] criterion for the newton-raphson method  
+
+
+DocID: CACM-2947
+
+search and [retrieval] systems, but has several  
+information [retrieval] text editing, minicomputers,  
+crts,time sharing, bibliographic [search] and  
+
+
+DocID: CACM-0891
+
+everyman's [information] [retrieval] system  
+the [information] [retrieval] problem whose solution  
+to install an [information] [retrieval] program in less than  
+
+
+DocID: CACM-0265
+
+
+
+DocID: CACM-3073
+
+concurrency, input, [output] guarded commands, nondeterminacy,  
+this paper suggests that input and [output] are  
+
+
+DocID: CACM-0282
+
+necessary.  a formula is developed to [determine] the  
+loss of computer time and develops a [decision] rule for  
+
+
+DocID: CACM-3095
+
+data [retrieval] range conditions, binary search  
+a selective traversal algorithm for binary [search] trees  
+a binary [search] tree according to a list of range  
+
+
+DocID: CACM-2722
+
+associative [retrieval] binary [search] trees, key,  
+attribute, [information] [retrieval] system, nearest  
+information to be retrieved by associative searches.  
+
+
+DocID: CACM-1327
+
+decision logic.  [decision] tables have many  
+use of [decision] tables in computer programming  
+of a limited entry [decision] table in computer memory.  
+
+
+DocID: CACM-1432
+
+by an otherwise unused [output] statement type  
+of alphanumeric [information] on a digital graph  
+or unit number. this method was used to control output  
+
+
+DocID: CACM-0944
+
+trees.  such trees have [information] storage and retrieval  
+word length and distribution of stored information  
+the storage and [search] properties of a tree-organized  
+
+
+DocID: CACM-3012
+
+implementation, system use, [information] storage and [retrieval] system  
+and [retrieval] system in medical research  
+the use of an interactive [information] storage  
+
+
+DocID: CACM-2726
+
+combining [decision] rules in a [decision] table  
+method, coding, [decision] tables, flowcharting, sorting  
+are applied to the simplification of decision  
+
+
+DocID: CACM-1372
+
+direct [search]  algorithm 178 [e4]   
+
+
+DocID: CACM-2743
+
+modeling, computing [models] binary comparisons  
+
+
+DocID: CACM-0239
+
+for [information] [retrieval] systems  
+
+
+DocID: CACM-1966
+
+mapping function, [decision] hierarchy, table look-up  
+
+
+DocID: CACM-2381
+
+average binary [search] length for dense ordered lists  corrigendum   
+
+
+DocID: CACM-1936
+
+information [retrieval] file searching, tree structures, double chaining  
+average [search] time.  a simple closed expression  
+minimum average [search] time.  then the more  
+
+
+DocID: CACM-3093
+
+by [information] which is directly and automatically  
+obtainable from the [information] that is already present  
+
+
+DocID: CACM-1427
+
+the [output] of scanners with various characteristics,  
+research using the [output] of the simulator has  
+in radioisotope [scanning] a field which is assuming  
+
+
+DocID: CACM-2370
+
+an interactive computer-controlled scanning  
+analog input and [output] facilities, and a variety of  
+
+
+DocID: CACM-2979
+
+inductive and deductive inference making, models  
+machine learning, game playing programs, decision  
+research efforts concerning human [decision] making  
+
+
+DocID: CACM-2014
+
+function minimization and linear [search] $e4   algorithm 387   
+
+
+DocID: CACM-0986
+
+for [information] processing  
+
+
+DocID: CACM-3011
+
+involving improvements in [decision] [information]  
+computer utilization, management [information] system,  
+traditional concepts of management information  
+
+
+DocID: CACM-2879
+
+symbols, [search] science, computer science, empirical,  
+computer science as empirical inquiry: symbols and search  
+
+
+DocID: CACM-2856
+
+decision tables, [decision] trees, dynamic programming, optimal programs  
+converting [decision] tables to computer  
+permitting generation of optimal programs for decision  
+
+
+DocID: CACM-2631
+
+direct access, [information] [retrieval] character  
+text searching, [information] theory, file organization,  
+information, an attempt is made to overcome  
+
+
+DocID: CACM-1680
+
+information [retrieval]  it is written in fortran  
+programming, simulation, modeling, information  
+and compilers, simulation [models] mathematical  
+
+
+DocID: CACM-2832
+
+so that data can be cached to speed up [retrieval]  a retrieval  
+on previous context tree [retrieval] algorithms.  
+faster [retrieval] from context trees  corrigendum   
+
+
+DocID: CACM-0634
+
+manipulation of trees in [information] [retrieval]  
+
+
+DocID: CACM-2109
+
+occur and linear [search] methods are used.  the [search] size, because  
+addressing, hash coding, quadratic [search]  
+random [search] storage layout, searching  
+
+
+DocID: CACM-2053
+
+of the [information] in the [decision] table.  the second algorithm programs  
+two algorithms for programming [decision] tables whose merits  
+decision tables, diagnostic aids, system analysis, business applications  
+
+
+DocID: CACM-3196
+
+
+
+DocID: CACM-1992
+
+clustering, [search] symbol table, keys, table look-up  
+
+
+DocID: CACM-0838
+
+direct [search]  algorithm 178   
+
+
+DocID: CACM-1700
+
+on a test [search] of 33,000 subject index entries.  a search  
+computer [search] technique  
+searching text searching, [information] compaction,  
+
+
+DocID: CACM-2037
+
+chase, p. j.  
+
+
+DocID: CACM-2044
+
+chase, p. j.  
+
+
+DocID: CACM-2307
+
+automatic indexing, automatic [search] and [retrieval]  
+for [information] [retrieval] and for the control  
+an interactive user-controlled [search] process.  
+
+
+DocID: CACM-1684
+
+decision tables, detab-65, systems analysis  
+producing checked-out [decision] tables is proposed.  
+ambiguity in limited entry [decision] tables  
+
+
+DocID: CACM-1927
+
+data [retrieval] language analysis, information  
+science, [information] organization, [information] [retrieval]  
+courses,computer science curriculum, information  
+

@@ -1,0 +1,414 @@
+LUCENE_NoStopNoStem
+
+Query
+I'd like to find articles describing the use of singular value decomposition
+in digital image processing.  Applications include finding approximations
+to the original image and restoring images that are subject to noise. An
+article on the subject is H. Andrews and C. Patterson "Outer product
+expansions and their uses in digital image processing", American Mathematical
+
+Andrews, H.
+Patterson, C.
+
+Top 100 Results (71 millisecs)
+
+
+DocID: CACM-1686
+
+
+
+DocID: CACM-3013
+
+
+
+DocID: CACM-3047
+
+
+
+DocID: CACM-2283
+
+
+
+DocID: CACM-2142
+
+
+
+DocID: CACM-1144
+
+
+
+DocID: CACM-2065
+
+
+
+DocID: CACM-1327
+
+
+
+DocID: CACM-2421
+
+
+
+DocID: CACM-2370
+
+
+
+DocID: CACM-3015
+
+
+
+DocID: CACM-2674
+
+
+
+DocID: CACM-1891
+
+
+
+DocID: CACM-2893
+
+
+
+DocID: CACM-2188
+
+
+
+DocID: CACM-2125
+
+
+
+DocID: CACM-2051
+
+
+
+DocID: CACM-2211
+
+
+
+DocID: CACM-2231
+
+
+
+DocID: CACM-1388
+
+
+
+DocID: CACM-0533
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-1543
+
+
+
+DocID: CACM-1741
+
+
+
+DocID: CACM-0730
+
+
+
+DocID: CACM-0973
+
+
+
+DocID: CACM-1350
+
+
+
+DocID: CACM-1721
+
+
+
+DocID: CACM-0078
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-2004
+
+
+
+DocID: CACM-1588
+
+
+
+DocID: CACM-2130
+
+
+
+DocID: CACM-1108
+
+
+
+DocID: CACM-2054
+
+
+
+DocID: CACM-1726
+
+
+
+DocID: CACM-1440
+
+
+
+DocID: CACM-1665
+
+
+
+DocID: CACM-2628
+
+
+
+DocID: CACM-2367
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-2826
+
+
+
+DocID: CACM-1824
+
+
+
+DocID: CACM-1423
+
+
+
+DocID: CACM-1384
+
+
+
+DocID: CACM-2786
+
+
+
+DocID: CACM-1664
+
+
+
+DocID: CACM-3059
+
+
+
+DocID: CACM-0104
+
+
+
+DocID: CACM-0674
+
+
+
+DocID: CACM-1046
+
+
+
+DocID: CACM-1700
+
+
+
+DocID: CACM-2856
+
+
+
+DocID: CACM-1233
+
+
+
+DocID: CACM-2060
+
+
+
+DocID: CACM-3198
+
+
+
+DocID: CACM-1325
+
+
+
+DocID: CACM-0849
+
+
+
+DocID: CACM-3021
+
+
+
+DocID: CACM-2687
+
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-1929
+
+
+
+DocID: CACM-1066
+
+
+
+DocID: CACM-0670
+
+
+
+DocID: CACM-1428
+
+
+
+DocID: CACM-1590
+
+
+
+DocID: CACM-2519
+
+
+
+DocID: CACM-1571
+
+
+
+DocID: CACM-2050
+
+
+
+DocID: CACM-2396
+
+
+
+DocID: CACM-1961
+
+
+
+DocID: CACM-0615
+
+
+
+DocID: CACM-1381
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-2606
+
+
+
+DocID: CACM-2020
+
+
+
+DocID: CACM-0605
+
+
+
+DocID: CACM-3075
+
+
+
+DocID: CACM-1806
+
+
+
+DocID: CACM-2302
+
+
+
+DocID: CACM-1601
+
+
+
+DocID: CACM-1366
+
+
+
+DocID: CACM-0894
+
+
+
+DocID: CACM-1456
+
+
+
+DocID: CACM-2787
+
+
+
+DocID: CACM-3076
+
+
+
+DocID: CACM-1154
+
+
+
+DocID: CACM-1878
+
+
+
+DocID: CACM-0531
+
+
+
+DocID: CACM-2829
+
+
+
+DocID: CACM-2081
+
+
+
+DocID: CACM-2931
+
+
+
+DocID: CACM-2233
+
+
+
+DocID: CACM-2702
+
+
+
+DocID: CACM-2486
+
+
+
+DocID: CACM-2082
+
+
+
+DocID: CACM-1196
+
+
+
+DocID: CACM-2341
+
+
+
+DocID: CACM-1945
+
+
+
+DocID: CACM-1638
+
+

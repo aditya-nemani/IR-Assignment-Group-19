@@ -1,0 +1,444 @@
+TFIDF_NoStopNoStem
+
+Query
+anothers or statistical packages for anova, regression using least-squares or generalized linear models.  stem design, capabilities,
+statistical formula are of ietrnest.  students t test, wilson assign ttses, multivariate and univariate components can be included.
+
+Top 100 Results (485 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+
+
+DocID: CACM-0994
+
+
+
+DocID: CACM-0995
+
+
+
+DocID: CACM-0996
+
+
+
+DocID: CACM-0990
+
+
+
+DocID: CACM-0991
+
+
+
+DocID: CACM-0992
+
+
+
+DocID: CACM-2703
+
+
+
+DocID: CACM-2702
+
+of the [test]  in the first case, it is shown that for  
+
+
+DocID: CACM-2705
+
+speaks for programming language [design] based on general,  
+
+
+DocID: CACM-2704
+
+
+
+DocID: CACM-2701
+
+a fast and usually [linear] algorithm for global  
+
+
+DocID: CACM-2700
+
+
+
+DocID: CACM-2707
+
+
+
+DocID: CACM-2706
+
+
+
+DocID: CACM-2709
+
+goto statements, language [design] pascal  
+
+
+DocID: CACM-2708
+
+
+
+DocID: CACM-0975
+
+
+
+DocID: CACM-0976
+
+
+
+DocID: CACM-0977
+
+
+
+DocID: CACM-0978
+
+
+
+DocID: CACM-0971
+
+
+
+DocID: CACM-0972
+
+five [components] with different processing priorities.  
+system [components] the major emphasis of the  
+
+
+DocID: CACM-0973
+
+
+
+DocID: CACM-0974
+
+components of the electrocardiogram, long series  
+
+
+DocID: CACM-0970
+
+
+
+DocID: CACM-0979
+
+
+
+DocID: CACM-0986
+
+
+
+DocID: CACM-0987
+
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+
+
+DocID: CACM-0983
+
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+
+
+DocID: CACM-0981
+
+
+
+DocID: CACM-1405
+
+
+
+DocID: CACM-2736
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1407
+
+
+
+DocID: CACM-2738
+
+design of hierarchically structured systems  
+hierarchical systems, bottom up [design] levels  
+this paper deals with the [design] of hierarchically  
+
+
+DocID: CACM-1406
+
+solution of simultaneous [linear] diophantine  
+
+
+DocID: CACM-2737
+
+
+
+DocID: CACM-1401
+
+
+
+DocID: CACM-2732
+
+constructs that allow nondeterministic program components  
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2731
+
+
+
+DocID: CACM-1403
+
+included is a fortran program which was written to implement  
+
+
+DocID: CACM-2734
+
+
+
+DocID: CACM-1402
+
+
+
+DocID: CACM-2733
+
+
+
+DocID: CACM-2730
+
+
+
+DocID: CACM-1409
+
+the [design] objectives as originally conceived  
+basic research in computer systems [design]  an  
+in computer [design]  2  to be usable as an educational  
+
+
+DocID: CACM-1408
+
+definition.  then a simple [design] scheme  eschenbach   
+the [design] scheme has a specific use, the method underlying it  
+
+
+DocID: CACM-2739
+
+
+
+DocID: CACM-1416
+
+forms [design]  a method of information extraction involving  
+
+
+DocID: CACM-2747
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-2746
+
+
+
+DocID: CACM-1418
+
+
+
+DocID: CACM-2749
+
+as examples two automobile traffic [models]  the  
+
+
+DocID: CACM-1417
+
+cost functions among five system/360 models  
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+
+
+DocID: CACM-2743
+
+modeling, computing [models] binary comparisons  
+
+
+DocID: CACM-1411
+
+included the usual computing formulas, correction  
+systematically generated [test] data.  the statistics  
+
+
+DocID: CACM-2742
+
+simulation [models] of large, complex "real-world"  
+there [models] are presented, all of which improve in effectiveness  
+
+
+DocID: CACM-1414
+
+
+
+DocID: CACM-2745
+
+a [linear] space algorithm for computing maximal common subsequences  
+solve this problem in quadratic time and in linear  
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-1410
+
+this paper provides a [statistical] description  
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-2740
+
+embrace"  deadlock .  the [design] principle  
+
+
+DocID: CACM-1419
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-2713
+
+
+
+DocID: CACM-2716
+
+
+
+DocID: CACM-2715
+
+
+
+DocID: CACM-2710
+
+
+
+DocID: CACM-2712
+
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-2718
+
+design, data structure, automatic programming,  
+the functional approach to database [design] is  
+which utilizers the functional approach to [design] data  
+
+
+DocID: CACM-2717
+
+restructuring [capabilities] its [design] is based  
+
+
+DocID: CACM-2719
+
+
+
+DocID: CACM-2725
+
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+
+
+DocID: CACM-2726
+
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-2720
+
+set of disk [models] is then minimized under varying  
+
+
+DocID: CACM-2723
+
+the necessary [capabilities] of each processor  
+
+
+DocID: CACM-2722
+
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-2728
+
+

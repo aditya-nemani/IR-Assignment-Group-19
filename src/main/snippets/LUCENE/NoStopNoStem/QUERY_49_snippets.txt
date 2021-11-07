@@ -1,0 +1,408 @@
+LUCENE_NoStopNoStem
+
+Query
+The role of information retrieval in knowledge based systems
+(i.e., expert systems).
+
+Top 100 Results (24 millisecs)
+
+
+DocID: CACM-3012
+
+
+
+DocID: CACM-2390
+
+
+
+DocID: CACM-1699
+
+
+
+DocID: CACM-2795
+
+
+
+DocID: CACM-2990
+
+
+
+DocID: CACM-2307
+
+
+
+DocID: CACM-3134
+
+
+
+DocID: CACM-1514
+
+
+
+DocID: CACM-2163
+
+
+
+DocID: CACM-0239
+
+
+
+DocID: CACM-1032
+
+
+
+DocID: CACM-2631
+
+
+
+DocID: CACM-2882
+
+
+
+DocID: CACM-1935
+
+
+
+DocID: CACM-2046
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-1457
+
+
+
+DocID: CACM-1959
+
+
+
+DocID: CACM-1236
+
+
+
+DocID: CACM-3090
+
+
+
+DocID: CACM-3177
+
+
+
+DocID: CACM-1725
+
+
+
+DocID: CACM-2407
+
+
+
+DocID: CACM-2402
+
+
+
+DocID: CACM-0651
+
+
+
+DocID: CACM-2479
+
+
+
+DocID: CACM-2198
+
+
+
+DocID: CACM-2311
+
+
+
+DocID: CACM-2288
+
+
+
+DocID: CACM-2985
+
+
+
+DocID: CACM-1681
+
+
+
+DocID: CACM-2318
+
+
+
+DocID: CACM-1627
+
+
+
+DocID: CACM-2870
+
+
+
+DocID: CACM-2519
+
+
+
+DocID: CACM-1652
+
+
+
+DocID: CACM-2160
+
+
+
+DocID: CACM-0440
+
+
+
+DocID: CACM-2561
+
+
+
+DocID: CACM-1199
+
+
+
+DocID: CACM-1541
+
+
+
+DocID: CACM-1388
+
+
+
+DocID: CACM-1280
+
+
+
+DocID: CACM-1728
+
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-2852
+
+
+
+DocID: CACM-1747
+
+
+
+DocID: CACM-2127
+
+
+
+DocID: CACM-0652
+
+
+
+DocID: CACM-1233
+
+
+
+DocID: CACM-2846
+
+
+
+DocID: CACM-2625
+
+
+
+DocID: CACM-2798
+
+
+
+DocID: CACM-2111
+
+
+
+DocID: CACM-2345
+
+
+
+DocID: CACM-2968
+
+
+
+DocID: CACM-1751
+
+
+
+DocID: CACM-1924
+
+
+
+DocID: CACM-1066
+
+
+
+DocID: CACM-0637
+
+
+
+DocID: CACM-3181
+
+
+
+DocID: CACM-2319
+
+
+
+DocID: CACM-1680
+
+
+
+DocID: CACM-2372
+
+
+
+DocID: CACM-2522
+
+
+
+DocID: CACM-2168
+
+
+
+DocID: CACM-1808
+
+
+
+DocID: CACM-1349
+
+
+
+DocID: CACM-2650
+
+
+
+DocID: CACM-3011
+
+
+
+DocID: CACM-2765
+
+
+
+DocID: CACM-0891
+
+
+
+DocID: CACM-1625
+
+
+
+DocID: CACM-2711
+
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-1380
+
+
+
+DocID: CACM-1415
+
+
+
+DocID: CACM-1886
+
+
+
+DocID: CACM-1937
+
+
+
+DocID: CACM-1267
+
+
+
+DocID: CACM-2181
+
+
+
+DocID: CACM-2947
+
+
+
+DocID: CACM-2572
+
+
+
+DocID: CACM-2406
+
+
+
+DocID: CACM-2812
+
+
+
+DocID: CACM-2840
+
+
+
+DocID: CACM-3125
+
+
+
+DocID: CACM-0982
+
+
+
+DocID: CACM-1750
+
+
+
+DocID: CACM-2888
+
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1927
+
+
+
+DocID: CACM-1745
+
+
+
+DocID: CACM-1713
+
+
+
+DocID: CACM-2358
+
+
+
+DocID: CACM-3072
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-1164
+
+
+
+DocID: CACM-1951
+
+
+
+DocID: CACM-3137
+
+

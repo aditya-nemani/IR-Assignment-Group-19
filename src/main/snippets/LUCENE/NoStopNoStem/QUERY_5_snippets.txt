@@ -1,0 +1,410 @@
+LUCENE_NoStopNoStem
+
+Query
+I'd like papers on design and implementation of editing interfaces,
+window-managers, command interpreters, etc.  The essential issues are
+human interface design, with views on improvements to user efficiency,
+effectiveness and satisfaction.
+
+Top 100 Results (97 millisecs)
+
+
+DocID: CACM-2035
+
+
+
+DocID: CACM-1829
+
+
+
+DocID: CACM-2629
+
+
+
+DocID: CACM-2786
+
+
+
+DocID: CACM-2321
+
+
+
+DocID: CACM-1978
+
+
+
+DocID: CACM-2003
+
+
+
+DocID: CACM-1671
+
+
+
+DocID: CACM-1699
+
+
+
+DocID: CACM-2357
+
+
+
+DocID: CACM-2169
+
+
+
+DocID: CACM-2247
+
+
+
+DocID: CACM-3147
+
+
+
+DocID: CACM-2483
+
+
+
+DocID: CACM-1188
+
+
+
+DocID: CACM-3050
+
+
+
+DocID: CACM-2299
+
+
+
+DocID: CACM-2820
+
+
+
+DocID: CACM-1960
+
+
+
+DocID: CACM-1698
+
+
+
+DocID: CACM-1742
+
+
+
+DocID: CACM-2106
+
+
+
+DocID: CACM-3102
+
+
+
+DocID: CACM-2396
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-2622
+
+
+
+DocID: CACM-2138
+
+
+
+DocID: CACM-1937
+
+
+
+DocID: CACM-1764
+
+
+
+DocID: CACM-3011
+
+
+
+DocID: CACM-2873
+
+
+
+DocID: CACM-2145
+
+
+
+DocID: CACM-1502
+
+
+
+DocID: CACM-1571
+
+
+
+DocID: CACM-3137
+
+
+
+DocID: CACM-2252
+
+
+
+DocID: CACM-0892
+
+
+
+DocID: CACM-2841
+
+
+
+DocID: CACM-2887
+
+
+
+DocID: CACM-2380
+
+
+
+DocID: CACM-1824
+
+
+
+DocID: CACM-2358
+
+
+
+DocID: CACM-2542
+
+
+
+DocID: CACM-1392
+
+
+
+DocID: CACM-1487
+
+
+
+DocID: CACM-1605
+
+
+
+DocID: CACM-1810
+
+
+
+DocID: CACM-3012
+
+
+
+DocID: CACM-3087
+
+
+
+DocID: CACM-1435
+
+
+
+DocID: CACM-1589
+
+
+
+DocID: CACM-3127
+
+
+
+DocID: CACM-3054
+
+
+
+DocID: CACM-2592
+
+
+
+DocID: CACM-1962
+
+
+
+DocID: CACM-1409
+
+
+
+DocID: CACM-2534
+
+
+
+DocID: CACM-2181
+
+
+
+DocID: CACM-2522
+
+
+
+DocID: CACM-3035
+
+
+
+DocID: CACM-2188
+
+
+
+DocID: CACM-3144
+
+
+
+DocID: CACM-2812
+
+
+
+DocID: CACM-0972
+
+
+
+DocID: CACM-2277
+
+
+
+DocID: CACM-2201
+
+
+
+DocID: CACM-1534
+
+
+
+DocID: CACM-2956
+
+
+
+DocID: CACM-2439
+
+
+
+DocID: CACM-3146
+
+
+
+DocID: CACM-1395
+
+
+
+DocID: CACM-1750
+
+
+
+DocID: CACM-1519
+
+
+
+DocID: CACM-1253
+
+
+
+DocID: CACM-2105
+
+
+
+DocID: CACM-1281
+
+
+
+DocID: CACM-2401
+
+
+
+DocID: CACM-1159
+
+
+
+DocID: CACM-2535
+
+
+
+DocID: CACM-1853
+
+
+
+DocID: CACM-2753
+
+
+
+DocID: CACM-2572
+
+
+
+DocID: CACM-2469
+
+
+
+DocID: CACM-2002
+
+
+
+DocID: CACM-2947
+
+
+
+DocID: CACM-2155
+
+
+
+DocID: CACM-1238
+
+
+
+DocID: CACM-2399
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-1135
+
+
+
+DocID: CACM-1844
+
+
+
+DocID: CACM-2771
+
+
+
+DocID: CACM-1603
+
+
+
+DocID: CACM-2187
+
+
+
+DocID: CACM-1646
+
+
+
+DocID: CACM-2990
+
+
+
+DocID: CACM-1748
+
+
+
+DocID: CACM-1465
+
+
+
+DocID: CACM-2959
+
+
+
+DocID: CACM-2950
+
+

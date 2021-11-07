@@ -1,0 +1,582 @@
+BM25_NoStopNoStem
+
+Query
+abilities for parallel ctmpuitaoon, and especially collision-resolution parallel and sequential abilities.
+
+Top 100 Results (203 millisecs)
+
+
+DocID: CACM-2896
+
+with proving such [parallel] programs correct  
+a [parallel] program, dijkstra's on-the-fly garbage  
+an exercise in proving [parallel] programs correct  
+
+
+DocID: CACM-2714
+
+parallel processing, [parallel] merging, [parallel] binary insertion  
+merging with [parallel] processors  
+the previous best [parallel] merging algorithm,  
+
+
+DocID: CACM-2685
+
+parallel computing, multiprocessor computers,  
+the [parallel] execution of do loops  
+methods are developed for the [parallel] execution  
+
+
+DocID: CACM-3073
+
+communicating [sequential] processes  
+program structures, [parallel] programming,  
+composition of communicating [sequential] processes is  
+
+
+DocID: CACM-1262
+
+procedure-oriented language statements to facilitate [parallel] processing  
+in [parallel]  the statements are do together  
+a range of [parallel] operation and partly to  
+
+
+DocID: CACM-2973
+
+parallel computer, [parallel] sorting, [parallel] merge,  
+sorting on a mesh-connected [parallel] computer  
+
+
+DocID: CACM-2700
+
+parallel program, semaphore, verification  
+halting.  thus correctness proofs of a parallel  
+when proving that a [parallel] program has a  
+
+
+DocID: CACM-1158
+
+program structures for [parallel] processing  
+constructs for organizing and explicating parallel  
+
+
+DocID: CACM-2266
+
+parallel numerical algorithms, real polynomials,  
+a highly [parallel] algorithm for approximating  
+is conceptually suitable for [parallel] computation,  
+
+
+DocID: CACM-1601
+
+measurements are interpreted in a [parallel] processing  
+parallel numerical methods for the solution of equations  
+a [parallel] processing environment are developed and measurements  
+
+
+DocID: CACM-0185
+
+possesses simultaneous processing [abilities]  
+
+
+DocID: CACM-2785
+
+parallel computation, [parallel] architecture  
+of the problems associated with [parallel] computer  
+
+
+DocID: CACM-0141
+
+some thoughts on [parallel] processing  
+
+
+DocID: CACM-1302
+
+parallel signaling speeds for data transmission  
+
+
+DocID: CACM-1828
+
+parallel accessing, [parallel] search, file search,  
+which will maximize the amount of parallel  
+
+
+DocID: CACM-0392
+
+comment on a paper on [parallel] processing  
+
+
+DocID: CACM-3075
+
+fast [parallel] sorting algorithms  
+a [parallel] bucket-sort algorithm is presented  
+parallel processing, sorting, algorithms, bucket sort  
+
+
+DocID: CACM-3156
+
+graph theory, [parallel] processing, algorithms,  
+computing connected components on [parallel] computers  
+we present a [parallel] algorithm which uses n2 processors to find the connected  
+
+
+DocID: CACM-0950
+
+parallel methods for integrating ordinary differential equations  
+computations of highly [parallel] computers as can be  
+"parallel" form.  by this is meant that serial  
+
+
+DocID: CACM-2895
+
+formal specifications,program correctness, parallel  
+of communicating [parallel] processes is described.  
+
+
+DocID: CACM-1846
+
+simulation, [parallel] processes, simultaneous events,  
+on simulating networks of [parallel] processes  
+of interconnected [sequential] processes.  briefly reviewed  
+
+
+DocID: CACM-3059
+
+multiprogramming, [parallel] processing, queueing  
+models for [parallel] processing within programs:  
+approximate queueing models for internal parallel  
+
+
+DocID: CACM-2182
+
+interrupts, supervisors, monitors, debugging, parallel  
+
+
+DocID: CACM-2342
+
+operating systems, [parallel] processes  
+interference between communicating [parallel] processes  
+parallel processes have been examined by  
+
+
+DocID: CACM-1795
+
+optimal code for serial and [parallel] computation  
+
+
+DocID: CACM-1468
+
+on labeling techniques using [parallel] processing  
+and the [parallel] processing simulator mentioned  
+this to bubble chamber pictures.  the [parallel] processing  
+
+
+DocID: CACM-2557
+
+minimization, [parallel] machine, time minimization  
+as well as [parallel] computers is discussed.  algorithms  
+
+
+DocID: CACM-2865
+
+of properties of [parallel] programs is presented.  
+which are added to a [parallel] program as  
+verifying properties of [parallel] programs: an axiomatic approach  
+
+
+DocID: CACM-2401
+
+counting binary patterns, shrinking, parallel  
+a [parallel] processing algorithm for shrinking  
+window employed  two-by-two elements , the parallel  
+
+
+DocID: CACM-2740
+
+structuring, buffering, [parallel] processes, synchronizing  
+sequential processes.  the processes synchronize by  
+semaphores .  the number of [parallel] processes is carefully  
+
+
+DocID: CACM-2175
+
+parallel processing, cache, arithmetic expressions,  
+parallel exceeds the number of available processors,  
+in serials, in [parallel] or in a combination of these  
+
+
+DocID: CACM-2080
+
+multiprogramming, operating systems, [parallel] processes, process concept,  
+are handled uniformly as [parallel] cooperating process  
+
+
+DocID: CACM-2195
+
+global recognition, [parallel] processing, dynamic  
+the method described is suitable for parallel  
+state can be computed in [parallel] and the number  
+
+
+DocID: CACM-2851
+
+parallel program, correctness, verification,  
+formal verification of [parallel] programs  
+two formal models for [parallel] computation  
+
+
+DocID: CACM-1569
+
+in a pl/i procedure whose structure and statements parallel  
+
+
+DocID: CACM-2898
+
+parallel programming, descriptive programming,  
+a [sequential] programming language forces the  
+language providing both nonprocedural and sequential  
+
+
+DocID: CACM-1747
+
+parallel processing, [parallel] programming,  
+a time-of-day clock,  the synchronization of parallel  
+
+
+DocID: CACM-2570
+
+parallel processing, precedence graphs, scheduling,  
+a comparison of list schedules for [parallel] processing systems  
+
+
+DocID: CACM-3044
+
+parallel evaluation, suspending cons, lisp, conditional  
+
+
+DocID: CACM-0320
+
+both the [sequential] and [parallel] aspects of logic.  they  
+
+
+DocID: CACM-2433
+
+parallelism, array allocation, [parallel] control  
+this storage method and express [parallel] algorithms are described.  
+
+
+DocID: CACM-2727
+
+a method is described which allows parallel  
+
+
+DocID: CACM-2838
+
+processor in [parallel] with list processing operations,  
+parallel processing, real time, data structures, analysis of algorithms  
+
+
+DocID: CACM-1008
+
+any meeting with [parallel] sessions.  
+
+
+DocID: CACM-2196
+
+abilities.  the computer is not asked to solve the  
+
+
+DocID: CACM-1200
+
+operations, a [parallel] nomenclature is suggested  
+
+
+DocID: CACM-1471
+
+systems.  these meta-instructions relate to parallel  
+
+
+DocID: CACM-1554
+
+movies of the three-dimensional [parallel] and perspective  
+
+
+DocID: CACM-2289
+
+parallel processing, special purpose computers,  
+achieved by virtue of the possibilities for parallel  
+especially for problems whose solutions appear to be inherently  
+
+
+DocID: CACM-2514
+
+parallel .  examples are given involving array languages  
+
+
+DocID: CACM-1603
+
+parallel processing capability.  user programs communicate  
+
+
+DocID: CACM-1341
+
+with regard to such trends as time sharing, parallel  
+
+
+DocID: CACM-1536
+
+parallel, as in wengert's procedure, but with the  
+
+
+DocID: CACM-1960
+
+include the ability given to any user to schedule his own parallel  
+
+
+DocID: CACM-1957
+
+in [parallel] rather than evaluating subexpressions and  
+
+
+DocID: CACM-2114
+
+lists, prime keyword, [parallel] processing of lists  
+
+
+DocID: CACM-3175
+
+letters.  these probabilities are updated in [parallel] for all  
+
+
+DocID: CACM-1613
+
+one-pass compilation of arithmetic expressions for a [parallel] processor  
+
+
+DocID: CACM-2376
+
+parallel programming, multiprogramming, program correctness,  
+
+
+DocID: CACM-1959
+
+systems, interrupt scheduling, [parallel] processing  
+
+
+DocID: CACM-1325
+
+the analysis of [parallel] electrocardiographer-computer  
+
+
+DocID: CACM-2515
+
+relations without [parallel] activities is presented.  a  
+
+
+DocID: CACM-2967
+
+parallel processing, database management  
+
+
+DocID: CACM-2723
+
+semaphores, [parallel] processing, compactification, relocation,  
+
+
+DocID: CACM-1854
+
+of [parallel] processes.  a set of routines  
+
+
+DocID: CACM-1409
+
+to large [parallel] machines, and uses flip-flop  
+
+
+DocID: CACM-2497
+
+interrupts,supervisors, monitors, debugging, parallel  
+
+
+DocID: CACM-1928
+
+scheduling, queuing, simultaneous activities, [parallel] events  
+
+
+DocID: CACM-1811
+
+parallel-processor, parallelism, [parallel] programming,  
+
+
+DocID: CACM-2781
+
+an alternative to index sequential  
+the algorithm [sequential] access method:  
+keys, direct access method, [sequential] access  
+
+
+DocID: CACM-3061
+
+searching, list processing, sequential  
+simulations of dynamic [sequential] search algorithms  
+
+
+DocID: CACM-2062
+
+simulation, inventory models, sequential  
+the application of [sequential] sampling  
+sequential sampling procedures are compared.  
+
+
+DocID: CACM-3058
+
+jump searching, [sequential] files, file management,  
+jump searching: a fast [sequential] search technique  
+when [sequential] file structures must be used  
+
+
+DocID: CACM-2692
+
+volume.  the two additional planes [parallel] to the projection  
+
+
+DocID: CACM-3083
+
+collision-resolution method.  pseudochaining is  
+
+
+DocID: CACM-1749
+
+sequential processes.  these [sequential] processes are placed  
+sequential processes, system levels, input-output  
+
+
+DocID: CACM-2359
+
+isam, index [sequential] hashing, scatter  
+to the [sequential] mode.  using hashed overflow,  
+the index [sequential] access method  isam  is  
+
+
+DocID: CACM-0224
+
+sequential formula translation  
+sequential treatment, however, is not feasible in the case  
+
+
+DocID: CACM-2550
+
+adaptive quadrature, [sequential] stratification  
+
+
+DocID: CACM-2885
+
+on self-organizing [sequential] search heuristics  
+maintaining a [sequential] list in approximately  
+
+
+DocID: CACM-2970
+
+property, [sequential] estimator, simulation,  
+sequential estimation method which when used with  
+which the [sequential] procedure relies.  the paper  
+
+
+DocID: CACM-2215
+
+to [sequential] pattern recognition  
+sequential pattern recognition, game tree searching,  
+a [sequential] pattern recognition  spr  procedure  
+
+
+DocID: CACM-3039
+
+between [sequential] processes with minimized  
+as an example of cooperation between sequential  
+
+
+DocID: CACM-3107
+
+simplicity over previous methods, [especially] for  
+
+
+DocID: CACM-2137
+
+and "block level [sequential] for those  
+used: "local [sequential] for lists created during compilation,  
+
+
+DocID: CACM-3017
+
+directory, index [sequential] access method  
+
+
+DocID: CACM-2644
+
+a language [especially] oriented toward automated  
+
+
+DocID: CACM-2866
+
+interesting scheduling and [sequential] properties  
+
+
+DocID: CACM-1475
+
+many business applications employ sequential  
+
+
+DocID: CACM-3131
+
+algorithms [especially] useful for microcomputer control and other  
+
+
+DocID: CACM-1159
+
+programs, and [especially] compilers, from  
+
+
+DocID: CACM-2355
+
+of reasons, [especially] the high accuracy obtained from  
+
+
+DocID: CACM-2560
+
+is [sequential] dependency of accesses between the  
+
+
+DocID: CACM-2938
+
+in program validation: [sequential] programming, multiprogramming,  
+
+
+DocID: CACM-1261
+
+and [sequential] digital networks and a systematic  
+
+
+DocID: CACM-2516
+
+data access times using [sequential] files, random access files,  
+
+
+DocID: CACM-1435
+
+sequential sampling and spectral analysis.  
+
+
+DocID: CACM-2095
+
+especially with respect to the organization of paging schemes.  
+
+
+DocID: CACM-2138
+
+is designed so as to be [especially] suitable  
+
+
+DocID: CACM-0078
+
+that [sequential] computers, be they digital or  
+

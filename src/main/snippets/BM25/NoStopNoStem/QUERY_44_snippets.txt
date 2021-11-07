@@ -1,0 +1,416 @@
+BM25_NoStopNoStem
+
+Query
+texture always by computer-oriented texture always.  teetnih
+syutrxses. perception of texture.
+
+Top 100 Results (109 millisecs)
+
+
+DocID: CACM-2829
+
+texture and reflection in computer generated images  
+the areas of [texture] simulation and lighting models.  
+modeled in a similar manner to the [texture] mapping  
+
+
+DocID: CACM-2523
+
+textured regions is described.  [texture] edges in the  
+
+
+DocID: CACM-1634
+
+
+
+DocID: CACM-3097
+
+
+
+DocID: CACM-1445
+
+
+
+DocID: CACM-2857
+
+
+
+DocID: CACM-0894
+
+
+
+DocID: CACM-2657
+
+
+
+DocID: CACM-2688
+
+
+
+DocID: CACM-1806
+
+
+
+DocID: CACM-1721
+
+
+
+DocID: CACM-3116
+
+
+
+DocID: CACM-3018
+
+
+
+DocID: CACM-3014
+
+
+
+DocID: CACM-1379
+
+
+
+DocID: CACM-1853
+
+
+
+DocID: CACM-3142
+
+
+
+DocID: CACM-3057
+
+
+
+DocID: CACM-2060
+
+
+
+DocID: CACM-2911
+
+
+
+DocID: CACM-0082
+
+substitution of [computer-oriented] symbols for  
+
+
+DocID: CACM-2233
+
+
+
+DocID: CACM-1484
+
+it is suggested that a [computer-oriented] language be  
+
+
+DocID: CACM-2751
+
+perception and the fundamental laws of optics are  
+
+
+DocID: CACM-1206
+
+a [computer-oriented] method for processing and  
+
+
+DocID: CACM-1796
+
+
+
+DocID: CACM-2815
+
+
+
+DocID: CACM-1952
+
+
+
+DocID: CACM-1660
+
+
+
+DocID: CACM-1619
+
+
+
+DocID: CACM-0543
+
+
+
+DocID: CACM-0204
+
+
+
+DocID: CACM-0260
+
+
+
+DocID: CACM-0363
+
+
+
+DocID: CACM-0150
+
+
+
+DocID: CACM-0932
+
+
+
+DocID: CACM-0654
+
+
+
+DocID: CACM-1176
+
+
+
+DocID: CACM-1078
+
+
+
+DocID: CACM-0209
+
+
+
+DocID: CACM-0246
+
+
+
+DocID: CACM-0126
+
+
+
+DocID: CACM-0176
+
+
+
+DocID: CACM-0872
+
+
+
+DocID: CACM-0515
+
+
+
+DocID: CACM-0429
+
+
+
+DocID: CACM-1298
+
+
+
+DocID: CACM-0561
+
+
+
+DocID: CACM-1598
+
+
+
+DocID: CACM-0297
+
+
+
+DocID: CACM-1640
+
+
+
+DocID: CACM-1578
+
+
+
+DocID: CACM-2352
+
+
+
+DocID: CACM-1799
+
+
+
+DocID: CACM-2024
+
+
+
+DocID: CACM-0946
+
+
+
+DocID: CACM-2101
+
+
+
+DocID: CACM-2431
+
+
+
+DocID: CACM-1914
+
+
+
+DocID: CACM-1816
+
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-2069
+
+
+
+DocID: CACM-1158
+
+
+
+DocID: CACM-0414
+
+
+
+DocID: CACM-1121
+
+
+
+DocID: CACM-2933
+
+
+
+DocID: CACM-1043
+
+
+
+DocID: CACM-3009
+
+
+
+DocID: CACM-0850
+
+
+
+DocID: CACM-2253
+
+
+
+DocID: CACM-2704
+
+
+
+DocID: CACM-1243
+
+
+
+DocID: CACM-0890
+
+
+
+DocID: CACM-3191
+
+
+
+DocID: CACM-1931
+
+
+
+DocID: CACM-2493
+
+
+
+DocID: CACM-2262
+
+
+
+DocID: CACM-2866
+
+
+
+DocID: CACM-1871
+
+
+
+DocID: CACM-1713
+
+
+
+DocID: CACM-2777
+
+
+
+DocID: CACM-2035
+
+
+
+DocID: CACM-3129
+
+
+
+DocID: CACM-1868
+
+
+
+DocID: CACM-1764
+
+
+
+DocID: CACM-2912
+
+
+
+DocID: CACM-2518
+
+
+
+DocID: CACM-3055
+
+
+
+DocID: CACM-1390
+
+
+
+DocID: CACM-2710
+
+
+
+DocID: CACM-2801
+
+
+
+DocID: CACM-0436
+
+
+
+DocID: CACM-1909
+
+
+
+DocID: CACM-0935
+
+
+
+DocID: CACM-1664
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-1208
+
+
+
+DocID: CACM-0342
+
+
+
+DocID: CACM-0002
+
+
+
+DocID: CACM-0266
+
+

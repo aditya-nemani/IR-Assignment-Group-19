@@ -1,0 +1,411 @@
+LUCENE_NoStopNoStem
+
+Query
+mathematical induction, group theory, integers modulo m,
+probability, binomial coefficients, binomial theorem, homomorphism,
+morphism, transitivity, relations, relation matrix.
+
+     Syracuse University, 313 Link Hall, Syracuse, N. 13210
+
+Top 100 Results (34 millisecs)
+
+
+DocID: CACM-0569
+
+
+
+DocID: CACM-0139
+
+
+
+DocID: CACM-0514
+
+
+
+DocID: CACM-1186
+
+
+
+DocID: CACM-2210
+
+
+
+DocID: CACM-2986
+
+
+
+DocID: CACM-2391
+
+
+
+DocID: CACM-2031
+
+
+
+DocID: CACM-0679
+
+
+
+DocID: CACM-2229
+
+
+
+DocID: CACM-2420
+
+
+
+DocID: CACM-2028
+
+
+
+DocID: CACM-2769
+
+
+
+DocID: CACM-0203
+
+
+
+DocID: CACM-2416
+
+
+
+DocID: CACM-1817
+
+
+
+DocID: CACM-2981
+
+
+
+DocID: CACM-0727
+
+
+
+DocID: CACM-1567
+
+
+
+DocID: CACM-2648
+
+
+
+DocID: CACM-0717
+
+
+
+DocID: CACM-2327
+
+
+
+DocID: CACM-0495
+
+
+
+DocID: CACM-2476
+
+
+
+DocID: CACM-0852
+
+
+
+DocID: CACM-1887
+
+
+
+DocID: CACM-1609
+
+
+
+DocID: CACM-2953
+
+
+
+DocID: CACM-0373
+
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2834
+
+
+
+DocID: CACM-0382
+
+
+
+DocID: CACM-0269
+
+
+
+DocID: CACM-0725
+
+
+
+DocID: CACM-0453
+
+
+
+DocID: CACM-1707
+
+
+
+DocID: CACM-3156
+
+
+
+DocID: CACM-2613
+
+
+
+DocID: CACM-2446
+
+
+
+DocID: CACM-1948
+
+
+
+DocID: CACM-0248
+
+
+
+DocID: CACM-1914
+
+
+
+DocID: CACM-2520
+
+
+
+DocID: CACM-3037
+
+
+
+DocID: CACM-2199
+
+
+
+DocID: CACM-2739
+
+
+
+DocID: CACM-0241
+
+
+
+DocID: CACM-3085
+
+
+
+DocID: CACM-1694
+
+
+
+DocID: CACM-1933
+
+
+
+DocID: CACM-2326
+
+
+
+DocID: CACM-1870
+
+
+
+DocID: CACM-2169
+
+
+
+DocID: CACM-1501
+
+
+
+DocID: CACM-2957
+
+
+
+DocID: CACM-2096
+
+
+
+DocID: CACM-1423
+
+
+
+DocID: CACM-0537
+
+
+
+DocID: CACM-0536
+
+
+
+DocID: CACM-1761
+
+
+
+DocID: CACM-0503
+
+
+
+DocID: CACM-1099
+
+
+
+DocID: CACM-2149
+
+
+
+DocID: CACM-2032
+
+
+
+DocID: CACM-2289
+
+
+
+DocID: CACM-1066
+
+
+
+DocID: CACM-0787
+
+
+
+DocID: CACM-1124
+
+
+
+DocID: CACM-1283
+
+
+
+DocID: CACM-1308
+
+
+
+DocID: CACM-3124
+
+
+
+DocID: CACM-2346
+
+
+
+DocID: CACM-1836
+
+
+
+DocID: CACM-2058
+
+
+
+DocID: CACM-2234
+
+
+
+DocID: CACM-1935
+
+
+
+DocID: CACM-1922
+
+
+
+DocID: CACM-2405
+
+
+
+DocID: CACM-2806
+
+
+
+DocID: CACM-2763
+
+
+
+DocID: CACM-2554
+
+
+
+DocID: CACM-2697
+
+
+
+DocID: CACM-1857
+
+
+
+DocID: CACM-2177
+
+
+
+DocID: CACM-0003
+
+
+
+DocID: CACM-0475
+
+
+
+DocID: CACM-0067
+
+
+
+DocID: CACM-2515
+
+
+
+DocID: CACM-0284
+
+
+
+DocID: CACM-1725
+
+
+
+DocID: CACM-2842
+
+
+
+DocID: CACM-2430
+
+
+
+DocID: CACM-2046
+
+
+
+DocID: CACM-2059
+
+
+
+DocID: CACM-1393
+
+
+
+DocID: CACM-3108
+
+
+
+DocID: CACM-0616
+
+
+
+DocID: CACM-2695
+
+
+
+DocID: CACM-2081
+
+
+
+DocID: CACM-2758
+
+

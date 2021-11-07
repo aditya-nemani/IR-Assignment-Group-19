@@ -1,0 +1,452 @@
+TFIDF_NoStopNoStem
+
+Query
+the use of braden decision models to on-site information rlvrtetaeesys
+im prefrncaome.  this interlocks stopping roles to determine when after should chase scanning the output of a retrieval search.
+
+Top 100 Results (547 millisecs)
+
+
+DocID: CACM-0997
+
+
+
+DocID: CACM-0998
+
+
+
+DocID: CACM-0999
+
+
+
+DocID: CACM-0993
+
+
+
+DocID: CACM-0994
+
+
+
+DocID: CACM-0995
+
+
+
+DocID: CACM-0996
+
+
+
+DocID: CACM-0990
+
+
+
+DocID: CACM-0991
+
+
+
+DocID: CACM-0992
+
+
+
+DocID: CACM-2703
+
+problem for a grammar is to [determine] whether the semantics  
+
+
+DocID: CACM-2702
+
+
+
+DocID: CACM-2705
+
+
+
+DocID: CACM-2704
+
+
+
+DocID: CACM-2701
+
+go-to-less programming, depth-first [search]  
+analysis, [information] propagation, flow graph, reducibility,  
+
+
+DocID: CACM-2700
+
+
+
+DocID: CACM-2707
+
+backtrack, depth-first [search] exhaustive [search]  
+
+
+DocID: CACM-2706
+
+
+
+DocID: CACM-2709
+
+
+
+DocID: CACM-2708
+
+high quality recovery with good diagnostic information  
+
+
+DocID: CACM-0975
+
+standard vocabulary in computers and information  
+
+
+DocID: CACM-0976
+
+
+
+DocID: CACM-0977
+
+
+
+DocID: CACM-0978
+
+
+
+DocID: CACM-0971
+
+
+
+DocID: CACM-0972
+
+to the computer.  the [information] received  
+
+
+DocID: CACM-0973
+
+
+
+DocID: CACM-0974
+
+
+
+DocID: CACM-0970
+
+
+
+DocID: CACM-0979
+
+
+
+DocID: CACM-0986
+
+for [information] processing  
+
+
+DocID: CACM-0987
+
+for [information] processing on automatic data  
+
+
+DocID: CACM-0988
+
+
+
+DocID: CACM-0989
+
+
+
+DocID: CACM-0982
+
+
+
+DocID: CACM-0983
+
+information interchange  proposed american standard   
+
+
+DocID: CACM-0984
+
+
+
+DocID: CACM-0985
+
+
+
+DocID: CACM-0980
+
+
+
+DocID: CACM-0981
+
+
+
+DocID: CACM-1405
+
+
+
+DocID: CACM-2736
+
+hash [search] address space extension,  
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-2735
+
+
+
+DocID: CACM-1407
+
+
+
+DocID: CACM-2738
+
+
+
+DocID: CACM-1406
+
+
+
+DocID: CACM-2737
+
+
+
+DocID: CACM-1401
+
+
+
+DocID: CACM-2732
+
+
+
+DocID: CACM-1400
+
+
+
+DocID: CACM-2731
+
+
+
+DocID: CACM-1403
+
+
+
+DocID: CACM-2734
+
+
+
+DocID: CACM-1402
+
+of additional [information] as in interpolation methods.  
+
+
+DocID: CACM-2733
+
+
+
+DocID: CACM-2730
+
+
+
+DocID: CACM-1409
+
+unusual arrangement of [information] within the 22 mc  
+
+
+DocID: CACM-1408
+
+
+
+DocID: CACM-2739
+
+
+
+DocID: CACM-1416
+
+tape file; the extraction of nonstandard sets of [information]  
+forms design.  a method of [information] extraction involving  
+
+
+DocID: CACM-2747
+
+
+
+DocID: CACM-1415
+
+toward conducting automatic [retrieval] of natural  
+message [retrieval] systems, they may have practical  
+on the tree structure [output] of the analyzer,  
+
+
+DocID: CACM-2746
+
+search, [information] [retrieval] text-editing,  
+efficient string matching: an aid to bibliographic search  
+search program by a factor of 5 to 10.  
+
+
+DocID: CACM-1418
+
+
+
+DocID: CACM-2749
+
+as examples two automobile traffic [models]  the  
+
+
+DocID: CACM-1417
+
+cost functions among five system/360 models  
+
+
+DocID: CACM-2748
+
+
+
+DocID: CACM-1412
+
+the banking [information] system concept  
+facilitate cross referencing of account information  
+more complex combinations of [information] for  
+
+
+DocID: CACM-2743
+
+modeling, computing [models] binary comparisons  
+
+
+DocID: CACM-1411
+
+
+
+DocID: CACM-2742
+
+simulation [models] of large, complex "real-world"  
+discrete event simulation, simulation, event [scanning] mechanisms  
+a method for significantly reducing the time spent scanning  
+
+
+DocID: CACM-1414
+
+twelve-row punched-card code for information  
+
+
+DocID: CACM-2745
+
+
+
+DocID: CACM-1413
+
+
+
+DocID: CACM-2744
+
+
+
+DocID: CACM-1410
+
+
+
+DocID: CACM-2741
+
+
+
+DocID: CACM-2740
+
+
+
+DocID: CACM-1419
+
+
+
+DocID: CACM-2714
+
+
+
+DocID: CACM-2713
+
+
+
+DocID: CACM-2716
+
+
+
+DocID: CACM-2715
+
+
+
+DocID: CACM-2710
+
+
+
+DocID: CACM-2712
+
+
+
+DocID: CACM-2711
+
+automatic [information] [retrieval] automatic  
+in particular, [retrieval] performance may correlate inversely  
+in a document [retrieval] or other pattern matching  
+
+
+DocID: CACM-2718
+
+a structure which [models] the business" in some other  
+
+
+DocID: CACM-2717
+
+
+
+DocID: CACM-2719
+
+
+
+DocID: CACM-2725
+
+
+
+DocID: CACM-2724
+
+
+
+DocID: CACM-2727
+
+
+
+DocID: CACM-2726
+
+combining [decision] rules in a [decision] table  
+method, coding, [decision] tables, flowcharting, sorting  
+are applied to the simplification of decision  
+
+
+DocID: CACM-2721
+
+
+
+DocID: CACM-2720
+
+set of disk [models] is then minimized under varying  
+
+
+DocID: CACM-2723
+
+and [interlocks] complete procedures for garbage  
+
+
+DocID: CACM-2722
+
+associative [retrieval] binary [search] trees, key,  
+attribute, [information] [retrieval] system, nearest  
+information to be retrieved by associative searches.  
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-2728
+
+consecutive, [retrieval] storage, file, records, query, redundancy, key  
+

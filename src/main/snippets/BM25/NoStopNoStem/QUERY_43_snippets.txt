@@ -1,0 +1,521 @@
+BM25_NoStopNoStem
+
+Query
+analysis and perception of shape by humans and cumtoreps.  spiho
+desearpticns, shape retention by computer.  technological specifications of ccritliuray.  shape mcnhiatg.
+
+Top 100 Results (437 millisecs)
+
+
+DocID: CACM-2569
+
+with non-integral [shape] parameters  
+computer generation of gamma random variates  
+when the [shape] parameter, a, is integral,  
+
+
+DocID: CACM-3107
+
+generating beta variates with nonintegrel [shape] parameters  
+computer timings.  it is suggested that the  
+
+
+DocID: CACM-2847
+
+sampling from the gamma distribution on a computer  
+wallace's recently suggested method.  for large [shape] parameter  
+
+
+DocID: CACM-2754
+
+measurement of peak amplitude, duration, and [shape]  the  
+
+
+DocID: CACM-2771
+
+graphics, machined components, polyhedra, shape  
+using a [computer]  synthesis begins with primitive solids  
+
+
+DocID: CACM-3046
+
+gamma variates with nonintegral [shape] parameter  
+gamma variables, rejection method, [computer] methods  
+computer generation of gamma random variables - ii  
+
+
+DocID: CACM-3098
+
+computer generation of gamma random variables  
+gamma variables, rejection method, [computer] methods  
+from the gamma distribution with nonintegral shape  
+
+
+DocID: CACM-2455
+
+which imbalances up to  triangle [shape]  is a small  
+
+
+DocID: CACM-3125
+
+data flow [analysis] boolean systems  
+information or restrictions on the [shape] of the program graph.  
+
+
+DocID: CACM-2829
+
+texture and reflection in [computer] generated images  
+computer graphics, graphic display, shading, hidden surface removal  
+of regions of the pattern definition function. the shape  
+
+
+DocID: CACM-2883
+
+shape of the contour of an object can be embedded  
+
+
+DocID: CACM-2341
+
+adapt in size and [shape] to their environment.  blocks  
+
+
+DocID: CACM-2812
+
+analysis consists of a set of procedures and computer  
+computer-aided [analysis] information systems, logical  
+of applications software design, [computer] selection  
+
+
+DocID: CACM-0561
+
+analytic differentiation by computer  
+
+
+DocID: CACM-2438
+
+dendrarchy, [retention] dynamic storage allocation,  
+procedure activation storage which allows retention  
+
+
+DocID: CACM-1260
+
+small [computer]  the [analysis] has been carried out  
+least-squares [analysis] of resonance spectra on small computers  
+calculation it is possible to make the [analysis] on a  
+
+
+DocID: CACM-1553
+
+a further development of a [computer] program  
+understanding on the part of either [humans] or  
+
+
+DocID: CACM-3010
+
+technological and nontechnological value orientations  
+value orientation of [computer] science students  
+in 1972.  [computer] science majors were found  
+
+
+DocID: CACM-1404
+
+between the [analysis] of covariance and the analysis  
+analysis on a multifactor structure  
+the computational procedure for the analysis  
+
+
+DocID: CACM-2069
+
+markovian [computer] models, scheduling strategies,  
+
+
+DocID: CACM-1796
+
+
+
+DocID: CACM-2815
+
+
+
+DocID: CACM-2657
+
+for the improved algorithm, the [analysis] is  
+
+
+DocID: CACM-1272
+
+humans or computers to produce alone.  
+expansion of [computer] output in such  
+such processes as factor [analysis]  applications  
+
+
+DocID: CACM-1619
+
+
+
+DocID: CACM-2302
+
+of [technological] change to employment.  the most obvious  
+of his work, and in his attitudes toward that work.  technological  
+
+
+DocID: CACM-1952
+
+
+
+DocID: CACM-1660
+
+
+
+DocID: CACM-0543
+
+
+
+DocID: CACM-0204
+
+
+
+DocID: CACM-0260
+
+
+
+DocID: CACM-0363
+
+
+
+DocID: CACM-2204
+
+refinement of [specifications] is illustrated by a short  
+
+
+DocID: CACM-0150
+
+
+
+DocID: CACM-0932
+
+
+
+DocID: CACM-0654
+
+
+
+DocID: CACM-1176
+
+
+
+DocID: CACM-1078
+
+
+
+DocID: CACM-0209
+
+
+
+DocID: CACM-0246
+
+
+
+DocID: CACM-2523
+
+picture processing, scene [analysis] edge detection  
+a region coloring technique for scene analysis  
+
+
+DocID: CACM-0126
+
+
+
+DocID: CACM-0176
+
+
+
+DocID: CACM-0872
+
+
+
+DocID: CACM-0515
+
+
+
+DocID: CACM-0429
+
+
+
+DocID: CACM-1298
+
+
+
+DocID: CACM-1598
+
+
+
+DocID: CACM-0297
+
+
+
+DocID: CACM-3055
+
+algorithmic [analysis] dutch national flag  
+an [analysis] of algorithms for the dutch national flag problem  
+
+
+DocID: CACM-1640
+
+
+
+DocID: CACM-1578
+
+
+
+DocID: CACM-2494
+
+a [computer] generated aid for cluster analysis  
+by four methods of factor [analysis] and two methods of cluster [analysis]  
+computer graphics, cluster [analysis] numerical  
+
+
+DocID: CACM-2253
+
+manipulation, syntactic [analysis] well-formed  
+
+
+DocID: CACM-2352
+
+
+
+DocID: CACM-1799
+
+
+
+DocID: CACM-2024
+
+
+
+DocID: CACM-1045
+
+programming [analysis] of variance by sequences  
+has been found to be efficient in programming analysis  
+
+
+DocID: CACM-0912
+
+by fortran for [analysis] of variance  
+
+
+DocID: CACM-0946
+
+
+
+DocID: CACM-2101
+
+
+
+DocID: CACM-2210
+
+a program satisfying certain [specifications] a theorem  
+induced by those [specifications] is proved, and  
+
+
+DocID: CACM-2356
+
+main goal is to provide [specifications] sufficiently  
+specifications for parts of software systems.  the  
+
+
+DocID: CACM-2262
+
+garbage collection for virtual memory [computer] systems  
+growth within a virtual memory [computer] system,  
+
+
+DocID: CACM-2431
+
+
+
+DocID: CACM-1914
+
+
+
+DocID: CACM-1764
+
+panel discussion on [computer] appreciation  
+computer appreciation, students' liberal arts courses,  
+content, [computer] courses dropout rates, college versus  
+
+
+DocID: CACM-2729
+
+
+
+DocID: CACM-1816
+
+
+
+DocID: CACM-3078
+
+analysis of the availability of computer  
+on-line [computer] system.  
+systems using [computer] aided algebra  
+
+
+DocID: CACM-1158
+
+
+
+DocID: CACM-2447
+
+an error [analysis] for some bivariate cubatures  
+use of sard kernels.  numerical results and computer  
+
+
+DocID: CACM-1121
+
+
+
+DocID: CACM-1470
+
+specifications.  a command is an imperative statement  
+
+
+DocID: CACM-1931
+
+mathematical proof by computer  
+
+
+DocID: CACM-1927
+
+data retrieval, language [analysis] information  
+computer science program.  the subject area is  
+information science in a ph. [computer] science program  
+
+
+DocID: CACM-0414
+
+
+
+DocID: CACM-2837
+
+worst-case analysis  
+
+
+DocID: CACM-0436
+
+evaluation of polynomials by computer  
+
+
+DocID: CACM-2871
+
+logical [analysis] of programs  
+logical [analysis] invariants, program verification,  
+most present systems for verification of computer  
+
+
+DocID: CACM-3094
+
+syntactic [analysis] [analysis] of algorithms,top-down  
+
+
+DocID: CACM-1208
+
+simulation of [computer] logic by fortran arithmetic  
+
+
+DocID: CACM-1517
+
+analyzing data generated by [computer] simulations  
+methods for analyzing data from [computer] simulation experiments  
+technique of [analysis]  possibly not any one of the above   
+
+
+DocID: CACM-2933
+
+
+
+DocID: CACM-1307
+
+a lightpen-controlled program for on-line data analysis  
+in composing commands to the [computer]  in the  
+
+
+DocID: CACM-0850
+
+
+
+DocID: CACM-2580
+
+and [computer] scientists.  
+models of cognitive processes, [computer] music,  
+by the [computer] implementation of the method are  
+
+
+DocID: CACM-2765
+
+of queries, and machine timing and blocking specifications  
+analysis and performance of inverted data base structures  
+
+
+DocID: CACM-3004
+
+disciplined [specifications] and step by step  
+
+
+DocID: CACM-3009
+
+
+
+DocID: CACM-1868
+
+in which the [computer] itself is used to rule  
+
+
+DocID: CACM-0822
+
+real-time programming specifications  
+for both program and file [specifications] are developed.  
+
+
+DocID: CACM-2999
+
+analysis, data retrieval, data processing, syntax  
+an approach to multidimensional data array processing by computer  
+
+
+DocID: CACM-3149
+
+scene [analysis] cyclic order, artificial intelligence,  
+, picture processing, [computer] graphics, pattern recognition.  
+the cyclic order property of vertices as an aid in scene analysis  
+
+
+DocID: CACM-1043
+
+
+
+DocID: CACM-0236
+
+soviet cybernetics and computer  
+research and technology in cybernetics and computer  
+
+
+DocID: CACM-1664
+
+are supplied as input, the [computer] will  
+a method is described whereby a digital computer  
+
+
+DocID: CACM-1930
+
+number [analysis] random generators, linear sequential  
+ 1967 sing their methods, fourier [analysis] is applied  
+
+
+DocID: CACM-3129
+
+a [computer] system uses several serial files.  the files reside on a  
+
+
+DocID: CACM-1413
+
+the social response to potential technological  
+

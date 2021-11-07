@@ -1,0 +1,547 @@
+BM25_NoStopNoStem
+
+Query
+what is the type of a montanari dont want the entrance literature outpatient data types here, but ibm not sure how to parse this to avoid it.
+ibm inserted in questions about how one can check that a module "matches"
+contexts in which it is uesd.)
+
+Top 100 Results (1187 millisecs)
+
+
+DocID: CACM-2470
+
+languages, [data] [types] modes, axioms, correctness,  
+data [types]  both deterministic and nondeterministic  
+data [types] out of simper ones with the operations of rowing,  
+
+
+DocID: CACM-3031
+
+data [type] [data] structure, specification  
+abstract [data] [type] correctness proof,  
+abstract [data] [types] and software validation  
+
+
+DocID: CACM-1691
+
+generators for the [ibm] 360.  
+statistical tests for randomness, [ibm] 360, 32-bit  
+of random number generators for the [ibm] 360  
+
+
+DocID: CACM-3177
+
+in this paper we show how to divide [data] d into  
+
+
+DocID: CACM-3142
+
+average contacts with different [types] of accounts experience one  
+from such [data] results show that with the present state of the  
+what [type] of errors occur?  how easily are they corrected?  what  
+
+
+DocID: CACM-3060
+
+
+
+DocID: CACM-1698
+
+requirements?  answers to these and similar questions  
+consoles.  using the model we answer [questions] like:  
+
+
+DocID: CACM-0414
+
+the [ibm] 1440 [data] processing system, announced  
+ibm 1440 [data] processing system features five new units  
+
+
+DocID: CACM-3105
+
+abstract [data] [types] [type] checking, capabilities  
+types.  
+programming languages, access control, [data] [types]  
+
+
+DocID: CACM-0595
+
+unfortunately, historical [data] concerning  
+
+
+DocID: CACM-1874
+
+complement arithmetic, [ibm] 360 arithmetic  
+complement machine such as the [ibm] 360  
+is examined in the context of the [type] of  
+
+
+DocID: CACM-2931
+
+with the method of [data] [types] as lattices  or partial  
+to certain [questions] are computable in principle,  
+
+
+DocID: CACM-3033
+
+montanari, u.  
+tackled in the [literature] using two approaches,  
+
+
+DocID: CACM-3023
+
+architecture of the [ibm] system/370  
+of the important parameters of the various ibm  
+
+
+DocID: CACM-1861
+
+language can define new operators and/or [data] types  
+
+
+DocID: CACM-3054
+
+
+
+DocID: CACM-1637
+
+data and independent observations are  
+
+
+DocID: CACM-1572
+
+ibm 360/67 time-sharing system.  
+to assist in the investigation of these [questions] is  
+
+
+DocID: CACM-2139
+
+
+
+DocID: CACM-1166
+
+to assist in translating [ibm] 7090 symbolic assembly  
+language programs to [ibm] 7040 machine language programs.  
+this set, [inserted] at the beginning of the  
+
+
+DocID: CACM-1489
+
+data, documentation and decision tables  
+in business [data] processing systems, it is  
+necessary to be able to define and document [data]  
+
+
+DocID: CACM-0497
+
+
+
+DocID: CACM-0321
+
+
+
+DocID: CACM-3162
+
+
+
+DocID: CACM-1440
+
+of primary interest on [ibm] system/360.  
+starting approximations for square root calculation on [ibm] system/360  
+in a form to facilitate their use in [ibm] system/360 square  
+
+
+DocID: CACM-2939
+
+programming languages, [data] [types] [data] abstractions,  
+control, and especially [data] abstractions-are useful  
+with complete [type] checking performed at compile  
+
+
+DocID: CACM-1873
+
+
+
+DocID: CACM-2970
+
+includes a test to [check] the normality assumption on  
+
+
+DocID: CACM-2989
+
+in troduced, and used to answer [questions] like: how many  
+
+
+DocID: CACM-3140
+
+
+
+DocID: CACM-2305
+
+to reconstruct it from the published [literature]  
+
+
+DocID: CACM-2815
+
+complex [data] [types] in separately compiled modules.  
+
+
+DocID: CACM-1680
+
+iv  g  for the [ibm] system/360, model 40, and the [ibm] 2250  
+solution techniques, stored [data] and all other library and  
+
+
+DocID: CACM-2609
+
+
+
+DocID: CACM-0718
+
+
+
+DocID: CACM-1468
+
+simulator, originally written for an [ibm] 7094  
+
+
+DocID: CACM-2369
+
+be classified into tree [types] and also discusses  
+
+
+DocID: CACM-0069
+
+computing centers which have [ibm] 650's.  
+statistical programs for the [ibm] 650-part i  
+
+
+DocID: CACM-2867
+
+data [type] address space, virtual memory  
+incremental machine design, [module]  
+systems. it is shown that the concepts of [module] and  
+
+
+DocID: CACM-0616
+
+interested in developing a theoretical approach to data  
+univac division;  roy goldfinger  chairman , ibm  
+similar lines.  [questions] and comments will be welcomed,  
+
+
+DocID: CACM-2941
+
+types and [type] coercions, the benefits of the [type] system  
+programming languages, [types] modules,  
+data structures, systems programming  
+
+
+DocID: CACM-2579
+
+
+
+DocID: CACM-1352
+
+
+
+DocID: CACM-1643
+
+
+
+DocID: CACM-1161
+
+technology led to rapid obsolescence of [data] processing  
+of which [ibm] 1400 series was a part, brought  
+1401 compatibility feature on the [ibm] system/360 model 30  
+
+
+DocID: CACM-2912
+
+readers/writers problem, shared data  
+the problem of sharing [data] among asynchronous  
+mechanism other than [data] which can be written  
+
+
+DocID: CACM-0867
+
+for any [type] of closed area.  finally, applications  
+over certain [types] of subareas of the  x,y -space.  
+
+
+DocID: CACM-1647
+
+which has been implemented within the [ibm] 7040/44  
+in particular the [ibm] 7040/44 fortran iv system.  
+
+
+DocID: CACM-2400
+
+
+
+DocID: CACM-0031
+
+ibm 704 code-nundrums  
+
+
+DocID: CACM-0061
+
+ibm 709 tape matrix compiler  
+
+
+DocID: CACM-2876
+
+
+
+DocID: CACM-3014
+
+
+
+DocID: CACM-1536
+
+
+
+DocID: CACM-2986
+
+
+
+DocID: CACM-0670
+
+through cooperatives.  more challenging are questions  
+improper refusal to pay a [check] and susceptibility  
+is the propriety of [data] processing by banks for  
+
+
+DocID: CACM-1417
+
+economies of scale and the [ibm] system/360  
+comparisons are made between the [data] developed  
+much of the [data]  sizable economies of scale are  
+
+
+DocID: CACM-0033
+
+a programmed binary counter for the [ibm] [type] 650 calculator  
+
+
+DocID: CACM-2733
+
+
+
+DocID: CACM-1145
+
+and the program is designed to [avoid] excessive computation  
+in the comit language and successfully tested on the [ibm] 7090.  
+
+
+DocID: CACM-1209
+
+negative and zero subscripts in fortran ii programming for the [ibm] 1620  
+
+
+DocID: CACM-2957
+
+data abstraction, relational database, [data] [type]  
+suggested that aggregate [types] and other types  
+knowledge representation, [data] definition language  
+
+
+DocID: CACM-3048
+
+in the [ibm] 360/195.  
+of the cpu-memory subsystem of the [ibm] 360/91 is  
+in the architecture of the [ibm] 360/91 are of little  
+
+
+DocID: CACM-2309
+
+
+
+DocID: CACM-2083
+
+subroutine communication, [data] communication  
+data base, fortran, common, common equivalencing,  
+creation and control of internal [data] bases  
+
+
+DocID: CACM-2327
+
+
+
+DocID: CACM-2390
+
+utility, information retrieval, trees, [data] structures  
+
+
+DocID: CACM-0163
+
+counting ones on the [ibm] 7090  
+
+
+DocID: CACM-1164
+
+systems on [ibm] system/360.  
+techniques for the [ibm] 7074, 7080 and 7090  
+
+
+DocID: CACM-0050
+
+statistical programs for the [ibm] 650-part ii  
+
+
+DocID: CACM-1382
+
+
+
+DocID: CACM-2624
+
+systems, e.g. cp-67 on the [ibm] 360/67.  from previous  
+
+
+DocID: CACM-2082
+
+in the [literature] is worked out as an example.  
+and retrieval facilities so that other programmers who want  
+formation of [questions] to the programmer, whose answers will  
+
+
+DocID: CACM-2582
+
+literature.  
+interactive text editor and the file system module  
+reference.  the [data] the method operates upon are extracted from  
+
+
+DocID: CACM-0818
+
+realizing boolean connectives on the [ibm] 1620  
+
+
+DocID: CACM-3201
+
+to [avoid] waste and overflow of core storage space.  
+set of formal subroutines written partially in the [ibm] 7094 machine language,  
+
+
+DocID: CACM-2480
+
+
+
+DocID: CACM-2707
+
+
+
+DocID: CACM-3179
+
+
+
+DocID: CACM-3052
+
+
+
+DocID: CACM-1590
+
+converter attached to an interconnected [ibm] 7090-pdp-1  
+within 1 to 2 times real-time on the [ibm] 7090.  
+
+
+DocID: CACM-3009
+
+
+
+DocID: CACM-2184
+
+function between the [data] names of a programming  
+and a storable object of [type] context.  manipulations  
+with [contexts] are then discussed at length.  it is noted  
+
+
+DocID: CACM-1248
+
+
+
+DocID: CACM-2201
+
+at the user's request, this record is sent to the ibm  
+
+
+DocID: CACM-1958
+
+
+
+DocID: CACM-1810
+
+built at the [ibm] research center by belady, nelson,  
+
+
+DocID: CACM-1163
+
+reprogram philco 2000 series codes for [ibm] 7094 operation.  
+
+
+DocID: CACM-1215
+
+alcor group for the [ibm] 7090.  some little known  
+
+
+DocID: CACM-1260
+
+the problem of analyzing [data] from a mossbauer  
+on an [ibm] 1410 computer with a 40,000 bcd core memory.  
+
+
+DocID: CACM-2053
+
+proposed in the [literature] is made.  some features of a decision table  
+to fortran iv translator for the [ibm] 7044 developed by the authors are given.  
+
+
+DocID: CACM-1854
+
+and test on the [ibm] system/360.  two programs using these  
+
+
+DocID: CACM-1195
+
+system on an [ibm] 1401-7090 combined [data] processing  
+blocks from variable length source [data] and format  
+ibm 7090 system.  the programs are completely self-checking  
+
+
+DocID: CACM-2229
+
+
+
+DocID: CACM-2750
+
+data storage, [data] staging, and [data] migration.  although  
+system configuration, [data] staging, [data] migration,  
+data set allocation, hierarchical storage, storage  
+
+
+DocID: CACM-3069
+
+data flow analysis, global flow analysis, optimization,  
+a practical interprocedural [data] flow analysis algorithm  
+a new interprocedural  [data] flow analysis algorithm  
+
+
+DocID: CACM-1506
+
+computer  an [ibm] system 360/30 .  therefore techniques  
+
+
+DocID: CACM-2232
+
+
+
+DocID: CACM-0098
+
+the [ibm] fortran automatic coding system  
+
+
+DocID: CACM-1641
+
+a lisp embedding into algol, using an [ibm] 7044  
+list-structured [data]  it consists in reducing to one  
+

@@ -1,0 +1,418 @@
+LUCENE_NoStopNoStem
+
+Query
+Articles about the sensitivity of the eigenvalue decomposition of real
+matrices, in particular, zero-one matrices.  I'm especially interested in
+the separation of eigenspaces corresponding to distinct eigenvalues.
+Articles on the subject:
+C. Davis and W. Kahn, "The rotation of eigenvectors by a permutation:,
+SIAM J. Numerical Analysis, vol. 7, no. 1 (1970); G. Stewart, "Error
+bounds for approximate invariant subspaces of closed linear operators",
+SIAM J. Numerical Analysis., Vol. 8, no. 4 (1971).
+
+Davis, C.
+Kahn, W.
+Stewart, G.
+
+Top 100 Results (86 millisecs)
+
+
+DocID: CACM-2284
+
+
+
+DocID: CACM-2695
+
+
+
+DocID: CACM-2047
+
+
+
+DocID: CACM-2697
+
+
+
+DocID: CACM-3016
+
+
+
+DocID: CACM-1954
+
+
+
+DocID: CACM-2043
+
+
+
+DocID: CACM-1423
+
+
+
+DocID: CACM-2554
+
+
+
+DocID: CACM-1809
+
+
+
+DocID: CACM-1692
+
+
+
+DocID: CACM-2226
+
+
+
+DocID: CACM-1147
+
+
+
+DocID: CACM-2887
+
+
+
+DocID: CACM-0441
+
+
+
+DocID: CACM-2807
+
+
+
+DocID: CACM-2806
+
+
+
+DocID: CACM-2805
+
+
+
+DocID: CACM-1143
+
+
+
+DocID: CACM-2261
+
+
+
+DocID: CACM-2281
+
+
+
+DocID: CACM-0537
+
+
+
+DocID: CACM-0492
+
+
+
+DocID: CACM-3153
+
+
+
+DocID: CACM-1135
+
+
+
+DocID: CACM-2081
+
+
+
+DocID: CACM-1782
+
+
+
+DocID: CACM-0070
+
+
+
+DocID: CACM-2000
+
+
+
+DocID: CACM-1347
+
+
+
+DocID: CACM-2544
+
+
+
+DocID: CACM-1577
+
+
+
+DocID: CACM-2186
+
+
+
+DocID: CACM-2355
+
+
+
+DocID: CACM-2929
+
+
+
+DocID: CACM-3059
+
+
+
+DocID: CACM-2809
+
+
+
+DocID: CACM-1404
+
+
+
+DocID: CACM-1441
+
+
+
+DocID: CACM-1334
+
+
+
+DocID: CACM-1116
+
+
+
+DocID: CACM-1501
+
+
+
+DocID: CACM-2177
+
+
+
+DocID: CACM-1614
+
+
+
+DocID: CACM-1998
+
+
+
+DocID: CACM-1647
+
+
+
+DocID: CACM-1045
+
+
+
+DocID: CACM-1363
+
+
+
+DocID: CACM-1325
+
+
+
+DocID: CACM-1046
+
+
+
+DocID: CACM-3094
+
+
+
+DocID: CACM-1902
+
+
+
+DocID: CACM-1524
+
+
+
+DocID: CACM-0848
+
+
+
+DocID: CACM-1014
+
+
+
+DocID: CACM-1047
+
+
+
+DocID: CACM-1946
+
+
+
+DocID: CACM-1764
+
+
+
+DocID: CACM-3138
+
+
+
+DocID: CACM-1867
+
+
+
+DocID: CACM-1271
+
+
+
+DocID: CACM-2289
+
+
+
+DocID: CACM-2266
+
+
+
+DocID: CACM-1658
+
+
+
+DocID: CACM-3085
+
+
+
+DocID: CACM-1924
+
+
+
+DocID: CACM-2820
+
+
+
+DocID: CACM-1160
+
+
+
+DocID: CACM-0497
+
+
+
+DocID: CACM-2977
+
+
+
+DocID: CACM-1529
+
+
+
+DocID: CACM-1622
+
+
+
+DocID: CACM-2850
+
+
+
+DocID: CACM-2954
+
+
+
+DocID: CACM-2645
+
+
+
+DocID: CACM-3125
+
+
+
+DocID: CACM-1049
+
+
+
+DocID: CACM-2335
+
+
+
+DocID: CACM-1285
+
+
+
+DocID: CACM-1709
+
+
+
+DocID: CACM-2592
+
+
+
+DocID: CACM-1727
+
+
+
+DocID: CACM-0637
+
+
+
+DocID: CACM-2325
+
+
+
+DocID: CACM-1308
+
+
+
+DocID: CACM-2986
+
+
+
+DocID: CACM-1725
+
+
+
+DocID: CACM-1744
+
+
+
+DocID: CACM-3152
+
+
+
+DocID: CACM-2787
+
+
+
+DocID: CACM-1679
+
+
+
+DocID: CACM-2233
+
+
+
+DocID: CACM-1909
+
+
+
+DocID: CACM-1916
+
+
+
+DocID: CACM-1543
+
+
+
+DocID: CACM-1963
+
+
+
+DocID: CACM-2568
+
+
+
+DocID: CACM-2188
+
+
+
+DocID: CACM-1766
+
+
+
+DocID: CACM-1861
+
+

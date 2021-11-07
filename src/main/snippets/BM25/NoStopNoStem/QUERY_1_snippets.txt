@@ -1,0 +1,694 @@
+BM25_NoStopNoStem
+
+Query
+what armies exit which dahl with tss (time sharing system), accelerating system for ibm crmupteos?
+
+Top 100 Results (314 millisecs)
+
+
+DocID: CACM-1523
+
+a [time] [sharing] [system] embedded within the  
+sharer, a [time] [sharing] [system] for the cdc 6600  
+time was approximately six man-years, with the  
+
+
+DocID: CACM-2380
+
+which are important for any [time] [sharing] [system]  
+tenex is a new [time] [sharing] [system] implemented  
+tenex, a paged [time] [sharing] [system] for the pdp-10  
+
+
+DocID: CACM-1410
+
+time[sharing] [system]  [tss] .  the input process  
+interarrival statistics for [time] [sharing] systems  
+the optimization of [time]shared [system] performance  
+
+
+DocID: CACM-1605
+
+six variables  e.g., programmer [time] computer [time]  
+an experimental comparison of [time] [sharing] and batch processing  
+variance techniques were employed to estimate system  
+
+
+DocID: CACM-3025
+
+accelerating the transition from batch oriented to time  
+sharing computing systems; transferring hardware  
+computer structures, architecture, operating [system] timesharing  
+
+
+DocID: CACM-1938
+
+of the [system] while [sharing] its [time] with other  
+quantitative [time[sharing] [system] performance  
+system operation, [time[sharing] performance analysis  
+
+
+DocID: CACM-1506
+
+the laconiq monitor: [time] [sharing] for online dialogues  
+computer  an [ibm] [system] 360/30 .  therefore techniques  
+be brought back at a later [time]  
+
+
+DocID: CACM-1544
+
+system.  a significant element of the [system] is  
+tele-cupl: a telephone [time] [sharing] system  
+to the telephone terminals, but the system  
+
+
+DocID: CACM-1519
+
+george 3-a general purpose [time] [sharing] and operating system  
+an operating [system] is described which will  
+users while at the same [time] running several  
+
+
+DocID: CACM-2371
+
+computer networks, resource sharing  
+a [system] for interprocess communication  
+in a resource [sharing] computer network  
+
+
+DocID: CACM-2379
+
+data [sharing] resource management, deadlock  
+multiprogramming [system] which supports five or  
+operating systems, [system] design, levels of abstraction,  
+
+
+DocID: CACM-1749
+
+operating [system] multiprogramming [system] system  
+buffering, multiprogramming, processor [sharing] multiprocessing  
+hierarchy, [system] structure, real[time] debugging,  
+
+
+DocID: CACM-1380
+
+dahl, o. j.  
+system description also serves as a source language simulation  
+
+
+DocID: CACM-0414
+
+the [ibm] 1440 data processing [system] announced  
+ibm 1440 data processing [system] features five new units  
+
+
+DocID: CACM-1033
+
+of the [system] is with an interpretive translator on an [ibm] 1620 computer.  
+experimental personalized array translator system  
+stored program sequencing, the [system] provides  
+
+
+DocID: CACM-1161
+
+system required tedious conversion as incompatible new  
+of which [ibm] 1400 series was a part, brought  
+1401 compatibility feature on the [ibm] [system]360 model 30  
+
+
+DocID: CACM-1393
+
+pm is an [ibm] 7094 program [system] for formal manipulation  
+pm, a [system] for polynomial manipulation  
+system, which is described and compared with  
+
+
+DocID: CACM-0971
+
+time [sharing] in a traffic control program  
+the toronto traffic signal control [system] consists  
+programs, all competing for machine [time]  to satisfy  
+
+
+DocID: CACM-1304
+
+system with rapid turnaround [time] are described.  
+a rapid turnaround multi-programming system  
+in this paper, basic features, [system] characteristics  
+
+
+DocID: CACM-1225
+
+analyzer, a [system] of syntactic analysis  
+now claim efficiency both in processing [time] and  
+now operational at harvard on and [ibm] 7094, are delineated.  
+
+
+DocID: CACM-0637
+
+of the [system] were very significant.  
+system developed at the naval electronics laboratory,  
+generated with 7090 neliac [system]  the reduction  
+
+
+DocID: CACM-1885
+
+ibm 360/67 computer.  the [system] deals with the transformational  
+a comprehensive [system] for transformational  
+the development of the [system] then  
+
+
+DocID: CACM-1591
+
+the [ibm] 7044 graphic [system]  because the teaching  
+system automatically terminated and rescheduled itself,  
+operating [system] to execute functions other than  
+
+
+DocID: CACM-1179
+
+for use at compile [time] and at execute [time] and a rather  
+subroutine library, an input--output system  
+a core resident, compile-and-go [system] designed  
+
+
+DocID: CACM-1960
+
+process management and resource [sharing] in the multiaccess [system] esope  
+processes using [system] primitive operations, the file-memory relationship,  
+the main design principles of the multiaccess [system] esope are described.  
+
+
+DocID: CACM-2764
+
+based on what we call "semantic density."  the system  
+paragraph length input.  its core is a [system] of preferential  
+
+
+DocID: CACM-1647
+
+in particular the [ibm] 7040/44 fortran iv [system]  
+this feature makes the [system] attractive to  
+resides core there is virtually no [system] overhead,  
+
+
+DocID: CACM-0585
+
+to the automatic [time] [sharing] of independently coded  
+multiprogramming [system] at lewis research center.  
+system modifications were necessary to accomplish this  
+
+
+DocID: CACM-1195
+
+system on an [ibm] 1401-7090 combined data processing  
+ibm 7090 [system]  the programs are completely self-checking  
+uplifts-university of pittsburgh linear file tandem system  
+
+
+DocID: CACM-1163
+
+a translation [system] has been developed to  
+experience with this [system] is limited but  
+reprogram philco 2000 series codes for [ibm] 7094 operation.  
+
+
+DocID: CACM-1698
+
+system design, input-output design  
+are needed in certain aspects of operating system  
+the ability of a computer [system] to communicate  
+
+
+DocID: CACM-3048
+
+in the [ibm] 360/195.  
+system designs are discussed.  the experiments  
+system model yields the timing and resource usage  
+
+
+DocID: CACM-3127
+
+thoth, a portable real[time] operating system  
+portability, real [time] operating systems, minicomputer  
+with quite different architectures.  both the [system] and application  
+
+
+DocID: CACM-2560
+
+system with a two-level storage [system] in which there  
+multiprogrammed computer [system] storage [system] hierarchical index sets  
+computer with a two-level storage system  
+
+
+DocID: CACM-2358
+
+sharing.  usually, [sharing] is accomplished by allowing  
+information [sharing] paging, memory management,  
+system programs of all information, independent  
+
+
+DocID: CACM-1827
+
+system evaluation, software monitor, software  
+operating [system] and user program behavior  
+performance monitoring in a [time[sharing] system  
+
+
+DocID: CACM-1173
+
+execution [time]  the logic of this [system] is  
+ways of improving the [system]  
+system for handling the transfers of program  
+
+
+DocID: CACM-2951
+
+systems, comparative response [time] arpa  
+response [time] monitor, computer networks, [time]sharing  
+dynamic response [time] prediction for computer networks  
+
+
+DocID: CACM-0098
+
+the [ibm] fortran automatic coding system  
+
+
+DocID: CACM-2054
+
+least 40 users at a [time] with an [ibm] 360/65 computer.  
+an on-line computer processing system  
+an on-line digital computer processing [system] is considered in which an  
+
+
+DocID: CACM-1168
+
+enable the [system] to operate on three [ibm] computers.  
+program [system] written in cobol is  
+
+
+DocID: CACM-1542
+
+an experimental processing [system] for the algorithmic  
+second read-only storage unit.  the [system] consists  
+microprogramming on an [ibm] [system]360 model 30 using a  
+
+
+DocID: CACM-1680
+
+system is described.  this [system] was designed  
+iv  g  for the [ibm] [system]360, model 40, and the [ibm] 2250  
+system by terminating and rescheduling itself  
+
+
+DocID: CACM-2188
+
+on considerations such as [system] response [time] system  
+model, optimum [system] design, queueing  
+data processing [system]  the work reported  
+
+
+DocID: CACM-3089
+
+response [time] and the [system] saturation point.  
+and [system] performance evaluation  
+system under intermittent failures is proposed.  
+
+
+DocID: CACM-1315
+
+automation of the radioisotope accountability system  
+of [time]  purchased radioisotopes are reported  
+system of radioisotope accountability for three years.  the  
+
+
+DocID: CACM-2632
+
+operating [system] kernel, nucleus, protection, security  
+hydra: the kernel of a multiprocessor operating system  
+hydra-the kernel of an operating [system] for c.mmp,  
+
+
+DocID: CACM-1264
+
+processing [time] is at a minimum.  this [system] will  
+in the [system]  
+blnsys-a 1401 operating [system] with braille capabilities  
+
+
+DocID: CACM-1626
+
+careful segmentation of [system] programs, allocation  
+in an ideal list-processing [system] there would  
+structure of a lisp [system] using two-level storage  
+
+
+DocID: CACM-2542
+
+modeling, [system] integration, simulation  
+operating [system] development, language processing  
+software evaluation, compilers, [system] programming,  
+
+
+DocID: CACM-2948
+
+a terminal-oriented communication system  
+local echoing, communication [system] network  
+terminal [system] error correction, multiplexing,  
+
+
+DocID: CACM-1341
+
+with regard to such trends as [time] [sharing] parallel  
+command and communication; in using the [system] we break  
+
+
+DocID: CACM-2947
+
+crts[time] [sharing] bibliographic search and  
+and text analysis [system] for nontechnical users,  
+sitar: an interactive text processing [system] for small computers  
+
+
+DocID: CACM-2984
+
+computer [system] performance evaluation, cost/utilization, [system] balance  
+cost/utilization: a measure of [system] performance  
+system performance in terms of a cost/utilization  
+
+
+DocID: CACM-0202
+
+diagnostic monitor [system] which facilitates  
+features which can be included in the [system]  
+to a computer program makes the [system] convenient  
+
+
+DocID: CACM-1712
+
+recovery of disk contents after [system] failure  
+a method is discussed by which, after a system  
+be restored to their status at the [time] of the failure.  
+
+
+DocID: CACM-2390
+
+interactive [system] organization of scientific community,  
+terminology be maintained in a multiterminal computer [system]  
+users of the [system] can store in the computer  
+
+
+DocID: CACM-1753
+
+data [sharing] dynamic linking, segmentation,  
+virtual memory, information [sharing] shared procedures,  
+virtual memory, processes, and [sharing] in multics  
+
+
+DocID: CACM-2357
+
+user reactions, remote terminals, operating system  
+on-line computing, remote file manager, real [time]  
+the [system] which required one man-year for initial  
+
+
+DocID: CACM-2535
+
+time division multiplexing changes the stochastic  
+no change in the computer-communications system  
+of a [time]shared computer-communications [system]  it is  
+
+
+DocID: CACM-2541
+
+design of the language, operating [system]  
+endangering the [system] integration  correctly  
+an overview of the ispl computer [system] design  
+
+
+DocID: CACM-2955
+
+buddy [system] and the weighted buddy [system] are given.  
+system  
+fibonacci buddy [system] weighted buddy  
+
+
+DocID: CACM-3082
+
+time, clocks, and the ordering of events in a distributed system  
+another in a distributed [system] is examined, and  
+a [system] of logical clocks which can be used to totally  
+
+
+DocID: CACM-1657
+
+system  
+operating [system] memory protection, [time]sharing,  
+implementation of the sharer2 [time[sharing] system  
+
+
+DocID: CACM-2747
+
+fibonacci buddy [system] dynamic storage allocation, buddy system  
+buddy [system] which requires neither tables  
+a simplified recombination scheme for the fibonacci buddy system  
+
+
+DocID: CACM-2169
+
+run [time] data structures, and implementation  
+altran is a complete [system] for symbolic computation  
+the altran [system] for rational function manipulation-a survey  
+
+
+DocID: CACM-0972
+
+system components. the major emphasis of the  
+an executive [system] implemented as a finite-state automaton  
+the 473l command and control [system] used by  
+
+
+DocID: CACM-1464
+
+time, the total [time] is satisfactory and the  
+into the ibsys operating [system]  assembly  
+although assembly plus loading [time] exceeds compilation  
+
+
+DocID: CACM-2519
+
+interactive [system] controlled by computer.  
+mathematics, proof, interactive [system] language  
+using a computer based information retrieval system  
+
+
+DocID: CACM-3087
+
+of [system] components and examples of overall system  
+an english language question answering system  
+system uses a number of augmented transition networks,  
+
+
+DocID: CACM-1391
+
+a medium-scale programming [system] is written  
+in a [time[sharing] environment, the [system] can  
+in mad and fap on the [ibm] 7094 to manipulate some  
+
+
+DocID: CACM-1034
+
+to control data [system] changes throughout  
+data workloads, long span of [time] between  
+of explicit directions for conducting data system  
+
+
+DocID: CACM-2153
+
+the [system] independent of instructor intervention.  
+a computer [system] was developed at purdue  
+the [system] is designed as a classroom-independent course  
+
+
+DocID: CACM-2201
+
+animator: an on-line two-dimensional film animation system  
+animator is a computer animation [system] which  
+mode.  during all stages on the [system] input elements  
+
+
+DocID: CACM-1571
+
+a user-oriented [time]shared online system  
+an existing [system] and planned additions within  
+will be possible in the [system] design through  
+
+
+DocID: CACM-1844
+
+computing [system] is presented.  the [system] organization described  
+a modular computer [sharing] system  
+real[time] response [system] modular constructed  
+
+
+DocID: CACM-3112
+
+requires [time] proportional to the heap size  
+a real[time] list processing [system] is one  
+in which the [time] required by the elementary list  
+
+
+DocID: CACM-2841
+
+an experimental [system] for computer-aided  
+of a practical 3-d [system] for designing space-forms.  
+is described. the surfaces are represented in the system  
+
+
+DocID: CACM-2740
+
+multiprogramming [system]  
+operating [system] structure, asynchronous  
+cooperating processes, operating [system] semaphores,  
+
+
+DocID: CACM-2370
+
+the [system] includes two flying-spot scanners and  
+other experimental equipment.  the [system] design  
+ibm thomas j. watson research center for three years.  
+
+
+DocID: CACM-2344
+
+effect on [system] performance.  [system] performance  
+affect [system] performance in a predictable  
+a simulation model of a [time[sharing] system  
+
+
+DocID: CACM-2288
+
+retrieval [system] with a minimal search time  
+retrieval [system] based on the consecutive  
+tapes, storage space, minimum access time  
+
+
+DocID: CACM-0271
+
+a semi-automatic storage allocation [system] at loading time  
+
+
+DocID: CACM-2319
+
+computer [system] operating [system] performance  
+operating [system] performance  
+with respect to operating [system] performance  
+
+
+DocID: CACM-3153
+
+approach and treating the closed [system] as a single server,  
+considered.  initially, a closed [system] consisting of a process  
+the response times in an open [system] with external arrivals are  
+
+
+DocID: CACM-2624
+
+operating [system] third generation architecture,  
+model of a third-generation-like computer [system] is  
+support a virtual machine [system]  in this paper,  
+
+
+DocID: CACM-0699
+
+the [ibm] 7090 [system] and an x, y-plotter to produce  
+
+
+DocID: CACM-1937
+
+codas: a data display system  
+a user-oriented data retrieval and display [system]  
+and the general [system] design are described.  
+
+
+DocID: CACM-1482
+
+system that depends upon a pictorial input to  
+bugsys: a programming [system] for picture processing-not for debugging  
+have used the [system] for the analysis of linear graphs.  
+
+
+DocID: CACM-2681
+
+resource utilization, [system] throughput  
+fragmentation, multiprogramming [system] model,  
+a probabilistic model of a multiprogramming system  
+
+
+DocID: CACM-2878
+
+consider a multipriority batch computer system  
+system is formulated here as a semi-markov decision  
+priority queues, semi-markov process, price scheduling, operating system  
+
+
+DocID: CACM-1774
+
+in detail, with special reference to real time  
+of machine hardware and other [system] features.  the  
+in a multiprogrammed [system] on the cdc 6600 is described  
+
+
+DocID: CACM-2989
+
+be sufficient all of the [time] most of the [time] what  
+lives, instruction tracing, execution time  
+programs running on the dec [system] 10 isp.  
+
+
+DocID: CACM-1238
+
+in [system] design, particularly the handling of  
+solution was developed by expanding the basic system  
+system for the san francisco overseas supply agency  
+
+
+DocID: CACM-1829
+
+of graphical system  
+system with remote entry.  the existing  
+and computer [system] are discussed.  the structure  
+
+
+DocID: CACM-1719
+
+real[time] [system] analysis, real[time] [system] design,  
+message switching [system]  
+system cost performance ratio  
+
+
+DocID: CACM-1526
+
+from an interactive [time] [sharing] environment.  
+computer [system] using a page on demand strategy  
+
+
+DocID: CACM-1805
+
+performance, [time] [sharing] [time] slicing  
+monitor, operating [system] [system] software, supervisors,  
+
+
+DocID: CACM-2811
+
+a general waveform parsing [system] with application  
+waves using a general waveform parsing system  
+system and allows the user to enter application  
+
+
+DocID: CACM-2247
+
+system into modules.  a [system] design problem is  
+time.  the effectiveness of a "modularization"  
+of a [system] while allowing the shortening of its development  
+

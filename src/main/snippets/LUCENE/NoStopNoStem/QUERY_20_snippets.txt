@@ -1,0 +1,407 @@
+LUCENE_NoStopNoStem
+
+Query
+Graph theoretic algorithms applicable to sparse matrices
+
+Top 100 Results (31 millisecs)
+
+
+DocID: CACM-2695
+
+
+
+DocID: CACM-2986
+
+
+
+DocID: CACM-2769
+
+
+
+DocID: CACM-1563
+
+
+
+DocID: CACM-2524
+
+
+
+DocID: CACM-2490
+
+
+
+DocID: CACM-2368
+
+
+
+DocID: CACM-1457
+
+
+
+DocID: CACM-2289
+
+
+
+DocID: CACM-2232
+
+
+
+DocID: CACM-2780
+
+
+
+DocID: CACM-2081
+
+
+
+DocID: CACM-2630
+
+
+
+DocID: CACM-2905
+
+
+
+DocID: CACM-2273
+
+
+
+DocID: CACM-2167
+
+
+
+DocID: CACM-3152
+
+
+
+DocID: CACM-2484
+
+
+
+DocID: CACM-1924
+
+
+
+DocID: CACM-3156
+
+
+
+DocID: CACM-3040
+
+
+
+DocID: CACM-1047
+
+
+
+DocID: CACM-2766
+
+
+
+DocID: CACM-1504
+
+
+
+DocID: CACM-3124
+
+
+
+DocID: CACM-3176
+
+
+
+DocID: CACM-2557
+
+
+
+DocID: CACM-2453
+
+
+
+DocID: CACM-3018
+
+
+
+DocID: CACM-2883
+
+
+
+DocID: CACM-2506
+
+
+
+DocID: CACM-2199
+
+
+
+DocID: CACM-3094
+
+
+
+DocID: CACM-2189
+
+
+
+DocID: CACM-1707
+
+
+
+DocID: CACM-1886
+
+
+
+DocID: CACM-1630
+
+
+
+DocID: CACM-0955
+
+
+
+DocID: CACM-2216
+
+
+
+DocID: CACM-2142
+
+
+
+DocID: CACM-1423
+
+
+
+DocID: CACM-2805
+
+
+
+DocID: CACM-3139
+
+
+
+DocID: CACM-0828
+
+
+
+DocID: CACM-2134
+
+
+
+DocID: CACM-2177
+
+
+
+DocID: CACM-2442
+
+
+
+DocID: CACM-2314
+
+
+
+DocID: CACM-2877
+
+
+
+DocID: CACM-1727
+
+
+
+DocID: CACM-2052
+
+
+
+DocID: CACM-1961
+
+
+
+DocID: CACM-1787
+
+
+
+DocID: CACM-1847
+
+
+
+DocID: CACM-1660
+
+
+
+DocID: CACM-1952
+
+
+
+DocID: CACM-1145
+
+
+
+DocID: CACM-2806
+
+
+
+DocID: CACM-2824
+
+
+
+DocID: CACM-2888
+
+
+
+DocID: CACM-2699
+
+
+
+DocID: CACM-3115
+
+
+
+DocID: CACM-2768
+
+
+
+DocID: CACM-1501
+
+
+
+DocID: CACM-1796
+
+
+
+DocID: CACM-2619
+
+
+
+DocID: CACM-1153
+
+
+
+DocID: CACM-2192
+
+
+
+DocID: CACM-1963
+
+
+
+DocID: CACM-1116
+
+
+
+DocID: CACM-2980
+
+
+
+DocID: CACM-2015
+
+
+
+DocID: CACM-2059
+
+
+
+DocID: CACM-2226
+
+
+
+DocID: CACM-1347
+
+
+
+DocID: CACM-1417
+
+
+
+DocID: CACM-0799
+
+
+
+DocID: CACM-3085
+
+
+
+DocID: CACM-1683
+
+
+
+DocID: CACM-2554
+
+
+
+DocID: CACM-0096
+
+
+
+DocID: CACM-2488
+
+
+
+DocID: CACM-2803
+
+
+
+DocID: CACM-0661
+
+
+
+DocID: CACM-2405
+
+
+
+DocID: CACM-2178
+
+
+
+DocID: CACM-2631
+
+
+
+DocID: CACM-2172
+
+
+
+DocID: CACM-2830
+
+
+
+DocID: CACM-2863
+
+
+
+DocID: CACM-2884
+
+
+
+DocID: CACM-2787
+
+
+
+DocID: CACM-0856
+
+
+
+DocID: CACM-2894
+
+
+
+DocID: CACM-0962
+
+
+
+DocID: CACM-0891
+
+
+
+DocID: CACM-2141
+
+
+
+DocID: CACM-1935
+
+
+
+DocID: CACM-2902
+
+
+
+DocID: CACM-2950
+
+

@@ -1,0 +1,585 @@
+BM25_NoStopNoStem
+
+Query
+the use of operators research miles to optimize information sys
+toepefrmrmance.  this includes fine tuning dimensions such as secondary ietx
+nselecdion, file riragznaioteon, and digitized daasabtes.
+
+Top 100 Results (469 millisecs)
+
+
+DocID: CACM-1976
+
+file organization, [secondary] index files, inverted files, information  
+retrieval, data management, access method, secondary  
+degenerate case, becomes the conventional [secondary] index filing  
+
+
+DocID: CACM-1412
+
+the banking [information] system concept  
+facilitate cross referencing of account information  
+more complex combinations of [information] for  
+
+
+DocID: CACM-2452
+
+model, file structure design, [secondary] index organization,  
+
+
+DocID: CACM-2631
+
+direct access, [information] retrieval, character  
+text searching, [information] theory, file organization,  
+information, an attempt is made to overcome  
+
+
+DocID: CACM-1861
+
+mad, definitions, [operators] macros, higher level language  
+language can define new [operators] and/or data types  
+as if they were predefined.  [information] is given on  
+
+
+DocID: CACM-1649
+
+methods of using this [information] are illustrated  
+location, the mode and the [dimensions] of a variable  
+
+
+DocID: CACM-2991
+
+clustering, [information] retrieval, open addressing, open  
+lead to improved file performance for secondary  
+
+
+DocID: CACM-2116
+
+interchange, rolls, perforated tape, tape, information  
+trailers, roll-up tape, 9-track paper tape, dimensions  
+interchange rolls of perforated tape for information  
+
+
+DocID: CACM-3134
+
+for [information] storage and retrieval  
+information retrieval, inverted files, multiattribute retrieval,  
+suitable for queries requesting a group of [information] items,  
+
+
+DocID: CACM-2114
+
+a formal system for [information] retrieval from files  
+
+
+DocID: CACM-2896
+
+method developed by owicki.  the [fine] degree of in terleaving  
+
+
+DocID: CACM-1765
+
+computing centers, [research] instruction, utilization,  
+of digital computers for [research] and instruction  
+higher education, post [secondary] education, colleges, universities  
+
+
+DocID: CACM-2125
+
+digitized image, connection tree, minimal polygon,  
+contour from a [digitized] image is illustrated.  
+a note on minimal length polygonal approximation to a [digitized] contour  
+
+
+DocID: CACM-1957
+
+results from any expression involving sets and set [operators]  the  
+
+
+DocID: CACM-2484
+
+information structure, file organization,  
+information structures, as list, tree, ring,  
+data base, data-base management, [information] retrieval,  
+
+
+DocID: CACM-0397
+
+a variety of reference files in information  
+the identification [includes] basically codes for a  
+material [includes] basically an index, title, source,  
+
+
+DocID: CACM-2716
+
+algorithms for implementing the operators  
+a methodology for composing them to [optimize] the  
+
+
+DocID: CACM-1456
+
+examples of methods of inputting information  
+associates with each english word the syntactic [information]  
+powerful vehicle for [research] on the logic of question answering.  
+
+
+DocID: CACM-2765
+
+data base performance and measurement, secondary  
+index organization, [information] storage and retrieval, query answering  
+
+
+DocID: CACM-1519
+
+a common command language.  the system includes  
+
+
+DocID: CACM-2593
+
+data base management, [information] retrieval, computer  
+data base on [secondary] storage, and returns results.  
+
+
+DocID: CACM-3012
+
+and retrieval system in medical research  
+the use of an interactive [information] storage  
+implementation, system use, [information] storage and retrieval system  
+
+
+DocID: CACM-2359
+
+
+
+DocID: CACM-1267
+
+includes the pertinent aspects of [information] transfer,  
+information thruput as a characteristic of  
+that affect [information] thruput, and some examples  
+
+
+DocID: CACM-2032
+
+tables, hashing functions, [information] retrieval  
+
+
+DocID: CACM-3002
+
+request requires [information] from one or more variable  
+only if the pertinent [information] is not stored in the  
+
+
+DocID: CACM-3179
+
+eft's, [research] agenda, conference results, public policy  
+and what [research] is needed in the future.  
+
+
+DocID: CACM-0972
+
+to the computer.  the [information] received  
+consoles from which [operators] may enter queries and  
+the air force permits many [operators] to access  
+
+
+DocID: CACM-2358
+
+of [information] stored in files kept in [secondary] storage.  
+information sharing, paging, memory management,  
+system programs of all [information] independent  
+
+
+DocID: CACM-1515
+
+
+
+DocID: CACM-0409
+
+facilitate the solution of [information] processing  
+
+
+DocID: CACM-2680
+
+operators.  this is often a bottleneck in a computing  
+
+
+DocID: CACM-2451
+
+a standard [information] retrieval operation is  
+tree file, [information] storage and retrieval, clustering,  
+
+
+DocID: CACM-0696
+
+information in response to inquiries received from  
+to store [information] required to provide up-to-date  
+california.  the system [includes] over 200 remote input  
+
+
+DocID: CACM-2065
+
+semiautomatic image processing, data structure, structure [operators]  
+structure [operators] are defined which manipulate picture-forms to produce  
+
+
+DocID: CACM-2888
+
+information reference coding  
+analysis, [information] modeling, database  
+through a set-theoretic [information] model.  
+
+
+DocID: CACM-1194
+
+paramount in the provision of [information] services:  
+the main features of the [information] system are direct  
+relating primarily to early [research] on compilers.  these  
+
+
+DocID: CACM-2059
+
+operation [research] network, traffic  
+operation [research] network problems, control theory, traffic problems, etc.  
+
+
+DocID: CACM-2298
+
+early results achieved in this [research]  
+the development of the [research] project in  
+an environment for [research] in microprogramming and emulation  
+
+
+DocID: CACM-1135
+
+express only [information] characteristic of the particular  
+
+
+DocID: CACM-2754
+
+peak detection, [digitized] waveform, piecewise linear  
+peaks in a [digitized] waveform are detected by an  
+
+
+DocID: CACM-2107
+
+code eliminating [secondary] clustering  
+secondary clustering as a cause of hash code inefficiency is discussed, and a  
+
+
+DocID: CACM-1233
+
+of flowcharts for [information] processing  
+for the use of flowcharts for [information] processing  
+
+
+DocID: CACM-2140
+
+files, [information] retrieval, query, multi-attribute  
+
+
+DocID: CACM-1699
+
+information retrieval testing,  [information] system  
+of the [research] is that an [information] retrieval system  
+experimental evaluation of information  
+
+
+DocID: CACM-1614
+
+new data types and [operators] to the language.  
+the behavior of existing [operators] may be redefined.  
+
+
+DocID: CACM-1475
+
+
+
+DocID: CACM-1334
+
+newcomb [operators] of planetary theory  
+tables of formulas for the newcomb operators  
+100 newcomb [operators] have been produced by the  
+
+
+DocID: CACM-2081
+
+ended to sequence [operators] and cumulative [operators]  algorithms  
+of matrices  are considered, and matrix [operators] areext  
+
+
+DocID: CACM-0858
+
+
+
+DocID: CACM-2986
+
+whose [operators] are composition, transitive closure,  
+
+
+DocID: CACM-1831
+
+information retrieval, file searching, tree structures, double chaining  
+
+
+DocID: CACM-1651
+
+the article [includes] examples of input, output from a  
+
+
+DocID: CACM-2708
+
+high quality recovery with good diagnostic information  
+for further [research] on this topic conclude  
+
+
+DocID: CACM-2997
+
+and three [dimensions] can be determined with o n  
+convex hulls of finite sets of poin ts in two and three dimensions  
+
+
+DocID: CACM-2976
+
+and measurement, [information] retrieval,  
+
+
+DocID: CACM-1830
+
+information retrieval, direct access memory, data base, inverted list  
+
+
+DocID: CACM-2356
+
+additional [information]  the [secondary] goal  
+is to include in the specification no more information  
+
+
+DocID: CACM-1032
+
+theoretical considerations in [information] retrieval systems  
+information storage and retrieval systems are composed  
+efficient.  for identification of [information] the paper  
+
+
+DocID: CACM-2969
+
+
+
+DocID: CACM-3124
+
+includes new primitive functions to manipulate the nesting  
+level of arrays and new [operators] to assist in the  
+
+
+DocID: CACM-2526
+
+backing or [secondary] store has a very small read time,  
+
+
+DocID: CACM-0849
+
+
+
+DocID: CACM-2258
+
+file search, scatter storage, [information] retrieval  
+
+
+DocID: CACM-2288
+
+retrieval, [information] retrieval, record organization,  
+been established.  an outline for designing an information  
+set.  its existence enables the design of an information  
+
+
+DocID: CACM-2109
+
+the use of quadratic residue research  
+
+
+DocID: CACM-1711
+
+information is given on patents, copyrights and  
+of using copyrighted material in [information] storage  
+explained, so that users, [operators] owners, and leasors  
+
+
+DocID: CACM-1271
+
+the [secondary] key retrieval method involves  
+the preparation of [secondary] storage lists from  
+secondary key retrieval using an ibm 7090-1301 system  
+
+
+DocID: CACM-2951
+
+node.  the [research] clearly reveals that sufficient  
+time [information] for users wishing to process various  
+research is a first step toward assisting the user in participating  
+
+
+DocID: CACM-2019
+
+digitized hand printed numerals obtained from sales clerks. the  
+
+
+DocID: CACM-3181
+
+research has revealed the existence of widespread  
+effort of considerable scale.  in addition, [research] has revealed  
+ongoing [research] is also needed to assure that actions taken will  
+
+
+DocID: CACM-2688
+
+
+
+DocID: CACM-2813
+
+research, national [research] study  
+computer science [research] computer engineering  
+the computer science and engineering research  
+
+
+DocID: CACM-1652
+
+the internal [information] processing operations  
+a code for non-numeric [information] processing  
+to problems in area such as [information] retrieval, document  
+
+
+DocID: CACM-0944
+
+word length and distribution of stored information  
+trees.  such trees have [information] storage and retrieval  
+
+
+DocID: CACM-2692
+
+dimensions, removing the parts of the polygon which  
+lie outside the volume.  in two [dimensions] the algorithms  
+
+
+DocID: CACM-0243
+
+dimensions of the array.  effectiveness of the codes  
+the family of codes is not restricted to three [dimensions]  
+
+
+DocID: CACM-0857
+
+
+
+DocID: CACM-2160
+
+file organization, [information] retrieval, inverted  
+
+
+DocID: CACM-0678
+
+compiler so as to [optimize] bit-time computer  
+
+
+DocID: CACM-2988
+
+
+
+DocID: CACM-1362
+
+7-bit code for [information] interchange.  
+the american standard code for information  
+that is, with the representation of information  
+
+
+DocID: CACM-1409
+
+unusual arrangement of [information] within the 22 mc  
+basic [research] in computer systems design.  an  
+in a special seminar were:  1  to be a [research] project  
+
+
+DocID: CACM-1416
+
+tape file; the extraction of nonstandard sets of [information]  
+forms design.  a method of [information] extraction involving  
+
+
+DocID: CACM-2092
+
+relational properties and complex-relation-forming [operators] and  
+use of semantic [information] in deductive question answering greatly  
+information.  it is concluded that the development of protosynthex  
+
+
+DocID: CACM-2735
+
+machine operators  
+programmers, systems analysis, keypunch [operators]  
+
+
+DocID: CACM-2339
+
+
+
+DocID: CACM-2965
+
+query, boolean expression, [information] retrieval, file organization  
+
+
+DocID: CACM-1272
+
+
+
+DocID: CACM-1226
+
+this paper provides the systems designer with an information  
+
+
+DocID: CACM-1051
+
+
+
+DocID: CACM-3168
+
+query, boolean expression, [information] retrieval, file organization  
+
+
+DocID: CACM-1708
+
+lisp, paging, [secondary] storage utilization,  
+
+
+DocID: CACM-1453
+
+description, it is suggested.  the paper also includes  
+
+
+DocID: CACM-1824
+
+information concerning which of the various alternatives  
+
+
+DocID: CACM-2435
+
+which [includes] both of these systems as special cases.  
+
+
+DocID: CACM-1978
+
+
+
+DocID: CACM-0236
+
+research and technology in cybernetics and computer  
+
+
+DocID: CACM-1402
+
+of additional [information] as in interpolation methods.  
+
+
+DocID: CACM-2370
+
+the system [includes] two flying-spot scanners and  
+ibm thomas j. watson [research] center for three years.  
+

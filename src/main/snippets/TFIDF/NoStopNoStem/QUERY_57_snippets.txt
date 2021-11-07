@@ -1,0 +1,523 @@
+TFIDF_NoStopNoStem
+
+Query
+abstracts of articles:
+    j. buakcs, "can performing be liberated from the von neumann style?
+               a fenichel style and its alberga of poamrgrs", cacm 21
+    role mllio, r. loiptn, a. pilers, loeser to acm fuorm, cacm 22
+	       (1979), 629-630
+
+buakcs, joyce mllio, r.
+loiptn, r.
+pilers, a.
+
+Top 100 Results (1078 millisecs)
+
+
+DocID: CACM-0997
+
+cacm october, 1964  
+
+
+DocID: CACM-0998
+
+cacm october, 1964  
+
+
+DocID: CACM-0999
+
+cacm october, 1964  
+
+
+DocID: CACM-0993
+
+cacm october, 1964  
+
+
+DocID: CACM-0994
+
+cacm october, 1964  
+
+
+DocID: CACM-0995
+
+cacm october, 1964  
+
+
+DocID: CACM-0996
+
+cacm october, 1964  
+
+
+DocID: CACM-0990
+
+cacm october, 1964  
+
+
+DocID: CACM-0991
+
+cacm october, 1964  
+
+
+DocID: CACM-0992
+
+cacm october, 1964  
+
+
+DocID: CACM-2703
+
+cacm december, 1975  
+
+
+DocID: CACM-2702
+
+cacm december, 1975  
+
+
+DocID: CACM-2705
+
+cacm december, 1975  
+related to program [style]  
+artificial auxiliary languages, literature, [style]  
+
+
+DocID: CACM-2704
+
+cacm december, 1975  
+
+
+DocID: CACM-2701
+
+cacm december, 1975  
+
+
+DocID: CACM-2700
+
+cacm december, 1975  
+
+
+DocID: CACM-2707
+
+cacm november, 1975  
+
+
+DocID: CACM-2706
+
+cacm november, 1975  
+
+
+DocID: CACM-2709
+
+cacm november, 1975  
+
+
+DocID: CACM-2708
+
+cacm november, 1975  
+
+
+DocID: CACM-0975
+
+cacm november, 1964  
+
+
+DocID: CACM-0976
+
+cacm november, 1964  
+
+
+DocID: CACM-0977
+
+cacm november, 1964  
+
+
+DocID: CACM-0978
+
+cacm november, 1964  
+
+
+DocID: CACM-0971
+
+cacm november, 1964  
+
+
+DocID: CACM-0972
+
+cacm november, 1964  
+
+
+DocID: CACM-0973
+
+cacm november, 1964  
+
+
+DocID: CACM-0974
+
+cacm november, 1964  
+
+
+DocID: CACM-0970
+
+cacm december, 1964  
+
+
+DocID: CACM-0979
+
+cacm november, 1964  
+
+
+DocID: CACM-0986
+
+cacm october, 1964  
+
+
+DocID: CACM-0987
+
+cacm october, 1964  
+
+
+DocID: CACM-0988
+
+cacm october, 1964  
+
+
+DocID: CACM-0989
+
+cacm october, 1964  
+
+
+DocID: CACM-0982
+
+cacm november, 1964  
+role in the proposed type of translator.  experimental  
+
+
+DocID: CACM-0983
+
+cacm october, 1964  
+
+
+DocID: CACM-0984
+
+cacm october, 1964  
+
+
+DocID: CACM-0985
+
+cacm october, 1964  
+
+
+DocID: CACM-0980
+
+cacm november, 1964  
+
+
+DocID: CACM-0981
+
+cacm november, 1964  
+
+
+DocID: CACM-1405
+
+cacm july, 1966  
+
+
+DocID: CACM-2736
+
+cacm july, 1975  
+
+
+DocID: CACM-1404
+
+cacm july, 1966  
+
+
+DocID: CACM-2735
+
+cacm july, 1975  
+
+
+DocID: CACM-1407
+
+cacm july, 1966  
+
+
+DocID: CACM-2738
+
+cacm july, 1975  
+
+
+DocID: CACM-1406
+
+cacm july, 1966  
+
+
+DocID: CACM-2737
+
+cacm july, 1975  
+
+
+DocID: CACM-1401
+
+cacm july, 1966  
+
+
+DocID: CACM-2732
+
+cacm august, 1975  
+
+
+DocID: CACM-1400
+
+cacm july, 1966  
+
+
+DocID: CACM-2731
+
+cacm august, 1975  
+
+
+DocID: CACM-1403
+
+cacm july, 1966  
+
+
+DocID: CACM-2734
+
+cacm august, 1975  
+
+
+DocID: CACM-1402
+
+cacm july, 1966  
+
+
+DocID: CACM-2733
+
+cacm august, 1975  
+
+
+DocID: CACM-2730
+
+cacm august, 1975  
+
+
+DocID: CACM-1409
+
+cacm july, 1966  
+unusual arrangement of information within the [22] mc  
+using glass delay lines circulating at [22] mc as memory.  
+
+
+DocID: CACM-1408
+
+cacm july, 1966  
+
+
+DocID: CACM-2739
+
+cacm july 1975  
+
+
+DocID: CACM-1416
+
+cacm june, 1966  
+
+
+DocID: CACM-2747
+
+cacm june, 1975  
+
+
+DocID: CACM-1415
+
+cacm june, 1966  
+
+
+DocID: CACM-2746
+
+cacm june, 1975  
+
+
+DocID: CACM-1418
+
+cacm june, 1966  
+
+
+DocID: CACM-2749
+
+cacm june, 1975  
+
+
+DocID: CACM-1417
+
+cacm june, 1966  
+
+
+DocID: CACM-2748
+
+cacm june, 1975  
+
+
+DocID: CACM-1412
+
+cacm july, 1966  
+
+
+DocID: CACM-2743
+
+cacm june, 1975  
+
+
+DocID: CACM-1411
+
+cacm july, 1966  
+
+
+DocID: CACM-2742
+
+cacm june, 1975  
+
+
+DocID: CACM-1414
+
+cacm june, 1966  
+
+
+DocID: CACM-2745
+
+cacm june, 1975  
+
+
+DocID: CACM-1413
+
+cacm july, 1966  
+
+
+DocID: CACM-2744
+
+cacm june, 1975  
+
+
+DocID: CACM-1410
+
+cacm july, 1966  
+
+
+DocID: CACM-2741
+
+cacm july, 1975  
+
+
+DocID: CACM-2740
+
+cacm july, 1975  
+
+
+DocID: CACM-1419
+
+cacm june, 1966  
+
+
+DocID: CACM-2714
+
+cacm october, 1975  
+
+
+DocID: CACM-2713
+
+cacm october, 1975  
+
+
+DocID: CACM-2716
+
+cacm october, 1975  
+response time and space utilization by:  1  performing  
+
+
+DocID: CACM-2715
+
+cacm october, 1975  
+
+
+DocID: CACM-2710
+
+cacm november, 1975  
+
+
+DocID: CACM-2712
+
+cacm october, 1975  
+
+
+DocID: CACM-2711
+
+cacm november, 1975  
+
+
+DocID: CACM-2718
+
+cacm october, 1975  
+
+
+DocID: CACM-2717
+
+cacm october, 1975  
+
+
+DocID: CACM-2719
+
+cacm september, 1975  
+
+
+DocID: CACM-2725
+
+cacm august, 1975  
+
+
+DocID: CACM-2724
+
+cacm august, 1975  
+
+
+DocID: CACM-2727
+
+cacm august, 1975  
+
+
+DocID: CACM-2726
+
+cacm august, 1975  
+
+
+DocID: CACM-2721
+
+cacm september, 1975  
+
+
+DocID: CACM-2720
+
+cacm september, 1975  
+
+
+DocID: CACM-2723
+
+cacm september, 1975  
+list operations and the other performing  
+the simple case of two processors, one [performing] lisp-like  
+
+
+DocID: CACM-2722
+
+cacm september, 1975  
+
+
+DocID: CACM-2729
+
+cacm august, 1975  
+
+
+DocID: CACM-2728
+
+cacm august, 1975  
+
